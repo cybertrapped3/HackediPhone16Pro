@@ -1,0 +1,17 @@
+The “Find My” Interface.
+
+The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
+•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+o	Time & Telemetry: Displays the local time as 21:39.
+o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
+•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Apple Account" accompanied by a directional chevron.
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Find My".
+•	Interface Body (Lower Tier):
+o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content presents the following visible controls and status indicators:
+	Find My iPhone: Displays the status "On".
+•	Text under this setting: Enables your iPhone and other supported accessories to be shown on the map.
+	My Location: Displays the status "This Device".
+	Share My Location: toggled On (green)
+•	Text under these settings: Share your location with family and friends in Messages and Find My, make personal requests using Siri on HomePod, and use automations in the Home app.
