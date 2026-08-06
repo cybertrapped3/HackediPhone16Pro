@@ -10,20 +10,20 @@ o	Connectivity & Power: The Airplane Mode icon denotes that wireless network tra
 o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Settings".
 •	Interface Body (Lower Tier):
 o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
-	Search: Displayed as an active menu item.
-	StandBy: Displayed as an active menu item.
-	Wallpaper: Displayed as an active menu item.
-	Notifications: Displayed as an active menu item.
-	Sounds & Haptics: Displayed as an active menu item.
-	Focus: Displayed as an active menu item.
-	Screen Time: Displayed as an active menu item.
-	Face ID & Passcode: Displayed as an active menu item.
-	Emergency SOS: Displayed as an active menu item.
-	Privacy & Security: Displayed as an active menu item.
-	Game Center: Displayed as an active menu item.
-	iCloud: Displayed as an active interactive menu item.
-	Wallet & Apple Pay: Displayed as an active menu item.
-	Apps: Displayed as an active menu item.
+	Search: Displayed as an interactive menu item.
+	StandBy: Displayed as an interactive menu item.
+	Wallpaper: Displayed as an interactive menu item.
+	Notifications: Displayed as an interactive menu item.
+	Sounds & Haptics: Displayed as an interactive menu item.
+	Focus: Displayed as an interactive menu item.
+	Screen Time: Displayed as an interactive menu item.
+	Face ID & Passcode: Displayed as an interactive menu item.
+	Emergency SOS: Displayed as an interactive menu item.
+	Privacy & Security: Displayed as an interactive menu item.
+	Game Center: Displayed as an interactive menu item.
+	iCloud: Displayed as an interactive menu item.
+	Wallet & Apple Pay: Displayed as an interactive menu item.
+	Apps: Displayed as an interactive menu item.
 [00:00:02.783] I tapped "Privacy & Security"
 [00:00:03.509] The "Privacy & Security" Interface
 
@@ -42,34 +42,33 @@ o	Introductory Module: Positioned at the upper portion of the viewport immediate
 o	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
 	Location Services: Displays the status "Off".
 	Tracking: Displays the status "0".
-	Calendar: Displayed as an active interactive menu item.
+	Calendar: Displayed as an interactive menu item.
 •	Status under this setting: Displays the status "None".
-	Contacts: Displayed as an active interactive menu item.
+	Contacts: Displayed as an interactive menu item.
 •	Status under this setting: Displays the status "None".
-	Files & Folders: Displayed as an active interactive menu item.
+	Files & Folders: Displayed as an interactive menu item.
 •	Status under this setting: Displays the status "None".
-	Focus: Displayed as an active interactive menu item.
+	Focus: Displayed as an interactive menu item.
 •	Status under this setting: Displays the status "None".
-	Health: Displayed as an active interactive menu item.
+	Health: Displayed as an interactive menu item.
 •	Status under this setting: Displays the status "None".
-	HomeKit: Displayed as an active interactive menu item.
+	HomeKit: Displayed as an interactive menu item.
 •	Status under this setting: Displays the status "None".
 [00:00:06.658] I scrolled all the way to the bottom of the interface, and these other controls and categories were brought into view:
 
-	Journaling Suggestions: Displayed as an active interactive menu item.
-	Safety Check: Displayed as an active interactive menu item.
+	Journaling Suggestions: Displayed as an interactive menu item.
+	Safety Check: Displayed as an interactive menu item.
 •	Text under this setting: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
 	Sensitive Content Warning: Displays the status "Off".
 •	Text under this setting: Detect nude photos and video before they are viewed on your iPhone, and receive guidance to help make a safe choice. Apple does not have access to the photos or videos. Learn more...
-	Analytics & Improvements: Displayed as an active interactive menu item.
-	Apple Advertising: Displayed as an active interactive menu item.
+	Analytics & Improvements: Displayed as an interactive menu item.
+	Apple Advertising: Displayed as an interactive menu item.
 	"TRANSPARENCY LOGS" Module: Containing the following controls and status indicators:
 •	App Privacy Report: Displays the status "On".
 •	Apple Intelligence Report: Displays the status "On".
 	"SECURITY" Module: Containing the following controls and status indicators:
 •	Stolen Device Protection: Displays the status "Off".
 •	Lockdown Mode: Displays the status "On".
-
 [00:00:08.141] I tapped "Lockdown Mode"
 [00:00:08.735] The "Lockdown Mode" Interface.
 
@@ -98,10 +97,44 @@ o	Protection Explanations Module: A listing detailing the functional changes tha
 	Apple Services: Incoming invitations for Apple Services from people you have not previously invited are blocked.  
 	Profiles: Configuration profiles, such as profiles for school or work, cannot be installed.  
 o	Additional Controls:
-	Configured Web Browsing: Displayed as an active menu item.
+	Configured Web Browsing: Displayed as an interactive menu item.
 	2G Cellular Connectivity: Toggled Off (gray).
 •	Text under this setting: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
 [00:00:17.449] I tapped Back
+[00:00:18.241] I navigated back to the "Privacy & Security" interface
+[00:00:25.519] I tapped Settings
+[00:00:26.377] I navigated back to the Settings app's main interface
+[00:00:28.365] I scrolled all the way to the top of the interface
+[00:00:28.530] The Settings App interface. 
+
+The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry and the active content viewport:
+•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+o	Time & Telemetry: Displays the local time as 21:40.
+o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
+•	Interface Body (Lower Tier):
+o	Primary Title Header: In black, bold, and oversized letters the heading "Settings" on the left side.
+o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+
+Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+
+Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
+
+The subsequent controls and settings appeared as follows:
+
+Airplane Mode: Toggled On (green).
+Wi-Fi: Displays the status "Off".
+Bluetooth: Displays the status "Off".
+Cellular: : Displays the status "Airplane Mode".
+Personal Hotspot: Displays the status "Off", and appears grayed out, which is indicates it is disabled, meaning, it can not be controlled by the user.
+Battery: Displayed as an interactive menu item.
+
+General: Displayed as an interactive menu item.
+Accessibility: Displayed as an interactive menu item.
+Action Button: Displayed as an interactive menu item.
+[00:00:29.093] I tapped the Apple ID / iCloud Profile Node
 [00:00:29.882] The Apple Account Interface.
 
 The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
@@ -115,18 +148,17 @@ o	Primary Heading: Centrally aligned with the menu context, rendered in bold bla
 •	Interface Body (Lower Tier):
 o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface with the following visible controls and status indicators:
 	Personal Information: Appears grayed out, indicating the setting is disabled.
-	Sign-In & Security: Displayed as an active interactive menu item.
+	Sign-In & Security: Displayed as an interactive menu item.
 	Payment & Shipping: Appears grayed out, indicating the setting is disabled.
 	Subscriptions: Appears grayed out, indicating the setting is disabled.
-	iCloud: Displayed as an active menu item.
+	iCloud: Displayed as an interactive menu item.
 	Family: Displays the status "Set Up".
-	Find My: Displayed as an active menu item.
-	Media & Purchases: Displayed as an active menu item.
-	Sign in with Apple: Displayed as an active menu item.
+	Find My: Displayed as an interactive menu item.
+	Media & Purchases: Displayed as an interactive menu item.
+	Sign in with Apple: Displayed as an interactive menu item.
 	Device Module: The specific module where "iPhone (This iPhone 16 Pro) >" is typically displayed currently exhibits a spinning loading wheel.
 	Contact Key Verification: Displays the status "Off".
 	Sign Out: The primary sign-out action button appears grayed out, indicating it is disabled.
-
 [00:00:32.027] I tapped "Find My"
 [00:00:32.984] The Find My Interface.
 
@@ -147,3 +179,7 @@ Text under this setting: Enables your iPhone and other supported accessories to 
 My Location: Displays the status "This Device".
 Share My Location: Toggled On (green)
 Text under these settings: Share your location with family and friends in Messages and Find My, make personal requests using Siri on HomePod, and use automations in the Home app. 
+[00:00:35.898] I toggled "Share My Location"
+[00:00:35.964] A system alert dialog abruptly interrupted the workflow, displaying the message: "Error turning off Share My Location. Please try again later." The dialog required explicit acknowledgment via the blue-lettered 'OK' button.
+[00:00:36.822] In the background, the setting "Share My Location" appears toggled Off (gray, with the toggle's circular indicator positioned on the left side of the switch). Also, the color of the navigation bar element "Apple Account" and its corresponding chevron no longer appear blue but gray
+[00:00:45.350] The screen registered a hardware input when the volume button was pressed, prompting the system volume HUD—rendered as a black, vertically oriented, thin elongated capsule—to appear dynamically along the right margin of the display.
