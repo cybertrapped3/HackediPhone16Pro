@@ -1,6 +1,5 @@
 [00:00:00.000] The screen recording began without showing the Control Center. 
 [00:00:00.000] The Settings App interface. 
-
 The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
 •	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
 o	Time & Telemetry: Displays the local time as 21:39.
@@ -26,8 +25,7 @@ o	Viewport Entry: Positioned immediately below the navigation bar, the primary b
 	Apps: Displayed as an interactive menu item.
 [00:00:02.783] I tapped "Privacy & Security"
 [00:00:03.509] The "Privacy & Security" Interface
-
-The initial frame of the screen recording is structurally organized into distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
+The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
 •	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
 o	Time & Telemetry: Displays the local time as 21:39.
 o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
@@ -55,7 +53,6 @@ o	Visible Controls & Status Indicators (Initial View): Positioned immediately be
 	HomeKit: Displayed as an interactive menu item.
 •	Status under this setting: Displays the status "None".
 [00:00:06.658] I scrolled all the way to the bottom of the interface, and these other controls and categories were brought into view:
-
 	Journaling Suggestions: Displayed as an interactive menu item.
 	Safety Check: Displayed as an interactive menu item.
 •	Text under this setting: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
@@ -71,8 +68,7 @@ o	Visible Controls & Status Indicators (Initial View): Positioned immediately be
 •	Lockdown Mode: Displays the status "On".
 [00:00:08.141] I tapped "Lockdown Mode"
 [00:00:08.735] The "Lockdown Mode" Interface.
-
-The initial frame of the screen recording is structurally organized into distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
+The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
 •	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
 o	Time & Telemetry: Displays the local time as 21:39.
 o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
@@ -99,15 +95,14 @@ o	Protection Explanations Module: A listing detailing the functional changes tha
 o	Additional Controls:
 	Configured Web Browsing: Displayed as an interactive menu item.
 	2G Cellular Connectivity: Toggled Off (gray).
-•	Text under this setting: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
+	Text under this setting: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
 [00:00:17.449] I tapped Back
 [00:00:18.241] I navigated back to the "Privacy & Security" interface
 [00:00:25.519] I tapped Settings
 [00:00:26.377] I navigated back to the Settings app's main interface
 [00:00:28.365] I scrolled all the way to the top of the interface
 [00:00:28.530] The Settings App interface. 
-
-The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry and the active content viewport:
+The initial frame of the screen recording is structurally organized into two distinct visual tiers, capturing system-level telemetry and the active content viewport:
 •	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
 o	Time & Telemetry: Displays the local time as 21:40.
 o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
@@ -116,27 +111,21 @@ o	Connectivity & Power: The Airplane Mode icon denotes that wireless network tra
 o	Primary Title Header: In black, bold, and oversized letters the heading "Settings" on the left side.
 o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
 o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
-Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
-
-Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
-
-Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
-
-The subsequent controls and settings appeared as follows:
-
-Airplane Mode: Toggled On (green).
-Wi-Fi: Displays the status "Off".
-Bluetooth: Displays the status "Off".
-Cellular: : Displays the status "Airplane Mode".
-Personal Hotspot: Displays the status "Off", and appears grayed out, which is indicates it is disabled, meaning, it can not be controlled by the user.
-Battery: Displayed as an interactive menu item.
-
-General: Displayed as an interactive menu item.
-Accessibility: Displayed as an interactive menu item.
-Action Button: Displayed as an interactive menu item.
+	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+	Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+o	Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
+o	The subsequent controls and settings appeared as follows:
+	Airplane Mode: Toggled On (green).
+	Wi-Fi: Displays the status "Off".
+	Bluetooth: Displays the status "Off".
+	Cellular: Displays the status "Airplane Mode".
+	Personal Hotspot: Displays the status "Off", and appears grayed out, which is indicates it is disabled, meaning, it cannot be controlled by the user.
+	Battery: Displayed as an interactive menu item.
+	General: Displayed as an interactive menu item.
+	Accessibility: Displayed as an interactive menu item.
+	Action Button: Displayed as an interactive menu item.
 [00:00:29.093] I tapped the Apple ID / iCloud Profile Node
 [00:00:29.882] The Apple Account Interface.
-
 The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
 •	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
 o	Time & Telemetry: Displays the local time as 21:40.
@@ -161,7 +150,6 @@ o	Viewport Entry: Positioned immediately below the navigation bar, the primary b
 	Sign Out: The primary sign-out action button appears grayed out, indicating it is disabled.
 [00:00:32.027] I tapped "Find My"
 [00:00:32.984] The Find My Interface.
-
 The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
 •	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
 o	Time & Telemetry: Displays the local time as 21:40.
@@ -171,14 +159,12 @@ o	Connectivity & Power: The Airplane Mode icon denotes that wireless network tra
 o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Apple Account" accompanied by a directional chevron.
 o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Find My".
 •	Interface Body (Lower Tier):
-o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content presents the following visible controls and status indicators:
-
-Find My iPhone: Displays the status "On".
-Text under this setting: Enables your iPhone and other supported accessories to be shown on the map.
-
-My Location: Displays the status "This Device".
-Share My Location: Toggled On (green)
-Text under these settings: Share your location with family and friends in Messages and Find My, make personal requests using Siri on HomePod, and use automations in the Home app. 
+•	Viewport Entry: Positioned immediately below the navigation bar, the primary body content presents the following visible controls and status indicators:
+o	Find My iPhone: Displays the status "On".
+	Text under this setting: Enables your iPhone and other supported accessories to be shown on the map.
+o	My Location: Displays the status "This Device".
+o	Share My Location: Toggled On (green)
+	Text under these settings: Share your location with family and friends in Messages and Find My, make personal requests using Siri on HomePod, and use automations in the Home app. 
 [00:00:35.898] I toggled "Share My Location"
 [00:00:35.964] A system alert dialog abruptly interrupted the workflow, displaying the message: "Error turning off Share My Location. Please try again later." The dialog required explicit acknowledgment via the blue-lettered 'OK' button.
 [00:00:36.822] In the background, the setting "Share My Location" appears toggled Off (gray, with the toggle's circular indicator positioned on the left side of the switch). Also, the color of the navigation bar element "Apple Account" and its corresponding chevron no longer appear blue but gray
