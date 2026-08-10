@@ -1,8 +1,8 @@
 The “Apple Account” Interface.
-The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 •	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
-o	Time & Telemetry: Displays the local time as 21:39.
-o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
+o	Time: Displays the local time as 21:39.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
 •	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
 o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
