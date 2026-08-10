@@ -1,0 +1,52 @@
+The "App Privacy Report" interface. 
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 21:07.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
+•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "App Privacy Report".
+o	Share control: A blue Share icon is displayed at the upper-right.
+•	Interface Body (Lower Tier):
+o	Immediately below the navigation/header area, the App Privacy Report content begins with explanatory text: "App Privacy Report records data and sensor access, app and website network activity, and the most frequently contacted domains. Learn More…"
+o	ACCESS" module: Containing the following Apps:
+	Camera: Displayed as an interactive menu item.
+•	Access report information under this app: "8 min. ago · Photos, Contacts and 2 more".
+	Reminders: Displayed as an interactive menu item.
+•	Access report information under this app: "15 min. ago · Contacts".
+	Photos: Displayed as an interactive menu item.
+•	Access report information under this app: "18 min. ago · Contacts and Photos".
+	Health: Displayed as an interactive menu item.
+•	Access report information under this app: "19 min. ago · Contacts".
+	Messages: Displayed as an interactive menu item.
+•	Access report information under this app: "24 min. ago · Contacts".
+	"Show All": Displayed as an interactive menu item.
+	Text under this module: "These apps accessed your data or sensors in the past 7 days."
+o	"APP NETWORK ACTIVITY" module: Containing the following Apps:
+	Maps: Displayed as an interactive menu item.
+•	A proportional orange activity bar under this app, with the number 22 displayed at its right.
+	Stocks: Displayed as an interactive menu item.
+•	A proportional orange activity bar under this app, with the number 6.
+	App Store: Displayed as an interactive menu item.
+•	A proportional orange activity bar under this app, with the number 6.
+	Weather: Displayed as an interactive menu item.
+•	A proportional orange activity bar under this app, with the number 5.
+	Tips: Displayed as an interactive menu item.
+•	A proportional orange activity bar under this app, with the number 4.
+	"Show All": Displayed as an interactive menu item.
+	Text under this module: "These apps contacted domains in the past 7 days."
+o	"MOST CONTACTED DOMAINS" module: Containing the following domain entries:
+	gateway.icloud.com: Displayed as an interactive menu item.
+•	A proportional blue activity bar under this domain, with the number 12
+	configuration.apple.com: Displayed as an interactive menu item.
+•	A proportional blue activity bar under this domain, with the number 5
+	metrics.icloud.com: Displayed as an interactive menu item.
+•	A proportional blue activity bar under this domain, with the number 4
+	bag.itunes.apple.com: Displayed as an interactive menu item.
+•	A proportional blue activity bar under this domain, with the number 3
+	gsp-ssl.ls.apple.com: Displayed as an interactive menu item.
+•	A proportional blue activity bar under this domain, with the number 3
+	"Show All: Displayed as an interactive menu item.
+	Text under this module: "These domains were contacted by one or more apps or websites in the past 7 days."
+o	"Turn Off App Privacy Report": a control on its own module, with red colored letters
