@@ -1,10 +1,9 @@
 [00:00:00.000] The beginning of this screen recording is missing the control center
 [00:00:00.297] The "Privacy & Security" interface.
-
-The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 •	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
-o	Time & Telemetry: Displays the local time as 21:07.
-o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
+o	Time: Displays the local time as 21:07.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
 •	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
 o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
@@ -37,7 +36,7 @@ o	Primary Heading: Centrally aligned with the menu context, rendered in bold bla
 o	Share control: A blue Share icon is displayed at the upper-right.
 •	Interface Body (Lower Tier):
 o	Immediately below the navigation/header area, the App Privacy Report content begins with explanatory text: "App Privacy Report records data and sensor access, app and website network activity, and the most frequently contacted domains. Learn More…"
-o	ACCESS" module: Containing the following Apps:
+o	“ACCESS" module: Containing the following Apps:
 	Camera: Displayed as an interactive menu item.
 •	Access report information under this app: "8 min. ago · Photos, Contacts and 2 more".
 	Reminders: Displayed as an interactive menu item.
@@ -61,25 +60,25 @@ o	"APP NETWORK ACTIVITY" module: Containing the following Apps:
 •	A proportional orange activity bar under this app, with the number 5.
 [00:00:07.352] I scrolled down, and more information was displayed
 [00:00:08.144] 
-	Tips: Displayed as an interactive menu item.
-•	A proportional orange activity bar under this app, with the number 4.
-	"Show All": Displayed as an interactive menu item.
-	Text under this module: "These apps contacted domains in the past 7 days."
-o	"MOST CONTACTED DOMAINS" module: Containing the following domain entries:
-	gateway.icloud.com: Displayed as an interactive menu item.
-•	A proportional blue activity bar under this domain, with the number 12
-	configuration.apple.com: Displayed as an interactive menu item.
-•	A proportional blue activity bar under this domain, with the number 5
-	metrics.icloud.com: Displayed as an interactive menu item.
-•	A proportional blue activity bar under this domain, with the number 4
-	bag.itunes.apple.com: Displayed as an interactive menu item.
-•	A proportional blue activity bar under this domain, with the number 3
-	gsp-ssl.ls.apple.com: Displayed as an interactive menu item.
-•	A proportional blue activity bar under this domain, with the number 3
-	"Show All": Displayed as an interactive menu item.
-	Text under this module: "These domains were contacted by one or more apps or websites in the past 7 days."
-o	"Turn Off App Privacy Report": a control on its own module, with red colored letters
-
+•	The "App Privacy Report" interface, "APP NETWORK ACTIVITY" module continued:
+o	Tips: Displayed as an interactive menu item.
+	A proportional orange activity bar under this app, with the number 4.
+o	"Show All": Displayed as an interactive menu item.
+o	Text under this module: "These apps contacted domains in the past 7 days."
+•	"MOST CONTACTED DOMAINS" module: Containing the following domain entries:
+o	gateway.icloud.com: Displayed as an interactive menu item.
+	A proportional blue activity bar under this domain, with the number 12
+o	configuration.apple.com: Displayed as an interactive menu item.
+	A proportional blue activity bar under this domain, with the number 5
+o	metrics.icloud.com: Displayed as an interactive menu item.
+	A proportional blue activity bar under this domain, with the number 4
+o	bag.itunes.apple.com: Displayed as an interactive menu item.
+	A proportional blue activity bar under this domain, with the number 3
+o	gsp-ssl.ls.apple.com: Displayed as an interactive menu item.
+	A proportional blue activity bar under this domain, with the number 3
+o	"Show All": Displayed as an interactive menu item.
+o	Text under this module: "These domains were contacted by one or more apps or websites in the past 7 days."
+•	"Turn Off App Privacy Report": a control on its own module, with red colored letters
 [00:00:11.239] I tapped Back
 [00:00:12.163] I navigated back to the "Privacy & Security" interface
 [00:00:12.593] I tapped "Apple Intelligence report"
@@ -99,10 +98,9 @@ o	Cancel control: A "Cancel" control is displayed near the lower-right portion o
 [00:00:21.792] The iPhone Passcode prompt slid out of view
 [00:00:23.521] I swiped the Control Center in to view
 [00:00:23.983] The Control Center Interface
-
 The Apple iPhone Control Center interface occupies substantially the entire display. The interface consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
 Status Area
-At the top of the display, from left to right, the following elements are visible:
+•	At the top of the display, from left to right, the following elements are visible:
 •	A plus ("+") symbol positioned in the upper-left corner.
 •	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 •	A power symbol positioned in the upper-right corner.
@@ -111,20 +109,18 @@ Immediately below the status area are:
 •	A battery indicator positioned on the right displaying a battery level of 100%.
 
 The Connectivity Module
-The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
-The following controls are displayed:
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. The following controls are displayed:
 •	Airplane Mode, displayed as an orange circular button with a white airplane symbol, visually indicating an active or enabled state.
 •	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
 •	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
 •	Four additional gray circular controls displaying symbols visually consistent with:
-•	Cellular communications, indicating an inactive state.
-•	Bluetooth.
-•	Hot spot, indicating a disabled state.
-•	Internet connectivity (globe symbol), indicating an inactive state.
+o	Cellular communications, indicating a disabled state.
+o	Bluetooth.
+o	Hot spot, indicating a disabled state.
+o	Internet connectivity (globe symbol), indicating a disabled state.
 
 The Media Playback Module
-The upper-right Control Center module contains the media playback controls.
-The module displays:
+The upper-right Control Center module contains the media playback controls. The module displays:
 •	An empty media artwork placeholder positioned on the left side.
 •	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
 •	The text "Not Playing" displayed beneath the artwork placeholder.
@@ -132,11 +128,10 @@ The module displays:
 o	Previous.
 o	Play.
 o	Next.
-The module displays no media title, artist information, or artwork.
+•	The module displays no media title, artist information, or artwork.
 
 The Rotation Lock and Silent Mode Controls
-Immediately below the Connectivity Module are two circular system controls.
-These controls display symbols visually consistent with:
+Immediately below the Connectivity Module are two circular system controls. These controls display symbols visually consistent with:
 •	Rotation Lock.
 •	Silent Mode.
 Each control is displayed as a gray circular button.
@@ -146,10 +141,9 @@ Positioned below the Rotation Lock and Silent Mode controls is a rounded rectang
 The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
 
 The Brightness and Volume Controls
-
 Immediately below the Media Playback Module are two vertical slider controls.
-The left slider controls screen brightness and displays a sun symbol near its lower end.
-The right slider controls system volume and displays a speaker symbol near its lower end.
+•	The left slider controls screen brightness and displays a sun symbol near its lower end.
+•	The right slider controls system volume and displays a speaker symbol near its lower end.
 
 The Utility Controls
 The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
@@ -160,9 +154,8 @@ The controls display symbols visually consistent with:
 •	Camera.
 •	Screen Mirroring.
 •	Code Scanner (QR Scanner).
-•	Screen Recording.
+•	Screen Recording: displays a red circular recording indicator within it.
 •	Notes / Quick Note.
-The Screen Recording control displays a red circular recording indicator within the control.
 
 The Right-Edge Interface Icons
 Along the right edge of the display is a vertical column of three interface icons.
