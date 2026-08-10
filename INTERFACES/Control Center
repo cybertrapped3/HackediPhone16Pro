@@ -1,0 +1,71 @@
+The Control Center Interface
+The Apple iPhone Control Center interface occupies substantially the entire display. The interface consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+Status Area
+At the top of the display, from left to right, the following elements are visible:
+•	A plus ("+") symbol positioned in the upper-left corner.
+•	The Dynamic Island centered at the top of the display, containing a small red circular indicator positioned toward its left side (this indicates the screen is being recorded).
+•	A power symbol positioned in the upper-right corner.
+Immediately below the status area are:
+•	An Airplane Mode status indicator positioned on the left.
+•	A battery indicator positioned on the right displaying a battery level of 87%.
+
+The Connectivity Module
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
+The following controls are displayed:
+•	Airplane Mode, displayed as an orange circular button with a white airplane symbol, visually indicating an active or enabled state.
+•	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+•	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+•	Four additional gray circular controls displaying symbols visually consistent with:
+•	Cellular communications.
+•	Bluetooth.
+•	Hot spot, indicating a disabled state.
+•	Internet connectivity (globe symbol), indicating an inactive state.
+
+The Media Playback Module
+The upper-right Control Center module contains the media playback controls.
+The module displays:
+•	An empty media artwork placeholder positioned on the left side.
+•	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+•	The text "Not Playing" displayed beneath the artwork placeholder.
+•	A row of media playback controls consisting of:
+o	Previous.
+o	Play.
+o	Next.
+The module displays no media title, artist information, or artwork.
+
+The Rotation Lock and Silent Mode Controls
+Immediately below the Connectivity Module are two circular system controls.
+These controls display symbols visually consistent with:
+•	Rotation Lock.
+•	Silent Mode.
+Each control is displayed as a gray circular button.
+
+The Focus Module
+Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
+
+The Brightness and Volume Controls
+
+Immediately below the Media Playback Module are two vertical slider controls.
+The left slider controls screen brightness and displays a sun symbol near its lower end.
+The right slider controls system volume and displays a speaker symbol near its lower end.
+
+The Utility Controls
+The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
+The controls display symbols visually consistent with:
+•	Flashlight.
+•	Timer.
+•	Calculator.
+•	Camera.
+•	Screen Mirroring.
+•	Code Scanner (QR Scanner).
+•	Screen Recording.
+•	Notes / Quick Note.
+The Screen Recording control displays a red circular recording indicator within the control.
+
+The Right-Edge Interface Icons
+Along the right edge of the display is a vertical column of three interface icons.
+From top to bottom, the icons consist of:
+•	A heart symbol (jump to the main/first page of the interface, the current one).
+•	A musical note symbol (jump to the media player).
+•	A wireless transmission symbol (jump to the connectivity related controls panel).
