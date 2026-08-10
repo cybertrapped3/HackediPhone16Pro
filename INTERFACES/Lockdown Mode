@@ -1,0 +1,30 @@
+The "Lockdown Mode" Interface.
+
+The initial frame of the screen recording is structurally organized into distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
+•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+o	Time & Telemetry: Displays the local time as 21:39.
+o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
+•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Lockdown Mode".
+•	Interface Body (Lower Tier):
+o	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+	Icon Graphic: A solid blue rounded square containing a white palm hand symbol.
+	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Lockdown Mode".
+	Descriptive Text: Sub-text detailing the function of the interface: "Turn on this extreme protection if you believe you're being targeted in a cyberattack. App, website, and feature functionality will be limited and some experiences may be completely unavailable."
+	Learn more...: Displayed in blue-colored text suggesting a hyperlink.
+	Turn Off Lockdown Mode: Visually separated within the module by a dividing line, displayed in red-colored letters as an interactive control.
+o	Protection Explanations Module: A listing detailing the functional changes that take place when the device is set to this mode:
+	Messages: Most message attachments are blocked, and some features are unavailable.
+	FaceTime: Incoming FaceTime calls from people you have not previously called are blocked. Features such as SharePlay and Live Photos are unavailable.
+	Web Browsing: Some web technologies and browsing features are blocked.
+	Photos: Location will be excluded by default when sharing photos, and Shared Albums will be removed from Photos.
+	Device Connections: Wired connections with another device or accessory while your iPhone is locked are blocked.
+	Wireless Connectivity: Automatically joining non-security Wi-Fi networks and 2G Cellular Connectivity are blocked.  
+	Apple Services: Incoming invitations for Apple Services from people you have not previously invited are blocked.  
+	Profiles: Configuration profiles, such as profiles for school or work, cannot be installed.  
+o	Additional Controls:
+	Configured Web Browsing: Displayed as an interactive menu item.
+	2G Cellular Connectivity: Toggled Off (gray).
+•	Text under this setting: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
