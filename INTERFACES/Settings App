@@ -1,0 +1,25 @@
+The Settings App interface. 
+
+The initial frame of the screen recording is structurally organized into three distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
+•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+o	Time & Telemetry: Displays the local time as 21:39.
+o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
+•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Settings".
+•	Interface Body (Lower Tier):
+o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+	Search: Displayed as an interactive menu item.
+	StandBy: Displayed as an interactive menu item.
+	Wallpaper: Displayed as an interactive menu item.
+	Notifications: Displayed as an interactive menu item.
+	Sounds & Haptics: Displayed as an interactive menu item.
+	Focus: Displayed as an interactive menu item.
+	Screen Time: Displayed as an interactive menu item.
+	Face ID & Passcode: Displayed as an interactive menu item.
+	Emergency SOS: Displayed as an interactive menu item.
+	Privacy & Security: Displayed as an interactive menu item.
+	Game Center: Displayed as an interactive menu item.
+	iCloud: Displayed as an interactive menu item.
+	Wallet & Apple Pay: Displayed as an interactive menu item.
+	Apps: Displayed as an interactive menu item.
