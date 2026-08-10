@@ -1,1 +1,42 @@
+The "Privacy & Security" Interface
 
+The initial frame of the screen recording is structurally organized into distinct visual tiers, capturing system-level telemetry, navigational headers, and the active content viewport:
+•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+o	Time & Telemetry: Displays the local time as 21:39.
+o	Dynamic Island: Centered with a solid red circular indicator light, denoting an active screen recording session.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
+•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+•	Interface Body (Lower Tier):
+o	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+	Icon Graphic: A solid blue rounded square containing a white palm hand symbol.
+	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Privacy & Security".
+	Descriptive Text: Sub-text detailing the function of the interface: "Control which apps can access your data, location, camera, and microphone, and manage safety protections. Learn more...".
+o	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+	Location Services: Displays the status "Off".
+	Tracking: Displays the status "0".
+	Calendar: Displayed as an interactive menu item.
+•	Status under this setting: Displays the status "None".
+	Contacts: Displayed as an interactive menu item.
+•	Status under this setting: Displays the status "None".
+	Files & Folders: Displayed as an interactive menu item.
+•	Status under this setting: Displays the status "None".
+	Focus: Displayed as an interactive menu item.
+•	Status under this setting: Displays the status "None".
+	Health: Displayed as an interactive menu item.
+•	Status under this setting: Displays the status "None".
+	HomeKit: Displayed as an interactive menu item.
+•	Status under this setting: Displays the status "None".
+	Journaling Suggestions: Displayed as an interactive menu item.
+	Safety Check: Displayed as an interactive menu item.
+•	Text under this setting: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
+	Sensitive Content Warning: Displays the status "Off".
+•	Text under this setting: Detect nude photos and video before they are viewed on your iPhone, and receive guidance to help make a safe choice. Apple does not have access to the photos or videos. Learn more...
+	Analytics & Improvements: Displayed as an interactive menu item.
+	Apple Advertising: Displayed as an interactive menu item.
+	"TRANSPARENCY LOGS" Module: Containing the following controls and status indicators:
+•	App Privacy Report: Displays the status "On".
+•	Apple Intelligence Report: Displays the status "On".
+	"SECURITY" Module: Containing the following controls and status indicators:
+•	Stolen Device Protection: Displays the status "Off".
+•	Lockdown Mode: Displays the status "On".
