@@ -76,7 +76,7 @@ o	"MOST CONTACTED DOMAINS" module: Containing the following domain entries:
 •	A proportional blue activity bar under this domain, with the number 3
 	gsp-ssl.ls.apple.com: Displayed as an interactive menu item.
 •	A proportional blue activity bar under this domain, with the number 3
-	"Show All: Displayed as an interactive menu item.
+	"Show All": Displayed as an interactive menu item.
 	Text under this module: "These domains were contacted by one or more apps or websites in the past 7 days."
 o	"Turn Off App Privacy Report": a control on its own module, with red colored letters
 
@@ -119,7 +119,7 @@ The following controls are displayed:
 •	Four additional gray circular controls displaying symbols visually consistent with:
 •	Cellular communications, indicating an inactive state.
 •	Bluetooth.
-•	Hot spot, indicating a disabled state, indicating an inactive state.
+•	Hot spot, indicating a disabled state.
 •	Internet connectivity (globe symbol), indicating an inactive state.
 
 The Media Playback Module
@@ -167,6 +167,6 @@ The Screen Recording control displays a red circular recording indicator within 
 The Right-Edge Interface Icons
 Along the right edge of the display is a vertical column of three interface icons.
 From top to bottom, the icons consist of:
-•	A heart symbol (jump to the main/first page of the interface, the current one). White color of the icon indicates this is the current screen..
+•	A heart symbol (jump to the main/first page of the interface; the white color of the icon indicates this is the current screen).
 •	A musical note symbol (jump to the media player).
 •	A wireless transmission symbol (jump to the connectivity related controls panel).
