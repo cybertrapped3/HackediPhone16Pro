@@ -9,17 +9,40 @@ o	Connectivity & Power: The Airplane Mode icon denotes that wireless network tra
 o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Settings".
 •	Interface Body (Lower Tier):
 o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
-	Search: Displayed as an interactive menu item.
-	StandBy: Displayed as an interactive menu item.
-	Wallpaper: Displayed as an interactive menu item.
-	Notifications: Displayed as an interactive menu item.
-	Sounds & Haptics: Displayed as an interactive menu item.
-	Focus: Displayed as an interactive menu item.
-	Screen Time: Displayed as an interactive menu item.
-	Face ID & Passcode: Displayed as an interactive menu item.
-	Emergency SOS: Displayed as an interactive menu item.
-	Privacy & Security: Displayed as an interactive menu item.
-	Game Center: Displayed as an interactive menu item.
-	iCloud: Displayed as an interactive menu item.
-	Wallet & Apple Pay: Displayed as an interactive menu item.
-	Apps: Displayed as an interactive menu item.
+o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+
+Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+
+Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
+
+The subsequent controls and settings appeared as follows:
+
+Airplane Mode: Toggled On (green).
+Wi-Fi: Displays the status "Off".
+Bluetooth: Displays the status "Off".
+Cellular: : Displays the status "Airplane Mode".
+Personal Hotspot: Displays the status "Off", and appears grayed out, which is indicates it is disabled, meaning, it can not be controlled by the user.
+Battery: Displayed as an interactive menu item.
+
+General: Displayed as an interactive menu item.
+Accessibility: Displayed as an interactive menu item.
+Action Button: Displayed as an interactive menu item.
+
+***MORE ITEMS***
+
+Search: Displayed as an interactive menu item.
+StandBy: Displayed as an interactive menu item.
+Wallpaper: Displayed as an interactive menu item.
+Notifications: Displayed as an interactive menu item.
+Sounds & Haptics: Displayed as an interactive menu item.
+Focus: Displayed as an interactive menu item.
+Screen Time: Displayed as an interactive menu item.
+Face ID & Passcode: Displayed as an interactive menu item.
+Emergency SOS: Displayed as an interactive menu item.
+Privacy & Security: Displayed as an interactive menu item.
+Game Center: Displayed as an interactive menu item.
+iCloud: Displayed as an interactive menu item.
+Wallet & Apple Pay: Displayed as an interactive menu item.
+Apps: Displayed as an interactive menu item.
