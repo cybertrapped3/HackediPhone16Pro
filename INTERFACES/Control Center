@@ -17,9 +17,9 @@ The following controls are displayed:
 •	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
 •	Four additional gray circular controls displaying symbols visually consistent with:
 •	Cellular communications.
-•	Bluetooth.
+•	Bluetooth, indicating an inactive state.
 •	Hot spot, indicating a disabled state.
-•	Internet connectivity (globe symbol), indicating an inactive state.
+•	VPN, indicating an disabled state.
 
 The Media Playback Module
 The upper-right Control Center module contains the media playback controls.
