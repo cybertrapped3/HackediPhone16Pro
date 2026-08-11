@@ -115,7 +115,7 @@ The upper-left Control Center module contains a group of connectivity-related co
 •	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
 •	Four additional gray circular controls displaying symbols visually consistent with:
 o	Cellular communications, indicating a disabled state.
-o	Bluetooth.
+o	Bluetooth, indicating an inactive state.
 o	Hot spot, indicating a disabled state.
 o	Internet connectivity (globe symbol), indicating a disabled state.
 
