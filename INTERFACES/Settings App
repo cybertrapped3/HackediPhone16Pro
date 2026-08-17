@@ -6,7 +6,7 @@ o	Time: Displays the local time as 21:39.
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
 •	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Settings".
+o	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
 •	Interface Body (Lower Tier):
 o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
 o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
