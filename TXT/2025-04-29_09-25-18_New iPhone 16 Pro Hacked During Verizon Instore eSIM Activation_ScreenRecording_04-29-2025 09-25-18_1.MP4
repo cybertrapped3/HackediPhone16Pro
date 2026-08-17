@@ -386,4 +386,4 @@ There are two anomalies illustrated in this screen recording:
    * h) `"Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-00-00_000 - Control Center signal strength icons synchronized.png"`
 2. **Unexpected Notification Prompt:** In this screen recording, the notification *"'Journal' Would Like to Send You Notifications..."* unexpectedly pops up at timestamp `00:00:08.096`. Subsequently, navigation to the app's settings interface at timestamp `01:01:02.018` demonstrates that app notifications had been previously disabled. The corresponding screenshots illustrating this behavior are: 
    * a) `"Capture_2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4_00-00-08_096 - App notification Journal Would Like to Send You Notifications.png"`
-   * b) `"C
+   * b) `"Capture_2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4_00-01-02_018 - App Notifications Disabled The Journal App.png"`
