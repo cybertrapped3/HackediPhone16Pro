@@ -1,0 +1,7 @@
+The second panel of the Home Screen interface is vertically structured from top to bottom, comprising the status bar, an application icon grid, a page search utility, and the dock.
+
+From left to right, the status bar displays the system time as 09:25. Positioned to its right is the silent mode icon. In the center lies a black, pill-shaped hardware-software cutout (hereinafter the "Dynamic Island"), featuring a red dot on its left side indicating that the screen is actively being recorded. On the right side of the status bar, the cellular signal strength icon displays three solid white bars and one gray bar, followed by the network type indicator ("5GUW"). Finally, the battery icon appears partially filled alongside the digital percentage readout "62."
+
+Below the status bar, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+
+Positioned just above the Dock is a persistent Search utility button, styled as a pill-shaped indicator containing two small circles. Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
