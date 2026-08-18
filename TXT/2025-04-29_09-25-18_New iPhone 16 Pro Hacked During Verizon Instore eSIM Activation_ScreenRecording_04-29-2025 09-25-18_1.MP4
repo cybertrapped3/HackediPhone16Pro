@@ -1,389 +1,299 @@
-[00:00:00.066] I swiped the Control Center in to view. 
-
-The interface shows the Verizon network type as 5GUW. To its left, the signal strength icon shows three bars solid white and one bar faded white. Inside the communication widget, the bright green colored cell icon shows one bar solid white and the other three light green.
-
-The Control Center Interface.
-The Apple iPhone Control Center interface occupies substantially the entire display. The interface consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+[00:00:00.066] The screen recording starts with the Control Center Interface on view.
+The interface occupies substantially the entire display and consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
 Status Area
-At the top of the display, from left to right, the following elements are visible:
-•	A plus ("+") symbol positioned in the upper-left corner.
-•	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-•	A power symbol positioned in the upper-right corner.
-Immediately below the status area are:
-•	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of three active white bars and one inactive gray bar, accompanied by the network carrier and type as Verizon 5GUW 
-•	A battery indicator positioned on the right displaying a battery level of 62%.
-
+•	At the top of the display, from left to right, the following elements are visible:
+o	A plus ("+") symbol positioned in the upper-left corner.
+o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	A power symbol positioned in the upper-right corner.
+•	Immediately below the status area are:
+o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of three active white bars and one inactive gray bar, accompanied by the network carrier and type as Verizon 5GUW 
+o	A battery indicator positioned on the right displaying a battery level of 62%.
 The Connectivity Module
-The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
-The following controls are displayed:
-•	Airplane Mode, displayed as an gray circular button with a white airplane symbol, indicating an inactive state.
-•	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
-•	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
-•	Four additional gray circular controls displaying symbols visually consistent with:
-•	Cellular data displayed as a green circular button displaying a signal strength icon consisting of one active white bar and three inactive gray bars
-•	Bluetooth, indicating an inactive state.
-•	Hot spot, indicating a inactive state.
-•	VPN, indicating an disabled state.
-
+•	The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. The following controls are displayed:
+o	Airplane Mode, displayed as a gray circular button with a white airplane symbol, indicating an inactive state.
+o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+o	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+o	Four additional gray circular controls displaying symbols visually consistent with:
+	Cellular data displayed as a green circular button displaying a signal strength icon consisting of one active white bar and three inactive gray bars
+	Bluetooth, indicating an inactive state.
+	Hot spot, indicating an inactive state.
+	VPN, indicating a disabled state.
 The Media Playback Module
-The upper-right Control Center module contains the media playback controls.
-The module displays:
-•	An empty media artwork placeholder positioned on the left side.
-•	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
-•	The text "Not Playing" displayed beneath the artwork placeholder.
-•	A row of media playback controls consisting of:
-o	Previous.
-o	Play.
-o	Next.
-The module displays no media title, artist information, or artwork.
-
+•	The upper-right Control Center module contains the media playback controls. The module displays:
+o	An empty media artwork placeholder positioned on the left side.
+o	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+o	The text "Not Playing" displayed beneath the artwork placeholder.
+o	A row of media playback controls consisting of:
+	Previous.
+	Play.
+	Next.
+o	The module displays no media title, artist information, or artwork.
 The Rotation Lock and Silent Mode Controls
-Immediately below the Connectivity Module are two circular system controls.
-These controls display symbols visually consistent with:
-•	Rotation Lock, as a gray circular button
-•	Silent Mode, displayed as a white circular button containing a bell symbol with a diagonal slash through it rendered in red, visually indicating an active silent state.
-
+•	Immediately below the Connectivity Module are two circular system controls. These controls display symbols visually consistent with:
+o	Rotation Lock, as a gray circular button
+o	Silent Mode, displayed as a white circular button containing a bell symbol with a diagonal slash through it rendered in red, visually indicating an active silent state.
 The Focus Module
-Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
-The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
-
+•	Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+•	The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
 The Brightness and Volume Controls
-Immediately below the Media Playback Module are two vertical slider controls.
-The left slider controls screen brightness and displays a sun symbol near its lower end.
-The right slider controls system volume and displays a speaker symbol near its lower end.
-
+•	Immediately below the Media Playback Module are two vertical slider controls.
+•	The left slider controls screen brightness and displays a sun symbol near its lower end.
+•	The right slider controls system volume and displays a speaker symbol near its lower end.
 The Utility Controls
-The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
-The controls display symbols visually consistent with:
-•	Flashlight.
-•	Timer.
-•	Calculator.
-•	Camera.
-•	Screen Mirroring.
-•	Code Scanner (QR Scanner).
-•	Screen Recording.
-•	Notes / Quick Note.
+•	The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each. The controls display symbols visually consistent with:
+o	Flashlight.
+o	Timer.
+o	Calculator.
+o	Camera.
+o	Screen Mirroring.
+o	Code Scanner (QR Scanner).
+o	Screen Recording.
+o	Notes / Quick Note.
 The Screen Recording control displays a red circular recording indicator within the control.
-
 The Right-Edge Interface Icons
-Along the right edge of the display is a vertical column of three interface icons.
-From top to bottom, the icons consist of:
-•	A heart symbol (jump to the main/first page of the interface, the current one).
-•	A musical note symbol (jump to the media player).
-•	A wireless transmission symbol (jump to the connectivity related controls panel).
-[00:00:01.693] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
-•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group).
+[00:00:01.693] I swiped the Control Center up out of view.
+[00:00:02.286] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 09:25. Positioned to its right is the silent mode icon.
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays three solid white bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital percentage readout "62."
-Below the status bar, a pair of application widgets are displayed: on the left, the Weather widget displays the text "Weather Unavailable"; on the right, the Calendar widget displays the text "TUESDAY 29 No events today." Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
-Positioned just above the Dock is a persistent Search button. Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
-[00:00:03.376] I swiped the Home screen left to its second panel.
+o	Connectivity & Power: The cellular signal strength icon displays three solid white bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "62."
+•	Below the status bar, a pair of application widgets are displayed: on the left, the Weather widget displays the text "Weather Unavailable"; on the right, the Calendar widget displays the text "TUESDAY 29 No events today." Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Positioned just above the Dock is a persistent Search button. 
+•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+[00:00:03.376] I swiped the Home Screen left to its second panel.
 [00:00:03.870] The second panel of the Home Screen interface is vertically structured from top to bottom, comprising the status bar, an application icon grid, a page search utility, and the dock.
-
-•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 09:25. Positioned to its right is the silent mode icon.
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays three solid white bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital percentage readout "62."
-
-Below the status bar, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
-
-Positioned just above the Dock is a persistent Search utility button, styled as a pill-shaped indicator containing two small circles. Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+o	Connectivity & Power: The cellular signal strength icon displays three solid white bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "62."
+•	Below the status bar, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Positioned just above the Dock is a persistent Search utility button, styled as a pill-shaped indicator containing two small circles. 
+•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:00:06.981] I tapped the Journal app open
-[00:00:07.157] During the launch sequence of the Journal application, a secondary status bar appears within the application interface, distinct from the system status bar at the top of the display.
-[00:00:08.096] Immediately following the full extension of the application window, a system-level permission prompt appears, recognizable by its standard iOS modal interface and binary interaction buttons ("Don't Allow" and "Allow") which are managed directly by the operating system rather than generated by the application internally. The prompt displays the text:
-
-'Journal' Would Like to Send You Notifications. Notifications may include alerts, sounds, and icon badges. These can be configured in Settings. Don't Allow. Allow.
+[00:00:07.090] During the launch sequence of the Journal application, a secondary status bar appears within the application interface, distinct from the system status bar at the top of the display.
+[00:00:08.096] Immediately following the full extension of the application window, a system-level permission prompt appears, recognizable by its standard iOS modal interface and binary interaction buttons ("Don't Allow" and "Allow") which are managed directly by the operating system rather than generated by the application internally. 
+The prompt displays the text:
+“Journal” Would Like to Send You Notifications.
+Notifications may include alerts, sounds, and icon badges. These can be configured in Settings.
+Don't Allow | Allow
 [00:00:31.867] The notification disappeared, and upon review of this video, there was no visible sign that would indicate whether I tapped "Don't Allow" or "Allow" but given that I had configured the notifications setting of the journal app to OFF, I believe I tapped "Don't Allow"
-[00:00:35.061] I navigated to the Home screen
+[00:00:35.061] I dismissed the Journal app, and the Home Screen is on view
 [00:00:37.008] I swiped the Home Screen to the right, to navigate to the first panel of it
 [00:00:38.647] I tapped the "Settings" app open
 [00:00:38.779] During the launch sequence of the Settings application, a secondary status bar appears within the application interface, distinct from the system status bar at the top of the display.
 [00:00:39.735] The Settings App interface. 
-
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+•	The interface is visually organized into three principal areas: the status area, the header area, and the content area:
 •	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 09:25. Positioned to its right is the silent mode icon.
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays three solid white bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital percentage readout "62."
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
+o	Connectivity & Power: The cellular signal strength icon displays three solid white bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "62."
+•	Header area: 
+o	Aligned to the left, rendered in bold black typography: "Settings".
 •	Interface Body (Lower Tier):
-o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+•	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
 o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
 o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
-Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+	Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+o	The subsequent controls and settings appeared as follows:
 
-Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+	Airplane Mode: Toggled Off (gray).
+	Wi-Fi: Displays the status "Off".
+	Bluetooth: Displays the status "Off".
+	Cellular: Displayed as an interactive menu item without any active status text or secondary detail on its right-hand side.
+	Personal Hotspot: Displays the status "Off".
+	Battery: Displayed as an interactive menu item.
 
-The subsequent controls and settings appeared as follows:
-
-Airplane Mode: Toggled Off (gray).
-Wi-Fi: Displays the status "Off".
-Bluetooth: Displays the status "Off".
-Cellular: : Displayed as an interactive menu item without any active status text or secondary detail on its right-hand side.
-Personal Hotspot: Displays the status "Off".
-Battery: Displayed as an interactive menu item.
-
-General: Displayed as an interactive menu item.
-Accessibility: Displayed as an interactive menu item.
-Action Button: Displayed as an interactive menu item.
-Apple Intelligence & Siri: Displayed as an interactive menu item.
-
+	General: Displayed as an interactive menu item.
+	Accessibility: Displayed as an interactive menu item.
+	Action Button: Displayed as an interactive menu item.
+	Apple Intelligence & Siri: Displayed as an interactive menu item.
 [00:00:40.888] I scrolled down, and these controls and settings came in to view:
+	Camera: Displayed as an interactive menu item.
+	Control Center: Displayed as an interactive menu item.
+	Display & Brightness: Displayed as an interactive menu item.
+	Home Screen & App Library: Displayed as an interactive menu item.
+	Search: Displayed as an interactive menu item.
+	StandBy: Displayed as an interactive menu item.
+	Wallpaper: Displayed as an interactive menu item.
 
-Camera: Displayed as an interactive menu item.
-Control Center: Displayed as an interactive menu item.
-Display & Brightness: Displayed as an interactive menu item.
-Home Screen & App Library: Displayed as an interactive menu item.
-Search: Displayed as an interactive menu item.
-StandBy: Displayed as an interactive menu item.
-Wallpaper: Displayed as an interactive menu item.
-
-Notifications: Displayed as an interactive menu item.
-Sounds & Haptics: Displayed as an interactive menu item.
-Focus: Displayed as an interactive menu item.
-Screen Time: Displayed as an interactive menu item.
-
+	Notifications: Displayed as an interactive menu item.
+	Sounds & Haptics: Displayed as an interactive menu item.
+	Focus: Displayed as an interactive menu item.
+	Screen Time: Displayed as an interactive menu item.
 [00:00:42.467] I scrolled all the way down, and these controls and settings came in to view:
+	Face ID & Passcode: Displayed as an interactive menu item.
+	Emergency SOS: Displayed as an interactive menu item.
+	Privacy & Security: Displayed as an interactive menu item.
 
-Face ID & Passcode: Displayed as an interactive menu item.
-Emergency SOS: Displayed as an interactive menu item.
-Privacy & Security: Displayed as an interactive menu item.
+	Game Center: Displayed as an interactive menu item.
+	iCloud: Displayed as an interactive menu item.
+	Wallet & Apple Pay: Displayed as an interactive menu item.
 
-Game Center: Displayed as an interactive menu item.
-iCloud: Displayed as an interactive menu item.
-Wallet & Apple Pay: Displayed as an interactive menu item.
-
-Apps: Displayed as an interactive menu item.
+	Apps: Displayed as an interactive menu item.
 [00:00:42.534] I tapped Apps
 [00:00:43.317] The list of App slid in to view
 [00:00:45.509] The "Apps" settings interface.
-The interface is visually organized into five areas: the status area, the navigation/header area, the search bar, the interface body containing the list of apps sorted in alphabetical order, a persistent alphabetic index bar along the right margin, and the dock/navigation context:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital percentage readout "62."
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Apps" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apps".
+•	The interface is visually organized into five areas: the status area, the navigation/header area, the search bar, the interface body containing the list of apps sorted in alphabetical order, a persistent alphabetic index bar along the right margin, and the dock/navigation context:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "62."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apps".
 o	Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
-•	Interface Body & Alphabetic Index: Positioned immediately below the search bar, the list begins with the Default Apps interactive menu item. Spanning vertically along the right-hand margin of the interface is a persistent alphabetic index bar composed of capital letter bookmarks colored blue, designed to allow rapid navigation to specific alphabetical modules.
-
-Beginning with the A module:
-App Store: Displayed as an interactive menu item.
-Apple Store: Displayed as an interactive menu item.
-
-Under the B module:
-Books: Displayed as an interactive menu item.
-
-Under the C module:
-Calculator: Displayed as an interactive menu item.
-Calendar: Displayed as an interactive menu item.
-Clock: Displayed as an interactive menu item.
-Compass: Displayed as an interactive menu item.
-Contacts: Displayed as an interactive menu item.
-
-Under the F module:
-FaceTime: Displayed as an interactive menu item.
-Files: Displayed as an interactive menu item.
-Find My: Displayed as an interactive menu item.
-Fitness: Displayed as an interactive menu item.
-Freeform: Displayed as an interactive menu item.
-
-Under the G module:
-GarageBand: Displayed as an interactive menu item.
-
-Under the H module:
-Health: Displayed as an interactive menu item.
+o	Interface Body & Alphabetic Index: Positioned immediately below the search bar, the list begins with the Default Apps interactive menu item. Spanning vertically along the right-hand margin of the interface is a persistent alphabetic index bar composed of capital letter bookmarks colored blue, designed to allow rapid navigation to specific alphabetical modules.
+o	Beginning with the A module:
+	App Store: Displayed as an interactive menu item.
+	Apple Store: Displayed as an interactive menu item.
+o	Under the B module:
+	Books: Displayed as an interactive menu item.
+o	Under the C module:
+	Calculator: Displayed as an interactive menu item.
+	Calendar: Displayed as an interactive menu item.
+	Clock: Displayed as an interactive menu item.
+	Compass: Displayed as an interactive menu item.
+	Contacts: Displayed as an interactive menu item.
+o	Under the F module:
+	FaceTime: Displayed as an interactive menu item.
+	Files: Displayed as an interactive menu item.
+	Find My: Displayed as an interactive menu item.
+	Fitness: Displayed as an interactive menu item.
+	Freeform: Displayed as an interactive menu item.
+o	Under the G module:
+	GarageBand: Displayed as an interactive menu item.
+o	Under the H module:
+	Health: Displayed as an interactive menu item.
 [00:00:45.543] I scrolled down within the interface body, maintaining visibility of the alphabetic index bar on the right margin. The list of applications continues:
-
-Under the I module:
-iMovie: Displayed as an interactive menu item. (Note: fixed typo from iMovies)
-iTunes Store: Displayed as an interactive menu item.
-
-Under the J module:
-Journal: Displayed as an interactive menu item.
-
-Under the K module:
-Keynote: Displayed as an interactive menu item.
-
-Under the M module:
-Magnifier: Displayed as an interactive menu item.
-Mail: Displayed as an interactive menu item.
-Maps: Displayed as an interactive menu item.
-Measure: Displayed as an interactive menu item.
-Messages: Displayed as an interactive menu item.
-Music: Displayed as an interactive menu item.
+o	Under the I module:
+	iMovie: Displayed as an interactive menu item.
+	iTunes Store: Displayed as an interactive menu item.
+o	Under the J module:
+	Journal: Displayed as an interactive menu item.
+o	Under the K module:
+	Keynote: Displayed as an interactive menu item.
+o	Under the M module:
+	Magnifier: Displayed as an interactive menu item.
+	Mail: Displayed as an interactive menu item.
+	Maps: Displayed as an interactive menu item.
+	Measure: Displayed as an interactive menu item.
+	Messages: Displayed as an interactive menu item.
+	Music: Displayed as an interactive menu item.
 [00:00:47.682] I continued scrolling down, with the alphabetic index bar remaining fixed on the right margin. The list proceeds:
-
-Under the N module:
-News: Displayed as an interactive menu item.
-Notes: Displayed as an interactive menu item.
-Numbers: Displayed as an interactive menu item.
-
-Under the P module:
-Pages: Displayed as an interactive menu item.
-Passwords: Displayed as an interactive menu item.
-Phone: Displayed as an interactive menu item.
-Photos: Displayed as an interactive menu item.
-Podcasts: Displayed as an interactive menu item.
-
-Under the R module:
-Reminders: Displayed as an interactive menu item.
-
-Under the S module:
-Safari: Displayed as an interactive menu item.
-Shortcuts: Displayed as an interactive menu item.
-Stocks: Displayed as an interactive menu item.
-
-Under the T module:
-Tips: Displayed as an interactive menu item.
-Translate: Displayed as an interactive menu item.
-TV: Displayed as an interactive menu item.
-
-Under the V module:
-Voice Memos: Displayed as an interactive menu item.
-
-Under the W module:
-Wallet: Displayed as an interactive menu item.
-Weather: Displayed as an interactive menu item.
-
-Final Module:
-Hidden Apps: Displayed as an interactive menu item.
+o	Under the N module:
+	News: Displayed as an interactive menu item.
+	Notes: Displayed as an interactive menu item.
+	Numbers: Displayed as an interactive menu item.
+o	Under the P module:
+	Pages: Displayed as an interactive menu item.
+	Passwords: Displayed as an interactive menu item.
+	Phone: Displayed as an interactive menu item.
+	Photos: Displayed as an interactive menu item.
+	Podcasts: Displayed as an interactive menu item.
+o	Under the R module:
+	Reminders: Displayed as an interactive menu item.
+o	Under the S module:
+	Safari: Displayed as an interactive menu item.
+	Shortcuts: Displayed as an interactive menu item.
+	Stocks: Displayed as an interactive menu item.
+o	Under the T module:
+	Tips: Displayed as an interactive menu item.
+	Translate: Displayed as an interactive menu item.
+	TV: Displayed as an interactive menu item.
+o	Under the V module:
+	Voice Memos: Displayed as an interactive menu item.
+o	Under the W module:
+	Wallet: Displayed as an interactive menu item.
+	Weather: Displayed as an interactive menu item.
+o	Final Module:
+	Hidden Apps: Displayed as an interactive menu item.
 [00:00:50.071] I scrolled back up
 [00:00:51.979] I scrolled further up
 [00:00:52.654] I tapped the Journal app
 [00:00:52.664] The Journal App's settings interface.
-
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital percentage readout "61."
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "61."
 •	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
 o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Apps" accompanied by a directional chevron.
 o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Journal".
 •	Interface Body (Lower Tier):
-o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins with the "ALLOW JOURNAL TO ACCESS" module. Controls and settings appeared as follows: 
-
-Location When Share: Displayed as an interactive menu item (with grayed-out text and status indicating a disabled state).
-Photos Private Access: Displayed as an interactive menu item.
-Apple Intelligence & Siri: Displayed as an interactive menu item.
-Search: Displayed as an interactive menu item.
-Live Activities: toggled On (green)
-Background App Refresh: toggled On (green, but rendered with a faded color quality indicative of a restricted or unmodifiable system state)
-Cellular Data: toggled On (green)
-
-Next module:
-Journaling Suggestions: Displayed as an interactive menu item.
-
-Under the "NEW ENTRY" module: 
-
-Skip Journaling Suggestions: toggled On (green)
-Add Entry Title   Always: Displayed as an interactive menu item.
-Always Use Moment Data: toggled On (green)
-Text under these settings: When adding a suggestion to a new entry, always use the date from moment as the entry date.
+o	Positioned immediately below the navigation bar, the primary body content begins with the "ALLOW JOURNAL TO ACCESS" module. Controls and settings appeared as follows: 
+	Location: Displayed as an interactive menu item (with grayed-out text and status indicating a disabled state).
+•	Displays the status “When Shared”
+	Photos Private Access: Displayed as an interactive menu item.
+	Apple Intelligence & Siri: Displayed as an interactive menu item.
+	Search: Displayed as an interactive menu item.
+	Live Activities: toggled On (green)
+	Background App Refresh: toggled On (green, but rendered with a faded color quality indicative of a restricted or unmodifiable system state)
+	Cellular Data: toggled On (green)
+o	Next module:
+	Journaling Suggestions: Displayed as an interactive menu item.
+o	Under the "NEW ENTRY" module: 
+	Skip Journaling Suggestions: toggled On (green)
+	Add Entry Title: Displayed as an interactive menu item.
+•	Displays the status “Always”
+	Always Use Moment Data: toggled On (green)
+	Text under these settings: When adding a suggestion to a new entry, always use the date from moment as the entry date.
 [00:00:57.950] I scrolled down within the interface body. The list of controls and settings continues:
-
-Under the "GENERAL" module:
-
-Notifications Off: Displayed as an interactive menu item.
-Lock Journal: Displayed as an interactive menu item.
-Show Insights Summary: toggled Off (gray)
-Save to Photos: toggled Off (gray)
-Text under these settings: Save photos and videos taken in Journal to the Photos app. 
-
-Additional Action Links:
-
-Export All Journal Entries: Displayed as an interactive hyperlink rendered in blue text.
-
-Health Access: Displayed as an interactive hyperlink rendered in blue text.
-
-Text under this link: "Allow Journal to add your state of mind and mindful minutes to Health."
+o	Under the "GENERAL" module:
+	Notifications Off: Displayed as an interactive menu item.
+	Lock Journal: Displayed as an interactive menu item.
+	Show Insights Summary: toggled Off (gray)
+	Save to Photos: toggled Off (gray)
+	Text under these settings: Save photos and videos taken in Journal to the Photos app. 
+o	Additional Action Links:
+	Export All Journal Entries: Displayed as an interactive hyperlink rendered in blue text.
+	Health Access: Displayed as an interactive hyperlink rendered in blue text.
+•	Text under this link: "Allow Journal to add your state of mind and mindful minutes to Health."
 [00:01:00.674] I tapped the Notifications settings.
 [00:01:02.018] The Journal App's Notifications settings interface.
-
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital percentage readout "61."
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Journal" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Notifications".
-•	Interface Body (Lower Tier):
-o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins with the bold, large-sized text "Allow Notifications". 
-
-Explanatory text below: To receive notifications, you'll need to turn on notifications for Journal.
-
-Immediately below the intro text, the stand alone setting "Enable Notifications" in blue colored letters.
-
-The last two settings: 
-
-Journaling Schedule: toggled Off (gray). The associated label text rendered in a faded gray typeface to denote a disabled or unselectable status.
-
-Keep Your Streak: toggled Off (gray). The associated label text rendered in a faded gray typeface to denote a disabled or unselectable status.
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "61."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Journal" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Notifications".
+o	Interface Body (Lower Tier):
+	Positioned immediately below the navigation bar, the primary body content begins with the bold, large-sized text "Allow Notifications". 
+•	Explanatory text below: To receive notifications, you'll need to turn on notifications for Journal.
+	The stand-alone setting "Enable Notifications" in blue colored letters.
+	Journaling Schedule: toggled Off (gray). The associated label text rendered in a faded gray typeface to denote a disabled or unselectable status.
+	Keep Your Streak: toggled Off (gray). The associated label text rendered in a faded gray typeface to denote a disabled or unselectable status.
 [00:01:05.245] I tapped Journal
 [00:01:06.425] I navigated back to Journal app's setting main interface
-[00:01:13.897] The screen registered a hardware input when the volume button was pressed, prompting the system volume HUD—rendered as a black, vertically oriented, thin elongated capsule—to appear dynamically along the right margin of the display.
+[00:01:13.897] The screen registered a hardware input when the side/power button was pressed on the right side of the device, prompting the power HUD—rendered as a black, vertically oriented, thin elongated capsule—to appear dynamically along the right margin of the display. 
 [00:01:14.358] A modal prompt titled "Turn On Siri" animates into view, sliding upward from the bottom of the display. The prompt is visually organized with the following elements:
--Header/Title: "Turn On Siri" rendered in bold typography.
--Body Text: Descriptive text reading: "Siri can help you get things done just by using your voice. To get started, set up Siri."
--Interactive Action Buttons: Two horizontal or stacked native system buttons:
---"Set Up": Displayed as an interactive command button.
---"Not Now": Displayed as an interactive command button.
-[00:01:16.404] The Set Up Siri screen disappears, and the Journal App's Settings interface is on view
-[00:01:17.427] Finally, the power-off and emergency response interface overlays the display. The interface is visually organized into two principal areas: the status area, and the content area:
-
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
-o	Dynamic Island: Centered appearing as a small black pill without any active indicators
-o	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital percentage readout "61."
-•	Interface Body composed of the following three buttons: 
-Slide to power off: A horizontal interactive slider control positioned near the top of the interface, accompanied by the text label "slide to power off" and an accompanying circular power icon.
-Emergency Call: A horizontal interactive slider control positioned in the middle of the interface, accompanied by the text label "Emergency Call" and an accompanying circular SOS icon, with the explanatory text "Slide to call emergency Services" below
-
-Cancel: A command button located at the bottom of the display labeled "Cancel" to dismiss the interface.
-[00:01:22.089] HIGHLIGHTS: There are two anomalies illustrated in this screenrecording; the first is the discrepancy between the signal strength icons at the opening scene, when the control center is shown as I began the capture; and the second is the example of notificaiton pops up that hackled me throughout my use of apps despite having disabled the notifications of the apps; the case illustrated by this screenrecording is the Journal app.
-
-1) At the start of a screenrecording I observed a discrepancy between the signal strength show in the upper side status bar of the Control Center, and the signal strength shown inside the cell icon of the communications group widget (part of the main screen of the Control Center). The signal strength icon at the top-right of the Control Center, the icon to the left of the "Verizon 5GUW," showed three solid white bars. However, the cell icon shown inside the communications group widget, showed a signal strength pf only one bar solid white. Many of the captured screenrecording that begin with the Control Center as the opening scene, while I had the cellular service on, showed these two icons synchronized (i.e., the number of bars shown in the signal strength icon at the top of the interface, were reflected in the signal strength inside the bright green colored cell icon inside the communications group widget). To fully appreciate the discrepancy between these icons view screenrecording (a) and screenshot (b). Then to view the predominant appearance of the synchronized icons, view (this is not an exhaustive list) the opening scene of screenrecordings  (c), (e), and (g), the respective screenshots of these scenes are (d), (f), (h). Full filenames are listed below:   
-
-    a) "2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4"
-
-    b) "Capture_2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4_00-00-00_000 - Control Center signal strength icons discrepancy.png"
-
-    c) "2025-04-27_04-03-52_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-03-52_1.MP4"
-
-    d) "Capture_2025-04-27_04-03-52_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-03-52_1.MP4_00-00-00_000 - Control Center signal strength icons synchronized.png"
-
-    e) "2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4"
-
-    f) "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-00-00_000 - Control Center signal strength icons synchronized.png"
-
-    g) "2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4"
-
-    h) "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-00-00_000 - Control Center signal strength icons synchronized.png"
-
-2) In this screen recording, the notification "'Journal' Would Like to Send You Notifications. Notifications may include alerts, sounds, and icon badges. These can be configured in Settings. Don't Allow. Allow." pops up at the video's timestamp 00:00:08.096. But then I navigate to the app's settings interface, and show that I had previously disabled notifications by the app, timestamp 00:01:02.018. The screenshots below show the screens at the timestamps I referenced: 
-
-    a) "Capture_2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4_00-00-08_096 - App notification Journal Would Like to Send You Notifications.png"
-
-    b) "Capture_2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4_00-01-02_018 - App Notifications Disabled The Journal App.png"
-
-PROPOSED: 
-
-### HIGHLIGHTS
-There are two anomalies illustrated in this screen recording: 
-1. **Control Center Signal Strength Discrepancy:** The first is the discrepancy between the signal strength icons at the opening scene when the Control Center is shown as the capture begins. The signal strength icon at the top-right of the Control Center (to the left of "Verizon 5GUW") showed three solid white bars. However, the cell icon inside the communications group widget showed a signal strength of only one bar solid white. Many of the captured screen recordings that begin with the Control Center as the opening scene, while cellular service was active, showed these two icons synchronized (i.e., the number of bars shown in the top signal strength icon were reflected inside the bright green colored cell icon within the communications group widget). To fully appreciate the discrepancy between these icons, view screen recording (a) and screenshot (b). To view the predominant appearance of synchronized icons, view (in an unexhaustive list) the opening scenes of screen recordings (c), (e), and (g), alongside their respective screenshots (d), (f), and (h). Full filenames are listed below: 
-   * a) `"2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4"`
-   * b) `"Capture_2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4_00-00-00_000 - Control Center signal strength icons discrepancy.png"`
-   * c) `"2025-04-27_04-03-52_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-03-52_1.MP4"`
-   * d) `"Capture_2025-04-27_04-03-52_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-03-52_1.MP4_00-00-00_000 - Control Center signal strength icons synchronized.png"`
-   * e) `"2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4"`
-   * f) `"Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-00-00_000 - Control Center signal strength icons synchronized.png"`
-   * g) `"2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4"`
-   * h) `"Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-00-00_000 - Control Center signal strength icons synchronized.png"`
-2. **Unexpected Notification Prompt:** In this screen recording, the notification *"'Journal' Would Like to Send You Notifications..."* unexpectedly pops up at timestamp `00:00:08.096`. Subsequently, navigation to the app's settings interface at timestamp `01:01:02.018` demonstrates that app notifications had been previously disabled. The corresponding screenshots illustrating this behavior are: 
-   * a) `"Capture_2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4_00-00-08_096 - App notification Journal Would Like to Send You Notifications.png"`
-   * b) `"Capture_2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4_00-01-02_018 - App Notifications Disabled The Journal App.png"`
+•	Header/Title: "Siri" rendered in large bold typography.
+•	Body Text: Descriptive text reading: "Siri helps you find information and get things done, just by asking. To use Siri, press and hold the side button. Speak when Siri appears."
+•	Legal disclaimer: Apple stores transcripts of your interactions with Siri and may review a subset of these transcripts. Siri may also send information like your voice input. Siri setup, contacts, and location to Apple to process your request. Data is not associated with your Apple Account. About Siri…
+•	Interactive Action Buttons: Two horizontal system buttons:
+o	"Turn On Siri" (blue background with white letters)
+o	" Don’t Use Siri" (borderless button, with blue letters)
+[00:01:15.446] The screen registered a hardware input when the volume down button was pressed on the left side of the device, prompting the system volume HUD—rendered as a black, vertically oriented, thin elongated capsule—to appear dynamically along the left margin of the display.
+At this point, two vertical capsules are visible simultaneously on opposing edges of the display. 
+[00:01:16.404] The Turn On Siri screen suddenly disappears, and the Journal App's Settings interface is on view
+[00:01:16.535] And odd status bar behavior begins as it begins to fade and slide right in to view. This status bar associated with the hard reset interface.
+[00:01:16.832] The status bar slides so far to the right, that the Connectivity & Power related icons go out of view, and the system time and silence icon are partially visible to the right of the dynamic island--which was transformed from an elongated black shape pill with a solid red circular indicator on its left side to a narrower black shaped pill without any indicators.
+[00:01:17.789] Suddenly, the elements of the status bar shift to their usual place, with the system time and silence icon on the left of the dynamic island and the Connectivity & Power icons on the right side. 
+[00:01:17.888] The dynamic island begins to fade out of view
+[00:01:17.987] The dynamic island reappears fully in to view
+[00:01:18.119] The dynamic island suddenly completely disappears.
+[00:01:18.350] Finally, the power-off and emergency response interface overlays the display. 
+•	The interface is visually organized into two principal areas: the status area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
+	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "61."
+o	Interface Body composed of the following three buttons: 
+	Slide to power off: A horizontal interactive slider control positioned near the top of the interface, accompanied by the text label "slide to power off" and an accompanying circular power icon.
+	Emergency Call: A horizontal interactive slider control positioned in the middle of the interface, accompanied by the text label "Emergency Call" and an accompanying circular SOS icon, with the explanatory text "Slide to call emergency Services" below
+	Cancel: A command button located at the bottom of the display labeled "Cancel" to dismiss the interface.
