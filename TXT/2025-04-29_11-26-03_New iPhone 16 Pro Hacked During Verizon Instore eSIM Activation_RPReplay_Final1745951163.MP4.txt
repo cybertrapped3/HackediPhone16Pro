@@ -1,36 +1,146 @@
-Trying to figure out why the Wi-Fi was suddenly ON
+[00:00:00.000] The Control Center Interface.
+The Apple iPhone Control Center interface occupies substantially the entire display. The interface consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+Status Area
+At the top of the display, from left to right, the following elements are visible:
+•	A plus ("+") symbol positioned in the upper-left corner.
+•	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+•	A power symbol positioned in the upper-right corner.
+Immediately below the status area are:
+•	An Airplane Mode status indicator positioned on the left.
+•	A battery indicator positioned on the right displaying a battery level of 49%.
 
-[00:00:00.000] iPhone "Control Center" shows Airplane mode ON
+The Connectivity Module
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
+The following controls are displayed:
+•	Airplane Mode, displayed as an orange circular button with a white airplane symbol, visually indicating an active or enabled state.
+•	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+•	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+•	Four additional gray circular controls displaying symbols visually consistent with:
+•	Cellular communications, indicating a disabled state.
+•	Bluetooth, indicating an inactive state.
+•	Hot spot, indicating a disabled state.
+•	VPN, indicating an disabled state.
+
+The Media Playback Module
+The upper-right Control Center module contains the media playback controls.
+The module displays:
+•	An empty media artwork placeholder positioned on the left side.
+•	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+•	The text "Not Playing" displayed beneath the artwork placeholder.
+•	A row of media playback controls consisting of:
+o	Previous.
+o	Play.
+o	Next.
+The module displays no media title, artist information, or artwork.
+
+The Rotation Lock and Silent Mode Controls
+Immediately below the Connectivity Module are two circular system controls.
+These controls display symbols visually consistent with:
+•	Rotation Lock.
+•	Silent Mode.
+Each control is displayed as a gray circular button.
+
+The Focus Module
+Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
+
+The Brightness and Volume Controls
+
+Immediately below the Media Playback Module are two vertical slider controls.
+The left slider controls screen brightness and displays a sun symbol near its lower end. The brightness level is approximately 33% up.
+The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 83% up.
+
+The Utility Controls
+The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
+The controls display symbols visually consistent with:
+•	Flashlight.
+•	Timer.
+•	Calculator.
+•	Camera.
+•	Screen Mirroring.
+•	Code Scanner (QR Scanner).
+•	Screen Recording.
+•	Notes / Quick Note.
+The Screen Recording control displays a red circular recording indicator within the control.
+
+The Right-Edge Interface Icons
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group).
+[00:00:00.758] As a small orange circle faded in to view inside of the dynamic island, right off center, the volume control level filled all way up, and the screen recording button changed from a gray and red, to white and red button. The orange circle inside the dynamic island denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
 [00:00:01.696] I can hear the atmospheric sound in the background
+[00:00:02.324] I swiped the Control Center up out of view. 
 [00:00:03.010] I navigate to the Home screen
-[00:00:04.000] The screen recorder indicator has the orange circle with a black border to its right. 
+[00:00:03.075] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 11:24. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. A small orange circular indicator is visible just right of center inside the Dynamic Island, denoting that the system microphone is simultaneously active.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital percentage readout "49."
+Below the status bar, a pair of application widgets are displayed: on the left, the Weather widget displays the text "Weather Unavailable"; on the right, the Calendar widget displays the text "TUESDAY 29 No events today." Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+Positioned just above the Dock is a persistent Search button. Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+[00:00:03.314] The small range circle inside of the dynamic island begins to transition to the outside of the island. 
+[00:00:03.842] Now the small orange circle is outside, and to the right side, of the dynamic island. The circle now has a black border. 
 [00:00:04.291] I tapped the Settings app open
-[00:00:05.284] The Settings app interface
+[00:00:04.455] During the launch Settings application, a secondary status bar appears within the application interface, distinct from the system status bar at the top of the display.
+[00:00:05.214] The Settings App interface. 
+
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 11:24. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+o	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
+•	Interface Body:
+o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+
+Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+
+Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
+
+The subsequent controls and settings appeared as follows:
+
+Airplane Mode: Toggled On (green).
+Wi-Fi: Displays the status "Off".
+Bluetooth: Displays the status "Off".
+Cellular: : Displays the status "Off".
+Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it can not be controlled by the user.
+Battery: Displayed as an interactive menu item.
+
+General: Displayed as an interactive menu item.
+Accessibility: Displayed as an interactive menu item.
+Partially visible, the Action Button: Displayed as an interactive menu item.
 [00:00:07.824] I tapped the Cellular setting
 [00:00:08.577] The Cellular settings interface shows the following configuration: "Cellular Data" toggled Off; "Cellular Data Options" is blank, and the "Personal Hotspot" is Off and grayed out. 
 
-Under the "VERIZON" module, the "Turn On This Line" setting is toggled On. My Number appears as "+1 (669) 326-4200". The "Wi-Fi Calling" is set to Off. The "Carrier Services" is blank. "SIM PIN" is blank. The control "Delete eSIM" has red colored letter. 
+Under the "VERIZON" module, the "Turn On This Line" setting is toggled On. My Number appears as "+1 (669) 326-4200". The "Wi-Fi Calling" is set to Off. The "Carrier Services" is blank. "SIM PIN" is blank. The control "Delete eSIM" has red colored letter.
 [00:00:16.413] I navigate back to the main Setting app interface. The "Wi-Fi" connection type is set to Off. The "Bluetooth" connection type is set to Off. The "Cellular" connection type is set to Off. "Personal Hotspot" if Off and grayed out.
 [00:00:18.185] We can hear my voice "The orange button indicates that this is recording the sound  "
-[00:00:26.842] The iPhone "Control Center" interface shows the Airplane mode on. Under the "Screen Recorder" indicator we can see the text "System >" with an orange microphone icon to the left. 
+[00:00:26.842] The iPhone "Control Center" interface shows the Airplane mode on. Under the "Screen Recorder" indicator we can see the text "System >" with an orange microphone icon to the left.
 [00:00:28.298] I tapped the text "System" and the "Privacy" interface faded into view
 [00:00:28.660] The "Screen Recorder" Privacy interface shows "Privacy. System (appears inactive icon colored white). Microphone (active  because icon appears colored orange).
 [00:00:29.262] We can hear my voice "There we can see. At least that's what I think."
 [00:00:35.850] I navigate back to the iPhone's "Control Center" interface
-[00:00:36.876] I swiped the "Control Center" away, and we were back in the Settings app main interface. The "Wi-Fi" setting is set to Off. 
+[00:00:36.876] I swiped the "Control Center" away, and we were back in the Settings app main interface. The "Wi-Fi" setting is set to Off.
 [00:00:39.599] We can hear the atmospheric sounds in the background
 [00:00:42.058] I toggled the "Airplane Mode" Off, and the Wi-Fi setting changed to "Not Connected"
 [00:00:48.904] I navigated to the Home screen
 [00:00:50.846] I tapped the Phone app open
 [00:00:52.240] The Phone app's dialpad
-[00:00:54.758] After I tapped the "Recents" control, we can see the recent calls log. It shows a call to (310) 745-9981 placed at 11:15.  
-[00:00:55.364] The tool tip "Search Your Call History. Type a name, keyboard, or date to find recent calls, voicemails, and contacts." When this appeared in the screen, the Recents icon changed color from royal blue to gray. 
+[00:00:54.758] After I tapped the "Recents" control, we can see the recent calls log. It shows a call to (310) 745-9981 placed at 11:15.
+[00:00:55.364] The tool tip "Search Your Call History. Type a name, keyboard, or date to find recent calls, voicemails, and contacts." When this appeared in the screen, the Recents icon changed color from royal blue to gray.
 [00:01:06.721] We can hear my voice "All right, we are going to have to do this again"
-[00:01:06.926] When I closed the tooltip, the Recents icon changed color from gray to royal blue. 
+[00:01:06.926] When I closed the tooltip, the Recents icon changed color from gray to royal blue.
 [00:01:11.376] We can hear I sigh
-[00:01:24.801] I swiped the iPhone's "Control Center" into view, and in the communications group tile we can see the Wi-Fi icon colored Royal Blue. The Verizon network shows one bar. 
-[00:01:25.164] Under the "Screen Recorder" active indicator we can see the text "System Controls >" with an orange and white microphone icon to its left. 
-[00:01:26.215] Videos that show the "Wi-Fi Calling" Off
+[00:01:24.801] I swiped the iPhone's "Control Center" into view, and in the communications group tile we can see the Wi-Fi icon colored Royal Blue. The Verizon network shows one bar.
+[00:01:25.164] Under the "Screen Recorder" active indicator we can see the text "System Controls >" with an orange and white microphone icon to its left.
+[00:01:26.215] VIP [00:00:05.214] Settings app interface shows the Cellular settings status as "Off"
+
+Videos that show the "Wi-Fi Calling" Off
 2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4
 
 This video shows that the setting "Wi-Fi Calling" was set to off (timeline 00:00:08.577).
