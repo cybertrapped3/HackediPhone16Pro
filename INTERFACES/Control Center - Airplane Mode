@@ -64,8 +64,7 @@ The controls display symbols visually consistent with:
 The Screen Recording control displays a red circular recording indicator within the control.
 
 The Right-Edge Interface Icons
-Along the right edge of the display is a vertical column of three interface icons.
-From top to bottom, the icons consist of:
-•	A heart symbol (jump to the main/first page of the interface, the current one).
-•	A musical note symbol (jump to the media player).
-•	A wireless transmission symbol (jump to the connectivity related controls panel).
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group).
