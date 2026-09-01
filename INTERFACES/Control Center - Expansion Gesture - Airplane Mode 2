@@ -14,10 +14,10 @@ Wi-Fi: Left-hand control labeled “Wi-Fi” displaying “Off,” with a Wi-Fi 
 
 AirDrop: Right-hand control labeled “AirDrop” displaying “Receiving Off,” with an AirDrop symbol inside a gray circular icon.
 
-Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with its corresponding icon inside a gray circular area.
+Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with its corresponding icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the cell icon shape and its surrounding containment circle.
 
 Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with a Bluetooth symbol inside a gray circular icon.
 
-Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a gray circular area on the left.
+Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the hotspot icon shape and its surrounding containment circle.
 
-VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon inside a gray circular area on the left.
+VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the VPN icon shape and its surrounding containment circle.
