@@ -1,0 +1,23 @@
+Control Center Expansion Gesture: The video depicts an extended downward swipe gesture within the Control Center interface, resulting in a continuous transition across multiple modular sub-screens:
+
+Initial Scale & Media Player Phase: The gesture initially reveals the primary Control Center interface at a reduced scale. As the swipe continues downward, the heart icon from the right-hand stack transitions to white, increases slightly in size, and shifts leftward.
+
+Media Player View: The display transitions to the dedicated media player interface (featuring an iPod graphic displaying "Not Playing"). During this phase, the musical note icon in the right-hand stack enlarges, changes from gray to white, and shifts leftward, while the heart icon returns to its original size, color, and position.
+
+Connectivity Panel View: Continuing the downward motion, the wireless transmission symbol enlarges, turns white, and shifts leftward while the musical note returns to its default appearance. The interface finally settles on the full-screen connectivity panel.
+
+• Connectivity Panel Layout: The interface displays a vertically arranged series of rounded rectangular control panels set against a blurred background:
+
+Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “On,” featuring an airplane symbol inside an orange circular icon on the left.
+
+Wi-Fi: Left-hand control labeled “Wi-Fi” displaying “Off,” with a Wi-Fi symbol inside a gray circular icon.
+
+AirDrop: Right-hand control labeled “AirDrop” displaying “Receiving Off,” with an AirDrop symbol inside a gray circular icon.
+
+Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with its corresponding icon inside a gray circular area.
+
+Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with a Bluetooth symbol inside a gray circular icon.
+
+Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a gray circular area on the left.
+
+VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon inside a gray circular area on the left.
