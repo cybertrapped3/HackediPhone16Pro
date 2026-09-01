@@ -142,17 +142,16 @@ Under the VERIZON module
 	SIM PIN: Displayed as an interactive menu item.
 	Delete eSIM: red colored letters
 [00:00:16.045] I tapped Settings
-[00:00:16.413] I navigate back to the Settings app's main interface. 
+[00:00:16.413] I navigate back to the Settings app's main interface.
 [00:00:18.185] We can hear my voice "The orange button indicates that this is recording the sound  "
 [00:00:22.216] I swiped the Control Center down in to view
-[00:00:22.513] CONTINUE HERE:
-Control Center Expansion Gesture: The video depicts an extended downward swipe gesture within the Control Center interface, resulting in a continuous transition across multiple modular sub-screens:
+[00:00:22.513] Control Center Expansion Gesture: The video depicts an extended downward swipe gesture within the Control Center interface, resulting in a continuous transition across multiple modular sub-screens:
 
 Initial Scale & Media Player Phase: The gesture initially reveals the primary Control Center interface at a reduced scale. As the swipe continues downward, the heart icon from the right-hand stack transitions to white, increases slightly in size, and shifts leftward.
+[00:00:23.074] Media Player View: The display transitions to the dedicated media player interface (featuring an iPod graphic displaying "Not Playing"). During this phase, the musical note icon in the right-hand stack enlarges, changes from gray to white, and shifts leftward, while the heart icon returns to its original size, color, and position.
 
-Media Player View: The display transitions to the dedicated media player interface (featuring an iPod graphic displaying "Not Playing"). During this phase, the musical note icon in the right-hand stack enlarges, changes from gray to white, and shifts leftward, while the heart icon returns to its original size, color, and position.
 
-Connectivity Panel View: Continuing the downward motion, the wireless transmission symbol enlarges, turns white, and shifts leftward while the musical note returns to its default appearance. The interface finally settles on the full-screen connectivity panel.
+[00:00:23.370] Connectivity Panel View: Continuing the downward motion, the wireless transmission symbol enlarges, turns white, and shifts leftward while the musical note returns to its default appearance. The interface finally settles on the full-screen connectivity panel.
 
 • Connectivity Panel Layout: The interface displays a vertically arranged series of rounded rectangular control panels set against a blurred background:
 
@@ -162,13 +161,20 @@ Wi-Fi: Left-hand control labeled “Wi-Fi” displaying “Off,” with a Wi-Fi 
 
 AirDrop: Right-hand control labeled “AirDrop” displaying “Receiving Off,” with an AirDrop symbol inside a gray circular icon.
 
-Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with its corresponding icon inside a gray circular area.
+Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with its corresponding icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the cell icon shape and its surrounding containment circle.
 
 Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with a Bluetooth symbol inside a gray circular icon.
 
-Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a gray circular area on the left.
+Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the hotspot icon shape and its surrounding containment circle.
 
-VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon inside a gray circular area on the left.
+VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the VPN icon shape and its surrounding containment circle.
+[00:00:24.426] CONTINUE HERE: Reverse Transition & Settling Phase: As the downward swipe concludes and the interface fully engages the main panel, the sequence reverses direction to settle into the primary view:
+
+Initial Retraction Phase: Releasing or finalizing the downward motion prompts the interface to retrace its steps upward. The wireless transmission symbol shrinks, shifts rightward, and reverts to its default gray appearance, while the musical note icon simultaneously enlarges, turns white, and shifts leftward.
+
+Secondary Media Player Recess: The view briefly cycles back through the dedicated media player interface. As the upward settling continues, the musical note icon returns to its original size, color, and position, while the heart icon from the right-hand stack scales up, transitions to white, and shifts leftward.
+
+Final Interface Settlement: The motion concludes as the primary Control Center interface returns to its standard scale. The heart icon reverts to its default appearance, and the system completely settles into the main panel view, with the full-screen connectivity grid stabilized and fully interactive.
 [00:00:26.842] The iPhone "Control Center" interface shows the Airplane mode on. Under the "Screen Recorder" indicator we can see the text "System >" with an orange microphone icon to the left.
 [00:00:28.298] I tapped the text "System" and the "Privacy" interface faded into view
 [00:00:28.660] The "Screen Recorder" Privacy interface shows "Privacy. System (appears inactive icon colored white). Microphone (active  because icon appears colored orange).
