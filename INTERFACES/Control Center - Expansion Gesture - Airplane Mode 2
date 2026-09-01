@@ -21,3 +21,17 @@ Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with
 Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the hotspot icon shape and its surrounding containment circle.
 
 VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the VPN icon shape and its surrounding containment circle.
+
+REVERSE TRANSITION
+
+Reverse Transition & Settling Phase: As the downward swipe concludes and the interface fully engages the main panel, the sequence reverses direction to settle into the primary view:
+
+Initial Retraction Phase: Releasing or finalizing the downward motion prompts the interface to retrace its steps upward. The wireless transmission symbol shrinks, and shifts rightward. Then, it enlarges again as it shifts left. 
+
+The view briefly cycles back through the dedicated media player interface. 
+
+The musical note changes from gray to white, and it enlarges as it shifts left, while the transmission symbol shrinks, and shifts rightward. 
+
+As the upward settling continues, the musical note icon returns to its original size, color, and position, while the heart icon from the right-hand stack scales up, transitions to white, and shifts leftward.
+
+Final Interface Settlement: The motion concludes as the primary Control Center interface returns to its standard scale. The heart icon reverts to its default appearance, and the system completely settles into the main panel view, with the full-screen connectivity grid stabilized and fully interactive.
