@@ -1,0 +1,19 @@
+The Phone app's interface: Keypad Mode.
+•	The interface occupies substantially the entire display and consists of a status area at the top of the display, the keypad buttons arranged in a grid, and the footer with icons to navigate different views:
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 11:25. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
+o	Connectivity & Power: The Signal Strength icon shows three black bars and one gray. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
+•	Keypad Area: in the center of the screen, a 3x4 grid of twelve circular buttons. Each button is a translucent, light-grey circles. The Layout of these circles: 
+
+o	Row 1: 1 (no letters), 2 (ABC), 3 (DEF)
+o	Row 2: 4 (GHI), 5 (JKL), 6 (MNO)
+o	Row 3: 7 (PQRS), 8 (TUV), 9 (WXYZ)
+o	Row 4: * (Asterisk), 0 (+), # (Hashtag)
+o	Centered perfectly beneath the dialing grid is a large, vibrant green circular button featuring a white silhouette of a traditional telephone receiver.
+•	Footer Area: the footer spans full-width across the bottom of the screen and displays five icons, each with a small text label beneath it:
+o	Favorites (Star Icon)
+o	Recents (Clock Icon)
+o	Contacts (Silhouette Icon)
+o	Keypad (Number Pad Icon --colored blue to indicate this is the active view)
+o	Voicemail (Tape Reel Icon)
