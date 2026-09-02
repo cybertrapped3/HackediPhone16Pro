@@ -30,7 +30,6 @@ o	A row of media playback controls consisting of:
 	Play.
 	Next.
 The module displays no media title, artist information, or artwork.
-
 The Rotation Lock and Silent Mode Controls
 Immediately below the Connectivity Module are two circular system controls.
 •	These controls display symbols visually consistent with:
@@ -62,7 +61,7 @@ o	A musical note symbol (Media Playback group).
 o	A wireless transmission symbol (Connectivity group)
 [00:00:00.264] The screen recording button transitions from gray and red to white and red.
 [00:00:06.051] Control Center is swiped upward out of view.
-[00:00:06.381] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+[00:00:06.381] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a persistent Search button, and the Dock.
 •	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 12:45. Positioned to its right is the silent mode icon.
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. 
@@ -91,16 +90,16 @@ Initial Retraction Phase: Releasing or finalizing the downward motion prompts th
 [00:00:09.615] The view briefly cycles back through the dedicated media player interface.
 The musical note changes from gray to white, and it enlarges as it shifts left, while the transmission symbol shrinks, and shifts rightward.
 [00:00:09.780] As the upward settling continues, the musical note icon returns to its original size, color, and position, while the heart icon from the right-hand stack scales up, transitions to white, and shifts leftward.
-[00:00:10.473] The iPhone "Control Center" interface main view is displayed fully.
+[00:00:10.473] The primary Control Center view is displayed fully.
 [00:00:10.638] The Control Center is swiped upward out of view.
-[00:00:16.641] The iPhone's Global Search interface.
-•	The interface is visually organized into five principal areas: the status area, the suggestions area, the shortcuts area, the search bar, and the screen keyboard:
+[00:00:16.641] The Global Search interface.
+•	The interface is visually organized into five principal areas: the status area, the suggestions area, the shortcuts area, the global search bar, and the screen keyboard.
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 12:45. Positioned to its right is the silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 2 centered within the housing.
 o	Immediately below the Status Bar area is the Suggestions area with a small heading and text tool, and a Dock: 
-	Small heading: In the left side, the normal sixed white lettered heading "Siri Suggestions"
+	Small heading: In the left side, the normal-sized white lettered heading "Siri Suggestions"
 	Text tool: Normal sized white lettered tool "Show More
 	The Dock: a translucent horizontal container housing the following four application icons:
 •	Settings App
@@ -109,7 +108,7 @@ o	Immediately below the Status Bar area is the Suggestions area with a small hea
 •	Tips
 o	The Shortcuts Area:
 	A single entry with the icon of a camera, followed by the normal sized white text Selfie, and a small silhouette icon on the far-right side
-o	Global Search Bar: above the screen keyboard, a rounded gray inset container with a magnifying glass glyph on the left side and the placeholder text “Search” with the cursor right before the S
+o	Global Search Bar: above the screen keyboard, a rounded gray inset container with a magnifying glass glyph on the left side and the placeholder text “Search” with the cursor right before the “S”
 o	The screen keyboard pinned to the bottom side of the screen
 [00:00:17.631] The Notifications center was swiped down into view
 [00:00:17.928] The Notifications Center Interface. 
@@ -122,7 +121,7 @@ o	The Date and Time area:
 	The Date: immediately below the Status Bar, the date is displayed in medium-sized, translucent-white text as "Monday, April 28". 
 	The Time: Below the Date, in very large-sized, translucent-white, the time is displayed as 12:45
 o	The notifications area: On the lower half of the screen the area is comprised of the heading and the notifications feed:
-	The heading: In medium-size white letters, the heading "Notification Center" with a translucent-white close (x) icon on the far right side
+	The heading: In medium-size white letters, the heading "Notification Center" with a translucent-white close (x) icon on the far-right side
 	The notifications feed: Two notifications inside translucent-white rounded rectangles. Each notification with an icon, heading, message, day and time:
 •	First notification item: 
 o	The heading: Website NFC Tag
@@ -145,17 +144,6 @@ o	The Footer: Two white icons pinned to the lower side of the screen:
 [00:00:41.190] The notifications feed is scrolled back up and dismissed, and the notifications center is left without any visible item.
 [00:00:42.189] The notifications center is swiped up out of view.
 [00:00:43.218] The Home Screen is visible.
-[00:00:43.614] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 12:46. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. 
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital percentage readout "2."
-•	Below the status bar, a pair of application widgets are displayed: 
-o	Left: Weather widget displaying "Weather Unavailable"
-o	Right: Calendar widget displaying "MONDAY 28 No events today." 
-•	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
-•	Positioned just above the Dock is a persistent Search button. 
-•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:00:48.601] The Settings application is launched.
 [00:00:48.700] During the launch Settings application, a secondary status bar appears within the application interface, distinct from the system status bar at the top of the display.
 [00:00:49.782] The Settings App interface. 
@@ -235,11 +223,11 @@ o	Interface Body:
 [00:01:14.569] The Settings App interface.
 [00:01:16.898] Airplane Mode is toggled off, and the Cellular setting updates, the status "Airplane Mode” disappearing and leaving the status blank.
 [00:01:17.294] The first module of settings slides down revealing the banner "Get Help During an Emergency (1)."
-The setting Personal Hotspot changes from a disabled state to control that can be operated by the user. This is indicated by the change from faded colors to a bright green and black text.
-[00:01:19.637] After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the cellular signal strength icon fades into view displaying one black bar and three gray bars accompanied by the label of the network type 5G.
+Personal Hotspot changes from a disabled grayed-out state to an active operable control. This is indicated by the change from faded colors to black text and bright green switch.
+[00:01:19.637] After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the cellular signal strength icon fades into view displaying one black bar and three gray bars accompanied by the network designation 5G.
+[00:01:21.451] The signal strength increased from one to three bars, and the network designation changed from 5G to 5GUW.
 [00:01:31.096] Control Center is swiped down into view
 [00:01:32.092] Two interface changes are visible compared to prior descriptions: the Airplane Mode status indicator positioned on the left has been replaced by the Signal Strength and Cell Service Network Information and Connectivity Module has updated. 
-
 The Signal Strength icon shows three white bars and one gray; and the network is indicated by 
 “Verizon 5GUW.”
 The controls in the Connectivity Module now appear as follows:
