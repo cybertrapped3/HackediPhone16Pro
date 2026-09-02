@@ -138,10 +138,10 @@ o	Day and Time: Yesterday, 5:00 AM
 o	The Footer: Two white icons pinned to the lower side of the screen:
 	On the left: Headlamp icon
 	On the right: the Camera icon
-[00:00:25.069] The notifications feed was expanded to show more items. Several rounded rectangles with the same Website NFC Tag notification were revealed into view. These are also from Yesterday, but the times span 11:54 AM to 11:53 AM.
-[00:00:35.722] Eleven "Website NFC Tag" notifications were shown. All of these from "Yesterday" with three different time spans, 4:20s, 4:57s, 11:50s
-[00:00:37.537] The scrolling of the notifications feed reveals several more notifications that continue to span chronologically backwards to Yesterday, 4:26AM
-[00:00:41.190] The notifications feed is scrolled back up and dismissed, and the notifications center is left without any visible item.
+[00:00:25.069] The notifications feed expands to reveal several rounded rectangles containing additional "Website NFC Tag" notifications from "Yesterday," spanning chronologically from 11:54 AM to 11:53 AM.
+[00:00:35.722] A total of eleven "Website NFC Tag" notifications are shown, all from "Yesterday" across three distinct time intervals (4:20s, 4:57s, 11:50s).
+[00:00:37.537] Scrolling the notifications feed reveals additional entries continuing chronologically backward to "Yesterday, 4:26 AM."
+[00:00:41.190] The notifications feed is scrolled back up and dismissed, leaving the Notification Center empty of visible items.
 [00:00:42.189] The notifications center is swiped up out of view.
 [00:00:43.218] The Home Screen is visible.
 [00:00:48.601] The Settings application is launched.
@@ -221,9 +221,8 @@ o	Interface Body:
 [00:01:10.642] The Cellular Data setting was toggled Off (gray)
 [00:01:14.017] The Settings back-link was tapped
 [00:01:14.569] The Settings App interface.
-[00:01:16.898] Airplane Mode is toggled off, and the Cellular setting updates, the status "Airplane Mode” disappearing and leaving the status blank.
-[00:01:17.294] The first module of settings slides down revealing the banner "Get Help During an Emergency (1)."
-Personal Hotspot changes from a disabled grayed-out state to an active operable control. This is indicated by the change from faded colors to black text and bright green switch.
+[00:01:16.898] Airplane Mode is toggled off. The status display clears the "Airplane Mode" text from the Cellular row, leaving it blank.
+[00:01:17.294] The first module of settings slides down revealing the banner "Get Help During an Emergency (1)." Personal Hotspot transitions from a faded, disabled state to an active operable control indicated by bright green accents and black text. 
 [00:01:19.637] After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the cellular signal strength icon fades into view displaying one black bar and three gray bars accompanied by the network designation 5G.
 [00:01:21.451] The signal strength increased from one to three bars, and the network designation changed from 5G to 5GUW.
 [00:01:31.096] Control Center is swiped down into view
