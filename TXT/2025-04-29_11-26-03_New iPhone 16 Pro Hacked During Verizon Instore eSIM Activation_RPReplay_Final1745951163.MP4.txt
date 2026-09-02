@@ -63,10 +63,9 @@ Along the right edge of the display is a vertical column of three interface icon
 •	A heart symbol (Favorites/Home group, the current one).
 •	A musical note symbol (Media Playback group).
 •	A wireless transmission symbol (Connectivity group).
-[00:00:00.758] As a small orange circle fades in to view inside of the Dynamic Island, right off center, the volume control level fills all way up, and the screen recording button changes color from gray and red, to white and red. 
-The orange circle inside the Dynamic Island denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
+[00:00:00.758] A small orange circle fades into view just right of center inside the Dynamic Island, the volume control level fills to maximum, and the screen recording button transitions from gray and red to white and red. The orange circle inside the Dynamic Island denotes that the system microphone is actively recording audio. 
 [00:00:01.696] Atmospheric sound is audible in the background
-[00:00:02.324] Control Center is swiped up out of view.
+[00:00:02.324] Control Center is swiped upward out of view.
 [00:00:03.010] The Home screen is visible
 [00:00:03.075] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
 •	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -74,42 +73,41 @@ o	Time: Displays the local time as 11:24. Positioned to its right is the silent 
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. A small orange circular indicator is visible just right of center inside the Dynamic Island, denoting that the system microphone is simultaneously active.
 o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital percentage readout "49."
 •	Below the status bar, a pair of application widgets are displayed: 
-o	On the left, the Weather widget displays the text "Weather Unavailable"
-o	On the right, the Calendar widget displays the text "TUESDAY 29 No events today." 
+o	Left: Weather widget displaying "Weather Unavailable"
+o	Right: Calendar widget displaying "TUESDAY 29 No events today." 
 o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
 •	Positioned just above the Dock is a persistent Search button. 
 •	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:00:03.314] The small orange circle inside of the Dynamic Island begins to transition to the outside of the island.
-[00:00:03.842] Now the small orange circle is outside, and to the right side of the Dynamic Island. Now, the circle has a black border.
-[00:00:04.291] I tapped the Settings app open
+[00:00:03.842] The small orange circle is now positioned outside and to the right of the Dynamic Island, outlined with a black border.
+[00:00:04.291] The Settings application is launched.
 [00:00:04.455] During the launch Settings application, a secondary status bar appears within the application interface, distinct from the system status bar at the top of the display.
 [00:00:05.214] The Settings App interface. 
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 11:24. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
-•	Interface Body:
-o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
-o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
-o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
-	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
-o	Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
-o	Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
-•	The subsequent controls and settings appeared as follows:
-o	First module:
-	Airplane Mode: Toggled On (green).
-	Wi-Fi: Displays the status "Off".
-	Bluetooth: Displays the status "Off".
-	Cellular: Displays the status "Off".
-	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
-	Battery: Displayed as an interactive menu item.
-o	Second module:
-	General: Displayed as an interactive menu item.
-	Accessibility: Displayed as an interactive menu item.
-	Partially visible, the Action Button: Displayed as an interactive menu item.
+	Time: Displays the local time as 11:24. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
+o	Interface Body:
+	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+•	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+	The promotional upsell banner displayed as an interactive menu item: Apple News+ Free for 3 Months
+	The configuration action item displayed as an interactive menu item: Finish Setting Up Your iPhone (1)
+o	The subsequent controls and settings appeared as follows:
+	First module:
+•	Airplane Mode: Toggled On (green).
+•	Wi-Fi: Displays the status “Off.”
+•	Bluetooth: Displays the status “Off.”
+•	Cellular: Displays the status “Off.”
+•	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+•	Battery: Displayed as an interactive menu item.
+	Second module:
+•	General: Displayed as an interactive menu item.
+•	Accessibility: Displayed as an interactive menu item.
+•	Partially visible, the Action Button: Displayed as an interactive menu item.
 [00:00:07.824] I tapped the Cellular setting
 [00:00:08.577] The Cellular settings Interface
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
@@ -133,13 +131,12 @@ o	First group of settings:
 o	Under the VERIZON module:
 	Turn On This Line:  Toggled On (green).
 	My Number: +1 (669) 326-4200
-	Wi-Fi Calling: Displays the status "Off".
+	Wi-Fi Calling: Displays the status “Off.”
 	Carrier Services: Displayed as an interactive menu item.
 	SIM PIN: Displayed as an interactive menu item.
 	Delete eSIM: red colored letters
-[00:00:16.045] I tapped Settings
-[00:00:16.413] I navigate back to the Settings app's main interface.
-[00:00:18.185] We can hear my voice “The orange button indicates that this is recording the sound”
+[00:00:16.045] The interface navigates back to the main Settings menu.
+[00:00:18.185] Audio recording captures spoken commentary: "The orange button indicates that this is recording the sound."
 [00:00:22.216] I swiped the Control Center down in to view
 [00:00:22.513] Control Center Expansion Gesture: The video depicts an extended downward swipe gesture within the Control Center interface, resulting in a continuous transition across multiple modular sub-screens.
 Initial Scale & Media Player Phase: The gesture initially reveals the primary Control Center interface at a reduced scale. As the swipe continues downward, the heart icon from the right-hand stack transitions to white, increases slightly in size, and shifts leftward.
@@ -161,11 +158,11 @@ Initial Scale & Media Player Phase: The gesture initially reveals the primary Co
 [00:00:26.842] The iPhone "Control Center" interface shows the Airplane mode on. Under the "Screen Recorder" indicator we can see the text "System >" with an orange microphone icon to the left.
 [00:00:26.908] Final Interface Settlement: The motion concludes as the primary Control Center interface returns to its standard scale. The heart icon reverts to its default appearance, and the system completely settles into the main panel view, with the full-screen connectivity grid stabilized and fully interactive.
 Below the Dynamic Island, the "System" label identifies the microphone is being used by the "System". The chevron pointing to the right, if tapped, opens an expanded privacy attribution log.
-[00:00:28.162] I tapped the text "System" and the "Privacy Attribution Log" interface faded into view
-[00:00:28.660] The Privacy Attribution Log shows a single entry which indicates the System is using the microphone
-[00:00:29.262] We can hear my voice "There we can see. At least that's what I think."
-[00:00:34.828] I navigate back to the iPhone's "Control Center" interface
-[00:00:36.110] I swiped the "Control Center" up out of view.
+[00:00:28.162] The text "System" is selected, causing the "Privacy Attribution Log" interface to fade into view.
+[00:00:28.660] The Privacy Attribution Log shows a single entry indicating active system use of the microphone
+[00:00:29.262] Audio recording captures spoken commentary: "There we can see. At least that's what I think."
+[00:00:34.828] The interface navigates back to the iPhone Control Center.
+[00:00:36.110] The Control Center is swiped upward out of view, revealing the Settings app interface.
 [00:00:36.876] The Settings app interface. 
 
 The settings appeared unchanged according to the previous description.
