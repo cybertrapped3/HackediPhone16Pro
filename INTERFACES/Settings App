@@ -1,34 +1,33 @@
 The Settings App interface. 
 
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 21:39.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.(ORANGE CIRCLE: Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).)
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
-•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
+The Settings App interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 11:24. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
 o	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
-•	Interface Body (Lower Tier):
+•	Interface Body:
 o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
 o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
 o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
-Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+o	Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+o	Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
+•	The subsequent controls and settings appeared as follows:
+o	First module:
+	Airplane Mode: Toggled On (green).
+	Wi-Fi: Displays the status "Off".
+	Bluetooth: Displays the status "Off".
+	Cellular: Displays the status "Off".
+	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+	Battery: Displayed as an interactive menu item.
+o	Second module:
+	General: Displayed as an interactive menu item.
+	Accessibility: Displayed as an interactive menu item.
+	Partially visible, the Action Button: Displayed as an interactive menu item.
 
-Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
-
-Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
-
-The subsequent controls and settings appeared as follows:
-
-Airplane Mode: Toggled On (green).
-Wi-Fi: Displays the status "Off".
-Bluetooth: Displays the status "Off".
-Cellular: : Displays the status "Airplane Mode".
-Personal Hotspot: Displays the status "Off", and appears grayed out, which is indicates it is disabled, meaning, it can not be controlled by the user.
-Battery: Displayed as an interactive menu item.
-
-General: Displayed as an interactive menu item.
-Accessibility: Displayed as an interactive menu item.
-Action Button: Displayed as an interactive menu item.
 Apple Intelligence & Siri: Displayed as an interactive menu item.
 Camera: Displayed as an interactive menu item.
 Control Center: Displayed as an interactive menu item.
