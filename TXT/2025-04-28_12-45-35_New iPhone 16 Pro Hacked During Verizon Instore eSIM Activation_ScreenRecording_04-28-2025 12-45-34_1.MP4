@@ -1,3 +1,68 @@
+[00:00:00.000] The Control Center Interface.
+The Apple iPhone Control Center interface occupies substantially the entire display. The interface consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+Status Area
+•	At the top of the display, from left to right, the following elements are visible:
+o	A plus ("+") symbol positioned in the upper-left corner.
+o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	A power symbol positioned in the upper-right corner.
+o	
+•	Immediately below the status area are:
+o	An Airplane Mode status indicator positioned on the left.
+o	A battery indicator positioned on the right displaying a battery level of 2%.
+The Connectivity Module
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
+•	The following controls are displayed:
+o	Airplane Mode, displayed as an orange circular button with a white airplane symbol, visually indicating an active or enabled state.
+o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+o	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+o	Four additional gray circular controls displaying symbols visually consistent with:
+	Cellular communications, indicating a disabled state.
+	Bluetooth, indicating an inactive state.
+	Hot spot, indicating a disabled state.
+	VPN, indicating a disabled state.
+The Media Playback Module
+The upper-right Control Center module contains the media playback controls.
+•	The module displays:
+o	An empty media artwork placeholder positioned on the left side.
+o	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+o	The text "Not Playing" displayed beneath the artwork placeholder.
+o	A row of media playback controls consisting of:
+	Previous.
+	Play.
+	Next.
+o	The module displays no media title, artist information, or artwork.
+
+The Rotation Lock and Silent Mode Controls
+Immediately below the Connectivity Module are two circular system controls.
+•	These controls display symbols visually consistent with:
+o	Rotation Lock: Displayed as a gray circular button containing an open padlock with a curved arrow, indicating the rotation lock feature is inactive.
+o	Silent Mode: Displayed as a white circular button containing a red bell symbol with a diagonal slash through it, indicating the phone is in silent mode.
+
+The Focus Module
+Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
+The Brightness and Volume Controls
+Immediately below the Media Playback Module are two vertical slider controls.
+•	The left slider controls screen brightness and displays a sun symbol near its lower end. The brightness level is approximately 33% up.
+•	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 84% up.
+The Utility Controls
+The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
+•	The controls display symbols visually consistent with:
+o	Flashlight.
+o	Timer.
+o	Calculator.
+o	Camera.
+o	Screen Mirroring.
+o	Code Scanner (QR Scanner).
+o	Screen Recording: displaying a red circular recording indicator within the control.
+o	Notes / Quick Note.
+
+The Right-Edge Interface Icons
+Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+•	A heart symbol (Favorites/Home group, the current one).
+•	A musical note symbol (Media Playback group).
+•	A wireless transmission symbol (Connectivity group)
+[00:00:00.169] As the Screen Recording button's background changed from gray to white, right slider controls system volume level went all the way up
 [00:00:49.586] Settings App:
     Airplane Mode toggled On (green)
     Wi-Fi shows status Off
@@ -7,7 +72,7 @@
     Cellular Data toggled Off (gray)
     Cellular Data Options shows status Roaming On
     Turn On This Line toggled On (green)
-    Wi-Fi Calling shows status Off 
+    Wi-Fi Calling shows status Off
 [00:01:11.050] Cellular settings:
     Cellular Data toggled On (green)
     Cellular Data Options shows status Roaming On
