@@ -1,0 +1,19 @@
+The Phone Application Interface: Recents Mode.
+•	The interface occupies substantially the entire display and consists of a status area at the top of the display, the main body of the interface, and the footer with icons to navigate different views:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 11:25. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
+o	Connectivity & Power: The Signal Strength icon shows three black bars and one gray. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
+o	Main body of interface: Is comprised of 4 components: 
+	At the top, horizontally arranged are the interfaces control buttons: 
+•	Edit (blue colored text)
+•	Toggle All | Missed (active view is All which is indicated by the white rounded rectangle background behind All)
+	The main heading: Immediately below the Edit button, on the left side, the heading with large bold black letters "Recents"
+	The search bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+	The calls log: Immediately below the search bar, the single entry for a call placed at 11:15 to the number (310) 745-9981. The entry has a silhouette icon on the left, and the blue encircled “i” icon on the right. The subtext "Unites States" appears below the phone number. 
+o	Footer Area: the footer spans full-width across the bottom of the screen and displays five icons, each with a small text label beneath it:
+	Favorites (Star Icon)
+	Recents (Clock Icon)
+	Contacts (Silhouette Icon)
+	Keypad (Number Pad Icon --colored blue to indicate this is the active view)
+	Voicemail (Tape Reel Icon)
