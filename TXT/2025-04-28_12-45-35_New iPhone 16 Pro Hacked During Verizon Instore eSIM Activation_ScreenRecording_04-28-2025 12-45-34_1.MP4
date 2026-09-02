@@ -2,13 +2,12 @@
 The Apple iPhone Control Center interface occupies substantially the entire display. The interface consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
 Status Area
 •	At the top of the display, from left to right, the following elements are visible:
-o	A plus ("+") symbol positioned in the upper-left corner.
-o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	A power symbol positioned in the upper-right corner.
-o	
-•	Immediately below the status area are:
-o	An Airplane Mode status indicator positioned on the left.
-o	A battery indicator positioned on the right displaying a battery level of 2%.
+•	A plus ("+") symbol positioned in the upper-left corner.
+•	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+•	A power symbol positioned in the upper-right corner.
+Immediately below the status area are:
+•	An Airplane Mode status indicator positioned on the left.
+•	A battery indicator positioned on the right displaying a battery level of 2%.
 The Connectivity Module
 The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
 •	The following controls are displayed:
@@ -30,14 +29,13 @@ o	A row of media playback controls consisting of:
 	Previous.
 	Play.
 	Next.
-o	The module displays no media title, artist information, or artwork.
+The module displays no media title, artist information, or artwork.
 
 The Rotation Lock and Silent Mode Controls
 Immediately below the Connectivity Module are two circular system controls.
 •	These controls display symbols visually consistent with:
 o	Rotation Lock: Displayed as a gray circular button containing an open padlock with a curved arrow, indicating the rotation lock feature is inactive.
 o	Silent Mode: Displayed as a white circular button containing a red bell symbol with a diagonal slash through it, indicating the phone is in silent mode.
-
 The Focus Module
 Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
 The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
@@ -58,10 +56,10 @@ o	Screen Recording: displaying a red circular recording indicator within the con
 o	Notes / Quick Note.
 
 The Right-Edge Interface Icons
-Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
-•	A heart symbol (Favorites/Home group, the current one).
-•	A musical note symbol (Media Playback group).
-•	A wireless transmission symbol (Connectivity group)
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group)
 [00:00:00.264] The screen recording button transitions from gray and red to white and red.
 [00:00:06.051] Control Center is swiped upward out of view.
 [00:00:06.381] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
@@ -72,7 +70,7 @@ o	Connectivity & Power: The Airplane Mode icon denotes that wireless network tra
 •	Below the status bar, a pair of application widgets are displayed: 
 o	Left: Weather widget displaying "Weather Unavailable"
 o	Right: Calendar widget displaying "MONDAY 28 No events today." 
-o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
 •	Positioned just above the Dock is a persistent Search button. 
 •	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:00:07.140] Control Center Expansion Gesture: The video depicts an extended downward swipe gesture within the Control Center interface, resulting in a continuous transition across multiple modular sub-screens.
@@ -81,13 +79,13 @@ Initial Scale & Media Player Phase: The gesture initially reveals the primary Co
 [00:00:07.437] Connectivity Panel View: Continuing the downward motion, the wireless transmission symbol enlarges, turns white, and shifts leftward while the musical note returns to its default appearance.
 [00:00:08.196] The interface finally settles on the full-screen connectivity panel.
 •	Connectivity Panel Layout: The interface displays a vertically arranged series of rounded rectangular control panels set against a blurred background:
-•	Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “On,” featuring an airplane symbol inside an orange circular icon on the left.
-•	Wi-Fi: Left-hand control labeled “Wi-Fi” displaying “Off,” with a Wi-Fi symbol inside a gray circular icon.
-•	AirDrop: Right-hand control labeled “AirDrop” displaying “Receiving Off,” with an AirDrop symbol inside a gray circular icon.
-•	Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with its corresponding icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the cell icon shape and its surrounding containment circle.
-•	Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with a Bluetooth symbol inside a gray circular icon.
-•	Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the hotspot icon shape and its surrounding containment circle.
-•	VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the VPN icon shape and its surrounding containment circle.
+o	Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “On,” featuring an airplane symbol inside an orange circular icon on the left.
+o	Wi-Fi: Left-hand control labeled “Wi-Fi” displaying “Off,” with a Wi-Fi symbol inside a gray circular icon.
+o	AirDrop: Right-hand control labeled “AirDrop” displaying “Receiving Off,” with an AirDrop symbol inside a gray circular icon.
+o	Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with its corresponding icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the cell icon shape and its surrounding containment circle.
+o	Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with a Bluetooth symbol inside a gray circular icon.
+o	Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the hotspot icon shape and its surrounding containment circle.
+o	VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the VPN icon shape and its surrounding containment circle.
 [00:00:09.582] Reverse Transition & Settling Phase: As the downward swipe concludes and the interface fully engages the main panel, the sequence reverses direction to settle into the primary view.
 Initial Retraction Phase: Releasing or finalizing the downward motion prompts the interface to retrace its steps upward. The wireless transmission symbol shrinks, and shifts rightward. Then, it enlarges again as it shifts left.
 [00:00:09.615] The view briefly cycles back through the dedicated media player interface.
@@ -96,55 +94,55 @@ The musical note changes from gray to white, and it enlarges as it shifts left, 
 [00:00:10.473] The iPhone "Control Center" interface main view is displayed fully.
 [00:00:10.638] The Control Center is swiped upward out of view.
 [00:00:16.641] The iPhone's Global Search interface.
-The interface is visually organized into five principal areas: the status area, the suggestions area, the shortcuts area, the search bar, and the screen keyboard:
+•	The interface is visually organized into five principal areas: the status area, the suggestions area, the shortcuts area, the search bar, and the screen keyboard:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 12:45. Positioned to its right is the silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 2 centered within the housing.
-Immediately below the Status Bar area is the Suggestions area with a small heading and text tool, and a Down: 
-Small heading: In the left side, the normal sixed white lettered heading "Siri Suggestions"
-Text tool: Normal sized white lettered tool "Show More
-The Dock: a translucent horizontal container housing the following four application icons:
-Settings App
-Camera
-Shortcuts
-Tips
-The Shortcuts Area:
-A single entry with the icon of a camera, followed by the normal sized white text Selfie, and a small silhouette icon on the far right side
-Global Search Bar: above the screen keyboard, a rounded gray inset container with a magnifying glass glyph on the left side and the placeholder text “Search” with the cursor right before the S
-The screen keyboard pinned to the bottom side of the screen
+o	Immediately below the Status Bar area is the Suggestions area with a small heading and text tool, and a Dock: 
+	Small heading: In the left side, the normal sixed white lettered heading "Siri Suggestions"
+	Text tool: Normal sized white lettered tool "Show More
+	The Dock: a translucent horizontal container housing the following four application icons:
+•	Settings App
+•	Camera
+•	Shortcuts
+•	Tips
+o	The Shortcuts Area:
+	A single entry with the icon of a camera, followed by the normal sized white text Selfie, and a small silhouette icon on the far-right side
+o	Global Search Bar: above the screen keyboard, a rounded gray inset container with a magnifying glass glyph on the left side and the placeholder text “Search” with the cursor right before the S
+o	The screen keyboard pinned to the bottom side of the screen
 [00:00:17.631] The Notifications center was swiped down into view
 [00:00:17.928] The Notifications Center Interface. 
-The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, the footer area:
+•	The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, the footer area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	The silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 2 centered within the housing.
-The Date and Time area: 
-The Date: immediately below the Status Bar, the date is displayed in medium-sized, translucent-white text as "Monday, April 28". 
-The Time: Below the Date, in very large-sized, translucent-white, the time is displayed as 12:45
-The notifications area: On the lower half of the screen the area is comprised of  the heading and the notifications feed:
-The heading: IN medium-size white letters, the heading "Notification Center" with a translucent-white close (x) icon on the far right side
-The notifications feed: Two notifications inside translucent-white rounded rectangles. Each notification with an icon, heading, message, day and time:
-First notification item: 
-The heading: Website NFC Tag
-The icon: with a near field communication icon, black background and white waves, and the small encircled numeral 11 in the upper left side. 
-The message: Open "my.yubico.com" in Safari
-Day and Time: Yesterday, 11:54 AM
-The Safari app icon on the right side
-The rectangle container shows other rectangles behind it
-Second notification item: 
-The heading: Emergency SOS
-The icon: the Settings app icon, gradient gray background and a black cog. 
-The message: iPhone initited Emergency SOS at 5:00AM because the side and volume button were pressed and held. You can manage Call with Hold and Release in Se...
-Day and Time: Yesterday, 5:00 AM
-The Footer: Two white icons pinned to the lower side of the screen:
-On the left: Headlamp icon
-On the right: the Camera icon
-[00:00:25.069] The notifications feed was expanded to show more items. Several rounded rectangles with the same Website NFC Tag notification was displayed into revealed into view. These are also from Yesterday, but the times span 11:54 AM to 11:53 AM.
-[00:00:35.722] 11 "Website NFC Tag" notifications were shown. All of these from "Yesterday" with three different time spans, 4:20s, 4:57s, 11:50s
+o	The Date and Time area: 
+	The Date: immediately below the Status Bar, the date is displayed in medium-sized, translucent-white text as "Monday, April 28". 
+	The Time: Below the Date, in very large-sized, translucent-white, the time is displayed as 12:45
+o	The notifications area: On the lower half of the screen the area is comprised of the heading and the notifications feed:
+	The heading: In medium-size white letters, the heading "Notification Center" with a translucent-white close (x) icon on the far right side
+	The notifications feed: Two notifications inside translucent-white rounded rectangles. Each notification with an icon, heading, message, day and time:
+•	First notification item: 
+o	The heading: Website NFC Tag
+o	The icon: with a near field communication icon, black background and white waves, and the small encircled numeral 11 in the upper left side. 
+o	The message: Open "my.yubico.com" in Safari
+o	Day and Time: Yesterday, 11:54 AM
+o	The Safari app icon on the right side
+o	The rectangle container shows other rectangles behind it
+•	Second notification item: 
+o	The heading: Emergency SOS
+o	The icon: the Settings app icon, gradient gray background and a black cog. 
+o	The message: iPhone initiated Emergency SOS at 5:00AM because the side and volume button were pressed and held. You can manage Call with Hold and Release in Se...
+o	Day and Time: Yesterday, 5:00 AM
+o	The Footer: Two white icons pinned to the lower side of the screen:
+	On the left: Headlamp icon
+	On the right: the Camera icon
+[00:00:25.069] The notifications feed was expanded to show more items. Several rounded rectangles with the same Website NFC Tag notification were revealed into view. These are also from Yesterday, but the times span 11:54 AM to 11:53 AM.
+[00:00:35.722] Eleven "Website NFC Tag" notifications were shown. All of these from "Yesterday" with three different time spans, 4:20s, 4:57s, 11:50s
 [00:00:37.537] The scrolling of the notifications feed reveals several more notifications that continue to span chronologically backwards to Yesterday, 4:26AM
-[00:00:41.190] The notifications feed is scrolled back up and dismissed, to leave the notifications center without any notification visible.
+[00:00:41.190] The notifications feed is scrolled back up and dismissed, and the notifications center is left without any visible item.
 [00:00:42.189] The notifications center is swiped up out of view.
 [00:00:43.218] The Home Screen is visible.
 [00:00:43.614] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
@@ -155,16 +153,11 @@ o	Connectivity & Power: The Airplane Mode icon denotes that wireless network tra
 •	Below the status bar, a pair of application widgets are displayed: 
 o	Left: Weather widget displaying "Weather Unavailable"
 o	Right: Calendar widget displaying "MONDAY 28 No events today." 
-o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
 •	Positioned just above the Dock is a persistent Search button. 
 •	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:00:48.601] The Settings application is launched.
 [00:00:48.700] During the launch Settings application, a secondary status bar appears within the application interface, distinct from the system status bar at the top of the display.
-[00:00:49.586] Settings App:
-    Airplane Mode toggled On (green)
-    Wi-Fi shows status Off
-    Bluetooth shows status Off
-    Cellular setting shows status "Airplane Mode"
 [00:00:49.782] The Settings App interface. 
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -177,75 +170,70 @@ o	Interface Body:
 	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
 	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
 •	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
-	The promotional upsell banner displayed as an interactive menu item: Apple News+ Free for 3 Months
+•	The promotional upsell banner displayed as an interactive menu item: Apple News+ Free for 3 Months
 	The configuration action item displayed as an interactive menu item: Finish Setting Up Your iPhone (1)
-o	The subsequent controls and settings appeared as follows:
-	First module:
-•	Airplane Mode: Toggled On (green).
-•	Wi-Fi: Displays the status “Off.”
-•	Bluetooth: Displays the status “Off.”
-•	Cellular: Displays the status “Airplane Mode.” {SCREENSHOT: "Capture_2025-04-28_12-45-35_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-28-2025 12-45-34_1.MP4_00-00-49_782 - Settings app Cellular status Airplane Mode.png"}
-•	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
-•	Battery: Displayed as an interactive menu item.
-	Second module:
-•	General: Displayed as an interactive menu item.
-•	Accessibility: Displayed as an interactive menu item.
-•	Action Button: Displayed as an interactive menu item.
-•	Apple Intelligence & Siri: Displayed as an interactive menu item.
+	The subsequent controls and settings appeared as follows:
+•	First module:
+o	Airplane Mode: Toggled On (green).
+o	Wi-Fi: Displays the status “Off.”
+o	Bluetooth: Displays the status “Off.”
+o	Cellular: Displays the status “Airplane Mode.” {SCREENSHOT: "Capture_2025-04-28_12-45-35_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-28-2025 12-45-34_1.MP4_00-00-49_782 - Settings app Cellular status Airplane Mode.png"}
+o	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+o	Battery: Displayed as an interactive menu item.
+•	Second module:
+o	General: Displayed as an interactive menu item.
+o	Accessibility: Displayed as an interactive menu item.
+o	Action Button: Displayed as an interactive menu item.
+o	Apple Intelligence & Siri: Displayed as an interactive menu item.
 [00:00:56.905] The Cellular setting was tapped
 [00:00:57.638] The Cellular settings Interface
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 12:46. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 1 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
-•	Interface Body:
-o	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
-	Icon Graphic: A solid green rounded square containing a wireless transmission symbol.
-	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
-	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
-•	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
-o	First group of settings:
-	Cellular Data:  Toggled Off (gray).
-	Cellular Data Options: Displays the status "Roaming On."
-	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
-	Text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
-o	Under the VERIZON module:
-	Turn On This Line:  Toggled On (green).
-	My Number: +1 (669) 326-4200
-	Wi-Fi Calling: Displays the status “Off.”
-	Carrier Services: Displayed as an interactive menu item.
-	SIM PIN: Displayed as an interactive menu item.
-	Delete eSIM: red colored letters
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 12:46. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 1 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid green rounded square containing a wireless transmission symbol.
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
+•	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
+	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+•	First group of settings:
+o	Cellular Data:  Toggled Off (gray).
+o	Cellular Data Options: Displays the status "Roaming On."
+o	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+o	Explicative text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
+•	Under the VERIZON module:
+o	Turn On This Line:  Toggled On (green).
+o	My Number: +1 (669) 326-4200
+o	Wi-Fi Calling: Displays the status “Off.”
+o	Carrier Services: Displayed as an interactive menu item.
+o	SIM PIN: Displayed as an interactive menu item.
+o	Delete eSIM: red colored letters
 [00:01:04.972] The "Cellular Data Options" setting was tapped.
 [00:01:05.731] The Cellular Data Options interface. 
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 12:46. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 1 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
-•	Interface Body:
-First Module:
-Data Roaming: toggled On (green)
-Data Mode: Allow More Data on 5G >
-Second Module:
-Limit IP Address Tracking: toggle On (green)
-Explicative text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
-[00:01:09.107] The Cellular back link was tapped
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 12:46. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 1 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body:
+	First Module:
+•	Data Roaming: toggled On (green)
+•	Data Mode: Allow More Data on 5G >
+	Second Module:
+•	Limit IP Address Tracking: toggle On (green)
+•	Explicative text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
+[00:01:09.107] The Cellular back-link was tapped
 [00:01:09.899] The Cellular settings interface slid into view
 [00:01:10.642] The Cellular Data setting was toggled Off (gray)
-[00:01:11.050] Cellular settings:
-    Cellular Data toggled On (green)
-    Cellular Data Options shows status Roaming On
-    Turn On This Line toggled On (green)
-    Wi-Fi Calling shows status Off
-[00:01:14.017] The Settings back link was tapped
+[00:01:14.017] The Settings back-link was tapped
 [00:01:14.569] The Settings App interface.
-[00:01:16.898] Airplane Mode is toggled off, and the Cellular setting updates, the status "Airplane Mode” disappearing and leaving the tatus blank.
+[00:01:16.898] Airplane Mode is toggled off, and the Cellular setting updates, the status "Airplane Mode” disappearing and leaving the status blank.
 [00:01:17.294] The first module of settings slides down revealing the banner "Get Help During an Emergency (1)."
 The setting Personal Hotspot changes from a disabled state to control that can be operated by the user. This is indicated by the change from faded colors to a bright green and black text.
 [00:01:19.637] After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the cellular signal strength icon fades into view displaying one black bar and three gray bars accompanied by the label of the network type 5G.
@@ -253,16 +241,13 @@ The setting Personal Hotspot changes from a disabled state to control that can b
 [00:01:32.092] Two interface changes are visible compared to prior descriptions: the Airplane Mode status indicator positioned on the left has been replaced by the Signal Strength and Cell Service Network Information and Connectivity Module has updated. 
 
 The Signal Strength icon shows three white bars and one gray; and the network is indicated by 
-Verizon 5GUW."
-
-The Connectivity Module now appears as follows:
-The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
-•	The following controls are displayed:
-o	Airplane Mode, displayed as a gray circular button with a white airplane symbol, visually indicating an inactive state.
-o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
-o	Wi-Fi, displayed as a gray circular button with a white Wi-Fi symbol, indicating an inactive state.
-o	Four additional circular controls displaying symbols visually consistent with:
-	Cellular communications, bright green circle with a white shape consistent with an active state.
-	Bluetooth, indicating an inactive state.
-	Hot spot, indicating a inactive state.
-	VPN, indicating a disabled state.
+“Verizon 5GUW.”
+The controls in the Connectivity Module now appear as follows:
+•	Airplane Mode, displayed as a gray circular button with a white airplane symbol, visually indicating an inactive state.
+•	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+•	Wi-Fi, displayed as a gray circular button with a white Wi-Fi symbol, indicating an inactive state.
+•	Four additional circular controls displaying symbols visually consistent with:
+•	Cellular communications, bright green circle with a white shape consistent with an active state.
+•	Bluetooth, indicating an inactive state.
+•	Hot spot, indicating an inactive state.
+•	VPN, indicating a disabled state.
