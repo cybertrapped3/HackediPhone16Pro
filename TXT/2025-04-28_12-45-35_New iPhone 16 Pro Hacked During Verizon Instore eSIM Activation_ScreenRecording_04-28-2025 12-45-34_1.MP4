@@ -78,7 +78,7 @@ o	Below the widgets, applications are arranged across a flexible grid system, wh
 [00:00:07.140] Control Center Expansion Gesture: The video depicts an extended downward swipe gesture within the Control Center interface, resulting in a continuous transition across multiple modular sub-screens.
 Initial Scale & Media Player Phase: The gesture initially reveals the primary Control Center interface at a reduced scale. As the swipe continues downward, the heart icon from the right-hand stack transitions to white, increases slightly in size, and shifts leftward.
 [00:00:07.272] Media Player View: The display transitions to the dedicated media player interface (featuring an iPod graphic displaying "Not Playing"). During this phase, the musical note icon in the right-hand stack enlarges, changes from gray to white, and shifts leftward, while the heart icon returns to its original size, color, and position.
-[00:00:07.437] Connectivity Panel View: Continuing the downward motion, the wireless transmission symbol enlarges, turns white, and shifts leftward while the musical note returns to its default appearance. 
+[00:00:07.437] Connectivity Panel View: Continuing the downward motion, the wireless transmission symbol enlarges, turns white, and shifts leftward while the musical note returns to its default appearance.
 [00:00:08.196] The interface finally settles on the full-screen connectivity panel.
 •	Connectivity Panel Layout: The interface displays a vertically arranged series of rounded rectangular control panels set against a blurred background:
 •	Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “On,” featuring an airplane symbol inside an orange circular icon on the left.
@@ -141,11 +141,11 @@ Day and Time: Yesterday, 5:00 AM
 The Footer: Two white icons pinned to the lower side of the screen:
 On the left: Headlamp icon
 On the right: the Camera icon
-[00:00:25.069] The notifications feed was expanded to show more items. Several rounded rectangles with the same Website NFC Tag notification was displayed into revealed into view. These are also from Yesterday, but the times span 11:54 AM to 11:53 AM. 
+[00:00:25.069] The notifications feed was expanded to show more items. Several rounded rectangles with the same Website NFC Tag notification was displayed into revealed into view. These are also from Yesterday, but the times span 11:54 AM to 11:53 AM.
 [00:00:35.722] 11 "Website NFC Tag" notifications were shown. All of these from "Yesterday" with three different time spans, 4:20s, 4:57s, 11:50s
 [00:00:37.537] The scrolling of the notifications feed reveals several more notifications that continue to span chronologically backwards to Yesterday, 4:26AM
-[00:00:41.190] The notifications feed is scrolled back up and dismissed, to leave the notifications center without any notification visible. 
-[00:00:42.189] The notifications center is swiped up out of view. 
+[00:00:41.190] The notifications feed is scrolled back up and dismissed, to leave the notifications center without any notification visible.
+[00:00:42.189] The notifications center is swiped up out of view.
 [00:00:43.218] The Home Screen is visible.
 [00:00:43.614] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
 •	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -247,7 +247,22 @@ Explicative text under this setting: Limit IP address tracking by hiding your IP
 [00:01:14.569] The Settings App interface.
 [00:01:16.898] Airplane Mode is toggled off, and the Cellular setting updates, the status "Airplane Mode” disappearing and leaving the tatus blank.
 [00:01:17.294] The first module of settings slides down revealing the banner "Get Help During an Emergency (1)."
-The setting Personal Hotspot changes from a disabled state to control that can be operated by the user. This is indicated by the change from faded colors to a bright green and black text. 
-[00:01:19.637]  After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the cellular signal strength icon fades into view displaying one black bar and three gray bars accompanied by the label of the network type 5G.
-
+The setting Personal Hotspot changes from a disabled state to control that can be operated by the user. This is indicated by the change from faded colors to a bright green and black text.
+[00:01:19.637] After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the cellular signal strength icon fades into view displaying one black bar and three gray bars accompanied by the label of the network type 5G.
 [00:01:31.096] Control Center is swiped down into view
+[00:01:32.092] Two interface changes are visible compared to prior descriptions: the Airplane Mode status indicator positioned on the left has been replaced by the Signal Strength and Cell Service Network Information and Connectivity Module has updated. 
+
+The Signal Strength icon shows three white bars and one gray; and the network is indicated by 
+Verizon 5GUW."
+
+The Connectivity Module now appears as follows:
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
+•	The following controls are displayed:
+o	Airplane Mode, displayed as a gray circular button with a white airplane symbol, visually indicating an inactive state.
+o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+o	Wi-Fi, displayed as a gray circular button with a white Wi-Fi symbol, indicating an inactive state.
+o	Four additional circular controls displaying symbols visually consistent with:
+	Cellular communications, bright green circle with a white shape consistent with an active state.
+	Bluetooth, indicating an inactive state.
+	Hot spot, indicating a inactive state.
+	VPN, indicating a disabled state.
