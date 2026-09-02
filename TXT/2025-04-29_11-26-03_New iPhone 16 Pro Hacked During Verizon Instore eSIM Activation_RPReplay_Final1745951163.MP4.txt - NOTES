@@ -1,0 +1,97 @@
+NOTES RELATED TO Wi-Fi scanning, Cellular setting status Off, and MANAGED NETWORKS:
+
+[00:01:26.215] VIP [00:00:05.214] Settings app interface shows the Cellular settings status as "Off"
+
+Videos that show the "Wi-Fi Calling" Off
+2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4
+
+This video shows that the setting "Wi-Fi Calling" was set to off (timeline 00:00:08.577).
+
+Also, I had configured the "Wi-Fi Assist" setting to off, and although not in this video, we can see the status of this setting in screen recordings with filenames "2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4" at timeline 00:00:22.275, and "2025-04-27_09-06-03_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 09-06-03_1.MP4" at timeline 00:02:22.003. Just as reminder, the "Wi-Fi Assist" setting has the function to "Automatically use cellular data when Wi-Fi connectivity is poor".
+
+I think is important I mention that I first became aware of the configuration of "MANAGED NETWORKS" on 2025-04-27_07-01-58, when I took the screenshots with filenames:
+
+2025-04-27_07-01-58_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_IMG_0050.PNG
+2025-04-27_07-02-32_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_IMG_0051.PNG
+2025-04-27_07-02-43_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_IMG_0052.PNG
+2025-04-27_07-02-53_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_IMG_0053.PNG
+
+At that time, I "Forgot" the "Verizon Guest Wi-Fi" (deleted the Wi-Fi network information from the phone), and Reset the network settings. From previous experiences with iPhones and iPads, I expected ALL networks would be deleted, but later (after I captured the screen recording which I am hereby describing), I found that I COULD NOT DELETE these "MANAGED NETWORKS." I highlight these facts because clearly, despite having configured the phone in a way that no connections other than what I intend to use were active, the phone operated in ways which I did not want. 
+
+I believe that the Wi-Fi connection was switched to On when I tapped the tooltip "Search Your Call History. Type a name, keyboard, or date to find recent calls, voicemails, and contacts." at the videos timeline 00:00:55.364. I believe that when that happened, actually, another interface that was not visible to me (or the screen recorder) was active, and when I touched the tooltip, the setting for the Wi-Fi was bein switched. I believe that through a technique often referred to as a Tapjacking* the hackers were able to switch the Wi-Fi. 
+
+TODO: Find screen recording where I show the settings of the Managed networks 
+
+Below I describe these screenshots related to "KNOWN NETWORKS" and "MANAGED NETWORKS":
+
+2025-04-27_07-01-58_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_IMG_0050.PNG:
+
+The "Known Networks" interface. 
+
+Under the "KNOWN NETWORKS" module we can see "Verizon Guest Wi-Fi".
+
+Under the "MANAGED NETWORKS" module, we can see "PrivateMobileWiFi", "VerizonWiFi", and "VerizonWiFiAccess"
+
+I joined the "Verizon Guest Wi-Fi" at the Verizon store when I became a prepaid subscriber. Esteban, the agent who assisted me, directed me to join this network to activate the eSIM of the iPhone. 
+
+I was not aware of that during the eSIM activation, three networks had been configured, much less the meaning of "MANAGED NETWORKS" without an explicit notice or my consent. 
+
+2025-04-27_07-02-32_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_IMG_0051.PNG:
+
+This screenshot shows the configuration of the "Verizon Guest Wi-Fi". 
+
+The first entry is a control to "Forget This Network"
+
+The following settings and information appeared as:
+
+"Auto-Join" set Off
+"Auto-Login" set On
+"Low Data Mode" set Off
+"Private Wi-Fi Address" set to "Rotating >"
+"Wi-Fi Address" "BE:92:DF:06:A2:B2"
+"Limit IP Address Tracking" set On
+"Configure IP" set to "Automatic >"
+
+2025-04-27_07-02-43_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_IMG_0052.PNG
+
+The screenshot of the configuration of "Verizon Guest Wi-Fi" network continued. 
+
+The last two settings appeared as:
+
+"Configure DNS" set as "Automatic >"
+"Configure Proxy" set to "Off >"
+
+2025-04-27_07-02-53_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_IMG_0053.PNG
+
+This is a screenshot of the 'Verizon Guest Wi-Fi' settings page. A central floating modal is active over the interface, and it contains the prompt: 'Forget Wi-Fi Network “Verizon Guest Wi-Fi”?' with the subtext "Your iPhone will no longer join this Wi-Fi network." The blue 'Cancel' and red 'Forget' options at the bottom of the modal. 
+
+* UI Redressing and Tapjacking Mechanisms
+
+### 1. Definition of Terms
+
+* **Clickjacking:** A malicious technique of tricking a user into clicking on a concealed logical layer. This is a form of **UI Redressing**, where the attacker uses transparent or opaque layers to hide the true functional interface.
+* **Tapjacking:** A mobile-specific subset of clickjacking. It involves the use of a deceptive overlay (such as a "phantom" app or notification) that captures touch events intended for the visible UI and redirects them to a hidden, underlying UI.
+
+### 2. Conceptual Framework of the Attack
+
+The exploit described—where a user interacts with a perceived notification while unknowingly modifying system settings—operates on the following technical principles:
+
+* **Layer Orchestration:** The attacker utilizes a "Top-most" window attribute (where permitted by the OS) to render an invisible or deceptive graphical layer over the system’s legitimate settings interface.
+* **Touch Event Redirection:** The operating system’s window manager registers a "Touch Down" event. If the malicious overlay is programmed to be "touch-transparent" or if it is positioned to intercept the coordinate ($x, y$) of the user's finger, the action is executed on the hidden layer.
+* **Visual Discrepancy:** There is a total decoupling between the **Visual Representation** (what the user sees) and the **Execution Logic** (the setting being changed).
+
+Suggested Citations
+1. The Bluebook (Standard for Legal Documents)
+In legal writing, AI is often cited as a "Computer Program" or "Electronic Source."
+
+Gemini 3 Flash, Response to inquiry regarding UI Redressing and Tapjacking Mechanisms, Google AI (Mar. 10, 2026). https://gemini.google.com/app/c512206c04f9a7d6
+
+2. APA Style (7th Edition)
+APA requires the name of the model and the specific date of the session.
+
+Google Gemini. (2026, March 10). Technical Memorandum: UI Redressing and Tapjacking Mechanisms [Large language model]. https://gemini.google.com/app/c512206c04f9a7d6
+
+3. MLA Style (9th Edition)
+MLA focuses on the title of the chat or the prompt topic.
+
+“Technical Memorandum: UI Redressing and Tapjacking Mechanisms.” Gemini, 3 Flash version, Google, 10 Mar. 2026, https://gemini.google.com/app/c512206c04f9a7d6
