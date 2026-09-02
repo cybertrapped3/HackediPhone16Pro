@@ -137,7 +137,7 @@ o	Under the VERIZON module:
 	Delete eSIM: red colored letters
 [00:00:16.045] The interface navigates back to the main Settings menu.
 [00:00:18.185] Audio recording captures spoken commentary: "The orange button indicates that this is recording the sound."
-[00:00:22.216] I swiped the Control Center down in to view
+[00:00:22.216] I swiped the Control Center down into view
 [00:00:22.513] Control Center Expansion Gesture: The video depicts an extended downward swipe gesture within the Control Center interface, resulting in a continuous transition across multiple modular sub-screens.
 Initial Scale & Media Player Phase: The gesture initially reveals the primary Control Center interface at a reduced scale. As the swipe continues downward, the heart icon from the right-hand stack transitions to white, increases slightly in size, and shifts leftward.
 [00:00:23.074] Media Player View: The display transitions to the dedicated media player interface (featuring an iPod graphic displaying "Not Playing"). During this phase, the musical note icon in the right-hand stack enlarges, changes from gray to white, and shifts leftward, while the heart icon returns to its original size, color, and position.
@@ -164,18 +164,17 @@ Below the Dynamic Island, the "System" label identifies the microphone is being 
 [00:00:34.828] The interface navigates back to the iPhone Control Center.
 [00:00:36.110] The Control Center is swiped upward out of view, revealing the Settings app interface.
 [00:00:36.876] The Settings app interface. 
-
 The settings appeared unchanged according to the previous description.
-[00:00:39.599] Atmospheric sounds audible in the background
-[00:00:42.084] I toggled the "Airplane Mode" Off, and the Wi-Fi setting changed to "Not Connected"
-[00:00:42.447] As the banner "Finish AppleCare+ Setup" slides down, the banner "Get Help During an Emergency" is revealed in to view.
-[00:00:42.975] After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the signal strength icon faded in to view with one black bar, and three bars gray.
-[00:00:45.046] The signal strength increased from one to two bars.
-[00:00:47.049] The signal strength increased from two to three bars.
-[00:00:48.721] I dismissed the Settings app, and as its container decreased in size, the common status bar information is not visible (or is missing). Only one status bar information is visible; the one from the shrinking Settings app's container [SCREENSHOT: Capture_2025-04-29_11-26-03_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745951163.MP4_00-00-48_721 - Settings app dismissed missing common status bar.png]
-[00:00:49.620] The Home Screen
-[00:00:50.846] I tapped the Phone app open
-[00:00:50.964] During the launch sequence of the Phone application, a secondary status bar appears within the application interface, distinct from the system status bar at the top of the display.
+[00:00:39.599] Atmospheric sounds are audible in the background
+[00:00:42.084] Airplane Mode is toggled off, and the Wi-Fi setting updates to display "Not Connected."
+[00:00:42.447] The banner "Finish AppleCare+ Setup" slides downward, revealing the banner "Get Help During an Emergency."
+[00:00:42.975] After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the cellular signal strength icon fades into view displaying one black bar and three gray bars.
+[00:00:45.046] The signal strength increased from one to two black bars.
+[00:00:47.049] The signal strength increased from two to three black bars.
+[00:00:48.721] I dismissed the Settings app, and as its container decreased in size, the common status bar information is not visible (or is missing). Only one Status Bar information is visible; the one from the shrinking Settings app's container [SCREENSHOT: Capture_2025-04-29_11-26-03_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745951163.MP4_00-00-48_721 - Settings app dismissed missing common Status Bar.png]
+[00:00:49.620] The Home Screen is displayed.
+[00:00:50.846] The Phone application is launched.
+[00:00:50.964] During the launch sequence of the Phone application, a secondary Status Bar appears within the application interface, distinct from the system Status Bar at the top of the display.
 [00:00:51.591] The Phone app's interface: Keypad Mode.
 •	The interface occupies substantially the entire display and consists of a status area at the top of the display, the keypad buttons arranged in a grid, and the footer with icons to navigate different views:
 •	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -195,45 +194,44 @@ o	Recents (Clock Icon)
 o	Contacts (Silhouette Icon)
 o	Keypad (Number Pad Icon --colored blue to indicate this is the active view)
 o	Voicemail (Tape Reel Icon)
-[00:00:53.469] I tapped the Recents icon, which changes color from gray to blue. The Keypad icon changed color from blue to gray.
+[00:00:53.469] The Recents icon is selected, shifting color from gray to blue while the Keypad icon changes from blue to gray.
 [00:00:53.733] The Phone Application Interface: Recents Mode.
 •	The interface occupies substantially the entire display and consists of a status area at the top of the display, the main body of the interface, and the footer with icons to navigate different views:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 11:25. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
-o	Connectivity & Power: The Signal Strength icon shows three black bars and one gray. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
+	Time: Displays the local time as 11:25. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
+	Connectivity & Power: The Signal Strength icon shows three black bars and one gray. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
 o	Main body of interface: Is comprised of 4 components: 
 	At the top, horizontally arranged are the interfaces control buttons: 
 •	Edit (blue colored text)
 •	Toggle All | Missed (active view is All which is indicated by the white rounded rectangle background behind All)
 	The main heading: Immediately below the Edit button, on the left side, the heading with large bold black letters "Recents"
 	The search bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
-	The calls log: Immediately below the search bar, the single entry for a call placed at 11:15 to the number (310) 745-9981. The entry has a silhouette icon on the left, and the blue encircled “i” icon on the right. The subtext "Unites States" appears below the phone number. 
+	The calls log: Immediately below the search bar, the single entry for a call placed at 11:15 to the number (310) 745-9981. The entry has a silhouette icon on the left, and the blue encircled “i” icon on the right. The subtext "United States" appears below the phone number. 
 o	Footer Area: the footer spans full-width across the bottom of the screen and displays five icons, each with a small text label beneath it:
 	Favorites (Star Icon)
 	Recents (Clock Icon)
 	Contacts (Silhouette Icon)
 	Keypad (Number Pad Icon --colored blue to indicate this is the active view)
 	Voicemail (Tape Reel Icon)
-[00:00:54.901] As a tooltip expanded in to view, the color of the Recents icon changed color from blue to gray.
-[00:00:54.912] A tooltip expanded in to view with the text "Search Your Call History. Type a name, keyword, or date to find recent calls, voicemails, and contacts." The tooltip has the x icon to close it on the top right of the bubble.
-[00:01:06.286] I tapped the close icon of the tooltip
-[00:01:06.451] As the tooltip shrank out of view, the Recents icon in the footer changed color from gray to blue
-[00:01:06.721] We can hear my voice "All right, we are going to have to do this again"
-[00:01:07.149] The signal strength decreased from three to two bars.
-[00:01:08.238] The signal strength decreased from two to one bar.
-[00:01:11.376] We can hear I sigh
-[00:01:24.801] I swiped the "Control Center" in to view.
-[00:01:25.164] Two areas changed in the Control Center from previous descriptions; the label of the “Privacy Attribution Log” now appears as "System Controls >," and the buttons inside the Connectivity Module. 
-The “Privacy Attribution Log” label "System Controls >" is below the Dynamic Island. 
+[00:00:54.901] A tooltip expands into view, and the Recents icon changes color from blue to gray.
+[00:00:54.912] The tooltip displays the text: "Search Your Call History. Type a name, keyword, or date to find recent calls, voicemails, and contacts," accompanied by a close ('x') icon in the upper-right corner.
+[00:01:06.286] The close icon of the tooltip is tapped.
+[00:01:06.451] As the tooltip shrinks out of view, the Recents icon in the footer changes color from gray to blue
+[00:01:06.721] Audio recording captures spoken commentary: "All right, we are going to have to do this again."
+[00:01:07.149] The signal strength decreased from three to two black bars.
+[00:01:08.238] The signal strength decreased from two to one black bar.
+[00:01:11.376] An audible sigh is recorded.
+[00:01:24.801] The Control Center is swiped into view.
+[00:01:25.164] Two interface changes are visible compared to prior descriptions: the "Privacy Attribution Log" label now reads "System Controls >" beneath the Dynamic Island, and the status of buttons inside the Connectivity Module has updated. 
 The Connectivity Module
 The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
 •	The following controls are displayed:
-o	Airplane Mode, displayed as an gray circular button with a white airplane symbol, visually indicating an inactive state.
+o	Airplane Mode, displayed as a gray circular button with a white airplane symbol, visually indicating an inactive state.
 o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
 o	Wi-Fi, displayed as a blue circular button containing a Wi-Fi symbol, indicating an active state.
 o	Four additional gray circular controls displaying symbols visually consistent with:
-o	Cellular communications, gray circle with a white shape consistent with an inactive state.
-o	Bluetooth, indicating an inactive state.
-o	Hot spot, indicating a disabled state.
-o	VPN, indicating a disabled state.
+	Cellular communications, gray circle with a white shape consistent with an inactive state.
+	Bluetooth, indicating an inactive state.
+	Hot spot, indicating a disabled state.
+	VPN, indicating a disabled state.
