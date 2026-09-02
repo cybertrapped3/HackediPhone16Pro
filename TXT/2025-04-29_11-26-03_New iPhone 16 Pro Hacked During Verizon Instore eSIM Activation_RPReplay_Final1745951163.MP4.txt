@@ -171,7 +171,7 @@ The settings appeared unchanged according to the previous description.
 [00:00:42.975] After the Airplane Mode icon on the top right side of the screen slid to the right and out of view, the cellular signal strength icon fades into view displaying one black bar and three gray bars.
 [00:00:45.046] The signal strength increased from one to two black bars.
 [00:00:47.049] The signal strength increased from two to three black bars.
-[00:00:48.721] I dismissed the Settings app, and as its container decreased in size, the common status bar information is not visible (or is missing). Only one Status Bar information is visible; the one from the shrinking Settings app's container [SCREENSHOT: Capture_2025-04-29_11-26-03_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745951163.MP4_00-00-48_721 - Settings app dismissed missing common Status Bar.png]
+[00:00:48.721] I dismissed the Settings app, and as its container decreased in size, the common status bar information is not visible (or is missing). Only one Status Bar information is visible; the one from the shrinking Settings app's container [SCREENSHOT: Capture_2025-04-29_11-26-03_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745951163.MP4_00-00-48_721 - Settings app dismissed missing common status bar.png]
 [00:00:49.620] The Home Screen is displayed.
 [00:00:50.846] The Phone application is launched.
 [00:00:50.964] During the launch sequence of the Phone application, a secondary Status Bar appears within the application interface, distinct from the system Status Bar at the top of the display.
