@@ -1,0 +1,971 @@
+[00:00:00.000] The Control Center is in view. 
+
+The interface shows the Airplane mode on. In the communications group, the airplane icon is colored orange and white.
+[00:00:01.807] I scrolled down to the Now Playing control
+[00:00:02.762] I swiped the Control Center up out of view. 
+
+The Safari app settings interface is fuzzy, and the setting Page Zoom looks highlighted in gray (I tapped it -- rather fast I guess)
+[00:00:03.389] I navigated to the Page Zoom interface. The interface shows a list of zoom levels as a percentage. 
+
+The 100% level has a blue check mark to its right.
+[00:00:04.364] I navigated back to the Safari app's settings
+[00:00:05.188] From left to right, the status bar showed the time 5:34, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the black airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 34 inside of it.
+[00:00:05.419] The Safari app settings interface.  In this interface, settings and controls appeared as follows:
+
+Not Secure Connection Warning: toggled On
+Highlights: toggled Off
+Text under these settings: About Safari & Privacy (blue colored letters imply this is a link)
+
+Under the HISTORY AND WEBSITE DATA section, settings and controls appeared as follows: 
+Import (borderless button with blue text)
+Export (borderless button with blue text)
+Clear History and Website Data (borderless button with blue text)
+
+Under the SETTINGS FOR WEBSITES section, settings and controls appeared as follows: 
+Share Across Devices: toggled Off
+
+Inside the next section below, settings and controls appeared as follows: 
+
+Page Zoom >
+Request Desktop Website >
+Reader >
+Camera >
+Microphone >
+Location >
+
+Under the READING LIST section, settings and controls appeared as follows: 
+Automatically Save Offline: toggled Off
+
+Note that there are items below that are not visible.
+[00:00:06.540] I scrolled up and more settings and these other settings came in to view: 
+
+Under the PRIVACY & SECURITY section, settings and controls appeared as follows: 
+Prevent Cross-Site Tracking: toggled Off (also the control appeared disabled which was indicated by the faded colors of the letters and toggle)
+Fraudulent Website Warning: toggled On
+[00:00:07.044] I tapped the "Clear History and Website Data" borderless button with blue text
+[00:00:07.341] The Safari Clear History and Website Data interface slid up in to view
+[00:00:07.737] The Safari Clear History and Website Data interface. 
+
+Under the Clear History heading, , settings and controls appeared as follows: 
+
+Under the CLEAR TIMEFRAME section, a list of the following options: 
+Last hour
+Today
+Today and yesterday
+All history: blue check mark to the right
+
+Under the ADDITIONAL OPTIONS section, a list of the following options: 
+Close All Tabs: toggled Off
+Text under this setting: No tabs are open.
+
+At the bottom, a large red button with the text "Clear History"
+[00:00:11.329] Without any sign of what triggered the dismissal, the interface slid down out of view.
+[00:00:11.782] The Safari app's settings interface now showed the Clear History and Website Data setting grayed out, which implied the history and data had been cleared.
+[00:00:14.320] I tapped the Export borderless button with blue text
+[00:00:14.881] The Export Browsing Data interface slid up in to view.
+[00:00:14.881] The Export Browsing Data interface.
+
+Text under the interface's heading: Export selected browser data as an archive to allow importing into other browsers. 
+Your data will be saved without encryption and will be visible to anyone who can access the exported file. 
+
+Below this text, the list of items appeared as follows: 
+
+Bookmarks 5 bookmarks
+History 0 sites
+Extensions 0 extensions
+Credit Cards 0 cards
+Passwords 0 passwords
+
+At the bottom, a large blue button with the text Save to Downloads
+[00:00:34.006] I tapped the Cancel control on the top left of the interface
+[00:00:34.863] The Safari app's setting interface came in to view
+[00:00:38.104] I dismissed the app
+[00:00:38.681] The Home Screen came in to view. 
+
+From left to right, the status bar showed the time 5:35, with the silent icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the white airplane mode icon. Next to it, the battery charge level, partially filled with the number 34 inside of it. 
+
+At the top of the screen, the weather widget shows the text "Weather Unavailable" and the Calendar widget shows the text  "Sunday 27 No events today"
+[00:00:38.945] I tapped the Safari app open
+[00:00:38.978] The scene shows two status bars; one at the top of the screen, and the other at the top of the Safari window which is expanding (SCREENSHOT: "Capture_2025-04-27_05-34-42_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 05-34-42_1.MP4_00-00-38_978 - Safari app opening - two status bars.png")
+[00:00:40.377] The Safari Interface
+
+Favorites
+Apple tile with the text Apple beneath it
+
+A white pill button with the text Edit
+
+At the bottom of the interface, a search bar with the placeholder text "Search or enter website name". Below it, from left to right, the Go back, go forward, share, bookmark and the tab switcher icons. The go back, forward and share icon were grayed out. he bookmark and tab switcher were colored blue.
+[00:00:45.182] The Safari app behaved as if I had tapped favorites or the tab switcher although no sign of the tap was visible before the screen was immediately small (as opposed to gradual change in size)
+[00:00:45.215] For a single frame, the favorites tab appears minimized with the rest of the app blurred (TIMESTAMP 00:00:45.215 FRAME 1355)
+[00:00:45.248] For a single frame, the favorites tab appears as if it is enlarging with the rest of the app blurred (TIMESTAMP 00:00:45.248 FRAME 1356)
+[00:00:45.908] Finally, the Safari app's Favorite tab gradually decreased in size (19 frames), and its corresponding configuration interface controls are sharply visible in the screen.
+[00:00:45.908] The Safari App Tab Switcher Interface. 
+
+From left to right, the status bar showed the time 5:35, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the black airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 34 inside of it. 
+
+In the upper half of the screen, the small window of the current configuration of the Favorite's screen. Under it, the gray icon of a start with the text "Start Page" to the right. 
+
+At the bottom of the interface, two rows of controls. The top one shows two controls, the grayed out "Private" , and the black "Start Page. 
+
+The bottom row shows three blue colored controls; a plus sign (New tab), a menu icon (Tab options / menu), and the Done.
+[00:00:47.105] I tapped the Plus sign
+[00:00:47.303] The "Start Page" text in the top row changed to "2 Tabs"
+[00:00:47.435] The interface blurred out, and we can see a new window is sliding in to the front.
+[00:00:47.975] Back at the Safari app's main interface.
+[00:00:48.932] Anomalous partial view of second search bar appears to the left of the main search bar (TIMESTAMP 00:00:48.932, FRAME 1466) SCREENSHOT "Capture_2025-04-27_05-34-42_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 05-34-42_1.MP4_00-00-48_932 - Safari App Anomalous partial view of second search bar.png"
+[00:00:49.118] The recently opened tab gradually slid to the background as its size decreased.
+[00:00:49.915] The Safari App Tab Switcher Interface. 
+
+Two tabs are now layout in a grid. Both have the gray start icon with the label Start Page
+[00:00:52.163] The first Start Page slides forward.
+[00:00:52.922] The Safari app's main interface. 
+
+The anomalous partial view of a second search bar is no longer appearing next to the main search bar.
+[00:01:10.476] I dismissed the Safari app. At this frame, we can see two status bars. The one at the top of the screen, and the one inside the Safari app which is gradually becoming smaller. Both status bars appeared faded.
+[00:01:11.301] The Home Screen came in to view
+[00:01:12.234] I tapped the Settings app opened. At this frame, we can see two status bars. The one at the top of the screen, and the one inside the Settings app which is gradually becoming larger. Both status bars appeared sharp.
+[00:01:12.828] The Safari app's settings interface
+[00:01:14.125] I tapped the blue lettered Export borderless button
+[00:01:14.917] The Export Browsing Data interface slid in to view. 
+
+As earlier in this screenrecording, the screen showed a list with the following items: 
+
+Bookmarks 5 bookmarks
+History 0 sites
+Extensions 0 extensions
+Credit Cards 0 cards
+Passwords 0 passwords
+[00:01:16.812] I tapped the blue "Save to Downloads" button, and the color of button changed to gray, while the blue circled checkmark next to the Bookmarks items disappeared, leaving only a gray circle (or bullet)
+[00:01:17.659] The button's color changed to blue, and the blue checkmark bullet reappeared
+[00:01:23.007] I tapped the Cancel control on the upper left of the interface
+[00:01:23.855] The Safari app's settings interface
+[00:01:28.197] I scrolled down the Safari app's settings interface. 
+
+At the bottom of the interface, the setting that I had not captured before during this screenrecording:
+
+Advanced >
+[00:01:34.159] I tapped the Safari app Advanced setting
+[00:01:34.786] The Safari App's Advanced Settings Interface. In this interface, settings and controls appeared as follows:
+
+Website Data >
+
+Under the PRIVACY section, settings and controls appeared as follows:
+Advanced Tracking and Fingerprinting Protection: All Browsing >
+Block All Cookies: toggled On
+Privacy Preserving Ad Measurement: toggled On
+Check for Apple Pay: toggled Off
+Text under these settings: Allow websites to check if Apple Pay is enabled and if you have an Apple Card Account. About Safari & Privacy... (blue colored letters imply this is a link)
+
+JavaScript: toggled Off
+
+Web Inspector: toggled Off
+Text under this setting: TO use the Web Inspector, connect to Safari on your computer using a cable and access your iPhone's from the Development menu. You can enable the Develop menu in the Advanced section of Safari Settings on your computer.  
+
+Remote Automation: toggled Off
+
+Feature Flags >
+[00:01:41.473] The Website Data interface slid in to view.
+[00:01:41.737] The Website Data Interface appeared as follows:
+
+From left to right, and top down, on the left side the blue colored text Advanced (to go back to the previous interface); in the center, the interface's heading "Website Data"; and on the right, the borderless button with blue text Edit. 
+
+Under these, a search bar. 
+
+Next, the stats as follows:
+
+WEBSITE DATA: 0 bytes
+[00:01:47.677] I tapped the search bar
+[00:01:52.716] I typed "bookmarks" in the search bar
+[00:01:55.481] I tapped Cancel
+[00:01:56.800] The Website Data interface was restored
+[00:01:57.031] I tapped the Advanced control to go back to Safari app advanced setting main interface
+[00:01:58.116] I dismissed the Settings app
+[00:01:59.837] The Home Screen came in to view
+[00:01:59.851] I tapped the Search button in the Home Screen
+[00:02:01.061] The iPhone's search interface.
+
+From left to right, the status bar showed the time 5:36, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the white airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 34 inside of it. 
+
+Below the status bar, from left to right, the text "Siri Suggestions" and on the right, Show More. 
+Below this text, a section with the tiles for the apps, Settings, Photos, Safari and Notes. 
+
+Below these, a couple of rows with actions for apps. From left to right, the first row shows the Photos's app logo, with the Recents text to the right. Further to the right, a small thumbnail of the last captured visual media. The second row shows the Note's app logo, with the New Note text to its right. Further to the right, the icon for a new note. 
+The following white text appeared below these shortcuts: Suggestions before and as you type are personalized. You can adjust this in settings. Learn More...
+
+Further below, the search bar with the blinking cursor. 
+Below the search bar the screen keyboard.
+[00:02:09.243] I typed "bookmarks" in to the search bar
+[00:02:09.900] The following items appeared on the screen:
+
+Suggestions
+The Safari app logo with the word "bookmarks" to the right. Further to the right, a 45 degree slanted arrow indicating a shortcut to open the app. 
+Below, the text "Search in Apps". Below this text, two rows. The top row, with the logo of the App Store, and the text "Search App Store" to its right. The next row, showed the logo of the Maps app, and the text "Search Maps" to its right.
+[00:02:14.484] I tapped the Safari app's bookmarks suggestion
+[00:02:15.177] The Safari App Interface app faded in to view. 
+
+The interface showed the heading "Favorites".
+Apple tile with the text Apple beneath it
+
+A white pill button with the text Edit
+
+At the bottom of the interface, a search bar with the placeholder text "Search or enter website name". Below it, from left to right, the Go back, go forward, share, bookmarks and the tab switcher icons. The go back, forward, and share icons were grayed out. The bookmarks and tab switcher were colored blue.
+[00:02:24.605] I tapped the Apple favorite
+[00:02:24.638] The content in the search bar changed to "bookmarks"
+[00:02:24.671] The "Lockdown Enabled" text appeared on top of the search bar.
+[00:02:25.133] The webpage turned blank with the following text:
+
+Safari can't open the page because your iPhone is not connected to the internet.
+[00:02:35.223] I must have tapped the Tab switcher. The webpage shrank and receded into the background. 
+
+The tab switcher interface was on view.
+[00:02:36.702] The Safari App Tab Switcher Interface. 
+
+From left to right, the status bar showed the time 5:37, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the black airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 34 inside of it. 
+
+In the upper half of the screen, the blank webpage with the message about "not connected to the internet". Under it, the gray icon of the world with the text "Can't Open Page" to the right. 
+
+At the bottom of the interface, two rows of controls. The top one shows two controls, the grayed out "Private" , and the black "1 Tab". 
+
+The bottom row shows three blue colored controls; a plus sign, a menu icon, and the Done.
+[00:02:37.601] I tapped the webpage, which expanded into the full screen.
+[00:02:39.491] I must have tapped the tab switcher icon again.
+[00:02:42.128] I tapped the Tab Groups icon
+[00:02:43.322] The Tab Groups interface.
+
+In this interface, settings and controls appeared as follows:
+
+From left to right, the borderless button with blue text "Edit", followed by the heading "Tab Groups" in black letters. Farthest to the right, the borderless button with the blue text Done. Below, a section with two rows. The top row, with the text 1 Tab, and a blue check mark on the far right. On the second row, the text Private. 
+
+The next section below has two rows. From left to right, the top row, has a blue plus sign, followed by the text "New Entry Tab Group". The second row, has a blue plus sign, with the text "New Tab Group with 1 Tab"
+[00:02:54.681] I tapped the Edit button
+[00:02:55.110] The Tab Groups interface On Edit Mode.
+
+In this interface, settings and controls appeared as follows:
+
+From left to right, the borderless button with blue text "Done", followed by the heading "Tab Groups" in black letters. Below, a section with two rows. The top row, with the text 1 Tab, and a blue encircled ellipsis icon. On the second row, the text Private.
+[00:02:57.592] I tapped the blue encircled ellipsis icon, and a contextual "Copy Link" item appeared.
+[00:02:57.884] The contextual "Copy Link" item disappeared.
+[00:02:58.732] Again, I tapped the blue encircled ellipsis icon, and a contextual "Copy Link" item appeared.
+[00:02:59.722] The contextual "Copy Link" item disappeared.
+[00:03:01.081] I tapped the Done button.
+[00:03:01.870] The interface went back to the normal Tab Groups.
+[00:03:03.189] The Tab Groups interfaces slid down out of view.
+[00:03:07.355] I tapped the webpage
+[00:03:09.188] I must have tapped the Tab Switcher icon
+[00:03:09.734] The Tab Switcher interface.
+[00:03:10.468] I must have tapped the close webpage icon on the top right of the webpage (card in this interface)
+[00:03:10.600] The start page expanded in to view.
+[00:03:11.161] The Safari App's Start Page.  
+
+The interface showed the heading "Favorites".
+Below it, the Apple tile with the text Apple beneath it
+
+The next section's heading read "Privacy Report", and had the following text underneath: In the last seven days, Safari has prevented 0 trackers from profiling you. 
+
+A white pill button with the text Edit
+
+At the bottom of the interface, a search bar with the placeholder text "Search or enter website name". Above it, the text "Lockdown Ready". Below it, from left to right, the Go back, go forward, share, bookmarks and the tab switcher icons. The go back, forward, and share icons were grayed out. The bookmarks and tab switcher were colored blue.
+[00:03:15.201] I dismissed the Safari app
+[00:03:16.572] I tapped the Notes app open
+[00:03:17.960] The Notes app opened with a note that I had typed earlier: disabled, and as I try to screenrecord what happens when I insert the key, there are notices that appear in the screen, the video is clipped or tampered with. When I enter the phone pin, which supposedly is not recorded by screen recording, I will stop recording, and then begin recording when the key is actually inserted but "not recognized by system" and apparently sent to web
+[00:03:19.655] I must have tapped the icon for a new note
+[00:03:20.345] The Notes App interface.
+
+From left to right, the status bar showed the time 5:38, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the black airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 33 inside of it. 
+
+Below, from left to right, the borderless button with yellow text Notes which takes the user to the Notes List. Farther to the right, a grayed out share icon. To its right, a yellow encircled ellipsis icon (the More icon). Last borderless button on the right, the yellow text Done. 
+
+Then a large white space. Further down the screen keyboards.
+[00:03:22.285] I long-pressed the iPhone's screen to trigger the contextual menu, and the overlay appeared with the items, from left to right, Paste, AutoFill, Add Link, and a right pointing chevron.
+[00:03:22.984] I tapped the Paste item.
+[00:03:23.602] The underlined text "Can't Open Page" was pasted into the Note
+[00:03:26.569] I must have tapped the underlined text
+[00:03:28.375] The interface changed into an Interactive Preview Prompt, which showed a Link Preview Container: A rounded-rectangular box which occupies the upper portion of the interface.
+
+The container has a Header Ribbon, that contains the instructional text: "Tap to show preview."
+
+Inside the container, the URL Display, the full link appeared as "google.com
+https://www.google.com/search?q=bookmarks&ie=UTF-8&oe=ITF-8&hl=en-us&client=safari"
+
+Below the prompt, a Contextual Action Menu with a list of the following system-level commands:
+
+Open Link: The primary action to launch the URL in the default web browser.
+
+Add to Reading List: A secondary action to save the URL for later consumption within the Safari ecosystem.
+
+Copy Link: A utility function to save the URL to the system clipboard.
+
+Share: A function to export the URL to external applications or contacts
+
+Show Link Preview: to load a preview of the URL's webpage content
+
+Edit Link: self explanatory
+
+Remove Link: self explanatory
+[00:03:45.192] I must have tapped the Interactive Preview Prompt
+[00:03:46.284] The Safari app slid into view displaying the same Start Page I described before, with the exception of the breadcrumbs link "< Notes"
+[00:04:00.778] I tapped the Notes link
+[00:04:00.910] The Notes app began to slide right into view, while the Safari app was sliding out of view
+[00:04:01.952] Back in the Notes app
+[00:04:06.083] I tapped the encircled ellipsis icon (More), and a menu with the following items appeared:
+
+Scan
+Pin
+Lock
+Find in Note
+Move Note
+Math Results (Suggest Results)
+Recent Notes
+Lines & Grids
+Attachment View
+Delete
+[00:04:07.273] As the screen keyboard disappeared, other icons at the bottom were visible. From left to right, these icons are:
+
+Create a list
+Add an Attachment
+Markup
+New Note
+[00:04:18.386] I dismissed the More menu
+[00:04:21.043] I tapped the link again
+[00:04:21.722] The Safari app slid in to view, and it had a blank page with the text "Safari can't open the page because your iPhone is not connected to the internet. "
+[00:04:24.515] I tapped the Tab Switcher
+[00:04:26.658] I closed that webpage
+[00:04:27.244] The Safari Start Page
+[00:04:27.734] I taped the breadcrumbs link Notes
+[00:04:28.658] I navigated back to the Notes app
+[00:04:31.497] I tapped the More icon
+[00:04:33.503] I dismissed the More menu
+[00:04:36.705] The screen keyboard slid up into view
+[00:04:38.669] I long-pressed the link
+[00:04:39.098] The Interactive Link Preview Prompt slid in to view
+[00:04:49.819] I took a screenshot
+[00:04:54.285] I tapped the Edit Link menu item
+[00:04:55.356] The Interactive Link Preview Prompt in Edit Link Mode
+
+From left to right, the borderless button with yellow text Cancel; to its right, the heading Edit Link. On the far right, the borderless button with yellow text Done. 
+
+Below, the field LINK TO. Underneath it the actual URL as: https://www.google.com/search?q=bookmarks&ei=UTF-8&oe=UTF-8&hl=en-us&client=safari
+
+Further down, the field, NAME. Underneath it, the actual name as: Can't pen Page
+
+Last one down, Remove Link (red letters)
+[00:04:58.500] I tapped the NAME field, and the screen keyboard slid up in to view
+[00:05:00.002] I long-pressed the content of the LINK TO URL, and the screen keyboard slid down out of view
+[00:05:01.163] The context menu appeared with the items:
+
+Paste
+Select
+Select All
+AutoFill
+
+The screen keyboard slid up in to view
+[00:05:03.084] I copied the Google search link
+[00:05:06.510] In the NAME field, I long-pressed the information, and the when the context menu appeared, I tapped Select All
+[00:05:07.470] After the "Can't Open Page" text was selected, I tapped the Paste menu item
+[00:05:13.144] I tapped Remove Link
+[00:05:14.044] Back in the Notes app interface, the text "Can't Open Page" changed to black without the underlining
+[00:05:17.637] The Undo and Redo icons appeared above the text, along with the other app function icons. The Undo icon was yellow, and the Redo icon, was grayed out.
+[00:05:18.952] I deleted the text
+[00:05:20.960] I long-pressed the screen
+[00:05:21.721] The contextual menu appeared, and I tapped Paste
+[00:05:22.787] The Google search URL text appeared
+[00:05:32.720] I tapped the Done button
+[00:05:33.281] The Google search URL changed color to yellow and was underlined
+[00:05:37.038] I tapped he Notes button
+[00:05:37.419] I was in the List of Notes interface of the Notes app.
+[00:05:37.779] The Notes App's List of Notes Interface
+
+From left to right, the status bar showed the time 5:40, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the black airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 33 inside of it.
+
+Below the status bar, on the left, the borderless button with yellow text "< Folders".  On the right, the icon for More. 
+
+Below these controls, the App's heading Notes in black letters. Below the heading, the subheading Today. Below this heading, two notes. 
+
+The first note is the partial URL of the Google search which I stated earlier. The note's timestamp is 5:40 AM.
+
+The second note begins "This IPhone 16 pro was purchased yest...the Verizon cell activation. The first...". The note timestamp is 4:49 AM. 
+
+At the bottom of the interface, the status:
+Syncing with iCloud Paused
+In Airplane Mode - Settings (yellow colored letters indicate a control)
+
+Further to the right, the icon for a New Note
+[00:05:54.476] I tapped the Settings control
+[00:05:54.740] As the Settings app slid in to view, it is visible that within the app the Safari advanced settings interface was being transitioned to the main Settings app interface (TIMESTAMP 00:05:54.740, FRAME 10631)
+[00:05:56.251] The Settings app interface
+[00:05:58.737] The Settings app interface.  In this interface, settings and controls appeared as follows: 
+
+Breadcrumbs link to the Notes app
+
+Veronica Cisneros. Apple Account, iCloud, and more >
+
+Finish Setting Up Your iPhone (1)
+
+Airplane Mode: Toggled On
+Wi-Fi: Off >
+Bluetooth: Off >
+Cellular On >
+Personal Hotspot: Off > (and disabled, meaning, it can not be controlled by the user, as opposed to situations in which the setting appears brightly colored as the other settings)
+Battery >
+
+General >
+Accessibility >
+Action Button >
+Apple Intelligence & Siri >
+Camera >
+Control Center >
+[00:06:05.697] I dismissed the Settings app
+[00:06:06.977] I tapped the Settings app open
+[00:06:13.226] I scrolled down and saw more settings and controls:
+
+Display & Brightness >
+Home Screen & App Library >
+Search >
+StandBy >
+Wallpaper >
+
+Notifications >
+[00:06:15.411] I tapped Action Button
+[00:06:16.300] The Action Button interface. 
+
+From left to right, the status bar showed the time 5:40, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the black airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 33 inside of it. 
+
+In the background, the enlarged image of the iPhone's profile, featuring the power button, which is colored orange, and has the image of the silent icon. Below it, 12 large dots, the first one white, and the other gray. These dots are swappable actions pickers (i.e., Silent Mode, Focus, Camera, Flashlight, Voice Memo, Recognize Music, Translate, Magnifier, Controls, Shortcut, Accessibility, or No Action). 
+
+As the I swipe to the next dot, the corresponding action and its description's text appear under the action picker.
+[00:06:40.884] While exploring the Controls action, I tapped the blue Choose a Control... button
+[00:06:42.364] The Control picker interface slid up in to view.
+[00:06:45.444] The Control picker interface has a search bar on top. 
+
+IN the first sections, the following items:
+Calculator
+Stopwatch
+Alarm
+Home
+Timer
+Dark Mode
+
+IN the second section, the Ambient Music related items:
+
+Sleep 
+Chill
+Productivity
+Wellbeing
+
+In the third section, the Apple Intelligence & Siri related items:
+
+Talk to Siri
+Type to Siri
+Visual Intelligence
+[00:06:50.075] I scrolled further down, and in the Capture section, the item Scan Code
+
+The next section, the Clocl related items:
+Alarm
+Timer
+Stopwatch
+
+The next section, the Connectivity related items:
+Airplane Mode
+Cellular Data
+Personal Hotspot
+[00:06:52.420] The next section, the Display & Brightness item Dark Mode
+[00:06:56.476] I tapped the Connectivity item Airplane Mode
+[00:06:56.592] I swiped the Control picker down out of view
+[00:07:02.438] The Action Button interface now showed the the text Airplane Mode under the description of the Controls action description "Quickly access your favorite Control."
+[00:07:12.790] I tapped the text "Airplane Mode" and the Control picker interface slid up in to view
+[00:07:20.698] I scrolled further down that I had the previous time, and the Home section came in to view, with its only item: Home. 
+
+The next section below it, the Measure related items: Measure
+Level
+[00:07:22.580] I scrolled further down, and the Notes app related item:
+Quick Note
+
+The next section below, the Remote with the item:
+Remote
+
+The next section below, the Utilities and related items:
+Calculator
+Scan Code
+[00:07:25.259] I scrolled further down, and the next section down was Wallet with the related items:
+Wallet
+Tap to Cash
+
+The last section, Watch with the only item Ping My Watch
+[00:07:36.410] I scrolled back up to the Connectivity section
+[00:07:48.701] I scrolled further up all the way to the top of the interface
+[00:07:48.800] I swiped the interface down out of view
+[00:07:50.210] I navigated back to the Settings app's main interface
+[00:07:58.806] I dismissed the Settings app
+[00:07:59.914] I tapped the Notes app open
+[00:08:02.386] The Notes app in the Notes List interface
+[00:08:02.683] I must have tapped the New Note icon
+[00:08:03.803] The Note interface of the Notes app
+[00:08:30.852] I typed the message "Unable to find the bookmarks that won't delete from the browser"
+[00:08:30.885] I must have tapped the Done button
+[00:08:32.735] I dismissed the Notes app
+[00:08:33.569] I tapped the Settings app open
+[00:08:35.355] I scrolled further down from where I left before while interacting with this app, and additional settings came in to view:
+
+Sound & Haptics >
+Focus >
+Screen Time >
+
+Face ID & Passcode >
+Emergency SOS >
+Privacy & Security >
+
+Game Center >
+iCloud >
+Wallet & Apple Pay >
+
+Apps >
+[00:08:36.429] I tapped the Apps item
+[00:08:37.218] The Settings app's Apps interface slid in to view.
+[00:08:37.635] The Apps interface.  In this interface, settings and controls appeared as follows: 
+
+Search bar
+
+Default Apps, Manage default apps on iPhone >
+
+A
+App Store >
+Apple Store >
+
+B
+Books >
+
+C
+Calculator >
+Calendar >
+Clock >
+Compass >
+Contacts >
+
+F
+FaceTime >
+[00:08:39.045] I scrolled down, and more items and controls came in to view: Files >
+Find My >
+Fitness >
+Freeform >
+
+G
+Garage Band >
+
+H
+Health >
+
+I
+iMovies >
+iTunes Store >
+[00:08:40.734] I scrolled further down, and more settings and controls came in to view: 
+
+J
+Journal >
+
+K
+Keynote >
+
+M
+Magnifier >
+Mail >
+Maps >
+Measure >
+Messages >
+Music >
+[00:08:42.751] I scrolled further down, and more settings and controls came in to view: 
+
+N
+News >
+Notes >
+Numbers >
+
+P
+Pages >
+Passwords >
+Phone >
+Photos >
+Podcasts >
+
+R
+Reminders >
+
+S
+Safari >
+Shortcuts >
+Stocks >
+
+T
+Tips >
+[00:08:45.355] I tapped Safari
+[00:08:46.146] The Safari app settings interface. In this interface, settings and controls appeared as follows:
+
+Under the ALLOW SAFARI TO ACCESS section, settings and controls appeared as follows:
+Apple Intelligence & Siri >
+Search >
+
+Default Browser: Safari >
+
+Under the SEARCH section, settings and controls appeared as follows:
+Search Engine: Google >
+Also Use in Private Browsing: toggled On
+Search Engine Suggestions: toggled Off
+Safari Suggestions: toggled Off
+Show Recent Searches: toggled Off
+Quick Website Search: On >
+Preload Top Hit: toggled Off
+Text under these settings: About Search & Privacy (blue colored letters imply this is a link)
+
+Under the GENERAL section, settings and controls appeared as follows:
+
+AutoFill >
+Favorites: Favorites >
+Block Pop-ups: toggled On
+Extensions >
+Downloads: On My iPhone >
+
+Under the TABS section, settings and controls appeared as follows:
+In the same row, and with a large browser like icon that illustrates the options, which are spelled out in text under the graphics: 
+    Tab Bar: colored blue (color implies this is selected)
+    Singe Tab: Gray (color implies it is not selected)
+[00:08:54.098] I tapped Favorites
+[00:08:55.055] The Safari app's Favorite settings interface. In this interface, settings and controls appeared as follows:
+
+From left to right, from the top down, on the left, the "Safari" breadcrumbs link. In the center, the heading "Favorites"
+
+Below these, the text "Quickly access Favorite bookmarks when you enter an address, search, or create a new tab. 
+
+Under this text, the only setting, Favorites, with a blue check mark to its far right.
+[00:09:01.590] I tapped Favorites
+[00:09:03.031] I tapped Safari (top left corner of the interface)
+[00:09:04.068] Back the Safari settings interface
+[00:09:05.797] I tapped Favorites again
+[00:09:06.847] The Safari app's Favorite settings
+[00:09:13.828] I tapped Favorites several times
+[00:09:23.547] I tapped Safari (top left corner of the interface)
+[00:09:24.537] Back the Safari settings interface
+[00:09:28.177] I scrolled further down the Safari settings interface, and settings I have not mentioned in this screenrecording came in to view. These were as follows:
+
+Under the TABS section, settings and controls appeared as follows:
+After the Tab Bar/Single Bar setting: 
+Landscape Tab Bar: toggled On
+Allow Website Tinting: toggled On
+Open Links: In New Tab >
+Close Tabs: Manually >
+Text under these settings: Allow Safari to automatically close tabs that haven't recently been viewed.
+
+Under the PROFILES section, settings and controls appeared as follows:
+New Profile (blue colored letters)
+Text under this setting: Profiles allow you to keep your browsing separated. You may want to set up a profile for work or school. Your history, cookies, and website data will be distinct per profile. 
+
+When you start using profiles, a default Personal profile will automatically be created based on your current settings. You can create additional profiles, add a name and an icon to each, and also set custom Favorites to personalize the experience.
+
+Under the PRIVACY & SECURITY section, settings and controls appeared as follows:
+Prevent Cross-Site Tracking: toggled Off (and disabled, meaning, it can not be controlled by the user, as opposed to situations in which the setting appears brightly colored as the other settings)
+Hide IP Address: From Trackers >
+Require Passcode to Unlock: toggled Off
+Fraudulent Website Warning: toggled On
+Not Secure Connection Warning: toggled On
+Highlights: toggled Off
+Text under this setting: About Safari & Privacy  (blue colored letters imply this is a link).
+
+The setting of the HISTORY AND WEBSITE DATA, SETTINGS FOR WEBSITE, and the next section, were listed before.
+[00:09:35.461] I tapped Export
+[00:09:35.593] The Export Browsing Data interface slid up in to view.
+[00:09:36.121] The stats in this page had been updated as follows:
+
+Bookmarks 5 bookmarks
+History 1 site
+Extensions 0 extensions
+Credit Cards 0 cards
+Passwords 0 passwords
+
+(the change was History from 0 to 1 site)
+[00:09:56.418] I tapped Cancel on the top left side of the interface
+[00:09:57.109] Back to the Safari settings interface
+[00:10:02.457] I scrolled all the way down the Safari settings interface, and the "Advanced >" setting came in to view (I had described the setting under the READING LIST module before in this screenrecording)
+[00:10:02.960] The last to settings were listed before in this screenrecording.
+[00:10:04.735] I tapped Advanced
+[00:10:05.527] The Safari app's Advanced Settings interface was described before in this screenrecording.
+[00:10:09.657] I tapped Advanced Tracking and Fingerprinting Protection under the PRIVACY section
+[00:10:10.449] The Advanced Tracking and Fingerprinting Protection Interface. In this interface, settings and controls appeared as follows:
+
+From left to right, and top down, on the upper left side a blue left pointing chevron to go back to the previous screen. To its right, the heading of the interface " Advanced Tracking and Fingerprinting P..."
+
+Off
+Private Browsing
+All Browsing: blue check mark
+[00:10:11.578] I tapped the Back chevron icon on the top left of the interface
+[00:10:12.019] Back to the Safari app's Advanced settings interface
+[00:10:13.203] I tapped the Website Data > setting
+[00:10:13.929] The Website Data interface slid in to view
+[00:10:14.424] I described the Website Data Interface before.
+
+From left to right, and top down, on the left side the blue colored text Advanced (to go back to the previous interface); in the center, the interface's heading "Website Data; and on the right, the borderless button with blue text Edit. 
+
+Under these, a search bar. 
+
+Next, the stats as follows:
+
+WEBSITE DATA: 0 bytes
+[00:10:15.830] I must have tapped the Edit button. The Website Data Interface changed to edit mode. In this mode, the settings and controls appears as follows: 
+
+From left to right, and top down, in the center, the interface's heading "Website Data;" and on the right, the borderless button with blue text Done. 
+
+Under these, a search bar. 
+
+Next, the stats as follows:
+
+WEBSITE DATA: 0 bytes
+[00:10:17.643] I must have tapped the Done button
+[00:10:17.676] Back to the Website Data interface in the non-edit mode
+[00:10:18.546] I tapped the "< Advanced" button
+[00:10:19.371] Back to Safari's Advanced setting interface
+[00:10:24.752] I tapped "Feature Flags >"
+[00:10:25.577] The WebKit Feature Flags interface. In this interface, the settings and controls appeared as follows:
+
+From left to right, and top down, the borderless button with blue text "< Advanced"; in the center, the interface's heading "WebKit Feature Flags". 
+
+Under the WEBKIT FEATURE FLAS section, settings and controls appeared as follows: 
+::target-text pseudo-element: toggled On
+::thumb and ::track pseudo-elements: toggled Off
+<select> showPicker() method: toggled Off
+@page CSS at-rule margin descriptors: toggled On
+AccessHandle API: toggled On
+Allow WebGL in Web Workers: toggled On
+Allow universal access from file: URLs: toggled Off
+Audio descriptions for video - Extended: toggled Off
+Audio descriptions for video - Standard: toggled Off
+AudioSession full API: toggled Off
+BroadcastChannel API: toggled On
+BroadcastChannel Origin Partitioning: toggled On
+CSS 3D Transform Interoperability for backface-visibility: toggled Off
+[00:10:29.597] I scrolled down, and the following settings came in to view:
+
+CSS @counter-style <image> symbols: toggled Off
+CSS @counter-style: toggled On
+CSS @font-face size adjust: toggled On
+[00:10:31.474] I scrolled down, and the following settings came in to view:
+
+CSS @starting-style rule: toggled On
+CSS Accent Color: toggled On
+CSS Anchor Positioning: toggled Off
+CSS Content Visibility: toggled On
+CSS Devolvable Widgets: toggled On
+[00:10:32.653] I scrolled down, and the following settings came in to view:
+
+CSS Input Security: toggled Off
+CSS Masonry Layout: toggled Off
+CSS Motion Path: toggled On
+CSS Nesting: toggled On
+[00:10:35.352] I scrolled down, and the following settings came in to view:
+
+CSS Overscroll Behavior: toggled On
+CSS Painting API: toggled Off
+CSS Rhythmic Sizing: toggled Off
+CSS Scoping (@scope): toggled On
+CSS Scroll Anchoring: toggled Off
+CSS Typed OM: Color Support: toggled Off
+CSS Unprefixed Backdrop Filter: toggled Off
+CSS appearance: base: toggled Off
+CSS background-clip: border-area: toggled On
+CSS color-layers(): toggled Off
+CSS container-progress(): toggled Off
+CSS contrast-color(): toggled Off
+[00:10:36.800] I scrolled down, and the following settings came in to view:
+
+CSS d property: toggled Off
+CSS field-sizing property: toggled Off
+CSS font-variant-emoji property: toggled Off
+CSS light-dark(): toggled On
+CSS line-clamp: toggled Off
+CSS margin-trim property: toggled On
+CSS media-progress(): toggled Off
+[00:10:37.651] I scrolled down, and the following settings came in to view:
+
+CSS progress: toggled Off
+CSS random(): toggled Off
+CSS ruby-align property: toggled On
+CSS scrollbar-color property: toggled Off
+CSS scrollbar-gutter property: toggled On
+CSS scrollbar-width property: toggled On
+CSS shape() function: toggled On
+CSS style queries: toggled On
+CSS text-autospace property: toggled On
+[00:10:38.321] I scrolled down, and the following settings came in to view:
+
+CSS text-box-trim property: toggled On
+CSS text-group-align property: toggled Off
+CSS text-justify property: toggled Off
+CSS text-spacing-trim property: toggled Off
+CSS text-underline-position: left right: toggled On
+CSS text-wrap-style property: toggled On
+CSS text-wrap: pretty: toggled Off
+CSSOM View Scrolling API: toggled On
+CSSOM View Smooth Scrolling: toggled On
+[00:10:39.220] I scrolled down, and the following settings came in to view:
+
+Canvas Color Spaces: toggled On
+Canvas Filters: toggled Off
+Canvas Layers: toggled Off
+Clear-Site-Data HTTP Headers: toggled On
+Clear-Site-Data: 'excutionContexts' support: toggled Off
+Close Watcher API: toggled Off
+Compression Stream API: toggled On
+Cookie Store API: toggled Off
+[00:10:40.279] I scrolled down, and the following settings came in to view:
+
+Cookie Store API CookieStoreManager: toggled Off
+Cookie Store API Extended Attributes: toggled Off
+Cookie Store API: toggled On
+Cross document view-transitions: toggled On
+Cross-Origin-Embedder-Policy (COEP) header: toggled On
+[00:10:53.077] I scrolled down, and the following settings came in to view:
+
+Cross-Origin-Opener-Policy (COOP) header: toggled On
+Declarative Shadow Roots Serializer APIs: toggled On
+Declarative Web Push: toggled On
+Defer async script until DOMContentLoaded or first-paint: toggled On
+Deprecate AES-CFB Web Crypto: toggled On
+[00:11:01.578] I scrolled down, and the following settings came in to view:
+
+Deprecation Reporting: toggled Off
+Detachable Media Source: toggled Off
+Detect UA visual transitions: toggled On
+Digital Credentials API: toggled Off
+[00:11:13.769] ANOTHER
+[00:11:17.440] ANOTHER
+[00:11:22.722] ANOTHER
+[00:11:25.823] ANOTHER
+[00:11:31.712] ANOTHER
+[00:11:34.252] ANOTHER
+[00:11:34.376] ANOTHER
+[00:11:35.826] ANOTHER
+[00:11:35.910] ANOTHER
+[00:11:36.174] I SCROLLED UP
+[00:11:37.032] I scrolled up
+[00:11:37.164] I tapped "< Advanced"
+[00:11:37.923] Back in Safari's Advanced settings interface
+[00:11:41.322] I scrolled up
+[00:11:43.695] I tapped "Website Data"
+[00:11:44.247] Back in the "Website Data" interface
+[00:11:45.118] I tapped "< Advanced"
+[00:11:45.943] Back in Safari's Advanced settings interface
+[00:11:48.104] I scrolled down
+[00:11:50.640] I tapped "< Safari"
+[00:11:51.441] Back in Safari's settings main interface
+[00:11:59.350] I scrolled up
+[00:12:16.669] I scrolled down
+[00:12:18.356] I tapped the Advanced settings
+[00:12:19.148] Back in Safari's Advanced settings interface
+[00:12:22.798] I tapped "< Safari"
+[00:12:23.538] Back in Safari's settings main interface
+[00:12:23.790] I tapped "< Apps"
+[00:12:24.669] Back in the Settings' list of apps
+[00:12:30.142] The Safari app stayed grayed out as when it was originally tapped
+[00:12:30.613] I minimized the Settings app
+[00:12:31.064] Back a the Home Screen
+[00:12:31.196] From left to right, the status bar showed the time 5:47, with the silent icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the white airplane mode icon. Next to it, the battery charge level, partially filled with the number 32 inside of it. 
+
+At the top of the screen, the Siri Suggestions widget shows the text "Open link copied from Notes google.com" with the Safari app thumbnail on top of the text. TO the right, the Calendar widget shows the text  "Sunday 27 No events today"
+[00:12:31.300] I tapped the Search button
+[00:12:31.927] The iPhone's search interface.
+
+From left to right, the status bar showed the time 5:37, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the white airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 32 inside of it. 
+
+Below the status bar, from left to right, the text "Siri Suggestions" and on the right, Show More. 
+Below this text, a section with the tiles for the apps, Settings, Safari, Notes, and Photos. 
+
+Below these, a couple of rows with actions for apps. From left to right, the first row shows the Notes app logo, with the text "New Note" to the right. Further to the right, a small thumbnail of the "New Note" icon. The second row shows the Photos app logo, with the "Recents" text to its right. Further to the right, a thumbnail of the last captured visual media.
+ 
+The following white text appeared below these shortcuts: Link on Clipboard
+Logo of the Safari App with the text "Open Link www.google.com/search?q=bookmarks&i..." to the right. in the far right, the icon of a link. 
+
+Further below, the search bar with the blinking cursor. 
+Below the search bar the screen keyboard.
+[00:12:32.172] The following text faded in above the search bar "Suggestions before and as you type are personalized. You can adjust this in settings. Learn More..."
+[00:13:08.868] I tapped the backspace key in the screen keyboard
+[00:13:09.858] I tapped the b key in the screen keyboard
+[00:13:09.924] The search bar moved a bit higher, and for a single frame, the hint of what was a swiped over the screen is very faint and almost invisible (TIMEFRAME 00:13:09.924, FRAME 23675)
+[00:13:09.957] In the search bar the text "he" appeared, and underneath it, the options offered by the screen keyboard. The hint of a swipe, which in the previous frame looked very faint, appears more evident (TIMESTAMP 00:13:09.957, FRAME 23675)
+[00:13:10.089] The following suggestions appeared on top: 
+
+Top Hit
+Health
+
+Suggestions
+He
+
+
+Apps, and on the far right "Show More"
+Journal
+Fitness
+[00:13:24.615] As I began to scroll down, the screen keyboard slid down, and  these additional were visible:
+
+Watch
+
+Settings, in the far right "Search in App"
+Health, Privacy & Security
+Headphone Safety, Sounds & Haptics
+Health Details, Apple -> Health
+[00:13:27.173] I tapped the search bar
+[00:13:27.239] The original iPhone's search interface re-appeared, and the screen keyboard came back up
+[00:13:36.872] I dismissed the iPhone's Search app
+[00:13:37.853] The Home screen
+[00:13:57.944] I swiped to the second panel of the Home screen
+[00:14:00.086] I swiped to the third panel of the Home screen
+[00:14:02.273] I swiped back to the second panel of the Home screen
+[00:14:04.462] I swiped back to the first panel of the Home screen
+[00:14:08.574] The Today View, or widget system, came in to view.
+[00:14:08.871] The Today View interface.
+
+From left to right, the status bar showed the time 5:48, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the white airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 32 inside of it. 
+
+The content of the modules appeared as follows:
+
+Inside the first module the content was as follows:
+The Safari app tile on the left, and to its right the text "Open link copied from Notes google.com"
+The Calendar app tile on the left, and to its right the text "Create a new calendar event Calendar"
+
+The next section are two widgets. The one on the left in the Calendar widget with the text "Sunday 27 No events today". On the right, the Weather widget with the text "Weather Unavailable"
+
+The next section, or module, shows a feed of news. At the very top, the "Top Stories", and under this, Trending items.
+[00:14:12.620] I swiped back to the 1st panel of the Home screen
+[00:14:15.639] I must have long-pressed the Home Screen and caused the apps and widgets to enter "jiggle mode" (i.e., Home Screen edit mode). The icons begin wobbling and display remove/delete controls in the corner.
+
+At the top of the screen, the dynamic island changed into the black pill.
+[00:14:17.136] The dynamic island disappeared (TIMESTAMP 00:14:17.136, FRAME 25688)
+[00:14:19.633] I exited the Home screen edit mode, so I must have tapped the Done button.
+[00:14:23.421] I swiped inside the widget on the top left, and it changed from the Siri Suggestions to the Weather app widget, which stated "Weather Unavailable"
+[00:14:24.279] The page indicators on the right side of the widget stayed on the first dot
+[00:14:24.479] The maps app widget sliding in to view, and the page indicators on the right side of the widget changed to the second dot
+[00:14:25.106] The Maps widget shows a pastel green color without content
+(TIMESTAMP 00:14:25.106, FRAME 25927)
+[00:14:25.396] The Notes app widget sliding in to view, and the page indicators on the right side of the widget changed to the third dot
+[00:14:26.162] The Notes app widget whos the partial content of a note "Unable to find the bookmarks that won't delete from t..." 5:43 AM
+[00:14:27.086] The page indicators faded out of view, which means I stopped touching the screen
+[00:14:28.076] I continued to swipe the content of the widget on the top left, and as the page indicators changed from third to fourth dot, the Siri Suggestions widget slid up in to view
+(TIMEFRAME 00:14:28.076, FRAME 26016)
+[00:14:31.311] I tapped the Settings app
+[00:14:33.578] The Apps list under the Setting app slid in to view
+[00:14:33.888] I tapped the Safari app
+[00:14:34.779] The Safari app's interface
+[00:14:37.771] I swiped back up
+[00:14:47.150] I scrolled down
+[00:15:11.193] I scrolled down to the "HISTORY AND WEBSITE DATA" section
+[00:15:14.877] I tapped the "Clear History and Website Data", and the text color changed from blue to light gray
+[00:15:15.944] I tapped Export
+[00:15:16.515] The Export Browsing Data interface slid in to view. 
+
+As earlier in this screenrecording, the screen showed a list with the following items: 
+
+Bookmarks 5 bookmarks
+History 0 sites
+Extensions 0 extensions
+Credit Cards 0 cards
+Passwords 0 passwords
+[00:15:39.298] I must have tapped the Cancel button. The Safari app settings interface came in to view with no recorded taps, scrolling, or navigational actions preceding the transition.
+[00:15:51.642] Last frame before the anomalous abrupt change to the Advanced settings interface shows the Safari app's settings. 
+(TIMEFRAME 00:15:51.642, FRAME 28520)
+[00:15:51.675] An unexplained interface transition just occurred; the view changes from Safari Settings (“HISTORY AND WEBSITE DATA” section) directly to the “Advanced” settings interface with no recorded taps, scrolling, or navigational actions preceding the transition. (TIMESTAMP 00:15:51.675, FRAME 28521)
+[00:16:00.003] I tapped Website Data 
+[00:16:00.663] The Website Data interface.
