@@ -1,0 +1,27 @@
+[00:00:58.039] Under NOTIFICATION STYLE module: 
+
+Photos: Displays status as Off
+[00:01:17.509] Although there is no visible interaction with the user, the "Show Notifications. StandBy" corresponding interface slid into view
+[00:01:18.070] The StandBy Interface (StandBy Notifications)
+
+
+[00:01:51.909] I tapped Cancel
+[00:01:52.503] The Settings app interface faded into view
+[00:03:36.423] The settings are missing the status and toggles, except for Personal Hotspot
+[00:03:36.522] The toggle of Airplane Mode begins to appear
+[00:03:36.555] The Off status of Wi-Fi and Bluetooth appear
+[00:04:11.279] The Control Center Connectivity view. Shows the Satellite service with status "Not Available"
+[00:04:14.870] The Cellular Data signal strength decreased from two white bars to one bar. 
+[00:04:43.537] The Cellular setting was tapped
+[00:04:44.329] The Cellular Settings interface
+[00:04:50.340] The Cellular Data setting was toggled Off.
+[00:04:50.518] The setting Personal Hotspot text changed color from black to gray, which is indicative of having switched to an inoperable state. 
+[00:04:53.901] The "Turn On This Line" setting was toggled Off.
+[00:04:54.000] The Signal Strength icon disappeared from the status bar
+[00:04:54.462] Where the Signal Strength icon had bene, the black SOS icon faded into view
+[00:04:54.495] The Cellular Settings interface was transformed with most settings disappearing.
+
+Only two settings under the eSIMs module appeared:
+Used as "Primary": Displaying status Off, and the subtext +1 (669) 326-4200
+Add eSIM (blue colored text)
+[00:04:56.376] Although the user interface did not show any evidence of user interaction (usually the backlink Settings in the navigation bar area of the interface displays the fading of its blue color to signal a tap and then transition to Settings app main interface begins).
