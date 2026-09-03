@@ -7,6 +7,7 @@ Photos: Displays status as Off
 
 [00:01:51.909] I tapped Cancel
 [00:01:52.503] The Settings app interface faded into view
+[00:02:16.495] The app containers shown when the app switcher is in use are missing their status bars. Also, there is no system status bar. 
 [00:03:36.423] The settings are missing the status and toggles, except for Personal Hotspot
 [00:03:36.522] The toggle of Airplane Mode begins to appear
 [00:03:36.555] The Off status of Wi-Fi and Bluetooth appear
@@ -25,3 +26,4 @@ Only two settings under the eSIMs module appeared:
 Used as "Primary": Displaying status Off, and the subtext +1 (669) 326-4200
 Add eSIM (blue colored text)
 [00:04:56.376] Although the user interface did not show any evidence of user interaction (usually the backlink Settings in the navigation bar area of the interface displays the fading of its blue color to signal a tap and then transition to Settings app main interface begins).
+[00:04:57.000] The Settings App interface.
