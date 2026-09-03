@@ -1,0 +1,37 @@
+﻿,2025-04-27_09-09-23,2025-04-27_09-09-23,2025-04-27_09-09-23,2025-04-28_12-45-35,2025-04-28_12-45-35,2025-04-28_12-45-35,2025-04-29_11-26-03,2025-04-29_11-26-03,2025-04-27_05-34-42,2025-04-27_03-56-01,2025-04-27_03-56-01,
+,04:41.2,,04:57.0,00:49.8,01:14.6,01:16.9,00:05.2,00:42.1,05:56.3,00:09.6,,06:57.1
+Settings App: Airplane Mode,toggled Off,,toggled Off,toggled On,toggled On,toggled Off,toggled On,toggled Off,toggled On,toggled Off,,toggled Off
+Settings App: Wi-Fi,Off,,Off,Off,Off,Off,Off,Not Connected,Off,Off,,Off
+Settings App: Bluetooth,Off,,Off,Off,Off,Off,Off,Off,Off,Off,,Off
+Settings App: Cellular,Blank,,Off,Airplane Mode,Airplane Mode,Blank,Off,Off,Off,Blank,,Blank
+Settings App: Personal Hotspot,Off (operable),,Off (inoperable),Off (inoperable),Off (inoperable),Off (operable),Off (inoperable),Off (inoperable),Off (inoperable),Off (operable),,Off (operable)
+Settings App: Battery,Blank,,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,,Blank
+,04:44.3,04:50.3,04:53.9,00:57.6,01:10.6,01:10.6,00:08.6,00:08.6,,00:21.4,03:59.5,05:19.9
+Cellular Settings: Cellular Data,toggled On,toggled Off,Unlisted,toggled Off,toggled On,toggled On,toggled Off,toggled Off,,toggled On,toggled On,toggled On
+Cellular Settings: Cellular Data Options,Roaming On,Blank,Unlisted,Roaming On,Roaming On,Roaming On,Blank,Blank,,Roaming Off,Roaming Off,Roaming On
+Cellular Settings: Personal Hotspot,Off (operable),Off (inoperable),Unlisted,Off (inoperable),Off (inoperable),Off (?),Off (inoperable),Off (inoperable),,Off (operable),Off (operable),Off (operable)
+Cellular Settings: Turn On This Line,toggled On,toggled On,toggled Off,toggled On,toggled On,toggled On,toggled On,toggled On,,toggled On,toggled On,toggled On
+Cellular Settings: My Number,4200,4200,Unlisted,4200,4200,4200,4200,4200,,4200,4200,4200
+Cellular Settings: Wi-Fi Calling,Off,Off,Unlisted,Off,Off,Off,Off,Off,,Off,Off,Off
+Cellular Settings: Carrier Services,Blank,Blank,Unlisted,Blank,Blank,Blank,Blank,Blank,,Blank,Blank,Blank
+Cellular Settings: SIM PIN,Blank,Blank,Unlisted,Blank,Blank,Blank,Blank,Blank,,Blank,Blank,Blank
+Delete eSIM,N/A,N/A,Unlisted,N/A,N/A,N/A,N/A,N/A,,N/A,N/A,N/A
+,,,,,01:05.7,01:05.7,,,,,04:00.6,05:00.3
+Cellular Data Options: Data Roaming,,,,,toggled On,toggled On,,,,,toggled Off,toggled On
+Cellular Data Options: Voice & Data,,,,,Unlisted,Unlisted,,,,,5G Auto,5G Auto
+Cellular Data Options: Data Mode,,,,,Allow More Data on 5G,Allow More Data on 5G,,,,,Allow More Data on 5G,Allow More Data on 5G
+Cellular Data Options: Limit UP Address Tracking,,,,,toggled On,toggled On,,,,,toggled On,toggled On
+,,,,,,,,,,01:04.6,03:44.2,06:43.2
+Cellular Settings: Current Period,,,,,,,,,,123 MB,127 MB,127 MB
+Cellular Settings: Current Period Roaming,,,,,,,,,,Zero KB,Zero KB,Zero KB
+Cellular Settings: System Services,,,,,,,,,,118 MB,120 MB,120 MB
+Cellular Settings: Wi-Fi Assist,,,,,,,,,,toggled Off,,
+,,,,,,,,,,,04:08.5,
+Voice & Data: 5G Auto,,,,,,,,,,,checked,
+Voice & Data: 5G On,,,,,,,,,,,blank,
+Voice & Data: LTE,,,,,,,,,,,blank,
+Voice & Data: 5G Standalone,,,,,,,,,,,toggled On,
+,,,,,,,,,,,04:46.7,
+Data Mode: Alow More Data on 5G,,,,,,,,,,,checked,
+Data Mode: Standard,,,,,,,,,,,blank,
+Data Mode: Low data Mode,,,,,,,,,,,blank,
