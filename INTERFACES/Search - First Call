@@ -1,0 +1,22 @@
+The interface is visually organized into three principal areas: the status area, the content area, and the screen keyboard:
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time & Mode: Displays the local time as 9:09, with the silent mode icon positioned immediately to its right.
+o	Dynamic Island: Centered at the top of the display, featuring a solid red circular indicator toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Signal Strength icon displays one active black bar and three inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+•	Interface Body: Positioned immediately below the status bar area, presenting the iPhone's global search interface and its primary tool and shortcut sections:
+o	Search Area:
+	Global Search Bar: A rounded gray inset container located at the top, featuring a magnifying glass glyph on the left side, the placeholder text "Search", and a microphone glyph on the right side.
+	Cancel Button: Positioned adjacent to the search bar on the right, rendered in blue typography as "Cancel".
+o	Shortcut Sections:
+	Suggestions Section: Features the small gray heading "Suggestions" aligned to the left, followed by a horizontal row of four configuration shortcuts. Each shortcut is composed of an icon tile with the interface name displayed immediately below:
+•	iCloud
+•	Cellular
+•	Apps
+•	Cellular Data Options
+	Recents Section: Features the small gray heading "Recents" aligned to the left, followed by a vertical list of recent search items. Each item comprises a corresponding icon on the left and the shortcut name in black text to its right. For items linking to a nested settings configuration, the hierarchical path is displayed in secondary text below the name:
+•	Saved to iCloud (Path: Apple Account > iCloud)
+•	iCloud (Path: Apps > Contacts > Contacts Accounts > iCloud)
+•	Messages
+•	Privacy & Security
+•	Screen Keyboard:
+•	Virtual Keypad: The standard iOS onscreen QWERTY keyboard occupies the lower portion of the display beneath the content view.
