@@ -1,0 +1,27 @@
+The Notifications Center Interface. 
+•	The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, and the footer area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	The silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 2 centered within the housing.(ALTERNATIVE: The cellular signal strength icon displays three solid white bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "62.")
+o	The Date and Time area: 
+	The Date: immediately below the Status Bar, the date is displayed in medium-sized, translucent-white text as "Monday, April 28". 
+	The Time: Below the Date, in very large-sized, translucent-white, the time is displayed as 12:45
+o	The notifications area: On the lower half of the screen the area is comprised of the heading and the notifications feed:
+	The heading: In medium-size white letters, the heading "Notification Center" with a translucent-white close (x) icon on the far-right side
+	The notifications feed: Two notifications inside translucent-white rounded rectangles. Each notification with an icon, heading, message, day and time:
+•	First notification item: 
+o	The heading: Website NFC Tag
+o	The icon: with a near field communication icon, black background and white waves, and the small encircled numeral 11 in the upper left side. 
+o	The message: Open "my.yubico.com" in Safari
+o	Day and Time: Yesterday, 11:54 AM
+o	The Safari app icon on the right side
+o	The rectangle container shows other rectangles behind it
+•	Second notification item: 
+o	The heading: Emergency SOS
+o	The icon: the Settings app icon, gradient gray background and a black cog. 
+o	The message: iPhone initiated Emergency SOS at 5:00AM because the side and volume button were pressed and held. You can manage Call with Hold and Release in Se...
+o	Day and Time: Yesterday, 5:00 AM
+o	The Footer: Two white icons pinned to the lower side of the screen:
+	On the left: Headlamp icon
+	On the right: the Camera icon
