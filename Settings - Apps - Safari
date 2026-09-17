@@ -1,0 +1,65 @@
+The Safari app settings interface.
+
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:13. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and one inactive gray bar, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Apps" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Safari".
+o	Interface Body: 
+	Beginning with the ALLOW SAFARI TO ACCESS module, the following controls and settings are visible:
+•	Apple Intelligence & Siri: displayed as an interactive menu item.
+•	Search: displayed as an interactive menu item.
+	Under the second module:
+•	Default Browser App: displayed the status "Safari."
+	Under the SEARCH module:
+•	Search Engine: displayed the status "Google."
+•	Also Use in Private Browsing: toggled On (green)
+•	Search Engine Suggestions: toggled Off (gray)
+•	Safari Suggestions: toggled Off (gray)
+•	Show Recent Searches: toggled Off (gray)
+•	Quick Website Searches: displayed the status "Off."
+•	Preload Top Hit: toggled Off (gray)
+•	Under this module, in small blue colored text "About Search & Privacy..."
+	Under the GENERAL module:
+•	AutoFill: displayed as an interactive menu item.
+•	Favorites: displayed the status "Favorites."
+	Under the GENERAL module continued:
+•	Block Pop-ups: toggled On (green)
+•	Extensions: displayed as an interactive menu item.
+•	Downloads: displayed the status "On My iPhone."
+	Under the TABS module:
+•	Two icon options that illustrate how tabs display:
+- Tab Bar: a blue phone screen icon with a circled check mark underneath it inditing it is the current appearance
+- Single Tab: a gray phone screen icon with a white circle underneath it
+•	Landscape Tab Bar: toggled On (green)
+•	Allow Website Tinting: toggled On (green)
+•	Open Links: displayed the status "In New Tab."
+•	Close Tabs: displayed the status "Manually."
+•	Explicative text under this module: Allow Safari to automatically close tabs that haven't been viewed.
+	Under the PROFILES module:
+•	New Profile (blue colored text)
+•	Explicative text under this module: 
+- First paragraph: Profiles allow you to keep your browsing separated. You may want to set up a profile for work or school. Your history, cookies, and website data will be distinct per profile. 
+- Second paragraph: When you start using profiles, a default Personal profile will automatically be created based on your current settings. You can create additional profiles, add a name and an icon to each, and also set custom Favorites to personalize the experience.
+	Under the PRIVACY & SECURITY module:
+•	Prevent Cross-Site Tracking: toggled On (green, but rendered with a faded color quality indicative of a restricted or unmodifiable system state)
+•	Hide IP Address: displayed the status "From Trackers."
+•	Require Passcode to Unlock Private Browsing: toggled Off (gray)
+•	Fraudulent Website Warning: toggled On (green)
+•	Not Secure Connection Warning: toggled On (green)
+•	Highlights: toggled Off (gray)
+•	Under this module, in small blue colored text "About Safari & Privacy..."
+	Under the HISTORY AND WEBSITE DATA module:
+•	Import (blue colored text)
+•	Export (blue colored text)
+•	Clear History and Website Data (blue colored text)
+	Under the SETTINGS FOR WEBSITES module:
+•	Page Zoom: Displayed as an interactive menu item
+•	Request Desktop Website: Displayed as an interactive menu item
+•	Reader: Displayed as an interactive menu item
+•	Camera: Displayed as an interactive menu item
+•	Microphone: Displayed as an interactive menu item
+•	Location: Displayed as an interactive menu item
