@@ -1,0 +1,73 @@
+The "Apps" settings interface.
+•	The interface is visually organized into five areas: the status area, the navigation/header area, the search bar, the interface body containing the list of apps sorted in alphabetical order, a persistent alphabetic index bar along the right margin, and the dock/navigation context:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 09:26. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays three solid black bars and one gray bar, followed by the network type indicator ("5GUW"). The adjacent battery icon appears partially filled alongside the digital readout "62."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apps".
+o	Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+o	Interface Body & Alphabetic Index: Positioned immediately below the search bar, the list begins with the Default Apps interactive menu item. Spanning vertically along the right-hand margin of the interface is a persistent alphabetic index bar composed of capital letter bookmarks colored blue, designed to allow rapid navigation to specific alphabetical modules.
+o	Beginning with the A module:
+	App Store: Displayed as an interactive menu item.
+	Apple Store: Displayed as an interactive menu item.
+o	Under the B module:
+	Books: Displayed as an interactive menu item.
+o	Under the C module:
+	Calculator: Displayed as an interactive menu item.
+	Calendar: Displayed as an interactive menu item.
+	Clock: Displayed as an interactive menu item.
+	Compass: Displayed as an interactive menu item.
+	Contacts: Displayed as an interactive menu item.
+o	Under the F module:
+	FaceTime: Displayed as an interactive menu item.
+	Files: Displayed as an interactive menu item.
+	Find My: Displayed as an interactive menu item.
+	Fitness: Displayed as an interactive menu item.
+	Freeform: Displayed as an interactive menu item.
+o	Under the G module:
+	GarageBand: Displayed as an interactive menu item.
+o	Under the H module:
+	Health: Displayed as an interactive menu item.
+o	Under the I module:
+	iMovie: Displayed as an interactive menu item.
+	iTunes Store: Displayed as an interactive menu item.
+o	Under the J module:
+	Journal: Displayed as an interactive menu item.
+o	Under the K module:
+	Keynote: Displayed as an interactive menu item.
+o	Under the M module:
+	Magnifier: Displayed as an interactive menu item.
+	Mail: Displayed as an interactive menu item.
+	Maps: Displayed as an interactive menu item.
+	Measure: Displayed as an interactive menu item.
+	Messages: Displayed as an interactive menu item.
+	Music: Displayed as an interactive menu item.
+o	Under the N module:
+	News: Displayed as an interactive menu item.
+	Notes: Displayed as an interactive menu item.
+	Numbers: Displayed as an interactive menu item.
+o	Under the P module:
+	Pages: Displayed as an interactive menu item.
+	Passwords: Displayed as an interactive menu item.
+	Phone: Displayed as an interactive menu item.
+	Photos: Displayed as an interactive menu item.
+	Podcasts: Displayed as an interactive menu item.
+o	Under the R module:
+	Reminders: Displayed as an interactive menu item.
+o	Under the S module:
+	Safari: Displayed as an interactive menu item.
+	Shortcuts: Displayed as an interactive menu item.
+	Stocks: Displayed as an interactive menu item.
+o	Under the T module:
+	Tips: Displayed as an interactive menu item.
+	Translate: Displayed as an interactive menu item.
+	TV: Displayed as an interactive menu item.
+o	Under the V module:
+	Voice Memos: Displayed as an interactive menu item.
+o	Under the W module:
+	Wallet: Displayed as an interactive menu item.
+	Weather: Displayed as an interactive menu item.
+o	Final Module:
+	Hidden Apps: Displayed as an interactive menu item.
