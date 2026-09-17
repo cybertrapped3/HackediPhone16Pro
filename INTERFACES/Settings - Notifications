@@ -25,3 +25,16 @@ o	Interface Body:
 •	FaceTime (subtext banners, sounds, badges): Displayed as an interactive menu item.
 •	Find My (subtext Deliver Quietly): Displayed as an interactive menu item.
 •	Game Center (subtext banners, sounds, badges): Displayed as an interactive menu item.
+•	Home (subtext "Deliver Quietly"): Displayed as an interactive menu item. 
+•	Messages (subtext "Critical Alerts, Banners, Sounds, Badges"): Displayed as an interactive menu item. 
+•	Phone (subtext "Banners, Sounds, Badges"): Displayed as an interactive menu item. 
+•	Photos (subtext "Off"): Displayed as an interactive menu item. 
+•	Tips: Displayed as an interactive menu item. 
+•	Tracking Notifications (subtext "Banners, Sounds"): Displayed as an interactive menu item. 
+•	Wallet (subtext "Deliver Quietly"): Displayed as an interactive menu item. 
+
+	Under the GOVERNMENT ALERTS module:
+•	AMBER Alerts: toggled On (green).
+•	Emergency Alerts: Displaying status "On."
+•	Public Safety Alerts: toggled On (green).
+•	Test Alerts: toggled Off (gray).
