@@ -1,0 +1,22 @@
+The StandBy interface.
+
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:10. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays one active black bar and three inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "StandBy".
+o	Interface Body: 
+	First module:
+•	StandBy: toggled On (green)
+•	Explicatory text under this setting: StandBy will turn on when iPhone is placed on its side while charging to show information like widgets, photo frames, or clocks.
+	Second module:
+•	Display: displayed as an interactive menu item.
+	Under the NOTIFIATIONS module
+•	Show notifications: toggled On (green)
+•	Explicatory text under this module: Critical notifications will still be shown in StandBy if this switch is off.
+	Last module
+•	Show Preview on Tap Only: toggled Off (gray)
+•	Explicatory text under this module: StandBy can hide the preview of a notification until you tap on it.
