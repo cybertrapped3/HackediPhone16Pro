@@ -1,29 +1,520 @@
-[00:00:58.039] Under NOTIFICATION STYLE module: 
+[00:00:00.000] The screen recording starts with the Control Center Interface on view.
+The interface occupies substantially the entire display and consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+Status Area
+•	At the top of the display, from left to right, the following elements are visible:
+o	A plus ("+") symbol positioned in the upper-left corner.
+o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	A power symbol positioned in the upper-right corner.
+•	Immediately below the status area are:
+o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of one active white bar and three inactive gray bars, accompanied by the network carrier and type as Verizon LTE
+o	A battery indicator positioned on the right displaying a battery level of 5%.
+The Connectivity Module
+•	The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. The following controls are displayed:
+o	Airplane Mode, displayed as a gray circular button with a white airplane symbol, indicating an inactive state.
+o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+o	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+o	Four additional controls displaying symbols visually consistent with:
+	Cellular data displayed as a green circular button displaying a signal strength icon consisting of one active white bar and three inactive gray bars
+	Bluetooth displayed as a gray  circular button indicating an inactive state.
+	Hot spot displayed as a gray  circular button indicating an inactive state.
+	VPN displayed as a gray  circular button with its symbol as a light gray shape, indicating a disabled state.
+The Media Playback Module
+•	The upper-right Control Center module contains the media playback controls. The module displays:
+o	An empty media artwork placeholder positioned on the left side.
+o	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+o	The text "Not Playing" displayed beneath the artwork placeholder.
+o	A row of media playback controls consisting of:
+	Previous.
+	Play.
+	Next.
+o	The module displays no media title, artist information, or artwork.
+The Rotation Lock and Silent Mode Controls
+•	Immediately below the Connectivity Module are two circular system controls. These controls display symbols visually consistent with:
+o	Rotation Lock, as a gray circular button
+o	Silent Mode, displayed as a white circular button containing a bell symbol with a diagonal slash through it rendered in red, visually indicating an active silent state.
+The Focus Module
+•	Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+•	The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
+The Brightness and Volume Controls
+•	Immediately below the Media Playback Module are two vertical slider controls.
+•	The left slider controls screen brightness and displays a sun symbol near its lower end.
+•	The right slider controls system volume and displays a speaker symbol near its lower end.
+The Utility Controls
+•	The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each. The controls display symbols visually consistent with:
+o	Flashlight.
+o	Timer.
+o	Calculator.
+o	Camera.
+o	Screen Mirroring.
+o	Code Scanner (QR Scanner).
+o	o	Screen Recording: displaying a red circular recording indicator within the control.
+o	Notes / Quick Note.
+The Right-Edge Interface Icons
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group).
+[00:00:03.132] VIDEO ANALYSIS LOG: Messages app shows two messages. One by Apple ID 641-41 with the new account created phone verification code. The second message from Verizon Prepaid 899-000 with part of a message that reads "Verizon Alert: There's a request to access your Verizon account from the Verizon me..."VIP: [00:04:11.317] Control Center connectivity group interface, shows the Wi-Fi icon as Off, when Airplane Mode Off, and Cellular Data On
 
-Photos: Displays status as Off
-[00:01:17.509] Although there is no visible interaction with the user, the "Show Notifications. StandBy" corresponding interface slid into view
-[00:01:18.070] The StandBy Interface (StandBy Notifications)
+The iPhone's "Control Center" shows the "Verizon LTE" network type at the top of the screen, and the communications widget shows the cellular data on with one bar
+[00:00:11.109] The Control Center was swiped up out of view.
+[00:00:11.637] The Messages app is visible.
+[00:00:11.716] The Messages App Interface.
 
+•	The interface is visually organized into four principal areas: the status area, toolbar area, the header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:09. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon shows one black bar and three gray. The adjacent network label appears as LTE. And in the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	Toolbar area:
+	The Edit control
+	The new message control
+o	Header Area: 
+	Primary Heading: Aligned to the left, rendered in bold black typography: "Messages".
+o	Interface Body:
+	The content area is visually organized into a vertical list of conversation rows, each featuring a circular profile avatar, a bold sender heading, the timestamp of the last communication, and a text preview of the message content:
+•	First message:
+o	Sender: Apple ID 641-41
+o	Timestamp: 4:10 AM
+o	Message preview: Your Apple Account Code is: 334452. Don't share it with anyone.
+•	Second message:
+o	Sender: Verizon Prepaid 899-000
+o	Timestamp: Yesterday
+o	Message preview: Verizon Alert: There's a request to access your Verizon account from the Verizon me...
+[00:00:14.495] The Control Center was swiped down into view
+[00:00:14.660] Control Center Expansion Gesture: The video depicts an extended downward swipe gesture within the Control Center interface, resulting in a continuous transition across multiple modular sub-screens:
 
-[00:01:51.909] I tapped Cancel
-[00:01:52.503] The Settings app interface faded into view
-[00:02:16.495] The app containers shown when the app switcher is in use are missing their status bars. Also, there is no system status bar. 
-[00:03:36.423] The settings are missing the status and toggles, except for Personal Hotspot
-[00:03:36.522] The toggle of Airplane Mode begins to appear
-[00:03:36.555] The Off status of Wi-Fi and Bluetooth appear
-[00:04:11.279] The Control Center Connectivity view. Shows the Satellite service with status "Not Available"
-[00:04:14.870] The Cellular Data signal strength decreased from two white bars to one bar. 
-[00:04:43.537] The Cellular setting was tapped
-[00:04:44.329] The Cellular Settings interface
-[00:04:50.340] The Cellular Data setting was toggled Off.
-[00:04:50.518] The setting Personal Hotspot text changed color from black to gray, which is indicative of having switched to an inoperable state. 
-[00:04:53.901] The "Turn On This Line" setting was toggled Off.
-[00:04:54.000] The Signal Strength icon disappeared from the status bar
-[00:04:54.462] Where the Signal Strength icon had bene, the black SOS icon faded into view
-[00:04:54.495] The Cellular Settings interface was transformed with most settings disappearing.
+Initial Scale & Media Player Phase: The gesture initially reveals the primary Control Center interface at a reduced scale. As the swipe continues downward, the heart icon from the right-hand stack transitions to white, increases slightly in size, and shifts leftward.
+[00:00:14.726] Media Player View: The display transitions to the dedicated media player interface (featuring an iPod graphic displaying "Not Playing"). During this phase, the musical note icon in the right-hand stack enlarges, changes from gray to white, and shifts leftward, while the heart icon returns to its original size, color, and position.
+[00:00:14.957] Connectivity Panel View: Continuing the downward motion, the wireless transmission symbol enlarges, turns white, and shifts leftward while the musical note returns to its default appearance. The interface finally settles on the full-screen connectivity panel.
 
-Only two settings under the eSIMs module appeared:
-Used as "Primary": Displaying status Off, and the subtext +1 (669) 326-4200
-Add eSIM (blue colored text)
-[00:04:56.376] Although the user interface did not show any evidence of user interaction (usually the backlink Settings in the navigation bar area of the interface displays the fading of its blue color to signal a tap and then transition to Settings app main interface begins).
-[00:04:57.000] The Settings App interface.
+• Connectivity Panel Layout: The interface displays a vertically arranged series of rounded rectangular control panels set against a blurred background:
+
+Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “Off,” featuring an airplane symbol inside an gray circular icon on the left.
+
+Wi-Fi: Left-hand control labeled “Wi-Fi” displaying “Off,” with a Wi-Fi symbol inside a gray circular icon.
+
+AirDrop: Right-hand control labeled “AirDrop” displaying “Receiving Off,” with an AirDrop symbol inside a gray circular icon.
+
+Cellular Data: Left-hand control labeled “Cellular Data” displaying “On,” with its corresponding icon in a bright green active state.
+
+Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with a Bluetooth symbol inside a gray circular icon.
+
+Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated symbol inside a gray circular icon.
+
+VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the VPN icon shape and its surrounding containment circle.
+
+Satellite: Full-width control labeled “Satellite” displaying “Not Available,” with its associated symbol inside a gray circular icon.
+[00:00:16.862] The interface is pulled further down in an attempt to scroll further down
+[00:00:18.616] Again, the interface is pulled further down in an attempt to scroll further down
+[00:00:20.519] Again, the interface is pulled further down in an attempt to scroll further down
+[00:00:22.209] The Control Center is swiped down into view
+[00:00:22.938] The Messages interface is on view
+[00:00:26.003] The Control Center was swiped down into view, followed by the expansion gesture that only reaches the Media Player view
+[00:00:28.616] The Control Center is swiped up out of view
+[00:00:29.647] The Messages interface is on view
+[00:00:30.076] The Messages interface was dismissed
+[00:00:30.175] The Messages app was dismissed, and as its container decreased in size, the common status bar information is not visible (or is missing). Only one Status Bar information is visible; the one from the shrinking Messages app's container [SCREENSHOT: "Capture_2025-04-27_09-09-23_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 09-09-23_1.MP4_00-00-30_175 - Messages app dismissed missing common status bar.png"]
+[00:00:30.208] The common status bar information begins to fade into view. The status bar from the shrinking Messages app's container is fading out of view. [SCREENSHOT: "Capture_2025-04-27_09-09-23_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 09-09-23_1.MP4_00-00-30_208 - two status bars as the Messages app closes.png"]
+[00:00:31.066] The  Home Screen. 
+
+The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 9:09. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. 
+o	Connectivity & Power: The Signal Strength icon shows one black bar and three gray. The adjacent network label appears as LTE. And in the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+•	Below the status bar, a pair of application widgets are displayed: 
+o	On the left, the Weather widget displays the text "Weather Unavailable"
+o	On the right, the Calendar widget displays the text "SUNDAY 27 No events today." 
+o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Positioned just above the Dock is a persistent Search button. 
+•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+[00:00:31.099] The Settings app was tapped opened.
+[00:00:31.826] The Settings App interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 9:09. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Signal Strength icon shows one black bar and three gray. The adjacent network label appears as LTE. And in the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+•	Header Area: the primary heading centered and rendered in bold black typography: "Settings."
+•	Interface Body: Positioned immediately below the heading, the body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+o	Global Search Bar: a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+o	Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+o	Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
+•	The subsequent controls and settings appeared as follows:
+o	First module:
+	Airplane Mode: Toggled Off (gray).
+	Wi-Fi: Displays the status "Off".
+	Bluetooth: Displays the status "Off".
+	Cellular: Displayed as an interactive menu item without a status, or with a blank status.
+	Personal Hotspot: Displays the status "Off", and appears operable.
+	Battery: Displayed as an interactive menu item.
+o	Second module:
+	General: Displayed as an interactive menu item.
+	Accessibility: Displayed as an interactive menu item.
+	Action Button: Displayed as an interactive menu item.
+	Apple Intelligence & Siri: Displayed as an interactive menu item.
+	Camera: Displayed as an interactive menu item.
+	Partially visible, Control Center: Displayed as an interactive menu item.
+[00:00:33.307] The search bar was tapped, and the Global search interface covered the Settings app interface.
+[00:00:33.872] I tapped the search bar
+[00:00:33.967] The interface is visually organized into three principal areas: the status area, the content area, and the screen keyboard:
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time & Mode: Displays the local time as 9:09, with the silent mode icon positioned immediately to its right.
+o	Dynamic Island: Centered at the top of the display, featuring a solid red circular indicator toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Signal Strength icon displays one active black bar and three inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+•	Interface Body: Positioned immediately below the status bar area, presenting the iPhone's global search interface and its primary tool and shortcut sections:
+o	Search Area:
+	Global Search Bar: A rounded gray inset container located at the top, featuring a magnifying glass glyph on the left side, the placeholder text "Search", and a microphone glyph on the right side.
+	Cancel Button: Positioned adjacent to the search bar on the right, rendered in blue typography as "Cancel".
+o	Shortcut Sections:
+	Suggestions Section: Features the small gray heading "Suggestions" aligned to the left, followed by a horizontal row of four configuration shortcuts. Each shortcut is composed of an icon tile with the interface name displayed immediately below:
+•	iCloud
+•	Cellular
+•	Apps
+•	Cellular Data Options
+	Recents Section: Features the small gray heading "Recents" aligned to the left, followed by a vertical list of recent search items. Each item comprises a corresponding icon on the left and the shortcut name in black text to its right. For items linking to a nested settings configuration, the hierarchical path is displayed in secondary text below the name:
+•	Saved to iCloud (Path: Apple Account > iCloud)
+•	iCloud (Path: Apps > Contacts > Contacts Accounts > iCloud)
+•	Messages
+•	Privacy & Security
+•	Screen Keyboard:
+•	Virtual Keypad: The standard iOS onscreen QWERTY keyboard occupies the lower portion of the display beneath the content view.
+[00:00:37.146] I began to type "Not", and the shortcuts sections were replaced by an almost empty screen except for the search icon and the text: No Results for  "Not". Check the spelling or try a new search.
+[00:00:37.178] I typed the letter "i"
+[00:00:37.211] The screen changed to a list of items that include the text "noti". 
+
+The items on the list are: 
+
+Notifications
+Notification Style (subtext Notifications)
+Show Notifications (subtext StandBy)
+Announce Notifications (subtext Notifications)
+Do Not Disturb (subtext Focus)
+Legal Notices (subtext Shortcuts)
+Use TrueNorth (subtext Compass)
+[00:00:38.069] I searched for "Notifi"
+[00:00:39.224] The items on the list changed to the following: 
+
+Notifications
+Notification Style (subtext Notifications)
+Show Notifications (subtext StandBy)
+Announce Notifications (subtext Notifications)
+Mention Notifications (Apps -> Notes)
+Mute Notifications (Apps -> Reminders)
+Today Notifications (Apps -> Reminders)
+[00:00:39.291] It is not evident which item was tapped; the screen recording does not show any sign of the user having interacted with the screen, but the notifications interface slid left into view.
+[00:00:39.985] The Notifications interface.
+
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:10. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays one active black bar and three inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Notifications".
+o	Interface Body:
+	The DISPLAY AS module shows three icon options that illustrate how notifications display
+•	Count
+•	Stack (highlighted in blue to indicate selection)
+•	List
+•	Explicatory text under this module: Choose the default for how notifications appear
+	Second module
+•	Scheduled Summary: Displays the status “Off.”
+•	Show Previews: Displays the status “Always.”
+•	Screen Sharing: Displays the status “Notifications Off.”
+	Under the SIRI module
+•	Siri Suggestions: Displayed as an interactive menu item.
+•	Explicatory text under this module: Choose which apps can suggest Shortcuts on the lock screen.
+	Under the NOTIFICATION STYLE module
+•	FaceTime (subtext banners, sounds, badges): Displayed as an interactive menu item.
+•	Find My (subtext Deliver Quietly): Displayed as an interactive menu item.
+•	Game Center (subtext banners, sounds, badges): Displayed as an interactive menu item.
+[00:00:48.719] The List icon item of the DISPLAY AS module was tapped, and the blue highlighting transformation began to to change the colors of the Stack and List items.
+[00:00:49.140] The List item is highlighted blue.
+[00:00:55.922] The interface was scrolled down, and these additional controls came into view:
+
+•	Home (subtext "Deliver Quietly"): Displayed as an interactive menu item. 
+•	Messages (subtext "Critical Alerts, Banners, Sounds, Badges"): Displayed as an interactive menu item. 
+•	Phone (subtext "Banners, Sounds, Badges"): Displayed as an interactive menu item. 
+•	Photos (subtext "Off"): Displayed as an interactive menu item. 
+•	Tips: Displayed as an interactive menu item. 
+•	Tracking Notifications (subtext "Banners, Sounds"): Displayed as an interactive menu item. 
+•	Wallet (subtext "Deliver Quietly"): Displayed as an interactive menu item. 
+
+	Under the GOVERNMENT ALERTS module:
+•	AMBER Alerts: toggled On (green).
+•	Emergency Alerts: Displaying status "On."
+•	Public Safety Alerts: toggled On (green).
+•	Test Alerts: toggled Off (gray).
+[00:01:04.010] The interface was scrolled back to the top.
+[00:01:11.533] The go back link (i.e., Settings >) was tapped.
+[00:01:12.295] Back to the global search screen.
+[00:01:17.639] It is not evident which item was tapped; the screen recording does not show any sign of the user having interacted with the screen, but the StandBy interface slid left into view.
+[00:01:18.068] The StandBy interface.
+
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:10. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays one active black bar and three inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "StandBy".
+o	Interface Body: 
+	First module:
+•	StandBy: toggled On (green)
+•	Explicatory text under this setting: StandBy will turn on when iPhone is placed on its side while charging to show information like widgets, photo frames, or clocks.
+	Second module:
+•	Display: displayed as an interactive menu item.
+	Under the NOTIFIATIONS module
+•	Show notifications: toggled On (green)
+•	Explicatory text under this module: Critical notifications will still be shown in StandBy if this switch is off.
+	Last module
+•	Show Preview on Tap Only: toggled Off (gray)
+•	Explicatory text under this module: StandBy can hide the preview of a notification until you tap on it.
+
+[00:01:18.134] The "Show notifications" setting was tapped, but nothing changed
+[00:01:39.041] The "StandBy" setting was toggled to the "Off" state (gray), and the other settings collapsed out of view.
+[00:01:41.512] The go back link (i.e., Settings >) was tapped.
+[00:01:42.370] Back to the global search screen.
+[00:01:51.911] The "Cancel" button was tapped.
+[00:01:52.538] The Settings app main interface faded into view.
+[00:01:56.021] The screen recording captures the app switcher in a transitional state, with app cards shifting back and forth erratically as the user struggles to settle the gesture.
+[00:02:14.170] The apps are displayed like a deck of cards. These are, from front to back, Settings, Messages, Photos, and Notes.
+[00:02:16.085] The messages app is dismissed.
+[00:02:16.580] The Reminders app appears at the very back of the deck. 
+[00:02:17.302] The Photos app is dismissed.
+[00:02:18.717] The Notes app is dismissed. 
+[00:02:19.951] The Reminders app is dismissed.
+[00:02:21.417] The Settings app is dismissed. 
+[00:02:21.909] The Home Screen. 
+[00:02:27.950] The Notification Center is swiped down.
+[00:02:28.838] The Notifications Center Interface. 
+•	The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, and the footer area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	The cell service provider's name "Verizon," and the silent mode icon right next to it.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays one active white bar and three inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	The Date and Time area: 
+	The Date: immediately below the Status Bar, the date is displayed in medium-sized, translucent-white text as "Sunday, April 27". 
+	The Time: Below the Date, in very large-sized, translucent-white, the time is displayed as 9:11
+o	The notifications area: On the lower half of the screen the area is comprised of the heading and the notifications feed:
+	The heading: In medium-size white letters, the heading "Notification Center" with a translucent-white close (x) icon on the far-right side
+	The notifications feed: Two notifications inside translucent-white rounded rectangles. Each notification with an icon, heading, message, day and time:
+•	First notification item: 
+o	The heading: Emergency SOS
+o	The icon: the Settings app icon, gradient gray background and a black cog. 
+o	The message: iPhone initiated Emergency SOS at 5:00AM because the side and volume button were pressed and held. You can manage Call with Hold and Release in Se...
+o	Day and Time: Yesterday, 5:00 AM
+•	Second notification item:
+o	The heading: Website NFC Tag
+o	The icon: with a near field communication icon, black background and white waves, and the small encircled numeral 4 in the upper left side. 
+o	The message: Open "my.yubico.com" in Safari
+o	Day and Time: 4:57 AM
+o	The Safari app icon on the right side
+o	The rectangle container shows other rectangles behind it
+o	The Footer: Two white icons pinned to the lower side of the screen:
+	On the left: Headlamp icon
+	On the right: the Camera icon
+[00:02:35.285] The video shows incomplete gesture attempts in the Notification Center, where interface elements stutter upward before rubber-banding back into place.
+[00:03:25.126] Finally, the "Website NFC Tag" notifications were expanded, and under the first notification item, the one with the heading "Emergency SOS," a "Notifications" subheading with mid-sized white letters aligned to the left of the screen, and two  translucent-white "Show less" drop-down and close (x) buttons at the far-right side were above the four "Website NFC Tag" notifications. The times for these appear as:
+
+4:57 AM
+4:57 AM
+4:27 AM
+4:26 AM
+[00:03:33.937] The signal strength increased from one to two white bars.
+[00:03:34.456] The Notification Center is swiped out of view.
+[00:03:34.753] The Home Screen
+[00:03:35.892] The Settings app is tapped open.
+[00:03:35.991] Positioned at the very top of the interface is the primary system status bar, which remained visible and active. Concurrently, as the Settings application's window expanded, a secondary status bar appeared internally within the application container, resulting in two distinct status bars simultaneously visible on the display.
+[00:03:36.872] The Settings app main interface.
+[00:03:39.642] The interface was scrolled all the way to the bottom. 
+[00:03:39.840] The "Apps" item was tapped.
+[00:03:40.962] The "Apps" settings interface.
+•	The interface is visually organized into five areas: the status area, the navigation/header area, the search bar, the interface body containing the list of apps sorted in alphabetical order, a persistent alphabetic index bar along the right margin, and the dock/navigation context:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:13. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "5."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apps".
+o	Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+o	Interface Body & Alphabetic Index: Positioned immediately below the search bar, the list begins with the Default Apps interactive menu item. Spanning vertically along the right-hand margin of the interface is a persistent alphabetic index bar composed of capital letter bookmarks colored blue, designed to allow rapid navigation to specific alphabetical modules.
+o	Beginning with the A module:
+	App Store: Displayed as an interactive menu item.
+	Apple Store: Displayed as an interactive menu item.
+o	Under the B module:
+	Books: Displayed as an interactive menu item.
+o	Under the C module:
+	Calculator: Displayed as an interactive menu item.
+	Calendar: Displayed as an interactive menu item.
+	Clock: Displayed as an interactive menu item.
+	Compass: Displayed as an interactive menu item.
+	Contacts: Displayed as an interactive menu item.
+o	Under the F module:
+	FaceTime: Displayed as an interactive menu item.
+[00:03:42.819] The interface was scrolled down, and the following apps slid into view:
+
+	Files: Displayed as an interactive menu item.
+	Find My: Displayed as an interactive menu item.
+	Fitness: Displayed as an interactive menu item.
+	Freeform: Displayed as an interactive menu item.
+o	Under the G module:
+	GarageBand: Displayed as an interactive menu item.
+o	Under the H module:
+	Health: Displayed as an interactive menu item.
+o	Under the I module:
+	iMovie: Displayed as an interactive menu item.
+	iTunes Store: Displayed as an interactive menu item.
+
+[00:03:44.468] The interface was scrolled down, and the following apps slid into view:
+
+o	Under the J module:
+	Journal: Displayed as an interactive menu item.
+o	Under the K module:
+	Keynote: Displayed as an interactive menu item.
+o	Under the M module:
+	Magnifier: Displayed as an interactive menu item.
+	Mail: Displayed as an interactive menu item.
+	Maps: Displayed as an interactive menu item.
+	Measure: Displayed as an interactive menu item.
+	Messages: Displayed as an interactive menu item.
+	Music: Displayed as an interactive menu item.
+o	Under the N module:
+	News: Displayed as an interactive menu item.
+
+[00:03:45.150] The interface was scrolled down, and the following apps slid into view:
+
+o	Under the N module continued:
+	Numbers: Displayed as an interactive menu item.
+o	Under the P module:
+	Pages: Displayed as an interactive menu item.
+	Passwords: Displayed as an interactive menu item.
+	Phone: Displayed as an interactive menu item.
+	Photos: Displayed as an interactive menu item.
+	Podcasts: Displayed as an interactive menu item.
+[00:03:46.691] The interface was scrolled down, and the following apps slid into view:
+
+o	Under the R module:
+	Reminders: Displayed as an interactive menu item.
+o	Under the S module:
+	Safari: Displayed as an interactive menu item.
+	Shortcuts: Displayed as an interactive menu item.
+	Stocks: Displayed as an interactive menu item.
+o	Under the T module:
+	Tips: Displayed as an interactive menu item.
+[00:03:47.217] The "Safari" app was tapped.
+[00:03:48.317] The Safari app settings interface.
+
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:13. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and one inactive gray bar, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Apps" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Safari".
+o	Interface Body: 
+	Beginning with the ALLOW SAFARI TO ACCESS module, the following controls and settings are visible:
+•	Apple Intelligence & Siri: displayed as an interactive menu item.
+•	Search: displayed as an interactive menu item.
+	Under the second module:
+•	Default Browser App: displayed the status "Safari."
+	Under the SEARCH module:
+•	Search Engine: displayed the status "Google."
+•	Also Use in Private Browsing: toggled On (green)
+•	Search Engine Suggestions: toggled Off (gray)
+•	Safari Suggestions: toggled Off (gray)
+•	Show Recent Searches: toggled Off (gray)
+•	Quick Website Searches: displayed the status "Off."
+•	Preload Top Hit: toggled Off (gray)
+•	Under this module, in small blue colored text "About Search & Privacy..."
+	Under the GENERAL module:
+•	AutoFill: displayed as an interactive menu item.
+•	Favorites: displayed the status "Favorites."
+[00:03:49.831] The interface was scrolled down, and these controls and settings slid into view:
+
+	Under the GENERAL module continued:
+•	Block Pop-ups: toggled On (green)
+•	Extensions: displayed as an interactive menu item.
+•	Downloads: displayed the status "On My iPhone."
+	Under the TABS module:
+•	Two icon options that illustrate how tabs display:
+- Tab Bar: a blue phone screen icon with a circled check mark underneath it inditing it is the current appearance
+- Single Tab: a gray phone screen icon with a white circle underneath it
+•	Landscape Tab Bar: toggled On (green)
+•	Allow Website Tinting: toggled On (green)
+•	Open Links: displayed the status "In New Tab."
+•	Close Tabs: displayed the status "Manually."
+•	Explicative text under this module: Allow Safari to automatically close tabs that haven't been viewed.
+
+[00:03:50.359] The interface was scrolled further down, and these controls and settings slid into view:
+
+	Under the PROFILES module:
+•	New Profile (blue colored text)
+•	Explicative text under this module: 
+- First paragraph: Profiles allow you to keep your browsing separated. You may want to set up a profile for work or school. Your history, cookies, and website data will be distinct per profile. 
+- Second paragraph: When you start using profiles, a default Personal profile will automatically be created based on your current settings. You can create additional profiles, add a name and an icon to each, and also set custom Favorites to personalize the experience.
+	Under the PRIVACY & SECURITY module:
+•	Prevent Cross-Site Tracking: toggled On (green, but rendered with a faded color quality indicative of a restricted or unmodifiable system state)
+•	Hide IP Address: displayed the status "From Trackers."
+•	Require Passcode to Unlock Private Browsing: toggled Off (gray)
+•	Fraudulent Website Warning: toggled On (green)
+•	Not Secure Connection Warning: toggled On (green)
+•	Highlights: toggled Off (gray)
+•	Under this module, in small blue colored text "About Safari & Privacy..."
+	Under the HISTORY AND WEBSITE DATA module:
+•	Import (blue colored text)
+•	Export (blue colored text)
+•	Clear History and Website Data (blue colored text)
+	Under the SETTINGS FOR WEBSITES module:
+•	Page Zoom: Displayed as an interactive menu item
+•	Request Desktop Website: Displayed as an interactive menu item
+•	Reader: Displayed as an interactive menu item
+•	Camera: Displayed as an interactive menu item
+•	Microphone: Displayed as an interactive menu item
+•	Location: Displayed as an interactive menu item
+[00:03:52.827] The Export item under the HISTORY AND WEBSITE DATA module was tapped
+[00:03:53.487] The Export Browsing Data interface slid up into view.
+[00:03:53.817] The Export Browsing Data interface.
+
+•	The interface is visually organized into four principal areas: the Cancel button, the main heading and explicatory text, the list of data categories to be exported, and the Save to Downloads button:
+o	Cancel: a blue colored text borderless button position on the top left of the interface
+	Primary Heading: Centrally aligned, in large-sized, bold black letters "Export Browsing Data."
+	Centered, in normal-sized black text, the following text:
+- First Paragraph: Export selected browser data as an archive to allow importing into other browsers. 
+- Second Paragraph: Your data will be saved without encryption and will be visible to anyone who can access the exported file. 
+o	The list of data type items, each with selection circle-mark, an icon that reflect the type of data, the name of the type of data, and the number of stored items of that data type:
+	Bookmarks
+- Checked
+- Book blue icon
+- 4 bookmarks
+	History
+- Unchecked
+- Clock icon
+- 0 sites
+	Extensions
+- Unchecked
+- Puzzle piece icon
+- 0 extensions
+	Credit Cards
+- Unchecked
+- Credit Card icon
+- 0 cards
+	Passwords
+- Unchecked
+- Key icon
+- 0 passwords
+o	Save to Downloads button: spanning the width of the screen in white letters and blue background
+[00:03:56.906] The Export Browsing Data interface was dismissed, and it swiped down out of view.
+[00:03:57.566] The Safari App settings interface.
+[00:03:58.868] The go back link (i.e., Apps >) was tapped.
+[00:03:59.514] The Apps interface is on view (Settings app -> Apps), and for some reason, the Safari item stayed highlighted (or with a gray background) as it first appeared after it was tapped back at timestamp 00:03:47.217
+[00:04:01.378] As the Settings app was dismissed, the common Status Bar is missing from the top of the screen. Also, the Safari app item in the list of apps continued to be highlighted. CONTINUE HERE
+[00:05:11.509] SOS network type
