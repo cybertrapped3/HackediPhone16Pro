@@ -1,0 +1,30 @@
+The Export Browsing Data interface.
+
+•	The interface is visually organized into four principal areas: the Cancel button, the main heading and explicatory text, the list of data categories to be exported, and the Save to Downloads button:
+o	Cancel: a blue colored text borderless button position on the top left of the interface
+	Primary Heading: Centrally aligned, in large-sized, bold black letters "Export Browsing Data."
+	Centered, in normal-sized black text, the following text:
+- First Paragraph: Export selected browser data as an archive to allow importing into other browsers. 
+- Second Paragraph: Your data will be saved without encryption and will be visible to anyone who can access the exported file. 
+o	The list of data type items, each with selection circle-mark, an icon that reflect the type of data, the name of the type of data, and the number of stored items of that data type:
+	Bookmarks
+- Checked
+- Book blue icon
+- 4 bookmarks
+	History
+- Unchecked
+- Clock icon
+- 0 sites
+	Extensions
+- Unchecked
+- Puzzle piece icon
+- 0 extensions
+	Credit Cards
+- Unchecked
+- Credit Card icon
+- 0 cards
+	Passwords
+- Unchecked
+- Key icon
+- 0 passwords
+o	Save to Downloads button: spanning the width of the screen in white letters and blue background
