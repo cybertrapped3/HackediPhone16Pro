@@ -1,0 +1,27 @@
+The Notifications interface.
+
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:10. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays one active black bar and three inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Notifications".
+o	Interface Body:
+	The DISPLAY AS module shows three icon options that illustrate how notifications display
+•	Count
+•	Stack (highlighted in blue to indicate selection)
+•	List
+•	Explicatory text under this module: Choose the default for how notifications appear
+	Second module
+•	Scheduled Summary: Displays the status “Off.”
+•	Show Previews: Displays the status “Always.”
+•	Screen Sharing: Displays the status “Notifications Off.”
+	Under the SIRI module
+•	Siri Suggestions: Displayed as an interactive menu item.
+•	Explicatory text under this module: Choose which apps can suggest Shortcuts on the lock screen.
+	Under the NOTIFICATION STYLE module
+•	FaceTime (subtext banners, sounds, badges): Displayed as an interactive menu item.
+•	Find My (subtext Deliver Quietly): Displayed as an interactive menu item.
+•	Game Center (subtext banners, sounds, badges): Displayed as an interactive menu item.
