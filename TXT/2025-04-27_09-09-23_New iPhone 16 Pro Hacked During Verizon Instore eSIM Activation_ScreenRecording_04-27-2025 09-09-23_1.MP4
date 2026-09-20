@@ -276,7 +276,6 @@ o	Interface Body:
 	Last module
 •	Show Preview on Tap Only: toggled Off (gray)
 •	Explicatory text under this module: StandBy can hide the preview of a notification until you tap on it.
-
 [00:01:18.134] The "Show notifications" setting was tapped, but nothing changed
 [00:01:39.041] The "StandBy" setting was toggled to the "Off" state (gray), and the other settings collapsed out of view.
 [00:01:41.512] The go back link (i.e., Settings >) was tapped.
@@ -286,12 +285,12 @@ o	Interface Body:
 [00:01:56.021] The screen recording captures the app switcher in a transitional state, with app cards shifting back and forth erratically as the user struggles to settle the gesture.
 [00:02:14.170] The apps are displayed like a deck of cards. These are, from front to back, Settings, Messages, Photos, and Notes.
 [00:02:16.085] The messages app is dismissed.
-[00:02:16.580] The Reminders app appears at the very back of the deck. 
+[00:02:16.580] The Reminders app appears at the very back of the deck.
 [00:02:17.302] The Photos app is dismissed.
-[00:02:18.717] The Notes app is dismissed. 
+[00:02:18.717] The Notes app is dismissed.
 [00:02:19.951] The Reminders app is dismissed.
-[00:02:21.417] The Settings app is dismissed. 
-[00:02:21.909] The Home Screen. 
+[00:02:21.417] The Settings app is dismissed.
+[00:02:21.909] The Home Screen.
 [00:02:27.950] The Notification Center is swiped down.
 [00:02:28.838] The Notifications Center Interface. 
 •	The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, and the footer area:
@@ -333,7 +332,7 @@ o	The Footer: Two white icons pinned to the lower side of the screen:
 [00:03:35.892] The Settings app is tapped open.
 [00:03:35.991] Positioned at the very top of the interface is the primary system status bar, which remained visible and active. Concurrently, as the Settings application's window expanded, a secondary status bar appeared internally within the application container, resulting in two distinct status bars simultaneously visible on the display.
 [00:03:36.872] The Settings app main interface.
-[00:03:39.642] The interface was scrolled all the way to the bottom. 
+[00:03:39.642] The interface was scrolled all the way to the bottom.
 [00:03:39.840] The "Apps" item was tapped.
 [00:03:40.962] The "Apps" settings interface.
 •	The interface is visually organized into five areas: the status area, the navigation/header area, the search bar, the interface body containing the list of apps sorted in alphabetical order, a persistent alphabetic index bar along the right margin, and the dock/navigation context:
@@ -372,7 +371,6 @@ o	Under the H module:
 o	Under the I module:
 	iMovie: Displayed as an interactive menu item.
 	iTunes Store: Displayed as an interactive menu item.
-
 [00:03:44.468] The interface was scrolled down, and the following apps slid into view:
 
 o	Under the J module:
@@ -388,7 +386,6 @@ o	Under the M module:
 	Music: Displayed as an interactive menu item.
 o	Under the N module:
 	News: Displayed as an interactive menu item.
-
 [00:03:45.150] The interface was scrolled down, and the following apps slid into view:
 
 o	Under the N module continued:
@@ -453,7 +450,6 @@ o	Interface Body:
 •	Open Links: displayed the status "In New Tab."
 •	Close Tabs: displayed the status "Manually."
 •	Explicative text under this module: Allow Safari to automatically close tabs that haven't been viewed.
-
 [00:03:50.359] The interface was scrolled further down, and these controls and settings slid into view:
 
 	Under the PROFILES module:
@@ -516,5 +512,91 @@ o	Save to Downloads button: spanning the width of the screen in white letters an
 [00:03:57.566] The Safari App settings interface.
 [00:03:58.868] The go back link (i.e., Apps >) was tapped.
 [00:03:59.514] The Apps interface is on view (Settings app -> Apps), and for some reason, the Safari item stayed highlighted (or with a gray background) as it first appeared after it was tapped back at timestamp 00:03:47.217
-[00:04:01.378] As the Settings app was dismissed, the common Status Bar is missing from the top of the screen. Also, the Safari app item in the list of apps continued to be highlighted. CONTINUE HERE
+[00:04:01.378] As the Settings app was dismissed, the common Status Bar is missing from the top of the screen. Also, the Safari app item in the list of apps continued to be highlighted.
+[00:04:01.410] The Common status bar begins to fade into view. SCREENSHOT: "Capture_2025-04-27_09-09-23_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 09-09-23_1.MP4_00-04-01_410 - Settings app dismissed common status bar fading into view.png"
+[00:04:02.103] The Home Screen
+[00:04:03.854] The Control Center was swiped down into view. The differences in this interface as compared to the description given at the start of this screen recording is the signal strength and the battery level. Now, strength signal increased to two white bars, and the battery level decreased to 4%.
+[00:04:10.998] The connectivity-related module was tapped, and the Connectivity Panel view loaded.
+[00:04:11.526] The Control Center's Connectivity Panel.
+
+The interface displays a vertically arranged series of rounded rectangular control panels set against a blurred background:
+
+Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “Off,” featuring an airplane symbol inside a gray circular icon on the left.
+
+Wi-Fi: Left-hand control labeled “Wi-Fi” displaying “Off,” with a Wi-Fi symbol inside a gray circular icon.
+
+AirDrop: Right-hand control labeled “AirDrop” displaying “Receiving Off,” with an AirDrop symbol inside a gray circular icon.
+
+Cellular Data: Left-hand control labeled “Cellular Data” displaying “On,” with its corresponding icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the cell icon shape and its surrounding containment circle.
+
+Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with a Signal Strength symbol inside a green circular icon.
+
+Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with a Bluetooth symbol inside a gray circular icon.
+
+Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a gray inactive state.
+
+VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the VPN icon shape and its surrounding containment circle.
+
+Satellite: Full-width control labeled “Satellite” displaying “Not Available,” with its associated icon in a gray inactive state.
+
+[00:04:14.859] The signal strength of the Cellular Data icon decreased to one white bar.
+[00:04:15.123] The Connectivity Panel was dismissed. 
+[00:04:16.287] The Control Panel was swiped up out of view.
+[00:04:17.506] The Home Screen
+[00:04:20.104] The Control Center was swiped down into view. 
+[00:04:25.002] The Control Panel was swiped up out of view.
+[00:04:25.714] The Home Screen.
+[00:04:28.017] The Control Center was swiped down into view. 
+[00:04:30.169] The Control Panel was swiped up out of view.
+[00:04:31.089] The Home Screen.
+[00:04:36.614] The Settings app was tapped open.
+[00:04:37.274] The Safari app that had been first tapped at the video's timestamp 00:03:47.217 is still highlighted. 
+[00:04:38.232] The go back link (i.e., Settings >) was tapped.
+[00:04:38.958] The Settings app's main interface.
+[00:04:40.457] The interface was scrolled all the way up. 
+[00:04:43.532] The Cellular setting was tapped.
+[00:04:44.291] The Cellular settings Interface
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 9:13. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays one active black bar and three inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 5 centered within the housing.
+o	Navigation: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid green rounded square containing a wireless transmission symbol.
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
+•	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
+	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+•	First group of settings:
+o	Cellular Data:  Toggled On (green).
+o	Cellular Data Options: Displays the status "Roaming On."
+o	Personal Hotspot: Displays the status "Off" and operable.
+o	Explicative text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
+•	Under the VERIZON module:
+o	Turn On This Line:  Toggled On (green).
+o	My Number: +1 (669) 326-4200
+o	Wi-Fi Calling: Displays the status “Off.”
+o	Carrier Services: Displayed as an interactive menu item.
+o	SIM PIN: Displayed as an interactive menu item.
+o	Delete eSIM: red colored letters
+[00:04:50.344] Cellular Data was toggled off (gray), and the status of "Cellular Data Options"  changed status to a blank space. Also, the "Personal Hotspot" setting changed from an operable state, to a non operable state (this was evident by the changed in the color of the setting's text, which changed from black to a muted gray.)
+[00:04:53.908] "Turn On This Line" was toggled off (gray)
+[00:04:54.507] Almost all settings of the interface were collapsed. The only two controls visible are under the module eSIMs:
+Used as "Primary" (subtext +1 (669) 326-4200): Displaying the status "Off."
+Add eSIM (blue colored text)
+
+At the top of the page, in the status bar, the signal strength icon was replaced by the SOS. 
+[00:04:56.334] It is not evident that the go back link (i.e., Settings >) was tapped, but the interface behaved as if the link had been tapped, and navigation to the Settings app main interface ensued.
+[00:04:57.027] The Settings app interface. 
+[00:05:03.882] The SOS icon disappeared.
+[00:05:04.549] The Notification Center was slid down into view. 
+[00:05:09.984] The Notification Center was slid up out of view. 
+[00:05:10.384] The Settings app interface. 
+[00:05:10.516] The SOS icon faded back into view. 
 [00:05:11.509] SOS network type
+[00:05:16.972] The Control Center interface was swiped down into view. 
+[00:05:17.599] The interface had changed in two ways from the time of last description. The signal strength icon and the network carrier and type information were replaced by the non-height bars signal strength the "SOS only" type of network.
+
+Inside the Connectivity Module, Cellular Data, with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the signal strength icon shape and its surrounding containment circle.
