@@ -1,0 +1,367 @@
+[00:00:00.000] The  Control Center shows the Verizon network type as LTE. To its left, the signal strength icon shows one bar solid white and three bars gray. Inside the communication widget, the cell icon is colored bright green and shows one bar solid white and three light green
+[00:00:02.048] The Settings app interface came into view for a fraction of a second, and I tapped the General setting
+[00:00:02.840]  The General Settings Interface (The item General under the Setting App interface). 
+ 
+Text under the interface's heading: Manage your overall setup and preferences for iPhone, such as software updates, device language, CarPlay, AirDrop, and more. 
+
+In this interface, settings and controls appeared as follows:
+
+About >
+Software Update >
+iPhone Storage >
+
+Apple Care & Warranty >
+
+AirDrop >
+AirPlay & Continuity >
+Picture in Picture >
+CarPlay >
+
+AutoFill & Passwords >
+[00:00:09.096] I navigated back to the Settings app, main interface
+[00:00:09.714] The Settings app interface.  In this interface, settings and controls appeared as follows: 
+
+Search bar
+
+Apple Account
+Sign in to access your iCloud data, the App Store, Apple services, and more.
+
+Finish Setting Up Your iPhone (1)
+Get Help During an Emergency (1)
+
+Airplane Mode: Toggled off
+Wi-Fi: Off >
+Bluetooth: Off >
+Cellular On >
+Personal Hotspot: Off > (and enabled, meaning, it can be control by the user, as opposed to situations in which the setting appears grayed out) 
+Battery >
+
+General >
+Accessibility >
+Action Button >
+
+[00:00:20.624] I tapped the Cellular setting
+[00:00:21.393] The Cellular settings interface.
+
+Text under the interface's heading: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...
+
+In this interface, settings and controls appeared as follows: 
+
+Cellular Data: toggled on
+Cellular Data Options: Roaming Off >
+Personal Hotspot: Off (and enabled, meaning, it can be control by the user, as opposed to situations in which the setting appears grayed out) 
+Text under this setting: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications. 
+
+Under the VERIZON module, settings and controls appeared as follows: 
+Turn On This Line: toggled On
+My Number +1 (669) 326-4200
+Wi-Fi Calling: Off >
+Carrier Services > 
+SIM PIN >
+Delete eSIM (red colored letters)
+
+[00:00:28.213] I tapped the "Carrier Services" control
+[00:00:30.047] The "Verizon Services" interface
+The "Carrier Services" control (listed under the Cellular setting interface) leads to the "Verizon Services" interface. In this interface, settings and controls appeared as follows: 
+
+Call Forwarding Disable *73
+Directory Assistance 411
+Check Bill Balance #225
+Pay My Bill #768
+View My Minutes #646
+View My Data #3282
+
+My Verizon (blue colored letters which imply this is a link)
+[00:00:54.909] I navigated back to the Cellular settings interface
+[00:01:04.620] I scrolled down the Cellular settings interface, and more settings and controls came into view.
+[00:01:04.777] The Cellular settings interface continued: 
+
+Add eSIM (blue colored letters imply this is a link)
+
+Under the "CELLULAR DATA" module, settings and controls appeared as follows: 
+Current Period: 123MB
+Current Period Roaming Zero KB
+System Services: 118 MB
+Settings: toggled on with the text 5.05 MB underneath it
+Weather: toggled off with the text 39.6 KB underneath it
+App Store: toggled off
+Astronomy: toggled off
+Show All >
+
+Wi-Fi Assist: toggled off
+The text under this setting: Automatically use cellular data when Wi-Fi connectivity is poor.
+
+(IMPORTANT NOTE: At this time, the settings iCloud Drive and iCloud Backup were missing from this interface. These settings appeared after I had created an Apple Account)
+
+[00:01:10.796] The Cellular settings interface continued: 
+
+Under the "CALL TIME" module, settings and controls appeared as follows: 
+Current Period 0 Minutes
+Lifetime 0 Minutes
+
+Under the module "CELLULAR USAGE STATISTICS", settings and controls appeared as follows: 
+Enable Cellular Usage Statistics: toggled on
+Reset Statistics (the blue colored letters imply this is a link)
+The text under this setting: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
+
+Last Reset: Apr 26, 2025 at 6:02 PM
+
+
+[00:01:18.113] I navigated back to the Settings app
+[00:01:25.930] I tapped the Cellular setting again
+[00:01:46.816] I navigated back to the Settings app main interface
+[00:01:49.596] The Settings app interface continued:
+
+General >
+Accessibility >
+Action Button >
+Apple Intelligence & Siri >
+Camera >
+Control Center >
+Display & Brightness >
+Home Screen & App Library >
+Search >
+StandBy >
+Wallpaper >
+
+Notifications >
+Sound & Haptics >
+Focus >
+Screen Time >
+
+Face ID & Passcode >
+Emergency SOS >
+Privacy & Security >
+
+Game Center >
+iCloud >
+[00:01:52.788] I tapped Privacy & Security
+[00:01:53.388] The Privacy & Security Interface. 
+
+Text under the interface's heading: Control which apps can access your data, location, camera, and microphone, and manage safety protections. Learn more...
+
+In this interface, settings and controls appeared as follows: 
+
+Location Services: Off >
+Tracking: 0 >
+
+Calendar (None) >
+Contacts (None) >
+Files & Folders (None) >
+Focus (None) >
+Health (None) >
+HomeKit (None) >
+Media & Apple Music (None) >
+Passkeys Access for Web Browsers (None) >
+Photos (None) >
+Reminders (None) >
+Wallet (None) >
+
+Accessories 0 >
+Bluetooth 0 >
+Camera 0 >
+Critical Messages 0 >
+Local Network 0 >
+Microphone 0 >
+Motion & Fitness 0 >
+Nearby Interactions 0 >
+Research Sensor & Usage Data 0 >
+Speech Recognition 0 >
+
+Journaling Suggestions >
+
+Safety Check >
+Text under this setting: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
+
+Sensitive Content Warning: Off >
+Text under this setting: Detect nude photos and videos before they are viewed on your iPhone, and receive guidance to help make a safe choice. Apple does not have access to the photos or videos. Learn more...  (blue colored letters imply this is a link)
+
+Analytics & Improvements >
+Apple Advertising >
+
+Under the "TRANSPARENCY LOGS" module: 
+App Privacy Report: On >
+Apple Intelligence Report: On >
+
+Under the SECURITY module: 
+Stolen Device Protection: Off >
+Lockdown Mode: On >
+[00:01:58.481] I tapped the Lockdown Mode
+[00:01:59.360] The Lockdown Mode interface. 
+
+Text under the interface's heading: Turn on this extreme protection if you believe you're being targeted in a cyberattack. App, website, and feature functionality will be limited and some experiences may be completely unavailable. 
+
+Learn more...  (blue colored letters imply this is a link)
+
+Turn Off Lockdown Mode  (red colored letters imply this is a link)
+
+The following explanations of the changes that take place when the phone is set to this mode were listed as follows:
+
+Messages
+Most message attachments are blocked, and some features are unavailable.
+
+FaceTime
+Incoming FaceTime calls from people you have not previously called are clocked. Features such as SharePlay and Live Photos are unavailable.
+
+Web Browsing
+Some web technologies and browsing features are blocked.
+
+Photos
+Location will be excluded by default when sharing photos, and Shared Albums will be removed from Photos.
+
+Device Connections
+Wired connections with another device or accessory while your iPhone is locked are blocked.
+
+Wireless Connectivity
+Automatically joining non-security Wi-Fi networks and 2G Cellular Connectivity are blocked. 
+
+Apple Services
+Incoming invitations for Apple Services from People you have not previously invited are blocked.
+
+Profiles
+Configuration profiles, such as profiles for school or work, cannot be installed.
+
+Configured Web Browsing >
+
+2G Cellular Connectivity toggled Off
+Text under this setting: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
+
+[00:02:23.394] I navigated Back to the "Privacy & Security" interface
+[00:02:41.867] I navigated back to the Settings app main interface
+[00:02:48.635] Again, I tapped the Cellular setting, and scrolled down the interface
+[00:02:53.591] Again, I tapped the "Carrier Services" setting
+[00:02:55.897] I tapped the "My Verizon" blue lettered link
+[00:02:56.096] A new window opened up. Each window displayed its own status bar. Screenshot: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-02-56_096 - Safari triggered opened - two status bars"
+[00:02:56.229] From left to right, the status bar showed the time 3:58, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon shows two black bars and the other two gray. Farthest  to the right, the last icon, the battery charge level, with the number 48 inside of it. 
+
+The word Settings with a left pointing arrow appeared under the time.
+[00:02:56.392] In the newly opened window, the text "Privacy Report" began to fade into view. Underneath it, the text "In the last seven days, Safari has prevented 0 trackers from profiling you."
+[00:02:56.656] The Favorites faded in to view with tiles for Apple, Bing, Google, and Yahoo. 
+[00:02:56.788] The domain in the address bar changed from vzw.com to verizon.com
+[00:02:57.083] The domain in the address bar changed from verizon.com to secure.verizon.com
+[00:02:57.270] The Apple and Yahoo tiles loaded the brand's respective logos
+[00:02:57.550] The text "Lockdown Enabled" appeared above the browser's address bar
+[00:02:57.748] All content from the page disappeared
+[00:02:58.144] The progress level in the address bar almost complete
+[00:02:58.671] The progress level in the address bar faded away
+[00:02:59.562] The webpage appears blank
+[00:03:12.620] The tab behaved as if I pressed the tab switcher. The text "My Verizon login. Sign in to your Verizo..." appeared under the blank rectangle
+[00:03:23.885] I closed the tab
+[00:03:23.918] The Start Page started to fade in to view. Now the Bing and Google tiles had loaded the respective brand logos. 
+[00:03:24.352] The section "Recently Closed Tabs" had the text "My Verizon login. Sign in to your Verizon Wireles..." text under it. 
+[00:03:35.510] I dismissed the Safari window
+[00:03:36.090] The Home Screen came in to view. 
+
+At the top of the screen, the weather widget showed the text "Weather Unavailable" and the Calendar widget showed the text  "Sunday 27 No events today"
+[00:03:40.008] I tapped the Settings app icon
+[00:03:40.140] Here we can see two status bars; one at the top of the screen as a common screen asset, and part of the wider system, and a second one, as belonging to the Settings app window. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-03-40_139 - Settings app opening - two status bars.png"
+
+[00:03:41.165] From left to right, the status bar showed the time 3:59, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 48 inside of it. 
+
+[00:03:42.078] The Verizon Services interface was displayed, as the Settings app was finished expanding
+[00:03:42.177] I navigated back to the Cellular settings interface
+[00:03:44.200] The "CELLULAR DATA" module showed updated information.
+
+Under the "CELLULAR DATA" module, settings and controls appeared as follows: 
+Current Period: 127MB
+Current Period Roaming Zero KB
+System Services: 120 MB
+Settings: toggled on with the text 5.07 MB underneath it
+[00:03:59.488] I tapped the "Cellular Data Options" setting
+[00:04:00.608] The Cellular Data Options Interface. In this interface, settings and controls appeared as follows: 
+
+Data Roaming: toggled off
+Voice & Data: 5G Auto >
+Data Mode: Allow More Data on 5G >
+
+Limit IP Address Tracking: toggle on
+The text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
+
+[00:04:07.683] I tapped the "Voice & Data" settings
+[00:04:08.376] The "Voice & Data" setting.
+[00:04:08.484] The Voice & Data Interface. In this interface, settings and controls appeared as follows:
+
+5G Auto: blue check mark
+5G On
+LTE
+
+Under this list, the following descriptions appeared:
+
+5G Auto uses 5G only when needed for performance while optimizing battery life. 
+
+5G On uses 5G whenever it is available, even when it may reduce battery life or performance. 
+
+Further down in this interface, the setting:
+
+5G Standalone: toggled on. 
+The text under this setting: 5G Standalone uses 5G for all cellular activity, including cellular network connections. 
+
+[00:04:41.988] I navigated back to the "Cellular Data Options" interface
+[00:04:46.125] I tapped the "Data Mode" setting
+[00:04:46.719] The Data Mode interface
+[00:04:49.215] The Data Mode Interface. In this interface, settings and controls appeared as follows:
+
+Allow More Data on 5G: blue check mark
+Standard
+Low Data Mode
+
+Under this list, the following descriptions appeared:
+
+Allow More Data on 5G may prefer 5G over Wi-Fi, and use it for software updates, automatic iCloud backups, and higher-quality media. 
+
+Standard allows automatic updates and background tasks on cellular, but limits video and FaceTime quality. 
+
+Low Data Mode helps reduce cellular data usage by pausing automatic update and background tasks. 
+[00:04:56.584] I navigated back to the Cellular Data Options interface
+[00:05:00.308] I toggled the "Data Roaming" setting on
+[00:05:19.928] I navigated back to the Cellular settings interface
+[00:05:20.522] The top setting of this interface now appeared as follows:
+
+Data Roaming: toggled on
+
+[00:05:42.399] I tapped the Add eSIM link
+[00:05:45.190] The "Set Up Cellular" interface slid up in to view
+[00:05:45.553] The Set Up Cellular interface.
+(note that the "Add eSIM" control --listed under the Cellular setting interface-- leads to the "Set Up Cellular" interface)
+
+Under the heading, the following text appeared: "You can transfer a phone number from a nearby iPhone, or scan a QR code provided by your carrier Learn More..."
+
+In this interface, settings and controls appeared as follows: 
+
+Transfer From Nearby iPhone >
+Use QR Code >
+[00:05:48.200] I tapped the Use QR Code control
+[00:05:49.149] The Scan QR code interface.
+The "Use QR Code" control (listed under the "Set Up Cellular" interface) leads to the "Scan QR code" interface.
+
+The upper side of the window showed a large black rectangle, which would display the capture by the camera. 
+
+Under the black rectangle, the following text appeared: 
+
+Scan QR code
+Position the QR code from your carrier in the frame. 
+Learn More...
+
+Further down, the blue colored text "Enter Details Manually"
+[00:05:50.500] I tapped the "Enter Details Manually" link
+[00:05:50.909] The Enter Activation Code interface.
+(the "Enter Details Manually" control --listed under the "Use QR Code" interface-- leads to the "Enter Activation Code" interface)
+
+The following text appeared: 
+Enter Activation Code
+Enter the activation information provided by your carrier
+
+Under the text, the following information fields appeared:
+
+SM-DP+ Address
+Activation Code
+Confirmation Code (Optional)
+
+Under these fields, the text "A confirmation code is required if it has been provided by your carrier" appeared.
+[00:06:24.781] I navigated back to the Scan QR code interface
+[00:06:33.564] I navigated back to the Set Up Cellular interface
+[00:06:42.214] During this transition of of windows, the windows did not showed their own status bars. Instead, the status bar remained at the top and it only showed the time as 4:02, the dynamic island with the red dot indicating the screen recording is in use, and the battery icon appears partially covered by something pitch black. So we can only see the number 8. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-06-42_214 - anomalous status bar during windows transitions.png"
+[00:06:43.240] I navigated back to the Cellular settings interface
+[00:06:57.071] I navigated back to the Settings app main interface
+[00:07:04.421] I swiped the Control Center interface down in to view
+[00:07:05.210] The  Control Center showed the Verizon network type as LTE. To its left, the signal strength icon showed two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon showed two bars solid white and the other two light green. 
