@@ -1,0 +1,28 @@
+The Settings App interface. 
+
+•	The interface is structured into two principal areas: the Status Bar and the Main Content Area.:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 3:56. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+o	Main Content Area (The App Body)
+o	Positioned beneath the Status Bar, the main content area scrolls vertically and is organized into a prominent header, a search utility, user identification nodes, promotional/setup banners, and controls and settings:
+Primary Header: Aligned to the left, rendered in bold typography: "Settings".
+Global Search Bar: Positioned immediately beneath the header; a rounded gray inset container featuring a magnifying glass glyph on the left, placeholder text "Search", and a microphone glyph on the right.
+Apple Account Profile Node: A rounded rectangular anchor cell containing the Apple circular avatar, with the heading Apple Account on the right stacked above the descriptive text "Sign in to access your iCloud data, the App Store, Apple services, and more."
+Promotional & Setup Banners:
+* Finish Setting Up Your iPhone (1): An interactive configuration action item.
+* Get Help During an Emergency (1): An interactive configuration action item.
+
+* Settings Modules & Controls: The remaining settings are grouped into modules
+o	First module:
+	Airplane Mode: Toggled Off (gray).
+	Wi-Fi: Displays the status "Off".
+	Bluetooth: Displays the status "Off".
+	Cellular: Displayed as an interactive menu item.
+	Personal Hotspot: Displays the status "Off".
+	Battery: Displayed as an interactive menu item.
+o	Second module:
+	General: Displayed as an interactive menu item.
+	Accessibility: Displayed as an interactive menu item.
+	Partially visible, the Action Button: Displayed as an interactive menu item.
