@@ -1,5 +1,3 @@
-Control Center with Cellular Data Active 
-The interface shows the Verizon network type as 5GUW. To its left, the signal strength icon shows three bars solid white and one bar faded white. Inside the communication widget, the bright green colored cell icon shows one bar solid white and the other three light green.
 The Control Center Interface.
 The Apple iPhone Control Center interface occupies substantially the entire display. The interface consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
 Status Area
@@ -8,19 +6,19 @@ o	A plus ("+") symbol positioned in the upper-left corner.
 o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 o	A power symbol positioned in the upper-right corner.
 •	Immediately below the status area are:
-o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of three active white bars and one inactive gray bar, accompanied by the network carrier and type as Verizon 5GUW 
-o	A battery indicator positioned on the right displaying a battery level of 62%.
+o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of one active white bars and three inactive gray bars, accompanied by the network carrier and type as Verizon LTE.
+o	A battery indicator positioned on the right displaying a battery level of 48%.
 The Connectivity Module
 The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
 The following controls are displayed:
-•	Airplane Mode, displayed as an gray circular button with a white airplane symbol, indicating an inactive state.
+•	Airplane Mode, displayed as a gray circular button with a white airplane symbol, indicating an inactive state.
 •	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
 •	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
 •	Four additional gray circular controls displaying symbols visually consistent with:
 o	Cellular data displayed as a green circular button displaying a signal strength icon consisting of one active white bar and three inactive gray bars
 o	Bluetooth, indicating an inactive state.
 o	Hot spot, indicating a inactive state.
-o	VPN, indicating an disabled state.
+o	VPN, indicating a disabled (non-operable) state.
 The Media Playback Module
 The upper-right Control Center module contains the media playback controls.
 •	The module displays:
@@ -42,8 +40,8 @@ Positioned below the Rotation Lock and Silent Mode controls is a rounded rectang
 The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
 The Brightness and Volume Controls
 Immediately below the Media Playback Module are two vertical slider controls.
-•	The left slider controls screen brightness and displays a sun symbol near its lower end.
-•	The right slider controls system volume and displays a speaker symbol near its lower end.
+•	The left slider controls screen brightness and displays a sun symbol near its lower end. The level of brightness appears to be all the way down (i.e., no white filling).
+•	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 44% up.
 The Utility Controls
 The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
 •	The controls display symbols visually consistent with:
@@ -53,12 +51,11 @@ o	Calculator.
 o	Camera.
 o	Screen Mirroring.
 o	Code Scanner (QR Scanner).
-o	Screen Recording.
+o	Screen Recording: displays a red circular recording indicator within the control.
 o	Notes / Quick Note.
-The Screen Recording control displays a red circular recording indicator within the control.
-The Right-Edge Interface Icons
+•	The Right-Edge Interface Icons
 Along the right edge of the display is a vertical column of three interface icons.
 From top to bottom, the icons consist of:
-•	A heart symbol (jump to the main/first page of the interface, the current one).
-•	A musical note symbol (jump to the media player).
-•	A wireless transmission symbol (jump to the connectivity related controls panel).
+o	A heart symbol (jump to the main/first page of the interface, the current one).
+o	A musical note symbol (jump to the media player).
+o	A wireless transmission symbol (jump to the connectivity related controls panel).
