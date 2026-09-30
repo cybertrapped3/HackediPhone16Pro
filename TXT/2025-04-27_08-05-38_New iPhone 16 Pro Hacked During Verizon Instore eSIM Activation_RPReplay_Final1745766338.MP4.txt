@@ -1,55 +1,80 @@
-[00:00:00.000] The Cellular settings interface.
+[00:00:00.000] The Cellular settings Interface
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid green rounded square containing a wireless transmission symbol.
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
+•	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
+	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+•	First group of settings:
+o	Cellular Data:  Toggled Off (gray).
+o	Cellular Data Options: Displays the status "Roaming On."
+o	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+o	Explicative text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
+•	Under the VERIZON module:
+o	Turn On This Line:  Toggled On (green).
+o	My Number: +1 (669) 326-4200
+o	Wi-Fi Calling: Displays the status “Off.”
+o	Carrier Services: Displayed as an interactive menu item.
+o	SIM PIN: Displayed as an interactive menu item.
+o	Delete eSIM: red colored letters
+[00:00:01.692] The Cellular Data setting was toggled On
+[00:00:05.024] The go back link (i.e., Settings >) was tapped.
+[00:00:05.637] The main interface of the Settings App is displayed.
+[00:00:05.937] The Settings App interface. 
 
-From left to right, and top down, the status bar showed the time 8:03, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right is the black airplane mode icon. The last icon on the right is the battery charge level, which is partially filled with the number 16 inside of it. 
+The Settings App interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+o	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
+•	Interface Body:
+o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+o	Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
+•	The subsequent controls and settings appeared as follows:
+o	First module:
+	Airplane Mode: Toggled On (green).
+	Wi-Fi: Displays the status "Off".
+	Bluetooth: Displays the status "Off".
+	Cellular: Displays the status "Airplane Mode". [SCREENSHOT: "Capture_2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4_00-00-05_651 - Settings App Cellular Status as Airplane Mode.png"]
+	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+	Battery: Displayed as an interactive menu item.
+o	Second module:
+	General: Displayed as an interactive menu item.
+	Accessibility: Displayed as an interactive menu item.
+	Action Button: Displayed as an interactive menu item.
+	Apple Intelligence & Siri: Displayed as an interactive menu item.
+[00:00:08.683] The Airplane Mode setting was toggled Off. 
+[00:00:08.782] As the Airplane Mode became inactive, in the status bar, the battery icon disappeared, and the plane icon became animated and slid to the left out of view. 
 
-Below the time, the borderless button with blue letters "< Settings"
-
-Further down, the first section has the heading "Cellular".
-Under this heading, the text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more... (blue colored letters imply this is a link)
-
-In this interface, settings and controls appeared as follows: 
-
-Cellular Data: toggled Off
-Cellular Data Options: Roaming On >
-Personal Hotspot: Off (and disabled, meaning, it can not be controlled by the user, as opposed to situations in which the setting appears brightly colored as the other settings) 
-Text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications. 
-
-Under the VERIZON section, settings and controls appeared as follows: 
-Turn On This Line: toggled On
-My Number +1 (669) 326-4200
-Wi-Fi Calling: Off >
-Carrier Services > 
-SIM PIN >
-Delete eSIM (red colored letters)
-[00:00:01.738] I toggled "Cellular Data" On
-[00:00:05.046] I tapped Settings
-[00:00:05.637] I navigated back to the Settings app's main interface
-[00:00:05.937] The Settings app interface.  In this interface, settings and controls appeared as follows: 
-
-Search bar
-
-Veronica Cisneros. Apple Account, iCloud, and more >
-Apple News+ Free for 3 Months >
-
-Airplane Mode: Toggled off
-Wi-Fi: Off >
-Bluetooth: Off >
-Cellular Airplane Mode >
-Personal Hotspot: Off > (and enabled, meaning, it can be controlled by the user, as opposed to situations in which the setting appears grayed out/OR/and disabled, meaning, it can not be controlled by the user, as opposed to situations in which the setting appears brightly colored as the other settings)
-Battery >
-
-General >
-Accessibility >
-Action Button >
-[00:00:08.715] I toggled "Airplane Mode" On
+In the settings & status are of the interface, as the first module of  Settings slid down, the configuration action item "Finish Setting Up Your iPhone (1)" became visible. 
 [00:00:09.175] The following were immediate changes visible on the interface: 
 1) the insertion of the suggestion "Get Help During an Emergency (1)" above the Airplane Mode's section
 2) Cellular > (before it had been "Airplane Mode >")
+[00:00:09.706] The battery status icon at the top of the screen, in the status area, reappeared. 
 [00:00:12.737] The Airplane Mode icon at the right side of the status bar was replaced by the signal strength and network type.
 [00:00:13.199] The signal strength was one bar, and network type LTE.
+[00:00:13.555] The Signal Strength icon and network label became visible in the right side of the status bar area. 
+
+The signal strength showed one active black bar, and three inactive gray bars. The network label "LTE" is positioned to its right.
+
+Two settings changed from the original description; the Cellular setting's status changed from "Airplane Mode" to a blank interactive menu item. And the "Personal Hotspot" setting changed from an un-operable state (grayed off colored text) to a configurable control (bright black text), although its status remained the same "Off."
 [00:00:13.792] The signal strength increased from one to two bars. The network still LTE type.
 [00:00:14.114] The network type changed from LTE to 5GUW.
-[00:00:19.572] I tapped the Apple Account
+[00:00:14.627] The network label changed from LTE to 5GUW., and the signal strength increased from one to two active black bars. 
+[00:00:19.548] The username Apple account interactive menu item was tapped.
 [00:00:19.964] The Apple Account Interface slid in to view. In this interface, settings and controls appeared as follows: 
 
 Under the status bar, the breadcrumbs link or go back button "< Settings". To its right, the interface heading "Apple Account".
@@ -68,7 +93,29 @@ Family: Set Up >
 Find My >
 Media & Purchases > 
 Sign in with Apple >
+[00:00:20.142] The Apple Account interface slid into view. 
 [00:00:20.464] After a second, "iPhone (This iPhone 16 Pro)" was loaded at the bottom of the screen.
+[00:00:20.538] The “Apple Account” Interface.
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 8:03.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
+•	Interface Body:
+o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface with the following visible controls and status indicators:
+	Personal Information: Displayed as an active interactive menu item.
+	Sign-In & Security: Displayed as an active interactive menu item.
+	Payment & Shipping: : Displayed as an active interactive menu item.
+	Subscriptions: : Displayed as an active interactive menu item.
+	iCloud: Displays the status "5 GB".
+	Family: Displays the status "Set Up".
+	Find My: Displayed as an interactive menu item.
+	Media & Purchases: Displayed as an interactive menu item.
+	Sign in with Apple: Displayed as an interactive menu item.
+	Device Module: iPhone (This iPhone 16 Pro)
 [00:00:21.838] The signal strength decreased from two to one bar. The network still 5GUW type.
 [00:00:31.749] I tapped "Personal Information"
 [00:00:33.172] The Personal Information interface slid in to view. In this interface, settings and controls appeared as follows: 
@@ -159,9 +206,9 @@ Below the status bar, in the left, the borderless blue text "< Back" button. To 
 Further down, with larger black letters, the heading "Sign in with Apple" and with normal sized letters the following text: Sign in with Apple is the fast, easy, and more private way to sign in to third-party apps and websites using the Apple Account that you already have." Under this, blue colored text Learn More. 
 
 Further down in small gray letters the text "You do not have any Apple Account Logins."
-[00:02:08.119] At TIMESTAMP 00:02:08.119 (FRAME 3829), another Sign in with Apple interface began to slide left in to view. 
+[00:02:08.119] At TIMESTAMP 00:02:08.119 (FRAME 3829), another Sign in with Apple interface began to slide left in to view.
 [00:02:08.647] This second interface that may seem to be exactly the same as the "Sign in with Apple" I describe a few second ago, has one difference. Instead of the "< Back" button, this one has a breadcrumbs link, or go back button, with blue text "Sign in with Apple" (TIMESTAMP: 00:02:08.647, FRAME 3855)
-[00:02:30.391] I pressed the power button (which is evident by the black shape that appears on the right side of the screen's edge. 
+[00:02:30.391] I pressed the power button (which is evident by the black shape that appears on the right side of the screen's edge.
 [00:02:30.391] HIGHLIGHTS: In this screenshot, I captured what I think is evidence that the iPhone is hacked. I think the second instance of the "Sign in with Apple interface" was crafted by the hackers, and that the hijack of the first instance, was intended to steal whatever credentials I would have entered. The technical term for this type of attack is "UI Redressing or Overlay Attack". To fully appreciate the difference between these two interfaces, look at SCREENSHOTS listed below: 
 
 1) "Capture_2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4_00-02-07_954 - Sign in with Apple interface 1st instance with back button.png"
@@ -171,3 +218,5 @@ Further down in small gray letters the text "You do not have any Apple Account L
 Later, when I accessed this interface again, this anomaly no longer occurred. You can see my experience of this uneventful access to the "Sign in with Apple" interface through the screenrecording listed below: 
 
 1) "2025-04-27_08-33-13_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745767993.MP4"
+
+REVIEW AND RELATE: "Capture_2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4_00-00-05_651 - Settings App Cellular Status as Airplane Mode.png"
