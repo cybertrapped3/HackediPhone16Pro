@@ -1,0 +1,20 @@
+The "Personal Information" interface. 
+
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 8:03.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Personal Information".
+•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile information management organized into the introductory module and the settings:
+•	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+	Icon Graphic: A solid gray circle with the initials of the user (VC).
+	Edit button: Centrally aligned or positioned directly adjacent, rendered in normal-sized blue letters, a borderless Edit button.
+•	Settings: Grouped into modules, user profile information management settings
+•	Under the first module:
+	Name: Displaying the status "Veronica Cisneros."
+	Birthday: Displaying the status "January 1, 1976."
+•	Under the second module:
+•	After the modules, the normal-sized, blue colored text "See how your data is managed..."
