@@ -1,23 +1,31 @@
 The “Apple Account” Interface.
 The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 21:39.
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 8:03.
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
-•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
+o	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
 o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
 o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
-•	Interface Body (Lower Tier):
-o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface with the following visible controls and status indicators:
-	Personal Information: Appears grayed out, indicating the setting is disabled.
+•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface organized into the introductory module and the settings:
+•	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+	Icon Graphic: A solid gray circle with the initials of the user (VC).
+	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold, medium-sized black letters the name and last name of the user: Veronica Cisneros.
+	Apple Account ID: Centrally aligned or positioned directly adjacent, rendered in normal-sized gray letters the username: cyberonica@icloud.com.
+•	Settings: Grouped into modules, Apple Account configuration settings
+•	Under the first module:
+	Personal Information: Displayed as an active interactive menu item.
 	Sign-In & Security: Displayed as an active interactive menu item.
-	Payment & Shipping: Appears grayed out, indicating the setting is disabled.
-	Subscriptions: Appears grayed out, indicating the setting is disabled.
-	iCloud: Displayed as an active menu item.
+	Payment & Shipping: : Displayed as an active interactive menu item.
+	Subscriptions: : Displayed as an active interactive menu item.
+•	Under the second module:
+	iCloud: Displayed as an active interactive menu item.
 	Family: Displays the status "Set Up".
-	Find My: Displayed as an active menu item.
-	Media & Purchases: Displayed as an active menu item.
-	Sign in with Apple: Displayed as an active menu item.
-	Device Module: The specific module where "iPhone (This iPhone 16 Pro) >" is typically displayed currently exhibits a spinning loading wheel.
+	Find My: Displayed as an interactive menu item.
+	Media & Purchases: Displayed as an interactive menu item.
+	Sign in with Apple: Displayed as an interactive menu item.
+•	Under the third module OR Device Module:
+	A spinning wheel (content is loading)/ALTERNATIVE: 	Device Module: The specific module where "iPhone (This iPhone 16 Pro) >" is typically displayed currently exhibits a spinning loading wheel.
+•	Under the fourth module:
 	Contact Key Verification: Displays the status "Off".
 	Sign Out: The primary sign-out action button appears grayed out, indicating it is disabled.
