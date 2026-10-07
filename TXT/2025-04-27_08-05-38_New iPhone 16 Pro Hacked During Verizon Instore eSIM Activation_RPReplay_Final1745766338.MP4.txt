@@ -1,195 +1,184 @@
 [00:00:00.000] The Cellular settings Interface.
-•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-o	Status Bar: Spanning the uppermost portion of the display from left to right:
-	Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
-	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
-o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
-o	Interface Body:
-	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
-•	Icon Graphic: A solid green rounded square containing a wireless transmission symbol.
-•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
-•	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
-	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
-•	First group of settings:
-o	Cellular Data:  Toggled Off (gray).
-o	Cellular Data Options: Displays the status "Roaming On."
-o	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
-o	Explicative text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
-•	Under the VERIZON module:
-o	Turn On This Line:  Toggled On (green).
-o	My Number: +1 (669) 326-4200
-o	Wi-Fi Calling: Displays the status “Off.”
-o	Carrier Services: Displayed as an interactive menu item.
-o	SIM PIN: Displayed as an interactive menu item.
-o	Delete eSIM: red colored letters
-[00:00:01.692] The Cellular Data setting was toggled On
-[00:00:05.024] The go back link (i.e., Settings >) was tapped.
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+Status Bar: Spanning the uppermost portion of the display from left to right:
+Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
+Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+Interface Body:
+Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+Icon Graphic: A solid green rounded square containing a wireless transmission symbol.
+Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
+Descriptive Text: "Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more..."
+Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+First group of settings:
+Cellular Data: Toggled Off (gray).
+Cellular Data Options: Displays the status "Roaming On."
+Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+Explicative text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
+Under the VERIZON module:
+Turn On This Line: Toggled On (green).
+My Number: +1 (669) 326-4200
+Wi-Fi Calling: Displays the status “Off.”
+Carrier Services: Displayed as an interactive menu item.
+SIM PIN: Displayed as an interactive menu item.
+Delete eSIM: Displayed in red colored letters.
+[00:00:01.692] The Cellular Data setting was toggled On.
+[00:00:05.024] The "Settings" back-navigation link was tapped.
 [00:00:05.637] The main interface of the Settings App is displayed.
-[00:00:05.937] The Settings App interface. 
-
-The Settings App interface. 
-•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-o	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
-•	Interface Body:
-o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
-o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
-o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
-	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
-o	Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item
-•	The subsequent controls and settings appeared as follows:
-o	First module:
-	Airplane Mode: Toggled On (green).
-	Wi-Fi: Displays the status "Off".
-	Bluetooth: Displays the status "Off".
-	Cellular: Displays the status "Airplane Mode". [SCREENSHOT: "Capture_2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4_00-00-05_651 - Settings App Cellular Status as Airplane Mode.png"]
-	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
-	Battery: Displayed as an interactive menu item.
-o	Second module:
-	General: Displayed as an interactive menu item.
-	Accessibility: Displayed as an interactive menu item.
-	Action Button: Displayed as an interactive menu item.
-	Apple Intelligence & Siri: Displayed as an interactive menu item.
+[00:00:05.937] The Settings App interface.
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+Status Bar: Spanning the uppermost portion of the display from left to right:
+Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
+Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
+Interface Body:
+Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side.
+The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements:
+Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more".
+Apple News+ Free for 3 Months: The promotional upsell banner displayed as an interactive menu item.
+The subsequent controls and settings appeared as follows:
+First module:
+Airplane Mode: Toggled On (green).
+Wi-Fi: Displays the status "Off".
+Bluetooth: Displays the status "Off".
+Cellular: Displays the status "Airplane Mode". [See Screenshot: "Capture_2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4_00-00-05_651 - Settings App Cellular Status as Airplane Mode.png"]
+Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+Battery: Displayed as an interactive menu item.
+Second module:
+General: Displayed as an interactive menu item.
+Accessibility: Displayed as an interactive menu item.
+Action Button: Displayed as an interactive menu item.
+Apple Intelligence & Siri: Displayed as an interactive menu item.
 [00:00:08.683] The Airplane Mode setting was toggled Off.
-[00:00:08.782] As the Airplane Mode became inactive, in the status bar, the battery icon disappeared, and the plane icon became animated and slid to the left out of view. 
-
-In the settings & status are of the interface, as the first module of  Settings slid down, the configuration action item "Finish Setting Up Your iPhone (1)" became visible.
-[00:00:09.175] The following were immediate changes visible on the interface: 
-1) the insertion of the suggestion "Get Help During an Emergency (1)" above the Airplane Mode's section
-2) Cellular > (before it had been "Airplane Mode >")
+[00:00:08.782] As the Airplane Mode became inactive, in the status bar, the battery icon disappeared, and the plane icon became animated and slid to the left out of view.
+In the settings and status areas of the interface, as the first module of Settings slid down, the configuration action item "Finish Setting Up Your iPhone (1)" became visible.
+[00:00:09.175] The following were immediate changes visible on the interface:
+1) the insertion of the suggestion "Get Help During an Emergency (1)" above the Airplane Mode's section;
+2) Cellular > (which previously read "Airplane Mode >").
 [00:00:09.706] The battery status icon at the top of the screen, in the status area, reappeared.
 [00:00:12.737] The Airplane Mode icon at the right side of the status bar was replaced by the signal strength and network type.
-[00:00:13.199] The signal strength was one bar, and network type LTE.
-[00:00:13.555] The Signal Strength icon and network label became visible in the right side of the status bar area. 
-
+[00:00:13.199] The signal strength was one bar, and the network type was LTE.
+[00:00:13.555] The Signal Strength icon and network label became visible on the right side of the status bar area.
 The signal strength showed one active black bar, and three inactive gray bars. The network label "LTE" is positioned to its right.
-
-Two settings changed from the original description; the Cellular setting's status changed from "Airplane Mode" to a blank interactive menu item. And the "Personal Hotspot" setting changed from an un-operable state (grayed off colored text) to a configurable control (bright black text), although its status remained the same "Off."
-[00:00:13.792] The signal strength increased from one to two bars. The network still LTE type.
+Two settings changed from the original description; the Cellular setting's status changed from "Airplane Mode" to a blank interactive menu item. And the "Personal Hotspot" setting changed from an un-operable state (grayed off colored text) to a configurable control (bright black text), although its status remained the same as "Off."
+[00:00:13.792] The signal strength increased from one to two bars. The network was still of the LTE type.
 [00:00:14.114] The network type changed from LTE to 5GUW.
-[00:00:14.627] The network label changed from LTE to 5GUW., and the signal strength increased from one to two active black bars.
-[00:00:19.548] The username Apple account interactive menu item was tapped.
+[00:00:14.627] The network label changed from LTE to 5GUW, and the signal strength increased from one to two active black bars.
+[00:00:19.548] The username Apple Account interactive menu item was tapped.
 [00:00:19.964] The “Apple Account” Interface.
 The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 8:03.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
-•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface organized into the introductory module and the settings:
-•	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
-	Icon Graphic: A solid gray circle with the initials of the user (VC).
-	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold, medium-sized black letters the name and last name of the user: Veronica Cisneros.
-	Apple Account ID: Centrally aligned or positioned directly adjacent, rendered in normal-sized gray letters the username: cyberonica@icloud.com.
-•	Settings: Grouped into modules, Apple Account configuration settings
-•	Under the first module:
-	Personal Information: Displayed as an active interactive menu item.
-	Sign-In & Security: Displayed as an active interactive menu item.
-	Payment & Shipping: : Displayed as an active interactive menu item.
-	Subscriptions: : Displayed as an active interactive menu item.
-•	Under the second module:
-	iCloud: Displayed as an active interactive menu item.
-	Family: Displays the status "Set Up".
-	Find My: Displayed as an interactive menu item.
-	Media & Purchases: Displayed as an interactive menu item.
-	Sign in with Apple: Displayed as an interactive menu item.
-•	Under the second module:
-	A spinning wheel (content is loading)
-[00:00:20.359] Where the spinning wheel had been (the Device Module) the device information appeared "iPhone, displaying the subtext "This iPhone 16 Pro," and it, as an interactive menu item.
-[00:00:20.425] The setting "iCloud" status changed from blank to "5 GB;" the setting itself, still accessible as an interactive menu item.
-[00:00:21.745] The signal strength decreased from two to one bar. The network still 5GUW type.
-[00:00:31.682] The signal strength increased from one to two bars. The network still 5GUW type.
-[00:00:31.749] "Personal Information" was tapped. [TIMESTAMP: 00:00:31.749 --The background of the setting changed from white to gray]
-[00:00:31.836] A spinning wheel replaced the chevron symbol that indicates this setting is an interactive menu item [TIMESTAMP: 00:00:31.836]
-[00:00:31.869] The background of the "Personal Information" setting changed from gray to white, and the spinning wheel is still displaying instead of the chevron symbol. [TIMESTAMP: 00:00:31.869]
-[00:00:32.331] The spinning wheel was replaced by the normal chevron symbol at the far right of the "Personal Information" setting. [TIMESTAMP: 00:00:32.331]
-[00:00:32.397] The "Personal Information" interface begins to slide into view [TIMESTAMP: 00:00:32.397]
-[00:00:33.156] The "Personal Information" interface. 
-
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 8:03.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Personal Information".
-•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile information management organized into the introductory module and the settings:
-•	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
-	Icon Graphic: A solid gray circle with the initials of the user (VC).
-	Edit button: Centrally aligned or positioned directly adjacent, rendered in normal-sized blue letters, a borderless Edit button.
-•	Settings: Grouped into modules, user profile information management settings
-•	Under the first module:
-	Name: Displaying the status "Veronica Cisneros."
-	Birthday: Displaying the status "January 1, 1976."
-•	Under the second module:
-•	After the modules, the normal-sized, blue colored text "See how your data is managed..."
-[00:00:35.543] "Communication Preferences" was tapped, and immediately, a spinning wheel replaces the chevron symbol. The background of the setting changed color from white to gray.
-[00:00:35.576] The Chevron symbol replaced the spinning wheel, and the "Communication Preferences" interface began to slide into view. [TIMESTAMP: 00:00:35.576]
-[00:00:35.997] The Communication Preferences interface.
-
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 8:03.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Communication Preferences".
-•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+Status Bar: Spanning the uppermost portion of the display from left to right:
+Time: Displays the local time as 8:03.
+Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
+Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface organized into the introductory module and the settings:
+Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+Icon Graphic: A solid gray circle with the initials of the user (VC).
+Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold, medium-sized black letters displaying the name and last name of the user: Veronica Cisneros.
+Apple Account ID: Centrally aligned or positioned directly adjacent, rendered in normal-sized gray letters displaying the username: cyberonica@icloud.com.
+Settings: Grouped into modules, Apple Account configuration settings.
 Under the first module:
-Announcements: toggled On (green).
-Explicatory text under this module: Receive Apple emails and communications including announcements, marketing, recommendations, and updates about Apple products, services and software. 
+Personal Information: Displayed as an active interactive menu item.
+Sign-In & Security: Displayed as an active interactive menu item.
+Payment & Shipping: Displayed as an active interactive menu item.
+Subscriptions: Displayed as an active interactive menu item.
 Under the second module:
-Apps, Music, TV and More: toggled On (green).
-Explicatory text under this module: Receive Apple emails and communications including new releases, exclusive content, special offers, and marketing and recommendations for apps, music, movies, TV, books, podcasts, Apple Pay, Apple Card, and more. 
+iCloud: Displayed as an active interactive menu item.
+Family: Displays the status "Set Up".
+Find My: Displayed as an interactive menu item.
+Media & Purchases: Displayed as an interactive menu item.
+Sign in with Apple: Displayed as an interactive menu item.
 Under the third module:
-Apple News Newsletter: toggled Off (gray).
+A spinning wheel (indicating content is loading).
+[00:00:20.359] Where the spinning wheel had been (the Device Module) the device information appeared: "iPhone," displaying the subtext "This iPhone 16 Pro," presented as an interactive menu item.
+[00:00:20.425] The setting "iCloud" status changed from blank to "5 GB;" the setting itself remained accessible as an interactive menu item.
+[00:00:21.745] The signal strength decreased from two to one bar. The network was still of the 5GUW type.
+[00:00:31.682] The signal strength increased from one to two bars. The network was still of the 5GUW type.
+[00:00:31.749] "Personal Information" was tapped. [Timestamp: 00:00:31.749 -- The background of the setting changed from white to gray]
+[00:00:31.836] A spinning wheel replaced the chevron symbol that indicates this setting is an interactive menu item. [Timestamp: 00:00:31.836]
+[00:00:31.869] The background of the "Personal Information" setting changed from gray to white, and the spinning wheel was still displayed instead of the chevron symbol. [Timestamp: 00:00:31.869]
+[00:00:32.331] The spinning wheel was replaced by the normal chevron symbol at the far right of the "Personal Information" setting. [Timestamp: 00:00:32.331]
+[00:00:32.397] The "Personal Information" interface began to slide into view. [Timestamp: 00:00:32.397]
+[00:00:33.156] The "Personal Information" interface.
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+Status Bar: Spanning the uppermost portion of the display from left to right:
+Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
+Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Personal Information".
+Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile information management organized into the introductory module and the settings:
+Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+Icon Graphic: A solid gray circle with the initials of the user (VC).
+Edit button: Centrally aligned or positioned directly adjacent, rendered in normal-sized blue letters, a borderless Edit button.
+Settings: Grouped into modules, user profile information management settings.
+Under the first module:
+Name: Displaying the status "Veronica Cisneros."
+Birthday: Displaying the status "January 1, 1976."
+Under the second module:
+After the modules, the normal-sized, blue-colored text reads: "See how your data is managed..."
+[00:00:35.543] "Communication Preferences" was tapped, and immediately, a spinning wheel replaced the chevron symbol. The background of the setting changed color from white to gray.
+[00:00:35.576] The chevron symbol replaced the spinning wheel, and the "Communication Preferences" interface began to slide into view. [Timestamp: 00:00:35.576]
+[00:00:35.997] The Communication Preferences interface.
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+Status Bar: Spanning the uppermost portion of the display from left to right:
+Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
+Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Communication Preferences".
+Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+Under the first module:
+Announcements: Toggled On (green).
+Explicatory text under this module: Receive Apple emails and communications including announcements, marketing, recommendations, and updates about Apple products, services, and software.
+Under the second module:
+Apps, Music, TV and More: Toggled On (green).
+Explicatory text under this module: Receive Apple emails and communications including new releases, exclusive content, special offers, and marketing and recommendations for apps, music, movies, TV, books, podcasts, Apple Pay, Apple Card, and more.
+Under the third module:
+Apple News Newsletter: Toggled Off (gray).
 Explicatory text under this module: The best stories, picked by the Apple News editors, delivered right to your inbox.
-[00:00:54.369] "Apps, Music, TV and More" was toggled Off, and the toggle switch was replaced by a spinning wheel. [TIMESTAMP: 00:00:54.369]
+[00:00:54.369] "Apps, Music, TV and More" was toggled Off, and the toggle switch was replaced by a spinning wheel. [Timestamp: 00:00:54.369]
 [00:00:55.722] The spinning wheel was replaced by the gray toggle switch (indicating an inactive state).
-[00:00:56.580] "Announcements" was toggled Off, and the toggle switch was replaced by a spinning wheel. [TIMESTAMP: 00:00:56.580]
-[00:00:56.582] I toggled Announcements Off
+[00:00:56.580] "Announcements" was toggled Off, and the toggle switch was replaced by a spinning wheel. [Timestamp: 00:00:56.580]
 [00:00:57.339] The spinning wheel was replaced by the gray toggle switch (indicating an inactive state).
-[00:00:57.726] The signal strength decreased from two to one bars. The network still 5GUW type.
-[00:00:58.420] I toggled "Apple News Newsletter" On
-[00:00:58.422] "Apple News Newsletter" was toggled On, and the toggle switch was replaced by a spinning wheel. [TIMESTAMP: 00:00:58.422]
-[00:00:58.684] The signal strength increased from one to two bars. The network still 5GUW type.
-[00:00:59.214] The spinning wheel was replaced by the green toggle switch (indicating an inactive state).
+[00:00:57.726] The signal strength decreased from two to one bar. The network was still of the 5GUW type.
+[00:00:58.422] "Apple News Newsletter" was toggled On, and the toggle switch was replaced by a spinning wheel. [Timestamp: 00:00:58.422]
+[00:00:58.684] The signal strength increased from one to two bars. The network was still of the 5GUW type.
+[00:00:59.214] The spinning wheel was replaced by the green toggle switch (indicating an active state).
 [00:01:11.949] The go back link (i.e., Back >) was tapped.
-[00:01:11.960] I tapped Back, and navigated to the Personal Information interface
-[00:01:12.642] The "Personal Information" interface is displaying.
+[00:01:12.642] The "Personal Information" interface is displayed.
 [00:01:14.003] The go back link (i.e., Back >) was tapped.
-[00:01:14.883] The "Apple Account" interface is displaying.
-[00:01:15.685] "Sign-In & Security" was tapped, and immediately, a spinning wheel replaces the chevron symbol. The background of the setting changed color from white to gray.
-[00:01:15.784] The background of the "Personal Information" setting changed from gray to white, and the spinning wheel is still displaying instead of the chevron symbol. [TIMESTAMP: 00:01:15.784]
-[00:01:16.279] The Chevron symbol replaced the spinning wheel, and the "Communication Preferences" interface began to slide into view. [TIMESTAMP: 00:01:16.279]
-[00:01:16.378] The "Sign-In & Security Interface" begins to slide into view.
+[00:01:14.883] The "Apple Account" interface is displayed.
+[00:01:15.685] "Sign-In & Security" was tapped, and immediately, a spinning wheel replaced the chevron symbol. The background of the setting changed color from white to gray.
+[00:01:15.784] The background of the "Sign-In & Security" setting changed from gray to white, and the spinning wheel is still displaying instead of the chevron symbol. [TIMESTAMP: 00:01:15.784]
+[00:01:16.279] The Chevron symbol replaced the spinning wheel, the "Sign-In & Security" interface began to slide into view. [Timestamp: 00:01:16.279]
 [00:01:17.170] The Sign-In & Security Interface.
-•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-o	Status Bar: Spanning the uppermost portion of the display from left to right:
-	Time: Displays the local time as 8:04. Positioned to its right is the silent mode icon.
-	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Sign-In & Security".
-•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the Sign-In & Security management settings:
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+Status Bar: Spanning the uppermost portion of the display from left to right:
+Time: Displays the local time as 8:04. Positioned to its right is the silent mode icon.
+Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Sign-In & Security".
+Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the Sign-In & Security management settings:
 Under the EMAIL & PHONE NUMBERS module:
 cyberonica@icloud.com (subtext "Primary email"): Displayed as an interactive menu item.
 +1 (669) 326-4200 (subtext "Unavailable for sharing"): Displayed as an interactive menu item.
-Add Email or Phone Number (blue colored letters imply this is a link)
+Add Email or Phone Number (blue colored letters imply this is a link).
 Explicatory text under this module: These email addresses and phone numbers can be used to sign in, verify your identity, and help recover your account. They can also be used to reach you with iMessage, FaceTime, Game Center, and more.
 Under the SECURITY module:
-Change Password (blue colored letters imply this is a link)
+Change Password (blue colored letters imply this is a link).
 Two-Factor Authentication: Displayed as an interactive menu item.
 Explicatory text under this module: Your trusted devices and phone numbers are used to verify your identity when signing in.
 Under the RECOVERY METHODS module:
@@ -198,64 +187,60 @@ Recovery Key (displays status "Set Up"): Displayed as an interactive menu item.
 Explicatory text under this module: Regain access to your account and data if you forget your password or device passcode.
 Under the fourth module:
 Legacy Contact (displays status "Set Up"): Displayed as an interactive menu item.
-Explicatory text under this module: A legacy contact is someone you trust to have access to the data in your account after your death. 
+Explicatory text under this module: A legacy contact is someone you trust to have access to the data in your account after your death.
 Under the fifth module:
-Legacy Contact (displays status "Off")
+Automatic Verification (displays status "Off")
 [00:01:26.338] The go back link (i.e., Back >) was tapped.
 [00:01:27.064] The "Apple Account" interface is displayed.
-[00:01:28.748] I tapped ""
-[00:01:28.761] "Payments & Shipping" was tapped, and immediately, a spinning wheel replaces the chevron symbol. The background of the setting changed color from white to gray.
+[00:01:28.761] "Payments & Shipping" was tapped, and immediately, a spinning wheel replaced the chevron symbol. The background of the setting changed color from white to gray.
 [00:01:28.860] The background of the "Payments & Shipping" setting changed from gray to white, and the spinning wheel is still displaying instead of the chevron symbol. [TIMESTAMP: 00:01:28.860]
-[00:01:29.091] The spinning wheel was replaced by a standard navigation chevron. While this happened, the colored icon-tiles for "Media & Purchases" and "iPhone (subtext: This iPhone 16 Pro)" temporarily defaulted to placeholder wireframe icons and blank text fields while the menu finished loading. [TIMESTAMP: 00:01:29.091]
-[00:01:29.124] "Media & Purchases" and "iPhone (subtext: This iPhone 16 Pro)" tiles fully reloaded back to their standard colored icon-tiles. [TIMESTAMP: 00:01:29.124]
-[00:01:30.609] The "Enter the password for "cyberonica@icloud.com"". authentication prompt overlays the screen.
-The interface is visually organized into two principal areas: the status area and the interface body.
-o	Status Bar: Spanning the uppermost portion of the display from left to right:
-	Time: Displays the local time as 8:04. Positioned to its right is the silent mode icon.
-	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
-•	Interface Body:
-The borderless buttons with blue colored text "Cancel" and "Sign In", on the left and right sides of the screen at the top of the body.
-o	Authentication heading: Apple Account Password in large, bold, black letters.
-o	Authentication instruction: Enter the password for "cyberonica@icloud.com". in normal-sized black text.
-o	Text field: "Passcode" placeholder.
-o	Forgot Password: A blue colored text link below the password field. 
+[00:01:29.091] The spinning wheel was replaced by a standard navigation chevron. While this happened, the colored icon-tiles for "Media & Purchases" and "iPhone (subtext: This iPhone 16 Pro)" temporarily defaulted to placeholder wireframe icons and blank text fields while the menu finished loading. [Timestamp: 00:01:29.091]
+[00:01:29.124] "Media & Purchases" and "iPhone (subtext: This iPhone 16 Pro)" tiles fully reloaded back to their standard colored icon-tiles. [Timestamp: 00:01:29.124]
+[00:01:30.609] The "Enter the password for "cyberonica@icloud.com"" authentication prompt overlays the screen.
+The interface is visually organized into two principal areas: the status area and the interface body:
+Status Bar: Spanning the uppermost portion of the display from left to right:
+Time: Displays the local time as 8:04. Positioned to its right is the silent mode icon.
+Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+Interface Body:
+The borderless buttons with blue-colored text "Cancel" and "Sign In" are located on the left and right sides of the screen at the top of the body.
+Authentication heading: Apple Account Password in large, bold, black letters.
+Authentication instruction: Enter the password for "cyberonica@icloud.com" in normal-sized black text.
+Text field: "Passcode" placeholder.
+Forgot Password: A blue-colored text link below the password field.
 [00:01:33.744] Cancel was tapped.
-[00:01:33.876] The screen keyboard appeared in the lower side of the interface. The left part of the QuickType bar (or the predictive text and shortcut bar) shows the text "Password". [TIMESTAMP: 00:01:33.876] 
-[00:01:33.942] The keyboard persists as the prompt begins to slide down. [TIMESTAMP: 00:01:33.942]
-
+[00:01:33.876] The screen keyboard appeared in the lower side of the interface. The left part of the QuickType bar (or the predictive text and shortcut bar) shows the text "Password". [Timestamp: 00:01:33.876]
+[00:01:33.942] The keyboard persists as the prompt begins to slide down. [Timestamp: 00:01:33.942]
 [00:01:34.368] The Apple Account interface is displayed.
-[00:01:51.911] The interface was scrolled down. 
-[00:02:06.133] "Sign in with Apple" was tapped; although the background of the setting changed to gray, there is no spinning wheel. (TIMESTAMP 00:02:06.133, FRAME 3780)
+[00:01:51.911] The interface was scrolled down.
+[00:02:06.133] "Sign in with Apple" was tapped; although the background of the setting changed to gray, there is no spinning wheel. [Timestamp: 00:02:06.133, Frame: 3780]
 [00:02:06.165] A spinning wheel replaced the chevron symbol.
-[00:02:06.231] The background of the setting changed color from gray to white.  (TIMESTAMP 00:02:06.231, FRAME 3783)
-[00:02:06.858] The chevron symbol replaced the spinning wheel. [TIMESTAMP: 00:02:06.858]
-[00:02:07.254] "Sign in with Apple" background color changed to gray (TIMESTAMP 00:02:07.254, FRAME 3813)
-[00:02:07.263] AGAIN, the "Sign in with Apple" background of the setting changed to gray and the chevron symbol was replaced by a spinning wheel.  (TIMESTAMP 00:02:07.263, FRAME 3814)
-[00:02:07.418] AGAIN, the background of the setting changed color from gray to white; the spinning wheel still visible.  (TIMESTAMP 00:02:07.418, FRAME 3818)
-[00:02:07.420] "Sign in with Apple" background color changed to white  (TIMESTAMP 00:02:07.420, FRAME 3818)
-[00:02:07.451] The "Sign in with Apple" interface began to slide into view (TIMESTAMP 00:02:07.451, FRAME 3819)
+[00:02:06.231] The background of the setting changed color from gray to white. [Timestamp: 00:02:06.231, Frame: 3783]
+[00:02:06.858] The chevron symbol replaced the spinning wheel. [Timestamp: 00:02:06.858]
+[00:02:07.254] "Sign in with Apple" background color changed to gray [TIMESTAMP 00:02:07.254, FRAME 3813]
+[00:02:07.263] AGAIN, the "Sign in with Apple" background of the setting changed to gray and the chevron symbol was replaced by a spinning wheel. [Timestamp: 00:02:07.263, Frame: 3814]
+[00:02:07.418] AGAIN, the background of the setting changed color from gray to white; the spinning wheel was still visible. [Timestamp: 00:02:07.418, Frame: 3818]
+[00:02:07.451] The "Sign in with Apple" interface began to slide into view. [Timestamp: 00:02:07.451, Frame: 3819]
 [00:02:07.947] The "Sign in with Apple" interface.
-[00:02:07.954] The Sign in with Apple interface is displaying. 
-•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-o	Status Bar: Spanning the uppermost portion of the display from left to right:
-	Time: Displays the local time as 8:05. Positioned to its right is the silent mode icon.
-	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 15 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Sign in with Apple".
-•	Interface Body: Composed of the Introductory Module and status: 
-o	The introductory visual block is composed of the following elements:
-	Icon Graphic: A solid black rounded square containing the Apple brand logo.
-	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Sign in with Apple".
-	Descriptive Text: Sign in with Apple" and with normal sized letters the following text: Sign in with Apple is the fast, easy, and more private way to sign in to third-party apps and websites using the Apple Account that you already have."
-	Link: Learn More in blue colored letters 
-o	The status: "You do not have any Apple Account Logins." in small-sized, gray letters.
-[00:02:08.078] A duplicate of the "Sign in with Apple" interface began to slide into view. [TIMESTAMP: 00:02:08.078 FRAME: 3838]
-[00:02:08.573] The only difference of the duplicate "Sign in with Apple" interface that replaced the original one, is the Back-Navigation link, which instead of Back, has the text  "Sign in with Apple" [TIMESTAMP: 00:02:08.573 FRAME: 3853]
+[00:02:07.954] The Sign in with Apple interface is displayed.
+The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+Status Bar: Spanning the uppermost portion of the display from left to right:
+Time: Displays the local time as 8:05. Positioned to its right is the silent mode icon.
+Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 15 centered within the housing.
+Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Sign in with Apple".
+Interface Body: Composed of the Introductory Module and status:
+The introductory visual block is composed of the following elements:
+Icon Graphic: A solid black rounded square containing the Apple brand logo.
+Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Sign in with Apple".
+Descriptive Text: "Sign in with Apple" and with normal sized letters the following text: "Sign in with Apple is the fast, easy, and more private way to sign in to third-party apps and websites using the Apple Account that you already have."
+Link: Learn More in blue-colored letters.
+The status: "You do not have any Apple Account Logins." in small-sized, gray letters.
+[00:02:08.078] A duplicate of the "Sign in with Apple" interface began to slide into view. [Timestamp: 00:02:08.078, Frame: 3838]
+[00:02:08.573] The only difference of the duplicate "Sign in with Apple" interface that replaced the original one is the Back-Navigation link, which instead of Back, has the text "Sign in with Apple". [Timestamp: 00:02:08.573, Frame: 3853]
 [00:02:30.192] The screen registered a hardware input when the volume button was pressed, prompting the system volume HUD—rendered as a black, vertically oriented, thin elongated capsule—to appear dynamically along the right margin of the display.
-[00:02:30.391] I pressed the power button (which is evident by the black shape that appears on the right side of the screen's edge.
 [00:02:30.391] HIGHLIGHTS: In this screenshot, I captured what I think is evidence that the iPhone is hacked. I think the second instance of the "Sign in with Apple interface" was crafted by the hackers, and that the hijack of the first instance, was intended to steal whatever credentials I would have entered. The technical term for this type of attack is "UI Redressing or Overlay Attack". To fully appreciate the difference between these two interfaces, look at SCREENSHOTS listed below: 
 
 1) "Capture_2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4_00-02-07_954 - Sign in with Apple interface 1st instance with back button.png"
