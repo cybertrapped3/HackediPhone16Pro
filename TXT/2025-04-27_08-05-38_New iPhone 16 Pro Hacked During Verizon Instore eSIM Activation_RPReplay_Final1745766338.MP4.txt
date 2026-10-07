@@ -264,7 +264,7 @@ o	The status: "You do not have any Apple Account Logins." in small-sized, gray l
 
 Later, when I accessed this interface again, this anomaly no longer occurred. You can see my experience of this uneventful access to the "Sign in with Apple" interface through the screenrecording listed below: 
 
-1) "2025-04-27_08-33-13_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745767993.MP4"
+3) "2025-04-27_08-33-13_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745767993.MP4"
 
 REVIEW AND RELATE: "Capture_2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4_00-00-05_651 - Settings App Cellular Status as Airplane Mode.png"
 
