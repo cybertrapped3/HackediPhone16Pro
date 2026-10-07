@@ -1,0 +1,28 @@
+The Sign-In & Security Interface.
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 8:04. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Sign-In & Security".
+•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the Sign-In & Security management settings:
+Under the EMAIL & PHONE NUMBERS module:
+cyberonica@icloud.com (subtext "Primary email"): Displayed as an interactive menu item.
++1 (669) 326-4200 (subtext "Unavailable for sharing"): Displayed as an interactive menu item.
+Add Email or Phone Number (blue colored letters imply this is a link)
+Explicatory text under this module: These email addresses and phone numbers can be used to sign in, verify your identity, and help recover your account. They can also be used to reach you with iMessage, FaceTime, Game Center, and more.
+Under the SECURITY module:
+Change Password (blue colored letters imply this is a link)
+Two-Factor Authentication: Displayed as an interactive menu item.
+Explicatory text under this module: Your trusted devices and phone numbers are used to verify your identity when signing in.
+Under the RECOVERY METHODS module:
+Recovery Contacts (displays status "Set Up"): Displayed as an interactive menu item.
+Recovery Key (displays status "Set Up"): Displayed as an interactive menu item.
+Explicatory text under this module: Regain access to your account and data if you forget your password or device passcode.
+Under the fourth module:
+Legacy Contact (displays status "Set Up"): Displayed as an interactive menu item.
+Explicatory text under this module: A legacy contact is someone you trust to have access to the data in your account after your death. 
+Under the fifth module:
+Legacy Contact (displays status "Off")
