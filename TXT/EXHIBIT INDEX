@@ -151,7 +151,7 @@ o	Global Search Bar: above the screen keyboard, a rounded gray inset container w
 o	The screen keyboard pinned to the bottom side of the screen
 [00:00:17.631] The Notifications center was swiped down into view
 [00:00:17.928] The Notifications Center Interface. 
-•	The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, the footer area:
+•	The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, and the footer area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	The silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
@@ -431,7 +431,7 @@ o	The subsequent controls and settings appeared as follows:
 
 	Apps: Displayed as an interactive menu item.
 [00:00:42.534] I tapped Apps
-[00:00:43.317] The list of App slid in to view
+[00:00:43.317] The list of Apps slid in to view
 [00:00:45.509] The "Apps" settings interface.
 •	The interface is visually organized into five areas: the status area, the navigation/header area, the search bar, the interface body containing the list of apps sorted in alphabetical order, a persistent alphabetic index bar along the right margin, and the dock/navigation context:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
