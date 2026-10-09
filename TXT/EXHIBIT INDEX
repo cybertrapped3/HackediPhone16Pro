@@ -611,7 +611,7 @@ At the top of the page, in the status bar, the signal strength icon was replaced
 [00:05:16.972] The Control Center interface was swiped down into view. 
 [00:05:17.599] The interface had changed in two ways from the time of last description: 
 1.	The signal strength icon and the network carrier and type information were replaced by the non-height bars signal strength the "SOS only" type of network.
-Inside the Connectivity Module, Cellular Data, with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the signal strength icon shape and its surrounding containment circle.
+2.	Inside the Connectivity Module, Cellular Data, with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the signal strength icon shape and its surrounding containment circle.
 PAGE BREAK
  
 EXHIBIT 2025-04-28_12-45-35
