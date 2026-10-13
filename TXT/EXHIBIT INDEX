@@ -1,12 +1,23 @@
 EXHIBIT INDEX
  
+TABLE OF CONTENT
 EXHIBIT INDEX	1
+TABLE OF CONTENT	2
 EXHIBIT C	3
-EXHIBIT 2025-05-06_05-40-05	4
-EXHIBIT 2025-05-11_13-11-43	17
-TEMPLATE	21
-EXHIBIT SCREENRECORDING	21
-EXHIBIT SCREENSHOT	22
+EXHIBIT 2025-04-27_08-05-38	4
+EXHIBIT 2025-04-27_09-09-23	17
+EXHIBIT 2025-04-28_12-45-35	39
+EXHIBIT 2025-04-29_09-25-18_1	50
+EXHIBIT 2025-04-29_09-25-18_2	62
+EXHIBIT 2025-04-29_09-25-18_3	63
+EXHIBIT 2025-04-29_11-26-03	64
+EXHIBIT 2025-05-05_21-07-02	75
+EXHIBIT 2025-05-05_21-39-46	82
+EXHIBIT 2025-05-06_05-40-05	89
+EXHIBIT 2025-05-11_13-11-43	102
+TEMPLATE	106
+EXHIBIT SCREENRECORDING	106
+EXHIBIT SCREENSHOT	107
 
  
 EXHIBIT C
@@ -47,6 +58,7 @@ REVIEW AND RELATE: "Capture_2025-04-27_08-05-38_New iPhone 16 Pro Hacked During 
 5) The screen recording ended before the power-off and emergency call interface was displayed. For an example of when this was captured as it actually happens in the phone (which also implies that this can be captured by the screen recorder, view screen recording with filename: "2025-04-29_09-25-18_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-29-2025 09-25-18_1.MP4". For the screen recording, the description of the scene begins at timestamp 00:01:16.531.
 
 DESCRIPTION
+[00:00:00.000] NOTICE: Control Center is not the opening scene of this screen recording.
 [00:00:00.000] The Cellular settings Interface.
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -2504,4 +2516,5 @@ This is more text
 And some more text
 PAGE BREAK
  
+
 
