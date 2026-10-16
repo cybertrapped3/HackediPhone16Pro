@@ -129,12 +129,12 @@ o	The Second module:
 [00:00:20.705] The Cellular Settings interface is sliding into view.
 [00:00:21.233] 
 [00:00:21.393] The Cellular settings Interface
-•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+•	The interface is visually organized into three principal areas: the status area, the navigation area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 3:56. Positioned to its right is the silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
-o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+o	Navigation Area: Establishing the user's hierarchical location within the iOS environment:
 	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
 o	Interface Body:
 	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
@@ -155,7 +155,7 @@ o	Carrier Services: Displayed as an interactive menu item.
 o	SIM PIN: Displayed as an interactive menu item.
 o	Delete eSIM: red colored letters
 [00:00:28.187] "Carrier Services" was tapped.
-[00:00:28.319] The "Verizon Services" interface is sliding into view. 
+[00:00:28.319] The "Verizon Services" interface is sliding into view.
 [00:00:29.078] The "Verizon Services" interface  is displaying.
 
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
@@ -196,7 +196,7 @@ o	Wi-Fi Assist: toggled Off (gray).
 o	Explicative text under this module: Automatically use cellular data when Wi-Fi connectivity is poor.
 
 (IMPORTANT NOTE: At this time, the settings iCloud Drive and iCloud Backup were missing from this interface. These settings appeared after I had created an Apple Account)
-[00:01:10.796] The Cellular settings interface continued: 
+[00:01:14.872] The Cellular settings interface continued: 
 
 •	The "CALL TIME" module:
 o	Current Period: Displays the status "0 Minutes"
@@ -208,86 +208,107 @@ o	Reset Statistics (the blue colored letters imply this is a link).
 o	Explicative text under this module: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
 
 At the bottom of the interface, in small-sized gray letters the text: Last Reset: Apr 26, 2025 at 6:02 PM
-[00:01:18.113] I navigated back to the Settings app
-[00:01:25.930] I tapped the Cellular setting again
-[00:01:46.816] I navigated back to the Settings app main interface
-[00:01:49.596] The Settings app interface continued:
-
-General >
-Accessibility >
-Action Button >
-Apple Intelligence & Siri >
-Camera >
-Control Center >
-Display & Brightness >
-Home Screen & App Library >
-Search >
-StandBy >
-Wallpaper >
-
-Notifications >
-Sound & Haptics >
-Focus >
-Screen Time >
-
-Face ID & Passcode >
-Emergency SOS >
-Privacy & Security >
-
-Game Center >
-iCloud >
+[00:01:16.429] The interface was scrolled back to the top. 
+[00:01:17.353] The go back link (i.e., Settings >) was tapped.
+[00:01:17.584] The Settings app's main interface is sliding into view.
+[00:01:18.277] The Settings app interface is displayed. 
+[00:01:25.935] The Cellular setting was tapped again. 
+[00:01:26.034] The Cellular settings interface sliding again into view.
+[00:01:33.289] The interface was scrolled down. 
+[00:01:43.369] The interface was scrolled all the way to the bottom.
+[00:01:45.367] The interface was scrolled back up. 
+[00:01:45.872] The go back link (i.e., Settings >) was tapped.
+[00:01:46.037] The Settings app main interface is sliding into view.
+[00:01:46.598] The Settings app interface is displayed.
+[00:01:46.598] The Settings interface appeared without change as compared to the description rendered at timestamp 00:00:09.714.
+[00:01:49.596] The Settings app interface was scrolled down, and the following settings came into view:
+o	The Second module continued:
+	Apple Intelligence & Siri: Displayed as an interactive menu item.
+	Camera: Displayed as an interactive menu item.
+	Control Center: Displayed as an interactive menu item.
+	Display & Brightness: Displayed as an interactive menu item.
+	Home Screen & App Library: Displayed as an interactive menu item.
+	Search: Displayed as an interactive menu item.
+	StandBy: Displayed as an interactive menu item.
+	Wallpaper: Displayed as an interactive menu item.
+o	The Third module:
+	Notifications: Displayed as an interactive menu item.
+	Sounds & Haptics: Displayed as an interactive menu item.
+	Focus: Displayed as an interactive menu item.
+	Screen Time: Displayed as an interactive menu item.
+[00:01:52.718] The interface was further scrolled down, and the following settings came into view:
+o	The Fourth module:
+	Face ID & Passcode: Displayed as an interactive menu item.
+	Emergency SOS: Displayed as an interactive menu item.
+	Privacy & Security: Displayed as an interactive menu item.
+o	The Fifth module:
+	Game Center: Displayed as an interactive menu item.
+	iCloud: Displayed as an interactive menu item.
 [00:01:52.788] I tapped Privacy & Security
-[00:01:53.388] The Privacy & Security Interface. 
+[00:01:52.793] The "Privacy & Security" setting was tapped, and the background of the setting changed to gray.
+[00:01:52.859] The "Privacy & Security" is sliding into view.
+[00:01:53.388] The "Privacy & Security" Interface.
+•	The interface is visually organized into three principal areas: the status area, the navigation area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 3:57. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+o	Navigation Area: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid blue rounded square containing a 
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
+•	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
+	Visible Controls & Status Indicators: Positioned immediately below the Introductory Module:
+•	The First module: 
+o	Location Services: Displays the status "Off".
+o	Tracking: Displays the status "0".
+•	The Second module: 
+o	Calendars (subtext "None"): Displayed as an interactive menu item.
+o	Contacts (subtext "None"): Displayed as an interactive menu item.
+o	Files & Folders (subtext "None"): Displayed as an interactive menu item.
+o	Focus (subtext "None"): Displayed as an interactive menu item.
+o	Health (subtext "None"): Displayed as an interactive menu item.
+o	HomeKit (subtext "None"): Displayed as an interactive menu item. 
+[00:01:56.177] The interface was scrolled all the way to the bottom, and during the scroll the following Settings & Controls were displayed: 
+•	The Second module (continued): 
+o	Media & Apple Music (subtext "None"): Displayed as an interactive menu item.
+o	Passkey Access for Web Browsers (subtext "None"): Displayed as an interactive menu item.
+o	Photos (subtext "None"): Displayed as an interactive menu item.
+o	Reminders (subtext "None"): Displayed as an interactive menu item.
+o	Wallet (subtext "None"): Displayed as an interactive menu item.
+•	The Third module: 
+o	Accessories (displays status "0"): Displayed as an interactive menu item.
+o	Bluetooth (displays status "0"): Displayed as an interactive menu item.
+o	Camera (displays status "0"): Displayed as an interactive menu item.
+o	Critical Messages (displays status "0"): Displayed as an interactive menu item.
+o	Local Network (displays status "0"): Displayed as an interactive menu item.
+o	Microphone (displays status "0"): Displayed as an interactive menu item.
+o	Motion & Fitness (displays status "0"): Displayed as an interactive menu item.
+o	Nearby Interactions (displays status "0"): Displayed as an interactive menu item.
+o	Research Sensor & Usage Data (displays status "0"): Displayed as an interactive menu item.
+o	Speech Recognition (displays status "0"): Displayed as an interactive menu item.
+•	The Fourth module: 
+o	Journaling Suggestions: Displayed as an interactive menu item.
+•	The Fifth module: 
+o	Safety Check: Displayed as an interactive menu item.
+o	Explicative text under this module: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
+•	The Fifth module: 
+o	Sensitive Content Warning (displays status "Off"): Displayed as an interactive menu item.
+o	Explicative text under this module: Detect nude photos and video before they are viewed on your iPhone, and receive guidance to help make a safe choice. Apple does not have access to the photos or videos. Learn more...
+•	The Sixth module: 
+o	Analytics & Improvement: Displayed as an interactive menu item.
+o	Apple Advertising: Displayed as an interactive menu item.
+•	The "TRANSPARENCY LOGS" module: 
+o	App Privacy Report (displays status "On"): Displayed as an interactive menu item.
+o	Apple Intelligence Report (displays status "On"): Displayed as an interactive menu item.
+•	The "SECURITY" module: 
+o	Stolen Device Protection (displays status "Off"): Displayed as an interactive menu item.
+o	Lockdown Mode (displays status "On"): Displayed as an interactive menu item.
 
-Text under the interface's heading: Control which apps can access your data, location, camera, and microphone, and manage safety protections. Learn more...
-
-In this interface, settings and controls appeared as follows: 
-
-Location Services: Off >
-Tracking: 0 >
-
-Calendar (None) >
-Contacts (None) >
-Files & Folders (None) >
-Focus (None) >
-Health (None) >
-HomeKit (None) >
-Media & Apple Music (None) >
-Passkeys Access for Web Browsers (None) >
-Photos (None) >
-Reminders (None) >
-Wallet (None) >
-
-Accessories 0 >
-Bluetooth 0 >
-Camera 0 >
-Critical Messages 0 >
-Local Network 0 >
-Microphone 0 >
-Motion & Fitness 0 >
-Nearby Interactions 0 >
-Research Sensor & Usage Data 0 >
-Speech Recognition 0 >
-
-Journaling Suggestions >
-
-Safety Check >
-Text under this setting: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
-
-Sensitive Content Warning: Off >
-Text under this setting: Detect nude photos and videos before they are viewed on your iPhone, and receive guidance to help make a safe choice. Apple does not have access to the photos or videos. Learn more...  (blue colored letters imply this is a link)
-
-Analytics & Improvements >
-Apple Advertising >
-
-Under the "TRANSPARENCY LOGS" module: 
-App Privacy Report: On >
-Apple Intelligence Report: On >
-
-Under the SECURITY module: 
-Stolen Device Protection: Off >
-Lockdown Mode: On >
-[00:01:58.481] I tapped the Lockdown Mode
+[00:01:58.460] CONTINUE HERE
+The "Lockdown Mode" setting was tapped.
 [00:01:59.360] The Lockdown Mode interface. 
 
 Text under the interface's heading: Turn on this extreme protection if you believe you're being targeted in a cyberattack. App, website, and feature functionality will be limited and some experiences may be completely unavailable. 
