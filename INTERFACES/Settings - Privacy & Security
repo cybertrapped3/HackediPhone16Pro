@@ -1,32 +1,33 @@
-The "Privacy & Security" Interface
-
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 21:39.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
-•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
-•	Interface Body (Lower Tier):
+The "Privacy & Security" Interface.
+•	The interface is visually organized into three principal areas: the status area, the navigation area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 3:57. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+o	Navigation Area: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid blue rounded square containing a 
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
+•	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
+	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+•	The First module: 
+o	Cellular Data:  Toggled On (green).
+o	Cellular Data Options: Displays the status "Roaming Off."
 o	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
 	Icon Graphic: A solid blue rounded square containing a white palm hand symbol.
 	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Privacy & Security".
 	Descriptive Text: Sub-text detailing the function of the interface: "Control which apps can access your data, location, camera, and microphone, and manage safety protections. Learn more...".
-o	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+o	Visible Controls & Status Indicators: Positioned immediately below the Introductory Module:
 	Location Services: Displays the status "Off".
 	Tracking: Displays the status "0".
-	Calendar: Displayed as an interactive menu item.
-•	Status under this setting: "None".
-	Contacts: Displayed as an interactive menu item.
-•	Status under this setting: "None".
-	Files & Folders: Displayed as an interactive menu item.
-•	Status under this setting: "None".
-	Focus: Displayed as an interactive menu item.
-•	Status under this setting: "None".
-	Health: Displayed as an interactive menu item.
-•	Status under this setting: "None".
-	HomeKit: Displayed as an interactive menu item.
-•	Status under this setting: "None".
+	Calendars (subtext "None"): Displayed as an interactive menu item.
+	Contacts (subtext "None"): Displayed as an interactive menu item.
+	Files & Folders (subtext "None"): Displayed as an interactive menu item.
+	Focus (subtext "None"): Displayed as an interactive menu item.
+	Health (subtext "None"): Displayed as an interactive menu item.
+	HomeKit (subtext "None"): Displayed as an interactive menu item.
 	Journaling Suggestions: Displayed as an interactive menu item.
 	Safety Check: Displayed as an interactive menu item.
 •	Text under this setting: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
