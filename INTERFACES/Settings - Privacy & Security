@@ -11,33 +11,47 @@ o	Interface Body:
 •	Icon Graphic: A solid blue rounded square containing a 
 •	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
 •	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
-	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+	Visible Controls & Status Indicators: Positioned immediately below the Introductory Module:
 •	The First module: 
-o	Cellular Data:  Toggled On (green).
-o	Cellular Data Options: Displays the status "Roaming Off."
-o	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
-	Icon Graphic: A solid blue rounded square containing a white palm hand symbol.
-	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Privacy & Security".
-	Descriptive Text: Sub-text detailing the function of the interface: "Control which apps can access your data, location, camera, and microphone, and manage safety protections. Learn more...".
-o	Visible Controls & Status Indicators: Positioned immediately below the Introductory Module:
-	Location Services: Displays the status "Off".
-	Tracking: Displays the status "0".
-	Calendars (subtext "None"): Displayed as an interactive menu item.
-	Contacts (subtext "None"): Displayed as an interactive menu item.
-	Files & Folders (subtext "None"): Displayed as an interactive menu item.
-	Focus (subtext "None"): Displayed as an interactive menu item.
-	Health (subtext "None"): Displayed as an interactive menu item.
-	HomeKit (subtext "None"): Displayed as an interactive menu item.
-	Journaling Suggestions: Displayed as an interactive menu item.
-	Safety Check: Displayed as an interactive menu item.
-•	Text under this setting: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
-	Sensitive Content Warning: "Off".
-•	Text under this setting: Detect nude photos and video before they are viewed on your iPhone, and receive guidance to help make a safe choice. Apple does not have access to the photos or videos. Learn more...
-	Analytics & Improvements: Displayed as an interactive menu item.
-	Apple Advertising: Displayed as an interactive menu item.
-	"TRANSPARENCY LOGS" Module: Containing the following controls and status indicators:
-•	App Privacy Report: Displays the status "On".
-•	Apple Intelligence Report: Displays the status "On".
-	"SECURITY" Module: Containing the following controls and status indicators:
-•	Stolen Device Protection: Displays the status "Off".
-•	Lockdown Mode: Displays the status "On".
+o	Location Services: Displays the status "Off".
+o	Tracking: Displays the status "0".
+•	The Second module: 
+o	Calendars (subtext "None"): Displayed as an interactive menu item.
+o	Contacts (subtext "None"): Displayed as an interactive menu item.
+o	Files & Folders (subtext "None"): Displayed as an interactive menu item.
+o	Focus (subtext "None"): Displayed as an interactive menu item.
+o	Health (subtext "None"): Displayed as an interactive menu item.
+o	HomeKit (subtext "None"): Displayed as an interactive menu item.The Second module (continued): 
+o	Media & Apple Music (subtext "None"): Displayed as an interactive menu item.
+o	Passkey Access for Web Browsers (subtext "None"): Displayed as an interactive menu item.
+o	Photos (subtext "None"): Displayed as an interactive menu item.
+o	Reminders (subtext "None"): Displayed as an interactive menu item.
+o	Wallet (subtext "None"): Displayed as an interactive menu item.
+•	The Third module: 
+o	Accessories (displays status "0"): Displayed as an interactive menu item.
+o	Bluetooth (displays status "0"): Displayed as an interactive menu item.
+o	Camera (displays status "0"): Displayed as an interactive menu item.
+o	Critical Messages (displays status "0"): Displayed as an interactive menu item.
+o	Local Network (displays status "0"): Displayed as an interactive menu item.
+o	Microphone (displays status "0"): Displayed as an interactive menu item.
+o	Motion & Fitness (displays status "0"): Displayed as an interactive menu item.
+o	Nearby Interactions (displays status "0"): Displayed as an interactive menu item.
+o	Research Sensor & Usage Data (displays status "0"): Displayed as an interactive menu item.
+o	Speech Recognition (displays status "0"): Displayed as an interactive menu item.
+•	The Fourth module: 
+o	Journaling Suggestions: Displayed as an interactive menu item.
+•	The Fifth module: 
+o	Safety Check: Displayed as an interactive menu item.
+o	Explicative text under this module: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
+•	The Fifth module: 
+o	Sensitive Content Warning (displays status "Off"): Displayed as an interactive menu item.
+o	Explicative text under this module: Detect nude photos and video before they are viewed on your iPhone, and receive guidance to help make a safe choice. Apple does not have access to the photos or videos. Learn more...
+•	The Sixth module: 
+o	Analytics & Improvement: Displayed as an interactive menu item.
+o	Apple Advertising: Displayed as an interactive menu item.
+•	The "TRANSPARENCY LOGS" module: 
+o	App Privacy Report (displays status "On"): Displayed as an interactive menu item.
+o	Apple Intelligence Report (displays status "On"): Displayed as an interactive menu item.
+•	The "SECURITY" module: 
+o	Stolen Device Protection (displays status "Off"): Displayed as an interactive menu item.
+o	Lockdown Mode (displays status "On"): Displayed as an interactive menu item.
