@@ -128,7 +128,7 @@ o	The Second module:
 [00:00:20.624] The Cellular setting was tapped.
 [00:00:20.705] The Cellular Settings interface is sliding into view.
 [00:00:21.233] 
-[00:00:21.393] The Cellular settings Interface
+[00:00:21.393] The Cellular settings Interface.
 •	The interface is visually organized into three principal areas: the status area, the navigation area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 3:56. Positioned to its right is the silent mode icon.
@@ -179,7 +179,8 @@ o	View My Data #3282
 o	Link to user's account with the carrier: My Verizon (blue colored text)
 [00:00:54.677] The go back link (i.e., Cellular >) was tapped.
 [00:00:54.941] The "Cellular" interface is sliding into view.
-[00:01:04.673] The interface was scrolled, and the following Control and Settings came into view:
+[00:00:55.435] The Cellular settings interface appeared without change as compared to the description rendered at timestamp 00:00:21.393.
+[00:01:04.673] The interface was scrolled, and the additional Control and Settings came into view:
 •	The Second module:
 o	Add eSIM (blue colored letters imply this is a link)
 •	The "CELLULAR DATA" module:
@@ -196,8 +197,7 @@ o	Wi-Fi Assist: toggled Off (gray).
 o	Explicative text under this module: Automatically use cellular data when Wi-Fi connectivity is poor.
 
 (IMPORTANT NOTE: At this time, the settings iCloud Drive and iCloud Backup were missing from this interface. These settings appeared after I had created an Apple Account)
-[00:01:14.872] The Cellular settings interface continued: 
-
+[00:01:13.552] The Cellular settings interface was scrolled all the way down, and these additional Settings and Controls displayed: 
 •	The "CALL TIME" module:
 o	Current Period: Displays the status "0 Minutes"
 o	Lifetime: Displays the status "0 Minutes"
