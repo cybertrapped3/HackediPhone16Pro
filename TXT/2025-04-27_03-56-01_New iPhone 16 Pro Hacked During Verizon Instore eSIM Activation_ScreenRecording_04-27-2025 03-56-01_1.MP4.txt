@@ -208,15 +208,15 @@ o	Reset Statistics (the blue colored letters imply this is a link).
 o	Explicative text under this module: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
 
 At the bottom of the interface, in small-sized gray letters the text: Last Reset: Apr 26, 2025 at 6:02 PM
-[00:01:16.429] The interface was scrolled back to the top. 
+[00:01:16.429] The interface was scrolled back to the top.
 [00:01:17.353] The go back link (i.e., Settings >) was tapped.
 [00:01:17.584] The Settings app's main interface is sliding into view.
-[00:01:18.277] The Settings app interface is displayed. 
-[00:01:25.935] The Cellular setting was tapped again. 
+[00:01:18.277] The Settings app interface is displayed.
+[00:01:25.935] The Cellular setting was tapped again.
 [00:01:26.034] The Cellular settings interface sliding again into view.
-[00:01:33.289] The interface was scrolled down. 
+[00:01:33.289] The interface was scrolled down.
 [00:01:43.369] The interface was scrolled all the way to the bottom.
-[00:01:45.367] The interface was scrolled back up. 
+[00:01:45.367] The interface was scrolled back up.
 [00:01:45.872] The go back link (i.e., Settings >) was tapped.
 [00:01:46.037] The Settings app main interface is sliding into view.
 [00:01:46.598] The Settings app interface is displayed.
@@ -270,7 +270,7 @@ o	Contacts (subtext "None"): Displayed as an interactive menu item.
 o	Files & Folders (subtext "None"): Displayed as an interactive menu item.
 o	Focus (subtext "None"): Displayed as an interactive menu item.
 o	Health (subtext "None"): Displayed as an interactive menu item.
-o	HomeKit (subtext "None"): Displayed as an interactive menu item. 
+o	HomeKit (subtext "None"): Displayed as an interactive menu item.
 [00:01:56.177] The interface was scrolled all the way to the bottom, and during the scroll the following Settings & Controls were displayed: 
 •	The Second module (continued): 
 o	Media & Apple Music (subtext "None"): Displayed as an interactive menu item.
@@ -306,50 +306,49 @@ o	Apple Intelligence Report (displays status "On"): Displayed as an interactive 
 •	The "SECURITY" module: 
 o	Stolen Device Protection (displays status "Off"): Displayed as an interactive menu item.
 o	Lockdown Mode (displays status "On"): Displayed as an interactive menu item.
-
-[00:01:58.460] CONTINUE HERE
-The "Lockdown Mode" setting was tapped.
-[00:01:59.360] The Lockdown Mode interface. 
-
-Text under the interface's heading: Turn on this extreme protection if you believe you're being targeted in a cyberattack. App, website, and feature functionality will be limited and some experiences may be completely unavailable. 
-
-Learn more...  (blue colored letters imply this is a link)
-
-Turn Off Lockdown Mode  (red colored letters imply this is a link)
-
-The following explanations of the changes that take place when the phone is set to this mode were listed as follows:
-
-Messages
-Most message attachments are blocked, and some features are unavailable.
-
-FaceTime
-Incoming FaceTime calls from people you have not previously called are clocked. Features such as SharePlay and Live Photos are unavailable.
-
-Web Browsing
-Some web technologies and browsing features are blocked.
-
-Photos
-Location will be excluded by default when sharing photos, and Shared Albums will be removed from Photos.
-
-Device Connections
-Wired connections with another device or accessory while your iPhone is locked are blocked.
-
-Wireless Connectivity
-Automatically joining non-security Wi-Fi networks and 2G Cellular Connectivity are blocked. 
-
-Apple Services
-Incoming invitations for Apple Services from People you have not previously invited are blocked.
-
-Profiles
-Configuration profiles, such as profiles for school or work, cannot be installed.
-
-Configured Web Browsing >
-
-2G Cellular Connectivity toggled Off
-Text under this setting: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
-[00:02:23.394] I navigated Back to the "Privacy & Security" interface
+[00:01:58.460] The "Lockdown Mode" setting was tapped.
+[00:01:58.492] The "Lockdown Mode" interface began to slide into view.
+[00:01:59.360] The "Lockdown Mode" Interface.
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 3:58. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 48 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Lockdown Mode".
+•	Interface Body:
+o	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+	Icon Graphic: A solid blue rounded square containing a white palm hand symbol.
+	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in medium-sized, black, bold letters: "Lockdown Mode".
+	Descriptive Text: Sub-text detailing the function of the interface: "Turn on this extreme protection if you believe you're being targeted in a cyberattack. App, website, and feature functionality will be limited and some experiences may be completely unavailable."
+	Learn more...: Displayed in blue-colored text suggesting a hyperlink.
+	Turn Off Lockdown Mode: Visually separated within the module by a dividing line, displayed in red-colored letters as an interactive control.
+o	Protection Explanations Module: A listing detailing the functional changes that take place when the device is set to this mode:
+	Messages: Most message attachments are blocked, and some features are unavailable.
+	FaceTime: Incoming FaceTime calls from people you have not previously called are blocked. Features such as SharePlay and Live Photos are unavailable.
+	Web Browsing: Some web technologies and browsing features are blocked.
+	Photos: Location will be excluded by default when sharing photos, and Shared Albums will be removed from Photos.
+	Device Connections: Wired connections with another device or accessory while your iPhone is locked are blocked.
+	Wireless Connectivity: Automatically joining non-security Wi-Fi networks and 2G Cellular Connectivity are blocked.  
+[00:02:12.794] The interface was scrolled down, these additional explanations came into view:
+	Apple Services: Incoming invitations for Apple Services from people you have not previously invited are blocked.  
+	Profiles: Configuration profiles, such as profiles for school or work, cannot be installed.  
+o	Additional Controls:
+	Configured Web Browsing: Displayed as an active menu item.
+	2G Cellular Connectivity: Toggled Off (gray).
+•	Explanatory text under this module: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
+[00:02:22.592] The interface was scrolled back to the top.
+[00:02:23.215] The go back link (i.e., Back >) was tapped.
+[00:02:23.394] The "Privacy & Security" interface is displayed.
+[00:02:38.268] The "Privacy & Security" interface was scrolled all the way to the top, and it appeared without change as compared to the description rendered at timestamp 00:01:53.388.
+[00:02:41.770] The go back link (i.e., Settings >) was tapped.
 [00:02:41.867] I navigated back to the Settings app main interface
-[00:02:48.635] Again, I tapped the Cellular setting, and scrolled down the interface
+[00:02:41.935] The Settings app interface started to slide into view.
+[00:02:42.364] The Settings interface is displayed.
+[00:02:46.294] The Settings interface was scrolled all the way to the top.
+[00:02:48.635] CONTINUE HERE
+The Cellular setting was tapped.
 [00:02:53.591] Again, I tapped the "Carrier Services" setting
 [00:02:55.897] I tapped the "My Verizon" blue lettered link
 [00:02:56.096] A new window opened up. Each window displayed its own status bar. Screenshot: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-02-56_096 - Safari triggered opened - two status bars"
