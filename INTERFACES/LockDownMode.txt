@@ -1,16 +1,16 @@
-The "Lockdown Mode" Interface
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar (Top Tier): Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 21:39.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is completely filled, displaying the numeric charge level 100 centered within the housing.
-•	Navigation & Header Bar (Middle Tier): Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Lockdown Mode".
-•	Interface Body (Lower Tier):
+The "Lockdown Mode" Interface.
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 3:58. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 48 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Lockdown Mode".
+•	Interface Body:
 o	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
 	Icon Graphic: A solid blue rounded square containing a white palm hand symbol.
-	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Lockdown Mode".
+	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in medium-sized, black, bold letters: "Lockdown Mode".
 	Descriptive Text: Sub-text detailing the function of the interface: "Turn on this extreme protection if you believe you're being targeted in a cyberattack. App, website, and feature functionality will be limited and some experiences may be completely unavailable."
 	Learn more...: Displayed in blue-colored text suggesting a hyperlink.
 	Turn Off Lockdown Mode: Visually separated within the module by a dividing line, displayed in red-colored letters as an interactive control.
