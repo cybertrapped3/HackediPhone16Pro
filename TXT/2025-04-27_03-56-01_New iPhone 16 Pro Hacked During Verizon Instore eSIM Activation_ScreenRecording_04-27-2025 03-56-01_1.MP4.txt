@@ -330,7 +330,7 @@ o	Protection Explanations Module: A listing detailing the functional changes tha
 	Web Browsing: Some web technologies and browsing features are blocked.
 	Photos: Location will be excluded by default when sharing photos, and Shared Albums will be removed from Photos.
 	Device Connections: Wired connections with another device or accessory while your iPhone is locked are blocked.
-	Wireless Connectivity: Automatically joining non-security Wi-Fi networks and 2G Cellular Connectivity are blocked.  
+	Wireless Connectivity: Automatically joining non-security Wi-Fi networks and 2G Cellular Connectivity are blocked.
 [00:02:12.794] The interface was scrolled down, these additional explanations came into view:
 	Apple Services: Incoming invitations for Apple Services from people you have not previously invited are blocked.  
 	Profiles: Configuration profiles, such as profiles for school or work, cannot be installed.  
@@ -347,25 +347,99 @@ o	Additional Controls:
 [00:02:41.935] The Settings app interface started to slide into view.
 [00:02:42.364] The Settings interface is displayed.
 [00:02:46.294] The Settings interface was scrolled all the way to the top.
-[00:02:48.635] CONTINUE HERE
-The Cellular setting was tapped.
-[00:02:53.591] Again, I tapped the "Carrier Services" setting
-[00:02:55.897] I tapped the "My Verizon" blue lettered link
-[00:02:56.096] A new window opened up. Each window displayed its own status bar. Screenshot: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-02-56_096 - Safari triggered opened - two status bars"
-[00:02:56.229] From left to right, the status bar showed the time 3:58, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon shows two black bars and the other two gray. Farthest  to the right, the last icon, the battery charge level, with the number 48 inside of it. 
+[00:02:48.635] The Cellular setting was tapped.
+[00:02:48.700] The Cellular interface began to slide into view.
+[00:02:53.591] The "Carrier Services" setting was tapped.
+[00:02:53.653] The "Verizon Services" interface began to slide into view.
+[00:02:54.280] The information appeared unchanged according to the description rendered at timestamp 00:00:29.078.
+[00:02:55.876] "My Verizon" link was tapped, and the background of the setting changed from white to gray.
+[00:02:56.107] A new window opened up. Each window displayed its own status bar. https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-02-56_107%20-%20New%20window%20opened%20after%20tapping%20of%20My%20Verizon%20link.png
+[00:02:56.754] The domain in the address bar changed from vzw.com to verizon.com
+[00:02:56.800] The Safari App's Start Page Interface.
+•	The interface is visually organized into three principal areas: the status area, the viewport area, and the address bar and controls area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 3:58. Positioned to its right is the silent mode icon. Right below the time, in very small-sized bold black letters the borderless button Settings with a left pointing solid triangle.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 48 centered within the housing.
+o	Viewport area: The principal content of the browser, divided into three sections, Favorites, Privacy Report, and the Edit button
+	The Favorites section is composed of two elements, the heading of the section and the tiles of the favorites:
+•	Section Heading: Aligned to the left side of the screen, the silhouette icon followed the mid-sized bold black text "Favorties"
+•	Favorites tiles: Four rounded squares with a gray background span the screen horizontally. Each square has a letter and a subtitle with the brand of the website to which it links:
+o	First favorite:
+	Letter: A
+	Subtitle: Apple
+o	Second favorite:
+	Letter: B
+	Subtitle: Bing
+o	Third favorite:
+	Letter: G
+	Subtitle: Google
+o	Fifth favorite:
+	Letter: Y
+	Subtitle: Yahoo
+	The Privacy report section: Below the Favorites section, composed of a heading and the report:
+•	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Privacy Report"
+•	The Report: A white rounded rectangle spanning the width of the interface, with the normal-sized black text: In the last seven days, Safari has prevented 0 trackers from profiling you.
+	The Edit button: below the Privacy Report Section, a small white pill button with the black text Edit in the middle of the interface. 
+o	The address bar and controls area: at the bottom of the interface, compose of a search bar. Below the search bar, the browser controls
+	 The search bar
+	 The Safari browser controls, five icons spanning the width of the interface: 
+•	The back icon:
+o	Color: gray, indicating a disabled state
+o	Icon: Left pointing chevron to go back to previous page
+•	The forward icon:
+o	Color: gray, indicating a disabled state
+o	Icon: Right pointing chevron to go back to previous page
+•	The Share icon:
+o	Color: gray, indicating a disabled state
+o	Icon: a rounded square with an upward pointing arrow on the top side
+•	The bookmark/favorites icon:
+	Color: blue, indicating it is operable
+	Icon: An open book
+•	The tabs icon:
+	Color: blue, indicating it is operable
+	Icon: Two rounded squares, one superimposed on the other
 
-The word Settings with a left pointing arrow appeared under the time.
-[00:02:56.392] In the newly opened window, the text "Privacy Report" began to fade into view. Underneath it, the text "In the last seven days, Safari has prevented 0 trackers from profiling you."
-[00:02:56.656] The Favorites faded in to view with tiles for Apple, Bing, Google, and Yahoo.
-[00:02:56.788] The domain in the address bar changed from vzw.com to verizon.com
 [00:02:57.083] The domain in the address bar changed from verizon.com to secure.verizon.com
-[00:02:57.270] The Apple and Yahoo tiles loaded the brand's respective logos
-[00:02:57.550] The text "Lockdown Enabled" appeared above the browser's address bar
+[00:02:57.243] The tiles of the first and fourth favorite changed to the logos of their respective brands, an Apple and yahoo!
+[00:02:57.528] The small-sized gray text "Lockdown Enabled" appeared above the browser's address bar, and the Share icon changed color from gray to blue.
 [00:02:57.748] All content from the page disappeared
 [00:02:58.144] The progress level in the address bar almost complete
 [00:02:58.671] The progress level in the address bar faded away
-[00:02:59.562] The webpage appears blank
-[00:03:12.620] The tab behaved as if I pressed the tab switcher. The text "My Verizon login. Sign in to your Verizo..." appeared under the blank rectangle
+[00:02:59.562] The webpage appears blank (background information, the browser had been configured with JavaScript disabled)
+[00:03:12.620] The tab switcher  must have been tapped (although the screen recording shows no signs of user interaction with the screen). 
+[00:03:12.916] The Safari app interface in tab switch mode.
+•	The interface is visually organized into three principal areas: the status area, the viewport area, and the controls area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 3:59. Positioned to its right is the silent mode icon. Right below the time, in very small-sized bold black letters the borderless button Settings with a left pointing solid triangle.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 48 centered within the housing.
+o	Viewport area: The principal content of the browser, shows one tab:
+	The "My Verizon login" tab: composed of two elements; the container and the webpage's Title:
+•	The container: displayed on the upper side of the viewport, a rounded tall rectangle that occupies about 70% of the screen's width, and about 50% of the viewport's height. The container is completely blank, except for the gray-circled-close button in the upper right side of it.
+•	The webpage's title: Under the tab's container, leading with With a red V favicon to the left of it, the small-sized black text "My Verizon login. Sign in to your Verizo..." 
+o	The controls area: pinned at the bottom of the screen a two band gray tool-bar, with the top band showing the type and number of tabs, and the bottom band showing the interface controls:
+	Top band: composed of two headings descriptive of the type and number of tabs open:
+o	First heading:
+	Text: Private
+	Color: Muted gray (indicating it is disabled)
+o	Second heading:
+	Text: 1 Tab
+	Color: Black
+o	Bottom band: Composed of three interface controls.
+o	First control:
+	Position: Far left
+	Icon: Plus sign
+	Color: blue
+o	Second control:
+	Position: Middle
+	Icon: List
+	Color: blue 
+o	Third control:
+	Position: Far right
+	Icon: Text Done
+	Color: blue 
+CONTINUE HERE
 [00:03:23.885] I closed the tab
 [00:03:23.918] The Start Page started to fade in to view. Now the Bing and Google tiles had loaded the respective brand logos.
 [00:03:24.352] The section "Recently Closed Tabs" had the text "My Verizon login. Sign in to your Verizon Wireles..." text under it.
