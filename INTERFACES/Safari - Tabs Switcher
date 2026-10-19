@@ -1,0 +1,31 @@
+The Safari app interface in tab switch mode.
+•	The interface is visually organized into three principal areas: the status area, the viewport area, and the controls area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 3:59. Positioned to its right is the silent mode icon. Right below the time, in very small-sized bold black letters the borderless button Settings with a left pointing solid triangle.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 48 centered within the housing.
+o	Viewport area: The principal content of the browser, shows one tab:
+	The "My Verizon login" tab: composed of two elements; the container and the webpage's Title:
+•	The container: displayed on the upper side of the viewport, a rounded tall rectangle that occupies about 70% of the screen's width, and about 50% of the viewport's height. The container is completely blank, except for the gray-circled-close button in the upper right side of it.
+•	The webpage's title: Under the tab's container, leading with With a red V favicon to the left of it, the small-sized black text "My Verizon login. Sign in to your Verizo..." 
+o	The controls area: pinned at the bottom of the screen a two band gray tool-bar, with the top band showing the type and number of tabs, and the bottom band showing the interface controls:
+	Top band: composed of two headings descriptive of the type and number of tabs open:
+o	First heading:
+	Text: Private
+	Color: Muted gray (indicating it is disabled)
+o	Second heading:
+	Text: 1 Tab
+	Color: Black
+o	Bottom band: Composed of three interface controls.
+o	First control:
+	Position: Far left
+	Icon: Plus sign
+	Color: blue
+o	Second control:
+	Position: Middle
+	Icon: List
+	Color: blue 
+o	Third control:
+	Position: Far right
+	Icon: Text Done
+	Color: blue
