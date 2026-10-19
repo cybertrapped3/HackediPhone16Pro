@@ -1,0 +1,44 @@
+The Safari App's Start Page Interface.
+•	The interface is visually organized into three principal areas: the status area, the viewport area, and the address bar and controls area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 21:07. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 48 centered within the housing.
+o	Viewport area: The principal content of the browser, divided into three sections, Favorites, Privacy Report, and the Edit button
+	The Favorites section is composed of two elements, the heading of the section and the tiles of the favorites:
+•	Section Heading: Aligned to the left side of the screen, the silhouette icon followed the mid-sized bold black text "Favorties"
+•	Favorites tiles: Four rounded squares with a gray background span the screen horizontally. Each square has a letter and a subtitle with the brand of the website to which it links:
+o	First favorite:
+	Letter: A
+	Subtitle: Apple
+o	Second favorite:
+	Letter: B
+	Subtitle: Bing
+o	Third favorite:
+	Letter: G
+	Subtitle: Google
+o	Fifth favorite:
+	Letter: Y
+	Subtitle: Yahoo
+	The Privacy report section: Below the Favorites section, composed of a heading and the report:
+•	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Privacy Report"
+•	The Report: A white rounded rectangle spanning the width of the interface, with the normal-sized black text: In the last seven days, Safari has prevented 0 trackers from profiling you.
+	The Edit button: below the Privacy Report Section, a small white pill button with the black text Edit in the middle of the interface. 
+o	The address bar and controls area: at the bottom of the interface, compose of a search bar. Below the search bar, the browser controls
+	 The search bar
+	 The Safari browser controls, five icons spanning the width of the interface: 
+•	The back icon:
+o	Color: gray, indicating a disabled state
+o	Icon: Left pointing chevron to go back to previous page
+•	The forward icon:
+o	Color: gray, indicating a disabled state
+o	Icon: Right pointing chevron to go back to previous page
+•	The Share icon:
+o	Color: gray, indicating a disabled state
+o	Icon: a rounded square with an upward pointing arrow on the top side
+•	The bookmark/favorites icon:
+	Color: blue, indicating it is operable
+	Icon: An open book
+•	The copy to clipboard icon:
+	Color: blue, indicating it is operable
+	Icon: Two rounded squares, one superimposed on the other
