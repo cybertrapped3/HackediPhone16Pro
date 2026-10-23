@@ -1,0 +1,14 @@
+The Set Up Cellular interface.
+•	The interface is visually organized into three principal areas: the Cancel button, the introductory sections, and the configuration controls:
+o	The button: at the top left of the interfaces container, a borderless blue text "Cancel" button
+o	The introductory section: Positioned on the upper portion of the interface's container, presenting an introductory visual block composed of the following elements:
+	Icon Graphic: A blue wireless transmission antenna shape.
+	Primary heading: Centrally aligned or positioned directly adjacent, rendered in large-sized bold black letters "Set Up Cellular"
+	Descriptive Text: Immediately below the heading, in normal-sized black letters, the text "You can transfer a phone number from a nearby iPhone, or scan a QR code provided by your carrier." With the blue  colored text under it "Learn More..."
+o	The configuration controls: Immediately below the introductory Learn More link, two interactive menu items, each composed of an illustrative icon and the item's text in mid-sized bold black letters:
+	First control:
+•	Icon: Blue device silhouette paired with a mid-point directional arrow 
+•	Text: Transfer from Nearby Phone
+	Second control:
+•	Icon: Blue QR Code
+•	Text: Use QR Code
