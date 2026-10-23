@@ -399,7 +399,6 @@ o	Icon: a rounded square with an upward pointing arrow on the top side
 •	The tabs icon:
 	Color: blue, indicating it is operable
 	Icon: Two rounded squares, one superimposed on the other
-
 [00:02:57.083] The domain in the address bar changed from verizon.com to secure.verizon.com
 [00:02:57.243] The tiles of the first and fourth favorite changed to the logos of their respective brands, an Apple and yahoo!
 [00:02:57.528] The small-sized gray text "Lockdown Enabled" appeared above the browser's address bar, and the Share icon changed color from gray to blue.
@@ -407,7 +406,7 @@ o	Icon: a rounded square with an upward pointing arrow on the top side
 [00:02:58.144] The progress level in the address bar almost complete
 [00:02:58.671] The progress level in the address bar faded away
 [00:02:59.562] The webpage appears blank (background information, the browser had been configured with JavaScript disabled)
-[00:03:12.620] The tab switcher  must have been tapped (although the screen recording shows no signs of user interaction with the screen). 
+[00:03:12.620] The tab switcher  must have been tapped (although the screen recording shows no signs of user interaction with the screen).
 [00:03:12.916] The Safari app interface in tab switch mode.
 •	The interface is visually organized into three principal areas: the status area, the viewport area, and the controls area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -416,7 +415,7 @@ o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 48 centered within the housing.
 o	Viewport area: The principal content of the browser, shows one tab:
 	The "My Verizon login" tab: composed of two elements; the container and the webpage's Title:
-•	The container: displayed on the upper side of the viewport, a rounded tall rectangle that occupies about 70% of the screen's width, and about 50% of the viewport's height. The container is completely blank, except for the gray-circled-close button in the upper right side of it.
+•	The container: displayed on the upper side of the viewport, a single active tab occupies about 70% of the screen's width, and about 50% of the viewport's height. The tab is completely blank, except for the gray-circled-close button in the upper right side of it.
 •	The webpage's title: Under the tab's container, leading with With a red V favicon to the left of it, the small-sized black text "My Verizon login. Sign in to your Verizo..." 
 o	The controls area: pinned at the bottom of the screen a two band gray tool-bar, with the top band showing the type and number of tabs, and the bottom band showing the interface controls:
 	Top band: composed of two headings descriptive of the type and number of tabs open:
@@ -439,16 +438,38 @@ o	Third control:
 	Position: Far right
 	Icon: Text Done
 	Color: blue 
-CONTINUE HERE
+[00:03:23.219] A downward scrolling gesture was made, resulting in a standard iOS over scroll bounce ("rubber-band" effect) as the interface shifts slightly downward and returns to its position.
+[00:03:23.874] Although no user interaction was captured by the screen recording, the Safari app changed view from the Tab Switcher to the Start Page, which can be achieved by tapping Tabs button. 
+
+The "1 Tab" text change to "Start Page"
 [00:03:23.885] I closed the tab
 [00:03:23.918] The Start Page started to fade in to view. Now the Bing and Google tiles had loaded the respective brand logos.
+[00:03:23.940] And the start page is fading and expanding into view.
 [00:03:24.352] The section "Recently Closed Tabs" had the text "My Verizon login. Sign in to your Verizon Wireles..." text under it.
-[00:03:35.510] I dismissed the Safari window
-[00:03:36.090] The Home Screen came in to view. 
+[00:03:24.612] The Start Page how has the additional "Recently Closed Tabs" section. 
+[00:03:24.612] 	The "Recently Closed Tabs" section appears between the Privacy report section and the Edit button. It is composed of a heading, a button, and the title of the recently closed tab:
+•	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Recently Closed Tabs"
+•	The Button: In line with the subheading, but opposite side, the far right, a borderless button with blue colored text "Clear All".
+•	The Recently Closed Tab: A white rounded rectangle spanning the width of the interface, with the normal-sized black text" My Verizon login. Sign in to your Verizon Wireles..."
+[00:03:35.520] The Safari app was dismissed. 
 
-At the top of the screen, the weather widget showed the text "Weather Unavailable" and the Calendar widget showed the text  "Sunday 27 No events today"
-[00:03:40.008] I tapped the Settings app icon
-[00:03:40.140] Here we can see two status bars; one at the top of the screen as a common screen asset, and part of the wider system, and a second one, as belonging to the Settings app window. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-03-40_139 - Settings app opening - two status bars.png"
+As the app's windows shrinks out of view, the only visible status bar, is the one inside of the app's container. SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-03-35_520%20-%20Closing%20Safari%20App%20Shows%20ONLY%20Own%20Status%20Bar.png
+[00:03:35.652] The common status bar is fading into view.
+[00:03:36.090] The Home Screen is displayed.
+
+The interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 3:59. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+•	Below the status bar, a pair of application widgets are displayed: 
+o	On the left, the Weather widget displays the text "Weather Unavailable"
+o	On the right, the Calendar widget displays the text "TUESDAY 27 No events today." 
+o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Positioned just above the Dock is a persistent Search button. 
+•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+[00:03:40.004] The Settings App was tapped.
+[00:03:40.136] Here we can see two status bars; one at the top of the screen as a common screen asset, and part of the wider system, and a second one, as belonging to the Settings app window. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-03-40_139 - Settings app opening - two status bars.png"
 [00:03:41.165] From left to right, the status bar showed the time 3:59, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 48 inside of it.
 [00:03:42.078] The Verizon Services interface was displayed, as the Settings app was finished expanding
 [00:03:42.177] I navigated back to the Cellular settings interface
