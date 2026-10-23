@@ -363,7 +363,7 @@ o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 48 centered within the housing.
 o	Viewport area: The principal content of the browser, divided into three sections, Favorites, Privacy Report, and the Edit button
 	The Favorites section is composed of two elements, the heading of the section and the tiles of the favorites:
-•	Section Heading: Aligned to the left side of the screen, the silhouette icon followed the mid-sized bold black text "Favorties"
+•	Section Heading: Aligned to the left side of the screen, the silhouette icon followed the mid-sized bold black text "Favorites"
 •	Favorites tiles: Four rounded squares with a gray background span the screen horizontally. Each square has a letter and a subtitle with the brand of the website to which it links:
 o	First favorite:
 	Letter: A
@@ -444,9 +444,8 @@ o	Third control:
 The "1 Tab" text change to "Start Page"
 [00:03:23.885] I closed the tab
 [00:03:23.918] The Start Page started to fade in to view. Now the Bing and Google tiles had loaded the respective brand logos.
-[00:03:23.940] And the start page is fading and expanding into view.
 [00:03:24.352] The section "Recently Closed Tabs" had the text "My Verizon login. Sign in to your Verizon Wireles..." text under it.
-[00:03:24.612] The Start Page how has the additional "Recently Closed Tabs" section. 
+[00:03:24.612] The Start Page now has the additional "Recently Closed Tabs" section. 
 [00:03:24.612] 	The "Recently Closed Tabs" section appears between the Privacy report section and the Edit button. It is composed of a heading, a button, and the title of the recently closed tab:
 •	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Recently Closed Tabs"
 •	The Button: In line with the subheading, but opposite side, the far right, a borderless button with blue colored text "Clear All".
@@ -469,68 +468,119 @@ o	Below the widgets, applications are arranged across a flexible grid system, wh
 •	Positioned just above the Dock is a persistent Search button. 
 •	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:03:40.004] The Settings App was tapped.
-[00:03:40.136] Here we can see two status bars; one at the top of the screen as a common screen asset, and part of the wider system, and a second one, as belonging to the Settings app window. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-03-40_139 - Settings app opening - two status bars.png"
-[00:03:41.165] From left to right, the status bar showed the time 3:59, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 48 inside of it.
-[00:03:42.078] The Verizon Services interface was displayed, as the Settings app was finished expanding
-[00:03:42.177] I navigated back to the Cellular settings interface
-[00:03:44.200] The "CELLULAR DATA" module showed updated information.
+[00:03:40.136] Here we can see two status bars; one at the top of the screen as a common screen asset, and part of the wider system, and a second one, as belonging to the Settings app window. SCREENSHOT: "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-03-40_136%20-%20Settings%20app%20opening%20-%20two%20status%20bars.png"
+[00:03:40.763] The Settings App opened to the deep-level configuration "Verizon Services" page. 
+[00:03:41.165] The information in the "Verizon Services" page appeared unchanged according to the description rendered at timestamp 00:00:29.078.
+[00:03:41.976] The go back link (i.e., Cellular >) was tapped.
+[00:03:42.177] The Cellular settings interface is sliding into view.
+[00:03:44.200] The Cellular settings interfaced displayed changes under the CELLULAR DATA module relative to the description rendered at timestamp 00:01:04.673. These were the updated stats: 
 
-Under the "CELLULAR DATA" module, settings and controls appeared as follows: 
 Current Period: 127MB
-Current Period Roaming Zero KB
+Current Period Roaming: Zero KB (no change)
 System Services: 120 MB
 Settings: toggled on with the text 5.07 MB underneath it
-[00:03:59.488] I tapped the "Cellular Data Options" setting
-[00:04:00.608] The Cellular Data Options Interface. In this interface, settings and controls appeared as follows: 
-
-Data Roaming: toggled off
-Voice & Data: 5G Auto >
-Data Mode: Allow More Data on 5G >
-
-Limit IP Address Tracking: toggle on
-The text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
-[00:04:07.683] I tapped the "Voice & Data" settings
-[00:04:08.376] The "Voice & Data" setting.
-[00:04:08.484] The Voice & Data Interface. In this interface, settings and controls appeared as follows:
-
-5G Auto: blue check mark
-5G On
-LTE
-
-Under this list, the following descriptions appeared:
-
-5G Auto uses 5G only when needed for performance while optimizing battery life. 
-
-5G On uses 5G whenever it is available, even when it may reduce battery life or performance. 
-
-Further down in this interface, the setting:
-
-5G Standalone: toggled on. 
-The text under this setting: 5G Standalone uses 5G for all cellular activity, including cellular network connections.
-[00:04:41.988] I navigated back to the "Cellular Data Options" interface
+[00:03:49.086] The interface was scrolled all the way to the top. 
+[00:03:49.086] The upper settings and controls of the Cellular settings interface appeared unchanged according to the description rendered at timestamp 00:00:21.393.
+[00:03:59.424] "Cellular Data Options" was tapped, and the background color of the setting changed from white to gray.
+[00:03:59.556] The "Cellular Data Options" interface began to slide into view.
+[00:04:00.608] The Cellular Data Options Interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:00. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Cellular" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Cellular Data Options".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+	Under the First module:
+•	Data Roaming: toggled Off (gray).
+•	Voice & Data: Displayed the status "5G Auto".
+•	Data Mode: Displayed the status "Allow More Data on 5G"
+	Under the Second module:
+•	Limit IP Address Tracking: toggled On (green).
+•	Explicatory text under this module: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari.
+[00:04:07.683] "Voice & Data" was tapped, and the background color of the setting changed from white to gray.
+[00:04:07.781] The "Voice & Data" interface began to slide into view.
+[00:04:08.376] The "Voice & Data" interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:00. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Voice & Data".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+	Under the First module:
+•	5G Auto: blue colored check mark on the far left (indicating this mode is selected).
+•	5G On
+•	LTE
+•	Explicatory text under this module composed of two paragraphs: 
+o	5G Auto uses 5G only when needed for performance while optimizing battery life. 
+o	5G On uses 5G whenever it is available, even when it may reduce battery life or performance. 
+	Under the Second module:
+•	5G Standalone: toggled: toggled On (green).
+•	Explicatory text under this module composed of two paragraphs: 5G Standalone uses 5G for all cellular activity, including cellular network connections.
+[00:04:41.887] The go back link (i.e., Back >) was tapped.
+[00:04:42.052] The "Cellular Data Options" interface began to slide into view.
+[00:04:42.745] The "Cellular Data Options" is displaying.
 [00:04:46.125] I tapped the "Data Mode" setting
-[00:04:46.719] The Data Mode interface
-[00:04:49.215] The Data Mode Interface. In this interface, settings and controls appeared as follows:
-
-Allow More Data on 5G: blue check mark
-Standard
-Low Data Mode
-
-Under this list, the following descriptions appeared:
-
-Allow More Data on 5G may prefer 5G over Wi-Fi, and use it for software updates, automatic iCloud backups, and higher-quality media. 
-
-Standard allows automatic updates and background tasks on cellular, but limits video and FaceTime quality. 
-
-Low Data Mode helps reduce cellular data usage by pausing automatic update and background tasks.
+[00:04:46.126] "Data Mode" was tapped, and the background color of the setting changed from white to gray.
+[00:04:46.192] The "Data Mode" interface began to slide into view.
+[00:04:46.719] The "Data Mode" interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:00. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Data Mode".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+	Under the only module:
+•	5G Auto: blue colored check mark on the far left (indicating this mode is selected).
+•	Allow More Data on 5G: blue colored check mark on the far left (indicating this mode is selected).
+•	Standard
+•	Low Data Mode
+•	Explicatory text under this module composed of three paragraphs: 
+o	Allow More Data on 5G may prefer 5G over Wi-Fi, and use it for software updates, automatic iCloud backups, and higher-quality media. 
+o	Standard allows automatic updates and background tasks on cellular, but limits video and FaceTime quality.
+o	Low Data Mode helps reduce cellular data usage by pausing automatic update and background tasks.
+[00:04:56.040] The go back link (i.e., Back >) was tapped.
+[00:04:56.238] The "Cellular Data Options" interface began to slide into view.
 [00:04:56.584] I navigated back to the Cellular Data Options interface
+[00:04:56.865] The "Cellular Data Options" interface is displaying.
+[00:05:00.300] The "Data Roaming" setting was toggled On.
 [00:05:00.308] I toggled the "Data Roaming" setting on
-[00:05:19.928] I navigated back to the Cellular settings interface
-[00:05:20.522] The top setting of this interface now appeared as follows:
-
-Data Roaming: toggled on
-[00:05:42.399] I tapped the Add eSIM link
-[00:05:45.190] The "Set Up Cellular" interface slid up in to view
+[00:05:11.710] The cellular signal strength decreased to one black bar.
+[00:05:19.614] The go back link (i.e., Cellular >) was tapped.
+[00:05:19.845] The Cellular settings interface began to slide into view.
+[00:05:19.928] I navigated back to the Cellular settings interface.
+[00:05:20.472] The Cellular settings interface is displaying.
+[00:05:20.522] The "Cellular Data Options" configuration changed from "Roaming Off," to "Roaming On," as compared to the description rendered at timestamp 00:00:21.393.
+[00:05:32.559] The interface was scrolled down. 
+[00:05:37.795] The interface was further scrolled down.
+[00:05:42.397] "Add eSIM" was tapped, and the background color of the setting changed from white to gray, and a spinning wheel replaced the chevron symbol that indicates this setting is an interactive menu item. [Timestamp: 00:05:42.397]
+[00:05:42.430] The color of text "Add eSIM" changed from blue to gray.
+[00:05:42.496] The background color of "Add eSIM" changed from gray to white.
+[00:05:44.674] The spinning wheel disappeared (no chevron symbol was shown again).
+[00:05:44.773] The "Set Up Cellular" interface began sliding up into view
+[00:05:45.235] The Set Up Cellular interface.
+•	The interface is visually organized into three principal areas: the Cancel button, the introductory sections, and the configuration controls:
+o	The button: at the top left of the interfaces container, a borderless blue text "Cancel" button
+o	The introductory section: Positioned on the upper portion of the interface's container, presenting an introductory visual block composed of the following elements:
+	Icon Graphic: A blue wireless transmission antenna shape.
+	Primary heading: Centrally aligned or positioned directly adjacent, rendered in large-sized bold black letters "Set Up Cellular"
+	Descriptive Text: Immediately below the heading, in normal-sized black letters, the text "You can transfer a phone number from a nearby iPhone, or scan a QR code provided by your carrier." With the blue  colored text under it "Learn More..."
+o	The configuration controls: Immediately below the introductory Learn More link, two interactive menu items, each composed of an illustrative icon and the item's text in mid-sized bold black letters:
+	First control:
+•	Icon: Blue device silhouette paired with a mid-point directional arrow 
+•	Text: Transfer from Nearby Phone
+	Second control:
+•	Icon: Blue QR Code
+•	Text: Use QR Code
+CONTINUE HERE
 [00:05:45.553] The Set Up Cellular interface.
 (note that the "Add eSIM" control --listed under the Cellular setting interface-- leads to the "Set Up Cellular" interface)
 
