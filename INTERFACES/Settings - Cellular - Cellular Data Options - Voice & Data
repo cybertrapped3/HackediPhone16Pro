@@ -1,0 +1,20 @@
+The "Voice & Data" interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:00. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Voice & Data".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+	Under the First module:
+•	5G Auto: blue colored check mark on the far left (indicating this mode is selected).
+•	5G On
+•	LTE
+•	Explicatory text under this module composed of two paragraphs: 
+o	5G Auto uses 5G only when needed for performance while optimizing battery life. 
+o	5G On uses 5G whenever it is available, even when it may reduce battery life or performance. 
+	Under the Second module:
+•	5G Standalone: toggled: toggled On (green).
+•	Explicatory text under this module composed of two paragraphs: 5G Standalone uses 5G for all cellular activity, including cellular network connections.
