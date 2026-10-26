@@ -1,0 +1,9 @@
+The Scan QR code interface.
+•	The interface is visually organized into four principal sections arranged vertically:
+o	Back-Navigation Area: Located in the upper-left margin, featuring a directional chevron and a navigation link labeled "Back."
+o	The Scanner Frame: Spanning the width of the upper third of the interface, comprising a dark/black rectangular viewfinder designed to display the live camera feed and assist the user in positioning the QR code within the optical field of view.
+o	The Textual Prompt Area: Positioned immediately below the scanner frame, containing three hierarchical text elements:
+	Primary Heading: Centrally aligned in bold typography, displaying "Scan QR code."
+	Explicatory Prompt: Positioned directly beneath the heading in regular typography, stating, "Position the QR code from your carrier in the frame."
+	Hyperlink: Immediately following the prompt in interactive blue text, displaying "Learn More..."
+o	Footer Action: Located at the bottom of the interface, centrally aligned and formatted as a borderless blue text link stating, "Enter Details Manually."
