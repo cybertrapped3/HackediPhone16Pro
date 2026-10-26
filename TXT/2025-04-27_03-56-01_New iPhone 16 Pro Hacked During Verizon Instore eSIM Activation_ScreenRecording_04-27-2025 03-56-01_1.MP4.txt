@@ -437,7 +437,7 @@ o	Second control:
 o	Third control:
 	Position: Far right
 	Icon: Text Done
-	Color: blue 
+	Color: blue
 [00:03:23.219] A downward scrolling gesture was made, resulting in a standard iOS over scroll bounce ("rubber-band" effect) as the interface shifts slightly downward and returns to its position.
 [00:03:23.874] Although no user interaction was captured by the screen recording, the Safari app changed view from the Tab Switcher to the Start Page, which can be achieved by tapping Tabs button. 
 
@@ -445,7 +445,7 @@ The "1 Tab" text change to "Start Page"
 [00:03:23.885] I closed the tab
 [00:03:23.918] The Start Page started to fade in to view. Now the Bing and Google tiles had loaded the respective brand logos.
 [00:03:24.352] The section "Recently Closed Tabs" had the text "My Verizon login. Sign in to your Verizon Wireles..." text under it.
-[00:03:24.612] The Start Page now has the additional "Recently Closed Tabs" section. 
+[00:03:24.612] The Start Page now has the additional "Recently Closed Tabs" section.
 [00:03:24.612] 	The "Recently Closed Tabs" section appears between the Privacy report section and the Edit button. It is composed of a heading, a button, and the title of the recently closed tab:
 •	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Recently Closed Tabs"
 •	The Button: In line with the subheading, but opposite side, the far right, a borderless button with blue colored text "Clear All".
@@ -469,7 +469,7 @@ o	Below the widgets, applications are arranged across a flexible grid system, wh
 •	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:03:40.004] The Settings App was tapped.
 [00:03:40.136] Here we can see two status bars; one at the top of the screen as a common screen asset, and part of the wider system, and a second one, as belonging to the Settings app window. SCREENSHOT: "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-03-40_136%20-%20Settings%20app%20opening%20-%20two%20status%20bars.png"
-[00:03:40.763] The Settings App opened to the deep-level configuration "Verizon Services" page. 
+[00:03:40.763] The Settings App opened to the deep-level configuration "Verizon Services" page.
 [00:03:41.165] The information in the "Verizon Services" page appeared unchanged according to the description rendered at timestamp 00:00:29.078.
 [00:03:41.976] The go back link (i.e., Cellular >) was tapped.
 [00:03:42.177] The Cellular settings interface is sliding into view.
@@ -479,7 +479,7 @@ Current Period: 127MB
 Current Period Roaming: Zero KB (no change)
 System Services: 120 MB
 Settings: toggled on with the text 5.07 MB underneath it
-[00:03:49.086] The interface was scrolled all the way to the top. 
+[00:03:49.086] The interface was scrolled all the way to the top.
 [00:03:49.086] The upper settings and controls of the Cellular settings interface appeared unchanged according to the description rendered at timestamp 00:00:21.393.
 [00:03:59.424] "Cellular Data Options" was tapped, and the background color of the setting changed from white to gray.
 [00:03:59.556] The "Cellular Data Options" interface began to slide into view.
@@ -559,7 +559,7 @@ o	Low Data Mode helps reduce cellular data usage by pausing automatic update and
 [00:05:19.928] I navigated back to the Cellular settings interface.
 [00:05:20.472] The Cellular settings interface is displaying.
 [00:05:20.522] The "Cellular Data Options" configuration changed from "Roaming Off," to "Roaming On," as compared to the description rendered at timestamp 00:00:21.393.
-[00:05:32.559] The interface was scrolled down. 
+[00:05:32.559] The interface was scrolled down.
 [00:05:37.795] The interface was further scrolled down.
 [00:05:42.397] "Add eSIM" was tapped, and the background color of the setting changed from white to gray, and a spinning wheel replaced the chevron symbol that indicates this setting is an interactive menu item. [Timestamp: 00:05:42.397]
 [00:05:42.430] The color of text "Add eSIM" changed from blue to gray.
@@ -579,45 +579,39 @@ o	The configuration controls: Immediately below the introductory Learn More link
 •	Text: Transfer from Nearby Phone
 	Second control:
 •	Icon: Blue QR Code
-•	Text: Use QR Code
-CONTINUE HERE
-[00:05:45.553] The Set Up Cellular interface.
-(note that the "Add eSIM" control --listed under the Cellular setting interface-- leads to the "Set Up Cellular" interface)
-
-Under the heading, the following text appeared: "You can transfer a phone number from a nearby iPhone, or scan a QR code provided by your carrier Learn More..."
-
-In this interface, settings and controls appeared as follows: 
-
-Transfer From Nearby iPhone >
-Use QR Code >
-[00:05:48.200] I tapped the Use QR Code control
+•	Text: User QR Code
+[00:05:47.841] "Use QR Code" was tapped, and the background of the control changed color from off-white to gray.
+[00:05:48.237] The background of the control "User QR Code" changed color from gray to off-white, as the next screen begins to slide into view. 
+[00:05:48.534] As the next screen is sliding into view, a small, bright-green circle—acting as the system privacy indicator for active camera hardware usage—began to fade into view inside the Dynamic Island, positioned slightly off right-of-center.
 [00:05:49.149] The Scan QR code interface.
-The "Use QR Code" control (listed under the "Set Up Cellular" interface) leads to the "Scan QR code" interface.
-
-The upper side of the window showed a large black rectangle, which would display the capture by the camera. 
-
-Under the black rectangle, the following text appeared: 
-
-Scan QR code
-Position the QR code from your carrier in the frame. 
-Learn More...
-
-Further down, the blue colored text "Enter Details Manually"
+•	The interface is visually organized into four principal sections arranged vertically:
+o	Back-Navigation Area: Located in the upper-left margin, featuring a directional chevron and a navigation link labeled "Back."
+o	The Scanner Frame: Spanning the width of the upper third of the interface, comprising a dark/black rectangular viewfinder designed to display the live camera feed and assist the user in positioning the QR code within the optical field of view.
+o	The Textual Prompt Area: Positioned immediately below the scanner frame, containing three hierarchical text elements:
+	Primary Heading: Centrally aligned in bold typography, displaying "Scan QR code."
+	Explicatory Prompt: Positioned directly beneath the heading in regular typography, stating, "Position the QR code from your carrier in the frame."
+	Hyperlink: Immediately following the prompt in interactive blue text, displaying "Learn More..."
+o	Footer Action: Located at the bottom of the interface, centrally aligned and formatted as a borderless blue text link stating, "Enter Details Manually."
+[00:05:50.366] "Enter Details Manually" was tapped, and the color of the text faded some. 
 [00:05:50.500] I tapped the "Enter Details Manually" link
-[00:05:50.909] The Enter Activation Code interface.
-(the "Enter Details Manually" control --listed under the "Use QR Code" interface-- leads to the "Enter Activation Code" interface)
-
-The following text appeared: 
-Enter Activation Code
-Enter the activation information provided by your carrier
-
-Under the text, the following information fields appeared:
-
-SM-DP+ Address
-Activation Code
-Confirmation Code (Optional)
-
-Under these fields, the text "A confirmation code is required if it has been provided by your carrier" appeared.
+[00:05:50.597] The "Enter Details Manually" screen began to slide into view. 
+[00:05:51.139] The virtual keyboard began to slide up into view.
+[00:05:51.536] The Enter Activation Code interface.
+•	Visually organized into three principal sections arranged vertically, the interface is composed of navigation, form, and virtual keyboard:
+o	The Navigation Area: Located at the top of the interface, featuring two navigational links:
+	Upper-Left Margin: A directional left chevron accompanied by a navigation link labeled "Back."
+	Upper-Right Margin: A navigation link labeled "Next," rendered in gray text to indicate that it is currently inactive/non-operational.
+o	The Form Area: Positioned in the upper portion of the interface, comprising a primary heading, a descriptive prompt, three information fields, and explanatory text:
+	Primary Heading: Positioned at the top of the form in bold typography, displaying "Enter Activation Code."
+	User Directions: Positioned immediately below the primary heading, centrally aligned in regular typography, stating: "Enter the activation information provided by your carrier."
+	Information Fields: Positioned under the user directions, consisting of three data entry fields with their respective labels in bold typography:
+•	SM-DP+Address
+•	Activation Code
+•	Confirmation Code (accompanied by the placeholder text "Optional" rendered in medium gray).
+	Explanatory Text: Positioned immediately below the third information field in regular black text, stating: "A confirmation code is required if it has been provided by your carrier."
+o	The Virtual Keyboard: Occupying the lower portion of the screen, a standard software virtual keyboard interface.
+[00:05:51.634] The bright-green circle system privacy indicator inside the dynamic island began to fade out of view.
+CONTINUE HERE
 [00:06:24.781] I navigated back to the Scan QR code interface
 [00:06:33.564] I navigated back to the Set Up Cellular interface
 [00:06:42.214] During this transition of of windows, the windows did not showed their own status bars. Instead, the status bar remained at the top and it only showed the time as 4:02, the dynamic island with the red dot indicating the screen recording is in use, and the battery icon appears partially covered by something pitch black. So we can only see the number 8. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-06-42_214 - anomalous status bar during windows transitions.png"
