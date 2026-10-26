@@ -579,7 +579,7 @@ o	The configuration controls: Immediately below the introductory Learn More link
 •	Text: Transfer from Nearby Phone
 	Second control:
 •	Icon: Blue QR Code
-•	Text: User QR Code
+•	Text: Use QR Code
 [00:05:47.841] "Use QR Code" was tapped, and the background of the control changed color from off-white to gray.
 [00:05:48.237] The background of the control "User QR Code" changed color from gray to off-white, as the next screen begins to slide into view. 
 [00:05:48.534] As the next screen is sliding into view, a small, bright-green circle—acting as the system privacy indicator for active camera hardware usage—began to fade into view inside the Dynamic Island, positioned slightly off right-of-center.
@@ -611,16 +611,25 @@ o	The Form Area: Positioned in the upper portion of the interface, comprising a 
 	Explanatory Text: Positioned immediately below the third information field in regular black text, stating: "A confirmation code is required if it has been provided by your carrier."
 o	The Virtual Keyboard: Occupying the lower portion of the screen, a standard software virtual keyboard interface.
 [00:05:51.634] The bright-green circle system privacy indicator inside the dynamic island began to fade out of view.
-CONTINUE HERE
-[00:06:24.781] I navigated back to the Scan QR code interface
-[00:06:33.564] I navigated back to the Set Up Cellular interface
+[00:06:00.544] The blue cursor blinking at the "SM-DP+Address" text field.
+[00:06:23.071] The go back link (i.e., Back >) was tapped.
+[00:06:23.302] The "Enter Activation Code" interface began to slide out of view.
+[00:06:23.533] The system privacy indicator for active camera hardware usage—small bright--green yellow circle—began to fade into view inside the Dynamic Island.
+[00:06:24.028] The "Scan QR Code" interface is displaying.
+[00:06:24.781] I navigated back to the "Scan QR code" interface
+[00:06:26.767] The green system privacy indicator for active camera hardware usage transitioned its position: the indicator faded out of view inside the Dynamic Island, while simultaneously fading into view outside of the Dynamic Island on its upper-right periphery.
+[00:06:32.548] The go back link (i.e., Back >) was tapped.
+[00:06:32.778] The "Scan QR code" interface began sliding right out of view. 
+[00:06:33.395] The green system privacy indicator for active camera hardware faded out of view.
+[00:06:35.566] The "Set Up Cellular" interface is displaying. 
+[00:06:42.045] "Cancel" was tapped. 
 [00:06:42.214] During this transition of of windows, the windows did not showed their own status bars. Instead, the status bar remained at the top and it only showed the time as 4:02, the dynamic island with the red dot indicating the screen recording is in use, and the battery icon appears partially covered by something pitch black. So we can only see the number 8. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-06-42_214 - anomalous status bar during windows transitions.png"
-[00:06:43.240] I navigated back to the Cellular settings interface
+[00:06:42.288] The "Set Up Cellular" interface is sliding downward out of view, while the preceding interface appears to be zooming forward and transition back into focus.
+[00:06:43.426] The Cellular settings interface is displaying, and the visible settings and controls appeared unchanged when compared to the description rendered at timestamp 00:03:44.200.
+
+[00:06:49.686] The interface was scrolled all the way to the top.
+[00:06:56.319] The go back link (i.e., Settings >) was tapped.
+[00:06:56.581] The Cellular settings interface slid to the right out of view.
 [00:06:57.071] I navigated back to the Settings app main interface
-[00:07:04.421] I swiped the Control Center interface down in to view
-[00:07:05.210] The  Control Center showed the Verizon network type as LTE. To its left, the signal strength icon showed two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon showed two bars solid white and the other two light green.
-
-HIGHLIGHTS: 
-
-I did not reset the Cellular Statics, as it appears in the screen recording TIMESTAMP: 00:01:10.796
-SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-01-14_132%20-%20CELLULAR%20USAGE%20STATISTICS%20Last%20Reset%20Information.png
+[00:06:57.208] The Settings app interface is displaying, and the visible settings and controls appeared unchanged when compared to the description rendered at timestamp 0:00:09.714
+[00:07:03.779] The Control Center was slid down into view, and the configuration appeared unchanged when compared to the description rendered at timestamp 00:00:00.000.
