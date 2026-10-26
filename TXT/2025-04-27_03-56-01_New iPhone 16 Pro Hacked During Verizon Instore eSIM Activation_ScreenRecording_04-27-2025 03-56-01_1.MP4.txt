@@ -98,7 +98,6 @@ o	Interface Body:
 [00:00:08.939] The go back link (i.e., Settings >) was tapped.
 [00:00:09.507] The Settings app main interface is displaying.
 [00:00:09.714] The Settings App interface. 
-
 •	The interface is structured into two principal areas: the Status Bar and the Main Content Area.:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 3:56. Positioned to its right is the silent mode icon.
@@ -112,7 +111,6 @@ Apple Account Profile Node: A rounded rectangular anchor cell containing the App
 Promotional & Setup Banners:
 * Finish Setting Up Your iPhone (1): An interactive configuration action item.
 * Get Help During an Emergency (1): An interactive configuration action item.
-
 * Settings Modules & Controls: The remaining settings are grouped into modules
 o	The First module:
 	Airplane Mode: Toggled Off (gray).
@@ -127,7 +125,6 @@ o	The Second module:
 	Partially visible, the Action Button: Displayed as an interactive menu item.
 [00:00:20.624] The Cellular setting was tapped.
 [00:00:20.705] The Cellular Settings interface is sliding into view.
-[00:00:21.233] 
 [00:00:21.393] The Cellular settings Interface.
 •	The interface is visually organized into three principal areas: the status area, the navigation area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -157,7 +154,6 @@ o	Delete eSIM: red colored letters
 [00:00:28.187] "Carrier Services" was tapped.
 [00:00:28.319] The "Verizon Services" interface is sliding into view.
 [00:00:29.078] The "Verizon Services" interface  is displaying.
-
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 3:56. Positioned to its right is the silent mode icon.
@@ -195,18 +191,15 @@ o	Show All: Displayed as an interactive menu item.
 •	The Fourth module:
 o	Wi-Fi Assist: toggled Off (gray).
 o	Explicative text under this module: Automatically use cellular data when Wi-Fi connectivity is poor.
-
 (IMPORTANT NOTE: At this time, the settings iCloud Drive and iCloud Backup were missing from this interface. These settings appeared after I had created an Apple Account)
 [00:01:13.552] The Cellular settings interface was scrolled all the way down, and these additional Settings and Controls displayed: 
 •	The "CALL TIME" module:
 o	Current Period: Displays the status "0 Minutes"
 o	Lifetime: Displays the status "0 Minutes"
-
 •	The "CELLULAR USAGE STATISTICS" module: 
 o	Enable Cellular Usage Statistics: toggled On (green)
 o	Reset Statistics (the blue colored letters imply this is a link).
 o	Explicative text under this module: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
-
 At the bottom of the interface, in small-sized gray letters the text: Last Reset: Apr 26, 2025 at 6:02 PM
 [00:01:16.429] The interface was scrolled back to the top.
 [00:01:17.353] The go back link (i.e., Settings >) was tapped.
@@ -440,7 +433,6 @@ o	Third control:
 	Color: blue
 [00:03:23.219] A downward scrolling gesture was made, resulting in a standard iOS over scroll bounce ("rubber-band" effect) as the interface shifts slightly downward and returns to its position.
 [00:03:23.874] Although no user interaction was captured by the screen recording, the Safari app changed view from the Tab Switcher to the Start Page, which can be achieved by tapping Tabs button. 
-
 The "1 Tab" text change to "Start Page"
 [00:03:23.885] I closed the tab
 [00:03:23.918] The Start Page started to fade in to view. Now the Bing and Google tiles had loaded the respective brand logos.
@@ -451,11 +443,9 @@ The "1 Tab" text change to "Start Page"
 •	The Button: In line with the subheading, but opposite side, the far right, a borderless button with blue colored text "Clear All".
 •	The Recently Closed Tab: A white rounded rectangle spanning the width of the interface, with the normal-sized black text" My Verizon login. Sign in to your Verizon Wireles..."
 [00:03:35.520] The Safari app was dismissed. 
-
 As the app's windows shrinks out of view, the only visible status bar, is the one inside of the app's container. SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-03-35_520%20-%20Closing%20Safari%20App%20Shows%20ONLY%20Own%20Status%20Bar.png
 [00:03:35.652] The common status bar is fading into view.
 [00:03:36.090] The Home Screen is displayed.
-
 The interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
 •	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 3:59. Positioned to its right is the silent mode icon.
@@ -474,7 +464,6 @@ o	Below the widgets, applications are arranged across a flexible grid system, wh
 [00:03:41.976] The go back link (i.e., Cellular >) was tapped.
 [00:03:42.177] The Cellular settings interface is sliding into view.
 [00:03:44.200] The Cellular settings interfaced displayed changes under the CELLULAR DATA module relative to the description rendered at timestamp 00:01:04.673. These were the updated stats: 
-
 Current Period: 127MB
 Current Period Roaming: Zero KB (no change)
 System Services: 120 MB
@@ -626,7 +615,6 @@ o	The Virtual Keyboard: Occupying the lower portion of the screen, a standard so
 [00:06:42.214] During this transition of of windows, the windows did not showed their own status bars. Instead, the status bar remained at the top and it only showed the time as 4:02, the dynamic island with the red dot indicating the screen recording is in use, and the battery icon appears partially covered by something pitch black. So we can only see the number 8. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-06-42_214 - anomalous status bar during windows transitions.png"
 [00:06:42.288] The "Set Up Cellular" interface is sliding downward out of view, while the preceding interface appears to be zooming forward and transition back into focus.
 [00:06:43.426] The Cellular settings interface is displaying, and the visible settings and controls appeared unchanged when compared to the description rendered at timestamp 00:03:44.200.
-
 [00:06:49.686] The interface was scrolled all the way to the top.
 [00:06:56.319] The go back link (i.e., Settings >) was tapped.
 [00:06:56.581] The Cellular settings interface slid to the right out of view.
