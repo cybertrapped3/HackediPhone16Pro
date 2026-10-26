@@ -1,0 +1,14 @@
+The Enter Activation Code interface.
+•	Visually organized into three principal sections arranged vertically, the interface is composed of navigation, form, and virtual keyboard:
+o	The Navigation Area: Located at the top of the interface, featuring two navigational links:
+	Upper-Left Margin: A directional left chevron accompanied by a navigation link labeled "Back."
+	Upper-Right Margin: A navigation link labeled "Next," rendered in gray text to indicate that it is currently inactive/non-operational.
+o	The Form Area: Positioned in the upper portion of the interface, comprising a primary heading, a descriptive prompt, three information fields, and explanatory text:
+	Primary Heading: Positioned at the top of the form in bold typography, displaying "Enter Activation Code."
+	User Directions: Positioned immediately below the primary heading, centrally aligned in regular typography, stating: "Enter the activation information provided by your carrier."
+	Information Fields: Positioned under the user directions, consisting of three data entry fields with their respective labels in bold typography:
+•	SM-DP+Address
+•	Activation Code
+•	Confirmation Code (accompanied by the placeholder text "Optional" rendered in medium gray).
+	Explanatory Text: Positioned immediately below the third information field in regular black text, stating: "A confirmation code is required if it has been provided by your carrier."
+o	The Virtual Keyboard: Occupying the lower portion of the screen, a standard software virtual keyboard interface.
