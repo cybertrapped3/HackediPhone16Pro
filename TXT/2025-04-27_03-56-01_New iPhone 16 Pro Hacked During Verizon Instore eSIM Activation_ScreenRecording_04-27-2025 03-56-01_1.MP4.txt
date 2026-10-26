@@ -1,26 +1,26 @@
 [00:00:00.000] The Control Center Interface.
-The Apple iPhone Control Center interface occupies substantially the entire display. The interface consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+The screen recording starts with the Control Center Interface on view.
+The interface occupies substantially the entire display and consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
 Status Area
 •	At the top of the display, from left to right, the following elements are visible:
 o	A plus ("+") symbol positioned in the upper-left corner.
 o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 o	A power symbol positioned in the upper-right corner.
-•	Immediately below the status area are:
-o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of one active white bars and three inactive gray bars, accompanied by the network carrier and type as Verizon LTE.
+Immediately below the status area are:
+o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of one active white bar and three inactive gray bars, accompanied by the network carrier and type as Verizon LTE.
 o	A battery indicator positioned on the right displaying a battery level of 48%.
 The Connectivity Module
-The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel.
-The following controls are displayed:
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. The following controls are displayed:
 •	Airplane Mode, displayed as a gray circular button with a white airplane symbol, indicating an inactive state.
 •	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
 •	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
-•	Four additional gray circular controls displaying symbols visually consistent with:
+•	Four additional controls displaying symbols visually consistent with:
 o	Cellular data displayed as a green circular button displaying a signal strength icon consisting of one active white bar and three inactive gray bars
-o	Bluetooth, indicating an inactive state.
-o	Hot spot, indicating a inactive state.
-o	VPN, indicating a disabled (non-operable) state.
-The Media Playback Module
-The upper-right Control Center module contains the media playback controls.
+o	Bluetooth displayed as a gray circular button indicating an inactive state.
+o	Hot spot displayed as a gray circular button indicating an inactive state.
+o	VPN displayed as a gray circular button with its symbol as a light gray shape, indicating a disabled state.
+The Media Playback Module 
+The upper-right Control Center module contains the media playback controls. 
 •	The module displays:
 o	An empty media artwork placeholder positioned on the left side.
 o	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
@@ -33,15 +33,15 @@ The module displays no media title, artist information, or artwork.
 The Rotation Lock and Silent Mode Controls
 Immediately below the Connectivity Module are two circular system controls.
 •	These controls display symbols visually consistent with:
-o	Rotation Lock, as a gray circular button
-o	Silent Mode, displayed as a white circular button containing a bell symbol with a diagonal slash through it rendered in red, visually indicating an active silent state.
+o	Rotation Lock: Displayed as a gray circular button containing an open padlock with a curved arrow, indicating the rotation lock feature is inactive.
+o	Silent Mode: Displayed as a white circular button containing a red bell symbol with a diagonal slash through it, indicating the phone is in silent mode.
 The Focus Module
 Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
 The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
 The Brightness and Volume Controls
-Immediately below the Media Playback Module are two vertical slider controls.
-•	The left slider controls screen brightness and displays a sun symbol near its lower end. The level of brightness appears to be all the way down (i.e., no white filling).
-•	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 44% up.
+•	Immediately below the Media Playback Module are two vertical slider controls.
+o	The left slider controls screen brightness and displays a sun symbol near its lower end. The level of brightness appears to be all the way down (i.e., no white filling).
+o	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 44% up.
 The Utility Controls
 The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
 •	The controls display symbols visually consistent with:
@@ -51,14 +51,13 @@ o	Calculator.
 o	Camera.
 o	Screen Mirroring.
 o	Code Scanner (QR Scanner).
-o	Screen Recording: displays a red circular recording indicator within the control.
+o	Screen Recording: displaying a red circular recording indicator within the control.
 o	Notes / Quick Note.
-•	The Right-Edge Interface Icons
-Along the right edge of the display is a vertical column of three interface icons.
-From top to bottom, the icons consist of:
-o	A heart symbol (jump to the main/first page of the interface, the current one).
-o	A musical note symbol (jump to the media player).
-o	A wireless transmission symbol (jump to the connectivity related controls panel).
+The Right-Edge Interface Icons
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group)
 [00:00:00.033] The Screen Recording button began to transition its body color from gray to white.
 [00:00:00.230] The Screen Recording button background color changed from gray to white.
 [00:00:00.461] Now the Screen Recording button's background is white.
@@ -83,35 +82,35 @@ o	Interface Body:
 •	Descriptive Text: Manage your overall setup and preferences for iPhone, such as software updates, device language, CarPlay, AirDrop, and more. 
 	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
 •	The First module:
-	About: Displayed as an interactive menu item.
-	Software Update: Displayed as an interactive menu item.
-	iPhone Storage: Displayed as an interactive menu item.
+o	About: Displayed as an interactive menu item.
+o	Software Update: Displayed as an interactive menu item.
+o	iPhone Storage: Displayed as an interactive menu item.
 •	The Second module:
-	AppleCare & Warranty: Displayed as an interactive menu item.
+o	AppleCare & Warranty: Displayed as an interactive menu item.
 •	The Third module:
-	AirDrop: Displayed as an interactive menu item.
-	AirPlay & Continuity: Displayed as an interactive menu item.
-	Pricture in Picture: Displayed as an interactive menu item.
-	CarPlay: Displayed as an interactive menu item.
+o	AirDrop: Displayed as an interactive menu item.
+o	AirPlay & Continuity: Displayed as an interactive menu item.
+o	Pricture in Picture: Displayed as an interactive menu item.
+o	CarPlay: Displayed as an interactive menu item.
 •	The Fourth module:
-	AutoFill & Passwords: Displayed as an interactive menu item.
+o	AutoFill & Passwords: Displayed as an interactive menu item.
 [00:00:08.939] The go back link (i.e., Settings >) was tapped.
 [00:00:09.507] The Settings app main interface is displaying.
 [00:00:09.714] The Settings App interface. 
 •	The interface is structured into two principal areas: the Status Bar and the Main Content Area.:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 3:56. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+	Time: Displays the local time as 3:56. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
 o	Main Content Area (The App Body)
-o	Positioned beneath the Status Bar, the main content area scrolls vertically and is organized into a prominent header, a search utility, user identification nodes, promotional/setup banners, and controls and settings:
-Primary Header: Aligned to the left, rendered in bold typography: "Settings".
-Global Search Bar: Positioned immediately beneath the header; a rounded gray inset container featuring a magnifying glass glyph on the left, placeholder text "Search", and a microphone glyph on the right.
-Apple Account Profile Node: A rounded rectangular anchor cell containing the Apple circular avatar, with the heading Apple Account on the right stacked above the descriptive text "Sign in to access your iCloud data, the App Store, Apple services, and more."
-Promotional & Setup Banners:
-* Finish Setting Up Your iPhone (1): An interactive configuration action item.
-* Get Help During an Emergency (1): An interactive configuration action item.
-* Settings Modules & Controls: The remaining settings are grouped into modules
+	Positioned beneath the Status Bar, the main content area scrolls vertically and is organized into a prominent header, a search utility, user identification nodes, promotional/setup banners, and controls and settings:
+•	Primary Header: Aligned to the left, rendered in bold typography: "Settings".
+•	Global Search Bar: Positioned immediately beneath the header; a rounded gray inset container featuring a magnifying glass glyph on the left, placeholder text "Search", and a microphone glyph on the right.
+•	Apple Account Profile Node: A rounded rectangular anchor cell containing the Apple circular avatar, with the heading Apple Account on the right stacked above the descriptive text "Sign in to access your iCloud data, the App Store, Apple services, and more."
+•	Promotional & Setup Banners:
+o	Finish Setting Up Your iPhone (1): An interactive configuration action item.
+o	Get Help During an Emergency (1): An interactive configuration action item.
+•	Settings Modules & Controls: The remaining settings are grouped into modules
 o	The First module:
 	Airplane Mode: Toggled Off (gray).
 	Wi-Fi: Displays the status "Off".
@@ -153,7 +152,7 @@ o	SIM PIN: Displayed as an interactive menu item.
 o	Delete eSIM: red colored letters
 [00:00:28.187] "Carrier Services" was tapped.
 [00:00:28.319] The "Verizon Services" interface is sliding into view.
-[00:00:29.078] The "Verizon Services" interface  is displaying.
+[00:00:29.078] The "Verizon Services" interface is displaying.
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 3:56. Positioned to its right is the silent mode icon.
@@ -186,7 +185,7 @@ o	System Services: Displayed the status 118 MB
 o	Settings: toggled on with the text 5.05 MB underneath it
 o	Weather (subtext "39.6 KB"): toggled Off (gray)
 o	App Store: toggled Off (gray)
-Astronomy: toggled Off (gray)
+o	Astronomy: toggled Off (gray)
 o	Show All: Displayed as an interactive menu item.
 •	The Fourth module:
 o	Wi-Fi Assist: toggled Off (gray).
@@ -200,7 +199,7 @@ o	Lifetime: Displays the status "0 Minutes"
 o	Enable Cellular Usage Statistics: toggled On (green)
 o	Reset Statistics (the blue colored letters imply this is a link).
 o	Explicative text under this module: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
-At the bottom of the interface, in small-sized gray letters the text: Last Reset: Apr 26, 2025 at 6:02 PM
+•	At the bottom of the interface, in small-sized gray letters the text: Last Reset: Apr 26, 2025 at 6:02 PM
 [00:01:16.429] The interface was scrolled back to the top.
 [00:01:17.353] The go back link (i.e., Settings >) was tapped.
 [00:01:17.584] The Settings app's main interface is sliding into view.
@@ -215,28 +214,28 @@ At the bottom of the interface, in small-sized gray letters the text: Last Reset
 [00:01:46.598] The Settings app interface is displayed.
 [00:01:46.598] The Settings interface appeared without change as compared to the description rendered at timestamp 00:00:09.714.
 [00:01:49.596] The Settings app interface was scrolled down, and the following settings came into view:
-o	The Second module continued:
-	Apple Intelligence & Siri: Displayed as an interactive menu item.
-	Camera: Displayed as an interactive menu item.
-	Control Center: Displayed as an interactive menu item.
-	Display & Brightness: Displayed as an interactive menu item.
-	Home Screen & App Library: Displayed as an interactive menu item.
-	Search: Displayed as an interactive menu item.
-	StandBy: Displayed as an interactive menu item.
-	Wallpaper: Displayed as an interactive menu item.
-o	The Third module:
-	Notifications: Displayed as an interactive menu item.
-	Sounds & Haptics: Displayed as an interactive menu item.
-	Focus: Displayed as an interactive menu item.
-	Screen Time: Displayed as an interactive menu item.
+•	The Second module continued:
+o	Apple Intelligence & Siri: Displayed as an interactive menu item.
+o	Camera: Displayed as an interactive menu item.
+o	Control Center: Displayed as an interactive menu item.
+o	Display & Brightness: Displayed as an interactive menu item.
+o	Home Screen & App Library: Displayed as an interactive menu item.
+o	Search: Displayed as an interactive menu item.
+o	StandBy: Displayed as an interactive menu item.
+o	Wallpaper: Displayed as an interactive menu item.
+•	The Third module:
+o	Notifications: Displayed as an interactive menu item.
+o	Sounds & Haptics: Displayed as an interactive menu item.
+o	Focus: Displayed as an interactive menu item.
+o	Screen Time: Displayed as an interactive menu item.
 [00:01:52.718] The interface was further scrolled down, and the following settings came into view:
-o	The Fourth module:
-	Face ID & Passcode: Displayed as an interactive menu item.
-	Emergency SOS: Displayed as an interactive menu item.
-	Privacy & Security: Displayed as an interactive menu item.
-o	The Fifth module:
-	Game Center: Displayed as an interactive menu item.
-	iCloud: Displayed as an interactive menu item.
+•	The Fourth module:
+o	Face ID & Passcode: Displayed as an interactive menu item.
+o	Emergency SOS: Displayed as an interactive menu item.
+o	Privacy & Security: Displayed as an interactive menu item.
+•	The Fifth module:
+o	Game Center: Displayed as an interactive menu item.
+o	iCloud: Displayed as an interactive menu item.
 [00:01:52.788] I tapped Privacy & Security
 [00:01:52.793] The "Privacy & Security" setting was tapped, and the background of the setting changed to gray.
 [00:01:52.859] The "Privacy & Security" is sliding into view.
@@ -284,7 +283,7 @@ o	Research Sensor & Usage Data (displays status "0"): Displayed as an interactiv
 o	Speech Recognition (displays status "0"): Displayed as an interactive menu item.
 •	The Fourth module: 
 o	Journaling Suggestions: Displayed as an interactive menu item.
-•	The Fifth module: 
+o	The Fifth module: 
 o	Safety Check: Displayed as an interactive menu item.
 o	Explicative text under this module: Protect your personal safety by staying aware of which people, apps, and devices have access to your information.
 •	The Fifth module: 
@@ -293,7 +292,7 @@ o	Explicative text under this module: Detect nude photos and video before they a
 •	The Sixth module: 
 o	Analytics & Improvement: Displayed as an interactive menu item.
 o	Apple Advertising: Displayed as an interactive menu item.
-•	The "TRANSPARENCY LOGS" module: 
+o	The "TRANSPARENCY LOGS" module: 
 o	App Privacy Report (displays status "On"): Displayed as an interactive menu item.
 o	Apple Intelligence Report (displays status "On"): Displayed as an interactive menu item.
 •	The "SECURITY" module: 
@@ -310,27 +309,27 @@ o	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
 	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
 	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Lockdown Mode".
-•	Interface Body:
-o	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
-	Icon Graphic: A solid blue rounded square containing a white palm hand symbol.
-	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in medium-sized, black, bold letters: "Lockdown Mode".
-	Descriptive Text: Sub-text detailing the function of the interface: "Turn on this extreme protection if you believe you're being targeted in a cyberattack. App, website, and feature functionality will be limited and some experiences may be completely unavailable."
-	Learn more...: Displayed in blue-colored text suggesting a hyperlink.
+o	Interface Body:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid blue rounded square containing a white palm hand symbol.
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in medium-sized, black, bold letters: "Lockdown Mode".
+•	Descriptive Text: Sub-text detailing the function of the interface: "Turn on this extreme protection if you believe you're being targeted in a cyberattack. App, website, and feature functionality will be limited and some experiences may be completely unavailable."
+•	Learn more...: Displayed in blue-colored text suggesting a hyperlink.
 	Turn Off Lockdown Mode: Visually separated within the module by a dividing line, displayed in red-colored letters as an interactive control.
-o	Protection Explanations Module: A listing detailing the functional changes that take place when the device is set to this mode:
-	Messages: Most message attachments are blocked, and some features are unavailable.
-	FaceTime: Incoming FaceTime calls from people you have not previously called are blocked. Features such as SharePlay and Live Photos are unavailable.
-	Web Browsing: Some web technologies and browsing features are blocked.
-	Photos: Location will be excluded by default when sharing photos, and Shared Albums will be removed from Photos.
-	Device Connections: Wired connections with another device or accessory while your iPhone is locked are blocked.
-	Wireless Connectivity: Automatically joining non-security Wi-Fi networks and 2G Cellular Connectivity are blocked.
-[00:02:12.794] The interface was scrolled down, these additional explanations came into view:
-	Apple Services: Incoming invitations for Apple Services from people you have not previously invited are blocked.  
-	Profiles: Configuration profiles, such as profiles for school or work, cannot be installed.  
-o	Additional Controls:
-	Configured Web Browsing: Displayed as an active menu item.
-	2G Cellular Connectivity: Toggled Off (gray).
-•	Explanatory text under this module: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
+	Protection Explanations Module: A listing detailing the functional changes that take place when the device is set to this mode:
+•	Messages: Most message attachments are blocked, and some features are unavailable.
+•	FaceTime: Incoming FaceTime calls from people you have not previously called are blocked. Features such as SharePlay and Live Photos are unavailable.
+•	Web Browsing: Some web technologies and browsing features are blocked.
+•	Photos: Location will be excluded by default when sharing photos, and Shared Albums will be removed from Photos.
+•	Device Connections: Wired connections with another device or accessory while your iPhone is locked are blocked.
+•	Wireless Connectivity: Automatically joining non-security Wi-Fi networks and 2G Cellular Connectivity are blocked.
+[00:02:12.794] The interface was scrolled down; these additional explanations came into view:
+•	Apple Services: Incoming invitations for Apple Services from people you have not previously invited are blocked.  
+•	Profiles: Configuration profiles, such as profiles for school or work, cannot be installed.  
+•	Additional Controls:
+o	Configured Web Browsing: Displayed as an active menu item.
+o	2G Cellular Connectivity: Toggled Off (gray).
+o	Explanatory text under this module: For enhanced security, 2G cellular connectivity is turned off when in Lockdown Mode. Emergency calls may temporarily turn on 2G, if needed.
 [00:02:22.592] The interface was scrolled back to the top.
 [00:02:23.215] The go back link (i.e., Back >) was tapped.
 [00:02:23.394] The "Privacy & Security" interface is displayed.
@@ -371,25 +370,25 @@ o	Fifth favorite:
 	Letter: Y
 	Subtitle: Yahoo
 	The Privacy report section: Below the Favorites section, composed of a heading and the report:
-•	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Privacy Report"
+•	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Privacy Report".
 •	The Report: A white rounded rectangle spanning the width of the interface, with the normal-sized black text: In the last seven days, Safari has prevented 0 trackers from profiling you.
 	The Edit button: below the Privacy Report Section, a small white pill button with the black text Edit in the middle of the interface. 
-o	The address bar and controls area: at the bottom of the interface, compose of a search bar. Below the search bar, the browser controls
-	 The search bar
-	 The Safari browser controls, five icons spanning the width of the interface: 
-•	The back icon:
-o	Color: gray, indicating a disabled state
-o	Icon: Left pointing chevron to go back to previous page
-•	The forward icon:
-o	Color: gray, indicating a disabled state
-o	Icon: Right pointing chevron to go back to previous page
-•	The Share icon:
-o	Color: gray, indicating a disabled state
-o	Icon: a rounded square with an upward pointing arrow on the top side
-•	The bookmark/favorites icon:
+	The address bar and controls area: at the bottom of the interface, compose of a search bar. Below the search bar, the browser controls
+•	The search bar.
+•	The Safari browser controls, five icons spanning the width of the interface: 
+o	The back icon:
+	Color: gray, indicating a disabled state
+	Icon: Left pointing chevron to go back to previous page
+o	The forward icon:
+	Color: gray, indicating a disabled state
+	Icon: Right pointing chevron to go back to previous page
+o	The Share icon:
+	Color: gray, indicating a disabled state
+	Icon: a rounded square with an upward pointing arrow on the top side
+o	The bookmark/favorites icon:
 	Color: blue, indicating it is operable
 	Icon: An open book
-•	The tabs icon:
+o	The tabs icon:
 	Color: blue, indicating it is operable
 	Icon: Two rounded squares, one superimposed on the other
 [00:02:57.083] The domain in the address bar changed from verizon.com to secure.verizon.com
@@ -410,15 +409,15 @@ o	Viewport area: The principal content of the browser, shows one tab:
 	The "My Verizon login" tab: composed of two elements; the container and the webpage's Title:
 •	The container: displayed on the upper side of the viewport, a single active tab occupies about 70% of the screen's width, and about 50% of the viewport's height. The tab is completely blank, except for the gray-circled-close button in the upper right side of it.
 •	The webpage's title: Under the tab's container, leading with With a red V favicon to the left of it, the small-sized black text "My Verizon login. Sign in to your Verizo..." 
-o	The controls area: pinned at the bottom of the screen a two band gray tool-bar, with the top band showing the type and number of tabs, and the bottom band showing the interface controls:
-	Top band: composed of two headings descriptive of the type and number of tabs open:
+	The controls area: pinned at the bottom of the screen a two-band gray tool-bar, with the top band showing the type and number of tabs, and the bottom band showing the interface controls:
+•	Top band: composed of two headings descriptive of the type and number of tabs open:
 o	First heading:
 	Text: Private
 	Color: Muted gray (indicating it is disabled)
 o	Second heading:
 	Text: 1 Tab
 	Color: Black
-o	Bottom band: Composed of three interface controls.
+•	Bottom band: Composed of three interface controls.
 o	First control:
 	Position: Far left
 	Icon: Plus sign
@@ -438,36 +437,38 @@ The "1 Tab" text change to "Start Page"
 [00:03:23.918] The Start Page started to fade in to view. Now the Bing and Google tiles had loaded the respective brand logos.
 [00:03:24.352] The section "Recently Closed Tabs" had the text "My Verizon login. Sign in to your Verizon Wireles..." text under it.
 [00:03:24.612] The Start Page now has the additional "Recently Closed Tabs" section.
-[00:03:24.612] 	The "Recently Closed Tabs" section appears between the Privacy report section and the Edit button. It is composed of a heading, a button, and the title of the recently closed tab:
-•	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Recently Closed Tabs"
-•	The Button: In line with the subheading, but opposite side, the far right, a borderless button with blue colored text "Clear All".
-•	The Recently Closed Tab: A white rounded rectangle spanning the width of the interface, with the normal-sized black text" My Verizon login. Sign in to your Verizon Wireles..."
+[00:03:24.612] The "Recently Closed Tabs" section appears between the Privacy report section and the Edit button. 
+•	It is composed of a heading, a button, and the title of the recently closed tab:
+o	Section Heading: Aligned to the left side of the screen, the mid-sized bold black text "Recently Closed Tabs"
+o	The Button: In line with the subheading, but opposite side, the far right, a borderless button with blue colored text "Clear All".
+o	The Recently Closed Tab: A white rounded rectangle spanning the width of the interface, with the normal-sized black text" My Verizon login. Sign in to your Verizon Wireles..."
 [00:03:35.520] The Safari app was dismissed. 
 As the app's windows shrinks out of view, the only visible status bar, is the one inside of the app's container. SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-03-35_520%20-%20Closing%20Safari%20App%20Shows%20ONLY%20Own%20Status%20Bar.png
 [00:03:35.652] The common status bar is fading into view.
 [00:03:36.090] The Home Screen is displayed.
-The interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 3:59. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
-•	Below the status bar, a pair of application widgets are displayed: 
-o	On the left, the Weather widget displays the text "Weather Unavailable"
-o	On the right, the Calendar widget displays the text "TUESDAY 27 No events today." 
+•	The interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 3:59. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+o	Below the status bar, a pair of application widgets are displayed: 
+	On the left, the Weather widget displays the text "Weather Unavailable"
+	On the right, the Calendar widget displays the text "TUESDAY 27 No events today." 
 o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
-•	Positioned just above the Dock is a persistent Search button. 
-•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+o	Positioned just above the Dock is a persistent Search button. 
+o	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:03:40.004] The Settings App was tapped.
 [00:03:40.136] Here we can see two status bars; one at the top of the screen as a common screen asset, and part of the wider system, and a second one, as belonging to the Settings app window. SCREENSHOT: "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-03-40_136%20-%20Settings%20app%20opening%20-%20two%20status%20bars.png"
 [00:03:40.763] The Settings App opened to the deep-level configuration "Verizon Services" page.
 [00:03:41.165] The information in the "Verizon Services" page appeared unchanged according to the description rendered at timestamp 00:00:29.078.
 [00:03:41.976] The go back link (i.e., Cellular >) was tapped.
 [00:03:42.177] The Cellular settings interface is sliding into view.
-[00:03:44.200] The Cellular settings interfaced displayed changes under the CELLULAR DATA module relative to the description rendered at timestamp 00:01:04.673. These were the updated stats: 
-Current Period: 127MB
-Current Period Roaming: Zero KB (no change)
-System Services: 120 MB
-Settings: toggled on with the text 5.07 MB underneath it
+[00:03:44.200] The Cellular settings interfaced displayed changes under the CELLULAR DATA module relative to the description rendered at timestamp 00:01:04.673. 
+These were the updated stats: 
+•	Current Period: 127MB
+•	Current Period Roaming: Zero KB (no change)
+•	System Services: 120 MB
+•	Settings: toggled on with the text 5.07 MB underneath it
 [00:03:49.086] The interface was scrolled all the way to the top.
 [00:03:49.086] The upper settings and controls of the Cellular settings interface appeared unchanged according to the description rendered at timestamp 00:00:21.393.
 [00:03:59.424] "Cellular Data Options" was tapped, and the background color of the setting changed from white to gray.
@@ -557,7 +558,7 @@ o	Low Data Mode helps reduce cellular data usage by pausing automatic update and
 [00:05:44.773] The "Set Up Cellular" interface began sliding up into view
 [00:05:45.235] The Set Up Cellular interface.
 •	The interface is visually organized into three principal areas: the Cancel button, the introductory sections, and the configuration controls:
-o	The button: at the top left of the interfaces container, a borderless blue text "Cancel" button
+o	The button: at the top left of the interface’s container, a borderless blue text "Cancel" button
 o	The introductory section: Positioned on the upper portion of the interface's container, presenting an introductory visual block composed of the following elements:
 	Icon Graphic: A blue wireless transmission antenna shape.
 	Primary heading: Centrally aligned or positioned directly adjacent, rendered in large-sized bold black letters "Set Up Cellular"
@@ -612,7 +613,6 @@ o	The Virtual Keyboard: Occupying the lower portion of the screen, a standard so
 [00:06:33.395] The green system privacy indicator for active camera hardware faded out of view.
 [00:06:35.566] The "Set Up Cellular" interface is displaying. 
 [00:06:42.045] "Cancel" was tapped. 
-[00:06:42.214] During this transition of of windows, the windows did not showed their own status bars. Instead, the status bar remained at the top and it only showed the time as 4:02, the dynamic island with the red dot indicating the screen recording is in use, and the battery icon appears partially covered by something pitch black. So we can only see the number 8. SCREENSHOT: "Capture_2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4_00-06-42_214 - anomalous status bar during windows transitions.png"
 [00:06:42.288] The "Set Up Cellular" interface is sliding downward out of view, while the preceding interface appears to be zooming forward and transition back into focus.
 [00:06:43.426] The Cellular settings interface is displaying, and the visible settings and controls appeared unchanged when compared to the description rendered at timestamp 00:03:44.200.
 [00:06:49.686] The interface was scrolled all the way to the top.
