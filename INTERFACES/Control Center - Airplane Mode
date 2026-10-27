@@ -18,7 +18,7 @@ The upper-left Control Center module contains a group of connectivity-related co
 o	Cellular data displayed as a green circular button displaying a signal strength icon consisting of one active white bar and three inactive gray bars
 o	Bluetooth displayed as a gray circular button indicating an inactive state.
 o	Hot spot displayed as a gray circular button indicating an inactive state.
-o	VPN displayed as a gray circular button with its symbol as a light gray shape, indicating a disabled state.
+o	VPN displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
 The Media Playback Module
 The upper-right Control Center module contains the media playback controls. 
 •	The module displays:
