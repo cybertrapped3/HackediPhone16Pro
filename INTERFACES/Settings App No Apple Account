@@ -7,7 +7,7 @@ o	Dynamic Island: The Dynamic Island is centered at the top of the display. A so
 o	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). (AIRPLANE MODE: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. ) The adjacent battery icon appears partially filled alongside the digital readout "48."
 o	Main Content Area (The App Body)
 o	Positioned beneath the Status Bar, the main content area scrolls vertically and is organized into a prominent header, a search utility, user identification nodes, promotional/setup banners, and controls and settings:
-•	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
+•	Primary Heading: Aligned to the left, rendered in large bold black typography: "Settings".
 Global Search Bar: Positioned immediately beneath the header; a rounded gray inset container featuring a magnifying glass glyph on the left, placeholder text "Search", and a microphone glyph on the right.
 Apple Account Profile Node: A rounded rectangular anchor cell containing the Apple circular avatar, with the heading Apple Account on the right stacked above the descriptive text "Sign in to access your iCloud data, the App Store, Apple services, and more."
 Promotional & Setup Banners:
