@@ -1,8 +1,89 @@
-1st part of the "Add Security Keys"
-[00:00:00.000] The  Control Center shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green. 
-[00:00:03.781] After I swiped the "Control Center" out of view, we see the Setting app main interface. 
-
-From left to right, the status bar showed the time 4:23, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 44 inside of it. 
+[00:00:00.000] The screen recording starts with the Control Center Interface on view.
+The interface occupies substantially the entire display and consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+Status Area
+•	At the top of the display, from left to right, the following elements are visible:
+o	A plus ("+") symbol positioned in the upper-left corner.
+o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	A power symbol positioned in the upper-right corner.
+Immediately below the status area are:
+o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of two active white bars and two inactive gray bars, accompanied by the network carrier and type as Verizon LTE.
+o	A battery indicator positioned on the right displaying a battery level of 44%.
+The Connectivity Module
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. The following controls are displayed:
+•	Airplane Mode, displayed as a gray circular button with a white airplane symbol, indicating an inactive state.
+•	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+•	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+•	Four additional controls displaying symbols visually consistent with:
+o	Cellular data displayed as a green circular button displaying a signal strength icon consisting of one active white bar and three inactive gray bars
+o	Bluetooth displayed as a gray circular button indicating an inactive state.
+o	Hot spot displayed as a gray circular button indicating an inactive state.
+o	VPN displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
+The Media Playback Module 
+The upper-right Control Center module contains the media playback controls. 
+•	The module displays:
+o	An empty media artwork placeholder positioned on the left side.
+o	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+o	The text "Not Playing" displayed beneath the artwork placeholder.
+o	A row of media playback controls consisting of:
+	Previous.
+	Play.
+	Next.
+The module displays no media title, artist information, or artwork.
+The Rotation Lock and Silent Mode Controls
+Immediately below the Connectivity Module are two circular system controls.
+•	These controls display symbols visually consistent with:
+o	Rotation Lock: Displayed as a gray circular button containing an open padlock with a curved arrow, indicating the rotation lock feature is inactive.
+o	Silent Mode: Displayed as a white circular button containing a red bell symbol with a diagonal slash through it, indicating the phone is in silent mode.
+The Focus Module
+Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
+The Brightness and Volume Controls
+•	Immediately below the Media Playback Module are two vertical slider controls.
+o	The left slider controls screen brightness and displays a sun symbol near its lower end. The brightness level is approximately 20% up.
+o	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 44% up.
+The Utility Controls
+The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
+•	The controls display symbols visually consistent with:
+o	Flashlight.
+o	Timer.
+o	Calculator.
+o	Camera.
+o	Screen Mirroring.
+o	Code Scanner (QR Scanner).
+o	Screen Recording: displaying a red circular recording indicator within the control.
+o	Notes / Quick Note.
+The Right-Edge Interface Icons
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group)
+[00:00:03.181] The Control Center was swiped up out of view. 
+[00:00:03.544] The Settings app main interface is displaying. 
+•	The interface is structured into two principal areas: the Status Bar and the Main Content Area.:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 4:23. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "44."
+•	Primary Heading: Aligned to the left, rendered in large bold black typography: "Settings".
+•	Interface Body:
+o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side.
+o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+o	Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
+o	Get Help During an Emergency (1): The promotional upsell banner displayed as an interactive menu item
+•	The subsequent controls and settings appeared as follows:
+o	First module:
+	Airplane Mode: Toggled Off (gray).
+	Wi-Fi: Displays the status "Off".
+	Bluetooth: Displays the status "Off".
+	Cellular: Displayed as an interactive menu item.
+	Personal Hotspot: Displays the status "Off".
+	Battery: Displayed as an interactive menu item.
+o	Second module:
+	General: Displayed as an interactive menu item.
+	Accessibility: Displayed as an interactive menu item.
+	Action Button: Displayed as an interactive menu item.
 [00:00:03.839] The time in the status bar is positioned closer to the dynamic island (timestamp 00:00:03.839 frame 115): SCREENSHOT
 [00:00:03.872] The time in the status bar shifted its position a tad father from the dynamic island (timestamp 00:00:03.872 frame 116): SCREENSHOT
 [00:00:04.650] The Settings app interface.  In this interface, settings and controls appeared as follows: 
@@ -25,45 +106,68 @@ Battery >
 General >
 Accessibility >
 Action Button >
-
-[00:00:05.265] The signal strength decreased from two to one bar. The network still LTE type. (FRAME 157)
+[00:00:05.265] The signal strength decreased from two to one bar. The network still LTE type.
+[00:00:06.296] "Cellular" was tapped, and the background of the menu item changed color from white to gray.
 [00:00:06.306] I tapped the Cellular setting
-[00:00:07.297] The Cellular settings interface.
+[00:00:06.362] The Cellular settings interface began to slid left into view.
+[00:00:07.297] The Cellular settings Interface.
+•	The interface is visually organized into three principal areas: the status area, the navigation area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:23. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays one solid black bar and three gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "44."
+o	Navigation Area: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid green rounded square containing a wireless transmission symbol.
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
+•	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
+	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+•	The First module: 
+o	Cellular Data:  Toggled On (green).
+o	Cellular Data Options: Displays the status "Roaming On."
+o	Personal Hotspot: Displays the status "Off".
+o	Explicative text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
+•	The VERIZON module:
+o	Turn On This Line:  Toggled On (green).
+o	My Number: +1 (669) 326-4200
+o	Wi-Fi Calling: Displays the status “Off.”
+o	Carrier Services: Displayed as an interactive menu item.
+o	SIM PIN: Displayed as an interactive menu item.
+o	Delete eSIM: red colored letters
+[00:00:12.936] The interface was scrolled down, and additional controls and statistics came into view: 
+•	The Third module:
+o	Add eSIM (in blue colored letters): Displayed as an interactive menu item. 
+•	The CELLULAR DATA module:
+o	Current Period: Displays the status “144MB.”
+[00:00:13.066] "Carrier Services" was tapped, and the background of the menu item changed color from white to gray.
+[00:00:13.165] The "Verizon Services" interface began to slide left into view. 
+[00:00:14.109] The "Verizon Services" interface  is displaying.
 
-Text under the interface's heading: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...
-
-In this interface, settings and controls appeared as follows: 
-
-Cellular Data: toggled On
-Cellular Data Options: Roaming On >
-Personal Hotspot: Off (and enabled, meaning, it can be control by the user, as opposed to situations in which the setting appears grayed out) 
-Text under this setting: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications. 
-
-Under the VERIZON module, settings and controls appeared as follows: 
-Turn On This Line: toggled On
-My Number +1 (669) 326-4200
-Wi-Fi Calling: Off >
-Carrier Services > 
-SIM PIN >
-Delete eSIM (red colored letters)
-
-Add eSIM (blue colored letters imply this is a link)
-
-Under the "CELLULAR DATA" module, settings and controls appeared as follows: 
-Current Period: 144MB
-[00:00:13.074] I tapped the "Carrier Services" setting
-[00:00:14.109] The "Verizon Services" interface
-The "Carrier Services" control (listed under the Cellular setting interface) leads to the "Verizon Services" interface. In this interface, settings and controls appeared as follows: 
-
-Call Forwarding Disable *73
-Directory Assistance 411
-Check Bill Balance #225
-Pay My Bill #768
-View My Minutes #646
-View My Data #3282
-
-My Verizon (blue colored letters which imply this is a link)
-[00:00:16.293] I navigated back to the Cellular settings interface
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:23. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays one solid black bar and three gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "44."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Cellular" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Verizon Services".
+o	Interface Body:
+	Information: Grouped into modules, Verizon call codes and a link to the user's account with the carrier:
+•	The First module:
+o	Call Forwarding Disable *73
+o	Directory Assistance 411
+o	Check Bill Balance #225
+o	Pay My Bill #768
+o	View My Minutes #646
+o	View My Data #3282
+•	The Second module:
+o	Link to user's account with the carrier: My Verizon (blue colored text)
+[00:00:15.650] The go back link (i.e., Cellular >) was tapped.
+[00:00:15.848] The Cellular settings interface began to slid right into view. The background of the menu item "Carrier Services" still has the color gray. 
+[00:00:16.293] The Cellular settings interface is displaying, and the background of the menu item "Carrier Services" transitioned to white. The interface appeared without change as compared to the description rendered at timestamp 00:00:07.297.
+CONTINUE HERE
 [00:00:21.753] Over the Cellular settings interface, I scrolled down, and under the "CELLULAR DATA" module, settings and controls appeared as follows: 
 
 Current Period: 144MB
@@ -77,7 +181,6 @@ Show All >
 
 Wi-Fi Assist: toggled off
 The text under this setting: Automatically use cellular data when Wi-Fi connectivity is poor.
-
 [00:00:24.975] I scrolled further down the Cellular settings interface, and more settings and controls appeared as follows: 
 
 iCloud Drive: toggled on
@@ -89,7 +192,6 @@ The text under this setting: When not connected to Wi-Fi, use your cellular netw
 Under the "CALL TIME" module, settings and controls appeared as follows: 
 Current Period 0 Minutes
 Lifetime 0 Minutes
-
 [00:00:25.348] All the way to the bottom of the Cellular setting interface, under the module "CELLULAR USAGE STATISTICS", settings and controls appeared as follows: 
 
 Enable Cellular Usage Statistics: toggled on
@@ -97,10 +199,9 @@ Reset Statistics (the blue colored letters imply this is a link)
 The text under this setting: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
 
 Last Reset: Apr 26, 2025 at 6:02 PM
-
 [00:00:37.807] I scrolled back up to the top of the Cellular settings interface
 [00:00:40.016] I tapped the "Cellular Data Options" setting
-[00:00:40.231] The signal strength increased from one to two bars. The network still LTE type. 
+[00:00:40.231] The signal strength increased from one to two bars. The network still LTE type.
 [00:00:40.680] The Cellular Data Options Interface. In this interface, settings and controls appeared as follows: 
 
 Data Roaming: toggled On
@@ -128,9 +229,9 @@ Further down in this interface, the setting:
 The text under this setting: 5G Standalone uses 5G for all cellular activity, including cellular network connections.
 [00:00:48.599] I navigated back to the "Cellular Data Options" interface
 [00:00:50.528] I navigated back to the Cellular settings main interface
-[00:01:00.268] The signal strength decreased from two to one bar. The network still LTE type. 
+[00:01:00.268] The signal strength decreased from two to one bar. The network still LTE type.
 [00:01:01.014] I navigated back to the Settings app main interface
-[00:01:01.210] The signal strength increased from one to two bars. The network still LTE type. 
+[00:01:01.210] The signal strength increased from one to two bars. The network still LTE type.
 [00:01:02.419] I tapped the "Apple Account" settings
 [00:01:04.402] The Apple Account Interface. In this interface, settings and controls appeared as follows: 
 
@@ -221,11 +322,11 @@ From left to right, the status bar showed the Verizon network, with the silenced
 
 Most prominently in view, is the date and time which appeared as Sunday, April 27 4:24
 
-On the lower side of the interface, two icons appeared: Flashlight on the left and Camera on the right. 
+On the lower side of the interface, two icons appeared: Flashlight on the left and Camera on the right.
 [00:01:35.760] For a fraction of a second, the "No Older Notifications" status appeared on the screen
 [00:01:38.569] I swiped the Control Center in to view. 
 
-The interface shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green. 
+The interface shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green.
 [00:01:39.849] HIGHLIGHTS: 
 
 1) At the videos timestamp 00:00:25.348, we saw that the Phone Statistics were "Last Reset Apr 26, 2025 at 6:02PM". It is important I state that I did not execute this reset, and that this reset was likely effectuated when the eSIM was apparently activated by Verizon when I was in their store.
