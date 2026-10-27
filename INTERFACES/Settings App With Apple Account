@@ -1,13 +1,12 @@
 The Settings App interface. 
 
 The Settings App interface. 
-•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+•	The interface is visually organized into three principal areas: the status area, the header, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 11:24. Positioned to its right is the silent mode icon.
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. Immediately to the right of the Dynamic Island, a small orange circular indicator denotes that the system microphone is simultaneously active (consistent with audio capture or voice recording functionality).
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
+o	Connectivity & Power: (CELL CONNECTION: The Signal Strength icon shows two black bars and two gray ones. The adjacent network label appears as LTE. ) The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 49 centered within the housing.
+•	Primary Heading: Aligned to the left, rendered in bold black typography: "Settings".
 •	Interface Body:
 o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
 o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
