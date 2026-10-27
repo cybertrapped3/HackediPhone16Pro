@@ -57,7 +57,8 @@ The Right-Edge Interface Icons
 o	A heart symbol (Favorites/Home group, the current one).
 o	A musical note symbol (Media Playback group).
 o	A wireless transmission symbol (Connectivity group)
-[00:00:03.181] The Control Center was swiped up out of view. 
+[00:00:03.181] The Control Center was swiped up out of view.
+[00:00:03.409] The time in the status bar is positioned closer to the dynamic island (timestamp 00:00:03.409 frame 102 - SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_04-23-04_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-23-04_1.MP4_00-00-03_409%20-%20Settings%20App%20System%20Time%20Closer%20to%20Dynamic%20Island.png)
 [00:00:03.544] The Settings app main interface is displaying. 
 •	The interface is structured into two principal areas: the Status Bar and the Main Content Area.:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -84,28 +85,7 @@ o	Second module:
 	General: Displayed as an interactive menu item.
 	Accessibility: Displayed as an interactive menu item.
 	Action Button: Displayed as an interactive menu item.
-[00:00:03.839] The time in the status bar is positioned closer to the dynamic island (timestamp 00:00:03.839 frame 115): SCREENSHOT
-[00:00:03.872] The time in the status bar shifted its position a tad father from the dynamic island (timestamp 00:00:03.872 frame 116): SCREENSHOT
-[00:00:04.650] The Settings app interface.  In this interface, settings and controls appeared as follows: 
-
-Search bar
-
-Veronica Cisneros. Apple Account, iCloud, and more >
-Apple News+ Free for 3 Months >
-
-Finish Setting Up Your iPhone (1)
-Get Help During an Emergency (1)
-
-Airplane Mode: Toggled Off
-Wi-Fi: Off >
-Bluetooth: Off >
-Cellular On >
-Personal Hotspot: Off > (and enabled, meaning, it can be control by the user, as opposed to situations in which the setting appears grayed out) 
-Battery >
-
-General >
-Accessibility >
-Action Button >
+[00:00:03.871] The time in the status bar is positioned closer to the dynamic island (timestamp 00:00:03.871 frame 116 - SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_04-23-04_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-23-04_1.MP4_00-00-03_871%20-%20Settings%20App%20System%20Time%20Normal%20Position%20RE%20Dynamic%20Island.png)
 [00:00:05.265] The signal strength decreased from two to one bar. The network still LTE type.
 [00:00:06.296] "Cellular" was tapped, and the background of the menu item changed color from white to gray.
 [00:00:06.306] I tapped the Cellular setting
@@ -142,7 +122,7 @@ o	Add eSIM (in blue colored letters): Displayed as an interactive menu item.
 •	The CELLULAR DATA module:
 o	Current Period: Displays the status “144MB.”
 [00:00:13.066] "Carrier Services" was tapped, and the background of the menu item changed color from white to gray.
-[00:00:13.165] The "Verizon Services" interface began to slide left into view. 
+[00:00:13.165] The "Verizon Services" interface began to slide left into view.
 [00:00:14.109] The "Verizon Services" interface  is displaying.
 
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
@@ -165,74 +145,99 @@ o	View My Data #3282
 •	The Second module:
 o	Link to user's account with the carrier: My Verizon (blue colored text)
 [00:00:15.650] The go back link (i.e., Cellular >) was tapped.
-[00:00:15.848] The Cellular settings interface began to slid right into view. The background of the menu item "Carrier Services" still has the color gray. 
+[00:00:15.848] The Cellular settings interface began to slid right into view. The background of the menu item "Carrier Services" still has the color gray.
 [00:00:16.293] The Cellular settings interface is displaying, and the background of the menu item "Carrier Services" transitioned to white. The interface appeared without change as compared to the description rendered at timestamp 00:00:07.297.
-CONTINUE HERE
-[00:00:21.753] Over the Cellular settings interface, I scrolled down, and under the "CELLULAR DATA" module, settings and controls appeared as follows: 
+[00:00:20.252] The interface was scrolled down, and additional statistics and settings came into view:
+•	The CELLULAR DATA module (continued):
+o	Current Period Roaming: Displays the status “Zero KB.”
+o	System Services (Displaying status 135MB): Displayed as an interactive menu item.
+o	Settings (displaying subtext 6.39 MB): toggled "On" (green).
+o	Safari (displaying subtext 1.48 MB): toggled "On" (green).
+[00:00:21.920] The interface was scrolled further down, and additional settings and controls came into view:
+•	The CELLULAR DATA module (continued):
+o	Maps (displaying subtext 3.59 MB): toggled "On" (green).
+o	Safari (displaying subtext 170 KB): toggled "On" (green).
+o	Show All: Displayed as an interactive menu item.
+•	The Fourth module: 
+o	Wi-Fi Assist: toggled "Off" (gray).
+o	Explicative text under this module: Automatically use cellular data when Wi-Fi connectivity is poor.
 
-Current Period: 144MB
-Current Period Roaming Zero KB
-System Services: 135 MB
-Settings: toggled on with the text 6.39 MB underneath it
-Safari: toggled off with the text 1.48 KB underneath it
-Maps: toggled on with the text 359 KB underneath it
-Phone: toggled off with the text 170 KB underneath it
-Show All >
-
-Wi-Fi Assist: toggled off
-The text under this setting: Automatically use cellular data when Wi-Fi connectivity is poor.
-[00:00:24.975] I scrolled further down the Cellular settings interface, and more settings and controls appeared as follows: 
-
-iCloud Drive: toggled on
-The text under this setting: When not connected to Wi-Fi, use cellular network to transfer documents and data. 
-
-iCloud Backup: toggled on
-The text under this setting: When not connected to Wi-Fi, use your cellular network to automatically back up to iCloud. This may cause you to exceed your cellular data plan. 
-
-Under the "CALL TIME" module, settings and controls appeared as follows: 
-Current Period 0 Minutes
-Lifetime 0 Minutes
-[00:00:25.348] All the way to the bottom of the Cellular setting interface, under the module "CELLULAR USAGE STATISTICS", settings and controls appeared as follows: 
-
-Enable Cellular Usage Statistics: toggled on
-Reset Statistics (the blue colored letters imply this is a link)
-The text under this setting: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
-
-Last Reset: Apr 26, 2025 at 6:02 PM
-[00:00:37.807] I scrolled back up to the top of the Cellular settings interface
-[00:00:40.016] I tapped the "Cellular Data Options" setting
+[00:00:24.840] The interface was scrolled further down, and additional settings and statistics came into view: 
+•	The Fifth module: 
+o	iCloud Drive: toggled "On" (green).
+o	Explicative text under this module: When not connected to Wi-Fi, use cellular network to transfer documents and data.
+•	The Sixth module: 
+o	iCloud Backup: toggled "On" (green).
+o	Explicative text under this module: When not connected to Wi-Fi, use your cellular network to automatically back up to iCloud. This may cause you to exceed your cellular data plan.
+•	The CALL TIME module: 
+o	Current Period: displaying status 0 Minutes.
+o	Lifetime: displaying status 0 Minutes.
+[00:00:26.260] The interface was scrolled all the way down, and these additional settings and controls came into view: 
+•	The CELLULAR USAGE STATSTICS module: 
+o	Enable Cellular Usage Statistics: toggled "On" (green).
+o	Reset Statistics (in blue colored letters).
+o	Explicative text under this module: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero.
+Lastly, all the day to the bottom, in small-sized gray text, the information "Last Reset: Apr 26, 2025 at 6:02 PM"
+[00:00:39.812] The interface was scrolled up, almost, but not quite, to the top. 
+[00:00:40.010] "Cellular Data Options" was tapped, and the background of the menu item changed color from white to gray.
+[00:00:40.076] The "Cellular Data Options" began to slide left into view.
 [00:00:40.231] The signal strength increased from one to two bars. The network still LTE type.
-[00:00:40.680] The Cellular Data Options Interface. In this interface, settings and controls appeared as follows: 
-
-Data Roaming: toggled On
-Voice & Data: 5G Auto >
-Data Mode: Allow More Data on 5G >
-
-Limit IP Address Tracking: toggle On
-The text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
+[00:00:40.881] The Cellular Data Options Interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:23. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "44."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Cellular" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Cellular Data Options".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+	Under the First module:
+•	Data Roaming: toggled "On" (green).
+•	Voice & Data (Showing status "5G Auto": Displayed as an interactive menu item.
+•	Data Mode (Showing status "Allow More Data on 5G": Displayed as an interactive menu item.
+	Under the Second module:
+•	Limit IP Address Tracking: toggled On (green).
+•	Explicatory text under this module: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari.
+[00:00:45.219] "Voice & Data" was tapped, and the background of the menu item changed color from white to gray.
 [00:00:45.238] I tapped the "Voice & Data" setting
-[00:00:45.792] The Voice & Data Interface. In this interface, settings and controls appeared as follows:
-
-5G Auto: blue check mark
-5G On
-LTE
-
-Under this list, the following descriptions appeared:
-
-5G Auto uses 5G only when needed for performance while optimizing battery life. 
-
-5G On uses 5G whenever it is available, even when it may reduce battery life or performance. 
-
-Further down in this interface, the setting:
-
-5G Standalone: toggled on. 
-The text under this setting: 5G Standalone uses 5G for all cellular activity, including cellular network connections.
+[00:00:45.318] The "Voice & Data" began to slide left into view.
+[00:00:45.792] The "Voice & Data" interface. 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:23. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "44."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Voice & Data".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+	Under the First module:
+•	5G Auto: blue colored check mark on the far left (indicating this mode is selected).
+•	5G On
+•	LTE
+•	Explicatory text under this module composed of two paragraphs: 
+o	5G Auto uses 5G only when needed for performance while optimizing battery life. 
+o	5G On uses 5G whenever it is available, even when it may reduce battery life or performance. 
+	Under the Second module:
+•	5G Standalone: toggled: toggled On (green).
+•	Explicatory text under this module composed of two paragraphs: 5G Standalone uses 5G for all cellular activity, including cellular network connections.
+[00:00:47.885] The go back link (i.e., Back >) was tapped.
+[00:00:48.017] The "Cellular Data Options" interface began to slide right into view.
 [00:00:48.599] I navigated back to the "Cellular Data Options" interface
-[00:00:50.528] I navigated back to the Cellular settings main interface
+[00:00:48.611] The "Cellular Data Options" is displaying.
+[00:00:50.044] The go back link (i.e., Cellular >) was tapped.
+[00:00:50.209] The Cellular settings interface began to slide right into view, and the background of the menu item "Cellular Data Options" still has the color gray.
+[00:00:50.638] The Cellular settings interface is displaying, and the background of the menu item "Cellular Data Options" transitioned to white. The interface appeared without change as compared to the description rendered at timestamp 00:00:07.297.
+[00:00:57.882] The interface was scrolled all the way to the top. 
+[00:01:00.097] The go back link (i.e., Settings >) was tapped.
+[00:01:00.196] The Settings app main interface began to slide right into view, and the background of the menu item "Cellular" still has the color gray.
 [00:01:00.268] The signal strength decreased from two to one bar. The network still LTE type.
+[00:01:00.658] The Settings app main interface interface is displaying, and the background of the menu item "Cellular" transitioned to white. The interface appeared without change as compared to the description rendered at timestamp 00:00:03.544.
 [00:01:01.014] I navigated back to the Settings app main interface
 [00:01:01.210] The signal strength increased from one to two bars. The network still LTE type.
-[00:01:02.419] I tapped the "Apple Account" settings
+[00:01:02.396] The Apple ID / iCloud Profile Node was tapped, and the background of the menu item changed color from white to gray.
+[00:01:02.419] The "Apple Account" began to slide left into view.
 [00:01:04.402] The Apple Account Interface. In this interface, settings and controls appeared as follows: 
 
 Veronica Cisneros
