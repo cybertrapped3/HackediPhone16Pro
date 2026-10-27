@@ -1,0 +1,240 @@
+1st part of the "Add Security Keys"
+[00:00:00.000] The  Control Center shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green. 
+[00:00:03.781] After I swiped the "Control Center" out of view, we see the Setting app main interface. 
+
+From left to right, the status bar showed the time 4:23, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 44 inside of it. 
+[00:00:03.839] The time in the status bar is positioned closer to the dynamic island (timestamp 00:00:03.839 frame 115): SCREENSHOT
+[00:00:03.872] The time in the status bar shifted its position a tad father from the dynamic island (timestamp 00:00:03.872 frame 116): SCREENSHOT
+[00:00:04.650] The Settings app interface.  In this interface, settings and controls appeared as follows: 
+
+Search bar
+
+Veronica Cisneros. Apple Account, iCloud, and more >
+Apple News+ Free for 3 Months >
+
+Finish Setting Up Your iPhone (1)
+Get Help During an Emergency (1)
+
+Airplane Mode: Toggled Off
+Wi-Fi: Off >
+Bluetooth: Off >
+Cellular On >
+Personal Hotspot: Off > (and enabled, meaning, it can be control by the user, as opposed to situations in which the setting appears grayed out) 
+Battery >
+
+General >
+Accessibility >
+Action Button >
+
+[00:00:05.265] The signal strength decreased from two to one bar. The network still LTE type. (FRAME 157)
+[00:00:06.306] I tapped the Cellular setting
+[00:00:07.297] The Cellular settings interface.
+
+Text under the interface's heading: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...
+
+In this interface, settings and controls appeared as follows: 
+
+Cellular Data: toggled On
+Cellular Data Options: Roaming On >
+Personal Hotspot: Off (and enabled, meaning, it can be control by the user, as opposed to situations in which the setting appears grayed out) 
+Text under this setting: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications. 
+
+Under the VERIZON module, settings and controls appeared as follows: 
+Turn On This Line: toggled On
+My Number +1 (669) 326-4200
+Wi-Fi Calling: Off >
+Carrier Services > 
+SIM PIN >
+Delete eSIM (red colored letters)
+
+Add eSIM (blue colored letters imply this is a link)
+
+Under the "CELLULAR DATA" module, settings and controls appeared as follows: 
+Current Period: 144MB
+[00:00:13.074] I tapped the "Carrier Services" setting
+[00:00:14.109] The "Verizon Services" interface
+The "Carrier Services" control (listed under the Cellular setting interface) leads to the "Verizon Services" interface. In this interface, settings and controls appeared as follows: 
+
+Call Forwarding Disable *73
+Directory Assistance 411
+Check Bill Balance #225
+Pay My Bill #768
+View My Minutes #646
+View My Data #3282
+
+My Verizon (blue colored letters which imply this is a link)
+[00:00:16.293] I navigated back to the Cellular settings interface
+[00:00:21.753] Over the Cellular settings interface, I scrolled down, and under the "CELLULAR DATA" module, settings and controls appeared as follows: 
+
+Current Period: 144MB
+Current Period Roaming Zero KB
+System Services: 135 MB
+Settings: toggled on with the text 6.39 MB underneath it
+Safari: toggled off with the text 1.48 KB underneath it
+Maps: toggled on with the text 359 KB underneath it
+Phone: toggled off with the text 170 KB underneath it
+Show All >
+
+Wi-Fi Assist: toggled off
+The text under this setting: Automatically use cellular data when Wi-Fi connectivity is poor.
+
+[00:00:24.975] I scrolled further down the Cellular settings interface, and more settings and controls appeared as follows: 
+
+iCloud Drive: toggled on
+The text under this setting: When not connected to Wi-Fi, use cellular network to transfer documents and data. 
+
+iCloud Backup: toggled on
+The text under this setting: When not connected to Wi-Fi, use your cellular network to automatically back up to iCloud. This may cause you to exceed your cellular data plan. 
+
+Under the "CALL TIME" module, settings and controls appeared as follows: 
+Current Period 0 Minutes
+Lifetime 0 Minutes
+
+[00:00:25.348] All the way to the bottom of the Cellular setting interface, under the module "CELLULAR USAGE STATISTICS", settings and controls appeared as follows: 
+
+Enable Cellular Usage Statistics: toggled on
+Reset Statistics (the blue colored letters imply this is a link)
+The text under this setting: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
+
+Last Reset: Apr 26, 2025 at 6:02 PM
+
+[00:00:37.807] I scrolled back up to the top of the Cellular settings interface
+[00:00:40.016] I tapped the "Cellular Data Options" setting
+[00:00:40.231] The signal strength increased from one to two bars. The network still LTE type. 
+[00:00:40.680] The Cellular Data Options Interface. In this interface, settings and controls appeared as follows: 
+
+Data Roaming: toggled On
+Voice & Data: 5G Auto >
+Data Mode: Allow More Data on 5G >
+
+Limit IP Address Tracking: toggle On
+The text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
+[00:00:45.238] I tapped the "Voice & Data" setting
+[00:00:45.792] The Voice & Data Interface. In this interface, settings and controls appeared as follows:
+
+5G Auto: blue check mark
+5G On
+LTE
+
+Under this list, the following descriptions appeared:
+
+5G Auto uses 5G only when needed for performance while optimizing battery life. 
+
+5G On uses 5G whenever it is available, even when it may reduce battery life or performance. 
+
+Further down in this interface, the setting:
+
+5G Standalone: toggled on. 
+The text under this setting: 5G Standalone uses 5G for all cellular activity, including cellular network connections.
+[00:00:48.599] I navigated back to the "Cellular Data Options" interface
+[00:00:50.528] I navigated back to the Cellular settings main interface
+[00:01:00.268] The signal strength decreased from two to one bar. The network still LTE type. 
+[00:01:01.014] I navigated back to the Settings app main interface
+[00:01:01.210] The signal strength increased from one to two bars. The network still LTE type. 
+[00:01:02.419] I tapped the "Apple Account" settings
+[00:01:04.402] The Apple Account Interface. In this interface, settings and controls appeared as follows: 
+
+Veronica Cisneros
+cyberonica@icloud.com
+
+Personal Information >
+Sign-In & Security >
+Payment & Shipping >
+Subscriptions >
+
+iCloud 5 GB >
+Family Set Up >
+Find My >
+Media & Purchases > 
+Sign in with Apple >
+
+iPhone (This iPhone 16 Pro) >
+[00:01:06.575] I tapped Sign-In & Security
+[00:01:08.874] The Sign-In & Security Interface.  
+ 
+Under the EMAIL & PHONE NUMBERS module, settings and controls appeared as follows: 
+cyberonica@icloud.com (Primary email) >
++1 (669) 326-4200 (Unavailable for sharing) >
+
+Add Email or Phone Number (blue colored letters imply this is a link)
+Text under these settings: These email addresses and phone numbers can be used to sign in, verify your identity, and help recover your account. They can also be used to reach you with iMessage, FaceTime, Game Center, and more. 
+
+Under the SECURITY module, settings and controls appeared as follows: 
+Change Password ( (blue colored letters imply this is a link)
+Two-Factor Authentication >
+Text under these settings: Your trusted devices and phone number are used to verify your identity when signing in. 
+
+Under the RECOVERY METHODS module, settings and controls appeared as follows: 
+Recovery Contacts Set Up >
+Recovery Key Set Up >
+Text under these settings: Regain access to your account and data if you forget your password or device passcode.
+
+Legacy Contact Set Up >
+Text under this settings: A legacy contact is someone you trust to have access to the data in your account after your death. 
+
+Automatic Verification On >
+[00:01:16.134] I tapped the Two-Factor authentication setting
+[00:01:16.657] The Two-Factor Authentication Interface.  
+
+Under the VERIFY USING module, settings and controls appeared as follows: 
+iPhone (This iPhone 16 Pro) >
++1 (669) 326-4200 (Trusted phone number) >
+Add a Trusted Phone Number (blue colored letters imply this is a link)
+Text under these settings: For security, when you sign in to your account on a new device or on the web, you'll need both your password and a second factor, such as a 6-digit code sent to your devices or your phone numbers. 
+
+Under the ADVANCED module, settings and controls appeared as follows: 
+Security Keys Set Up >
+Text under this setting: Physical security keys provided a strong form of two factor authentication against phishing and unauthorized access to your account. Learn more... (blue colored letters imply this is a link)
+[00:01:18.376] I tapped the Security Keys setting
+[00:01:19.525] The Security Keys Interface.  
+
+Under the heading, the following text appeared: 
+A FIDO Certified security key is third-party hardware that you can use for two-factor authentication when you sign in. 
+
+Strongest account security
+Physical security keys provide strong protection against phishing and unauthorized access to your account.
+
+Replaces verification code
+A physical security key replaces verification codes sent to your devices when signing or resetting your password. 
+
+FIDO Certified is a trademark (registered in numerous countries) of FIDO Alliance, Inc. 
+
+The blue button: Add Security Keys
+
+Learn More (blue colored letters imply this is a link)
+[00:01:22.160] I tapped the "Add Security Keys" button
+[00:01:22.744] The screen with the heading "You Need Two Security Keys" came into view.
+
+Under this heading, the following text appeared: To get started, you need two compatible security keys. This makes sure you can always sign in to your account, even if you lose one. 
+
+How to choose the right security keys.  (blue colored letters imply this is a link)
+
+Blue button: Continue
+[00:01:25.660] I tapped the Continue button (timestamp 00:01:26.518 FRAME 2569)
+[00:01:25.726] The tapped Continue button showed the spinning wheel
+[00:01:26.518] The blue button Continue reappeared (timestamp 00:01:26.518 FRAME 2592)
+[00:01:27.508] A second later, Continue button still visible as Enter Passcode prompt just started to slid in to view from the right (timestamp 00:01:27.508 FRAME 2622)
+[00:01:28.028] I was prompted to "Enter Your iPhone Passcode. Enter the passcode you use to unlock this iPhone to add security keys."
+[00:01:34.896] I swiped down in to view the Notifications Center. 
+
+From left to right, the status bar showed the Verizon network, with the silenced phone alerts icon to the right. Next, The dynamic island (which indicates the screen recorder is in use) with a red circle on the left side. To its right, the signal strength icon shows two bars solid white and the other two faded teal. To its right, the network type as LTE. The last icon, the battery charge level, showed the number 44.
+
+Most prominently in view, is the date and time which appeared as Sunday, April 27 4:24
+
+On the lower side of the interface, two icons appeared: Flashlight on the left and Camera on the right. 
+[00:01:35.760] For a fraction of a second, the "No Older Notifications" status appeared on the screen
+[00:01:38.569] I swiped the Control Center in to view. 
+
+The interface shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green. 
+[00:01:39.849] HIGHLIGHTS: 
+
+1) At the videos timestamp 00:00:25.348, we saw that the Phone Statistics were "Last Reset Apr 26, 2025 at 6:02PM". It is important I state that I did not execute this reset, and that this reset was likely effectuated when the eSIM was apparently activated by Verizon when I was in their store.
+
+2) Also, I want to point out at the anomaly that the time and silenced bell icon shifted position father from the dynamic island for no apparent reason. I noticed this happened from one frame to another; so, the anomaly is unlikely to be noticed by non analytical eyes. I INCLUDE SHEENSHOTS BELOW (contiguous frames):
+a) "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-00-03_839 - status bar time and bell closer to dynamic island.png"
+b) "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-00-03_872 - status bar time and bell farther from dynamic island"
+
+3) Lastly, I want to mention that in this screen recording, right before the keys are added, I felt the Continue button that is tapped just in the final step, behaved anomalous. Not coincidentally, an "Enter Your iPhone Passcode" prompt slid in to view. The screenshots through which can analyze this more slowly are listed below: 
+a) SCREENRECORDING FRAME: "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-01-25_726 - The tapped Continue button showed the spinning wheel.png"
+b) SCREENRECORDING FRAME: "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-01-26_518 - The blue button Continue reappeared.png"
+c) SCREENRECORDING FRAME: "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-01-27_508 - after 1 second button visible as Enter Passcode prompt.png"
