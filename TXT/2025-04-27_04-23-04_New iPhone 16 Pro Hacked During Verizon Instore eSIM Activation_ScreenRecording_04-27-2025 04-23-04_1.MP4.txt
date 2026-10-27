@@ -85,7 +85,7 @@ o	Second module:
 	General: Displayed as an interactive menu item.
 	Accessibility: Displayed as an interactive menu item.
 	Action Button: Displayed as an interactive menu item.
-[00:00:03.871] The time in the status bar is positioned closer to the dynamic island (timestamp 00:00:03.871 frame 116 - SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_04-23-04_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-23-04_1.MP4_00-00-03_871%20-%20Settings%20App%20System%20Time%20Normal%20Position%20RE%20Dynamic%20Island.png)
+[00:00:03.871] The time in the status bar is positioned father from the dynamic island --normal position - timestamp 00:00:03.871 frame 116 - SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_04-23-04_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-23-04_1.MP4_00-00-03_871%20-%20Settings%20App%20System%20Time%20Normal%20Position%20RE%20Dynamic%20Island.png)
 [00:00:05.265] The signal strength decreased from two to one bar. The network still LTE type.
 [00:00:06.296] "Cellular" was tapped, and the background of the menu item changed color from white to gray.
 [00:00:06.306] I tapped the Cellular setting
