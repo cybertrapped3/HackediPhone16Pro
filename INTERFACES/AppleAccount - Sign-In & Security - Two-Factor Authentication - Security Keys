@@ -1,0 +1,22 @@
+The Security Keys Interface
+•	The interface is visually organized into three principal sections: the upper navigation area; the main introductory area, comprising illustrations, a heading, and explanatory text; and the footer area, containing a trademark notice, a primary action button, and an informational link:
+o	Upper Navigation Area: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
+o	Main Introductory Area:
+	Illustrations: Two blue illustrations of physical security keys, positioned near the top of the interface:
+•	The first depicts a security key with a USB-C connector at its lower end and a flashlight-like one at its upper end.
+•	The second depicts a security key with a touch sensor and a USB-C connector at its lower end.
+	Heading: The text “Security Keys,” displayed in large, bold, black lettering centered horizontally.
+	Explicatory text: Each item leading with a blue icon, a bold subheading, and the explicatory text in normal-sized letters:
+•	First item:
+o	Icon: padlock
+o	Subheading: Strongest account security. 
+o	Explicatory text: Physical security keys provide strong protection against phishing and unauthorized access to your account.
+•	Second item: 
+o	Icon: human silhouette with a checkmark
+o	Subheading: Replaces verification codes.
+o	Explicatory text: A physical security key replaces verification codes sent to your devices when signing in or resetting your password.
+o	Footer Area
+	Trademark notice: The following trademark statement appears in the footer:
+“FIDO Certified is a trademark (registered in numerous countries) of FIDO Alliance, Inc.”
+	Primary action button: A blue button with white lettering, labeled “Add Security Keys,” extending across nearly the full width of the interface.
+	Informational link: A link labeled “Learn More,” positioned below the primary action button.
