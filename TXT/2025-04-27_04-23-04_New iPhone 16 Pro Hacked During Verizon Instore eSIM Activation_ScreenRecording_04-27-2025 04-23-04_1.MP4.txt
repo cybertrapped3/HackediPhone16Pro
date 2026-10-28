@@ -1,4 +1,5 @@
-[00:00:00.000] The screen recording starts with the Control Center Interface on view.
+[00:00:00.000] The Control Center Interface.
+The screen recording starts with the Control Center Interface on view.
 The interface occupies substantially the entire display and consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
 Status Area
 •	At the top of the display, from left to right, the following elements are visible:
@@ -17,7 +18,7 @@ The upper-left Control Center module contains a group of connectivity-related co
 o	Cellular data displayed as a green circular button displaying a signal strength icon consisting of one active white bar and three inactive gray bars
 o	Bluetooth displayed as a gray circular button indicating an inactive state.
 o	Hot spot displayed as a gray circular button indicating an inactive state.
-o	VPN displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
+o	VPN displayed as a gray circular button with its symbol as a light gray shape, indicating a disabled and non-operable state.
 The Media Playback Module 
 The upper-right Control Center module contains the media playback controls. 
 •	The module displays:
@@ -60,28 +61,28 @@ o	A wireless transmission symbol (Connectivity group)
 [00:00:03.181] The Control Center was swiped up out of view.
 [00:00:03.409] The time in the status bar is positioned closer to the dynamic island (timestamp 00:00:03.409 frame 102 - SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/Capture_2025-04-27_04-23-04_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-23-04_1.MP4_00-00-03_409%20-%20Settings%20App%20System%20Time%20Closer%20to%20Dynamic%20Island.png)
 [00:00:03.544] The Settings app main interface is displaying. 
-•	The interface is structured into two principal areas: the Status Bar and the Main Content Area.:
+•	The interface is structured into two principal areas: the Status Bar and the Main Content Area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 4:23. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "44."
-•	Primary Heading: Aligned to the left, rendered in large bold black typography: "Settings".
-•	Interface Body:
-o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
-o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side.
-o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
-	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+	Time: Displays the local time as 4:23. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "44."
+o	Primary Heading: Aligned to the left, rendered in large bold black typography: "Settings".
+o	Interface Body:
+	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+•	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side.
+•	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+o	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
 o	Finish Setting Up Your iPhone (1): The configuration action item displayed as an interactive menu item
 o	Get Help During an Emergency (1): The promotional upsell banner displayed as an interactive menu item
 •	The subsequent controls and settings appeared as follows:
-o	First module:
+o	The First module:
 	Airplane Mode: Toggled Off (gray).
 	Wi-Fi: Displays the status "Off".
 	Bluetooth: Displays the status "Off".
 	Cellular: Displayed as an interactive menu item.
 	Personal Hotspot: Displays the status "Off".
 	Battery: Displayed as an interactive menu item.
-o	Second module:
+o	The Second module:
 	General: Displayed as an interactive menu item.
 	Accessibility: Displayed as an interactive menu item.
 	Action Button: Displayed as an interactive menu item.
@@ -123,8 +124,7 @@ o	Add eSIM (in blue colored letters): Displayed as an interactive menu item.
 o	Current Period: Displays the status “144MB.”
 [00:00:13.066] "Carrier Services" was tapped, and the background of the menu item changed color from white to gray.
 [00:00:13.165] The "Verizon Services" interface began to slide left into view.
-[00:00:14.109] The "Verizon Services" interface  is displaying.
-
+[00:00:14.109] The "Verizon Services" interface is displaying.
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 4:23. Positioned to its right is the silent mode icon.
@@ -169,14 +169,14 @@ o	Explicative text under this module: When not connected to Wi-Fi, use cellular 
 o	iCloud Backup: toggled "On" (green).
 o	Explicative text under this module: When not connected to Wi-Fi, use your cellular network to automatically back up to iCloud. This may cause you to exceed your cellular data plan.
 •	The CALL TIME module: 
-o	Current Period: displaying status 0 Minutes.
+•	Current Period: displaying status 0 Minutes.
 o	Lifetime: displaying status 0 Minutes.
 [00:00:26.260] The interface was scrolled all the way down, and these additional settings and controls came into view: 
 •	The CELLULAR USAGE STATSTICS module: 
 o	Enable Cellular Usage Statistics: toggled "On" (green).
 o	Reset Statistics (in blue colored letters).
 o	Explicative text under this module: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero.
-Lastly, all the day to the bottom, in small-sized gray text, the information "Last Reset: Apr 26, 2025 at 6:02 PM"
+•	Lastly, all the day to the bottom, in small-sized gray text, the information "Last Reset: Apr 26, 2025 at 6:02 PM"
 [00:00:39.812] The interface was scrolled up, almost, but not quite, to the top.
 [00:00:40.010] "Cellular Data Options" was tapped, and the background of the menu item changed color from white to gray.
 [00:00:40.076] The "Cellular Data Options" began to slide left into view.
@@ -238,34 +238,34 @@ o	5G On uses 5G whenever it is available, even when it may reduce battery life o
 [00:01:02.396] The Apple ID / iCloud Profile Node was tapped, and the background of the menu item changed color from white to gray.
 [00:01:02.419] The "Apple Account" began to slide left into view.
 [00:01:02.881] The “Apple Account” Interface.
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 4:24.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 44 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
-•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface organized into the introductory module and the settings:
-•	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
-	Icon Graphic: A solid gray circle with the initials of the user (VC).
-	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold, medium-sized black letters the name and last name of the user: Veronica Cisneros.
-	Apple Account ID: Centrally aligned or positioned directly adjacent, rendered in normal-sized gray letters the username: cyberonica@icloud.com.
-•	Settings: Grouped into modules, Apple Account configuration settings
-•	Under the first module:
-	Personal Information: Displayed as an active interactive menu item.
-	Sign-In & Security: Displayed as an active interactive menu item.
-	Payment & Shipping: : Displayed as an active interactive menu item.
-	Subscriptions: : Displayed as an active interactive menu item.
-•	Under the second module:
-	iCloud: Displayed as an active interactive menu item.
-	Find My: Displayed as an interactive menu item.
-	Media & Purchases: Displayed as an interactive menu item.
-	Sign in with Apple: Displayed as an interactive menu item.
-•	Under the third module:
-	A spinning wheel
-•	Under the fourth module:
-	Contact Key Verification: Displays the status "Off".
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:24.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 44 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface organized into the introductory module and the settings:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid gray circle with the initials of the user (VC).
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold, medium-sized black letters the name and last name of the user: Veronica Cisneros.
+•	Apple Account ID: Centrally aligned or positioned directly adjacent, rendered in normal-sized gray letters the username: cyberonica@icloud.com.
+	Settings: Grouped into modules, Apple Account configuration settings
+•	The first module:
+o	Personal Information: Displayed as an active interactive menu item.
+o	Sign-In & Security: Displayed as an active interactive menu item.
+o	Payment & Shipping: Displayed as an active interactive menu item.
+o	Subscriptions: Displayed as an active interactive menu item.
+•	The second module:
+o	iCloud: Displayed as an active interactive menu item.
+o	Find My: Displayed as an interactive menu item.
+o	Media & Purchases: Displayed as an interactive menu item.
+o	Sign in with Apple: Displayed as an interactive menu item.
+•	The third module:
+o	A spinning wheel
+o	Under the fourth module:
+o	Contact Key Verification: Displays the status "Off".
 [00:01:03.210] Under the third module, the spinning wheel was replaced by "iPhone (subheading "This iPhone 16 Pro")" which appears as an interactive menu item.
 [00:01:03.280] The status of the item "iCloud" changed from blank to "5 GB".
 [00:01:06.575] "Sign-In & Security" was tapped, and the background of the menu item changed color from white to gray, and the chevron was replaced by a spinning wheel.
@@ -278,52 +278,51 @@ o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 4:24. Positioned to its right is the silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 44 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Sign-In & Security".
-•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the Sign-In & Security management settings:
-o	The EMAIL & PHONE NUMBERS module:
-	cyberonica@icloud.com (subtext "Primary email"): Displayed as an interactive menu item.
-	+1 (669) 326-4200 (subtext "Unavailable for sharing"): Displayed as an interactive menu item.
-	Add Email or Phone Number (blue colored letters imply this is a link)
-	Explicatory text under this module: These email addresses and phone numbers can be used to sign in, verify your identity, and help recover your account. They can also be used to reach you with iMessage, FaceTime, Game Center, and more.
-o	The SECURITY module:
-	Change Password (blue colored letters imply this is a link)
-	Two-Factor Authentication: Displayed as an interactive menu item.
-	Explicatory text under this module: Your trusted devices and phone numbers are used to verify your identity when signing in.
-o	The RECOVERY METHODS module:
-	Recovery Contacts (displays status "Set Up"): Displayed as an interactive menu item.
-	Recovery Key (displays status "Set Up"): Displayed as an interactive menu item.
-	Explicatory text under this module: Regain access to your account and data if you forget your password or device passcode.
-o	The fourth module:
-	Legacy Contact (displays status "Set Up"): Displayed as an interactive menu item.
-Explicatory text under this module: A legacy contact is someone you trust to have access to the data in your account after your death. 
-o	The fifth module:
-	Automatic Verification (displays status "On"): Displayed as an interactive menu item.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Sign-In & Security".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the Sign-In & Security management settings:
+	The EMAIL & PHONE NUMBERS module:
+•	cyberonica@icloud.com (subtext "Primary email"): Displayed as an interactive menu item.
+•	+1 (669) 326-4200 (subtext "Unavailable for sharing"): Displayed as an interactive menu item.
+•	Add Email or Phone Number (blue colored letters imply this is a link)
+•	Explicatory text under this module: These email addresses and phone numbers can be used to sign in, verify your identity, and help recover your account. They can also be used to reach you with iMessage, FaceTime, Game Center, and more.
+	The SECURITY module:
+•	Change Password (blue colored letters imply this is a link)
+•	Two-Factor Authentication: Displayed as an interactive menu item.
+•	Explicatory text under this module: Your trusted devices and phone numbers are used to verify your identity when signing in.
+	The RECOVERY METHODS module:
+•	Recovery Contacts (displays status "Set Up"): Displayed as an interactive menu item.
+•	Recovery Key (displays status "Set Up"): Displayed as an interactive menu item.
+•	Explicatory text under this module: Regain access to your account and data if you forget your password or device passcode.
+	The fourth module:
+•	Legacy Contact (displays status "Set Up"): Displayed as an interactive menu item.
+•	Explicatory text under this module: A legacy contact is someone you trust to have access to the data in your account after your death. 
+	The fifth module:
+•	Automatic Verification (displays status "On"): Displayed as an interactive menu item.
 [00:01:15.966] "Two-Factor authentication" was tapped, and the background of the menu item changed color from white to gray.
 [00:01:15.999] A spinning wheel replaced the "Two-Factor authentication" chevron.
 [00:01:16.131] The original chevron of "Two-Factor authentication" replaced the spinning wheel.
 [00:01:16.164] The "Two-Factor authentication" interface began to slide left into view.
 [00:01:16.656] The "Two-Factor Authentication" interface.
-
 •	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 4:24. Positioned to its right is the silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 44 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography:  "Two-Factor Authentication."
-•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the  Two-Factor authentication management settings:
-o	The VERIFY USING module:
-	iPhone (subheading "This iPhone 16 Pro"): displayed as an interactive menu item.
-	+ 1 (669) 326-4200 (subheading "Trusted phone number"): displayed as an interactive menu item.
-	iPhone (subheading "This iPhone 16 Pro"): displayed as an interactive menu item.
-	Add a Trusted Phone Number (in blue colored letters)
-	Explicative text under this module: For security, when you sign in to your account on a new device or on the web, you'll need both your password and a second factor, such as a 6-digit code sent to your devices or your phone numbers.
-o	The ADVANCED module:
-	Security Keys (displays status "Set Up"): displayed as an interactive menu item.
-	Explicative text under this module: Physical security keys provide a strong form of two-factor authentication against phishing and unauthorized access to your account. Learn more...
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography:  "Two-Factor Authentication."
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the Two-Factor authentication management settings:
+	The VERIFY USING module:
+•	iPhone (subheading "This iPhone 16 Pro"): displayed as an interactive menu item.
+•	+ 1 (669) 326-4200 (subheading "Trusted phone number"): displayed as an interactive menu item.
+•	iPhone (subheading "This iPhone 16 Pro"): displayed as an interactive menu item.
+•	Add a Trusted Phone Number (in blue colored letters)
+•	Explicative text under this module: For security, when you sign in to your account on a new device or on the web, you'll need both your password and a second factor, such as a 6-digit code sent to your devices or your phone numbers.
+	The ADVANCED module:
+•	Security Keys (displays status "Set Up"): displayed as an interactive menu item.
+•	Explicative text under this module: Physical security keys provide a strong form of two-factor authentication against phishing and unauthorized access to your account. Learn more...
 [00:01:18.174] "Security Keys" was tapped, and the background of the menu item changed color from white to gray, and the chevron was replaced by a spinning wheel.
 [00:01:18.376] I tapped the Security Keys setting
 [00:01:18.471] The "Security Keys" item's background transition back to white.
@@ -348,7 +347,7 @@ o	Subheading: Replaces verification codes.
 o	Explicatory text: A physical security key replaces verification codes sent to your devices when signing in or resetting your password.
 o	Footer Area
 	Trademark notice: The following trademark statement appears in the footer:
-“FIDO Certified is a trademark (registered in numerous countries) of FIDO Alliance, Inc.”
+•	“FIDO Certified is a trademark (registered in numerous countries) of FIDO Alliance, Inc.”
 	Primary action button: A blue button with white lettering, labeled “Add Security Keys,” extending across nearly the full width of the interface.
 	Informational link: A link labeled “Learn More,” positioned below the primary action button.
 [00:01:21.638] The “Add Security Keys” button was tapped, and the hue of the button's color lightened. 
@@ -356,7 +355,6 @@ o	Footer Area
 [00:01:22.430] The button reappeared with its original style.
 [00:01:22.463] The "You Need Two Security Keys" screen started to slid left into view.
 [00:01:22.974] The "You Need Two Security Keys" interface is displaying. 
-
 •	The interface is visually organized into three principal sections: the upper navigation area; the main introductory area, comprising illustrations, a heading, and explanatory text, and an information link; and the footer area, containing the primary action button:
 o	Upper Navigation Area: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
 o	Main Introductory Area:
@@ -366,12 +364,11 @@ o	Main Introductory Area:
 	Heading: The text “You Need Two Security Keys,” displayed in large, bold, black lettering centered horizontally.
 	Explicatory text: To get started, you need two compatible security keys. This makes sure you can always sign in to your account, even if you lose one. 
 	Informational link: A link labeled “How to choose the right security keys.” positioned below the explicatory paragraph.
-	Primary action button: A blue button with white lettering, labeled “Continue,” extending across nearly the full width of the interface.
+o	Primary action button: A blue button with white lettering, labeled “Continue,” extending across nearly the full width of the interface.
 [00:01:25.647] The “Continue” button was tapped, and the hue of the button's color lightened. 
 [00:01:25.746] The button was replaced by a gray background with a spinning wheel. 
 [00:01:26.539] The button reappeared with its original style.
 [00:01:27.495] The "Enter Your iPhone Passcode" prompt started to slide left into view.
-[00:01:27.508] A second later, Continue button still visible as Enter Passcode prompt just started to slid in to view from the right (timestamp 00:01:27.508 FRAME 2622)
 [00:01:28.024] The "Enter Your iPhone Passcode" prompt is displaying.
 •	The interface is visually organized into two principal sections: the upper Cancel control, and the prompt area, comprising a heading, instructions, and the password indicators:
 o	The Cancel control: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
@@ -381,7 +378,6 @@ o	The prompt area:
 	Passcode indicators: Six empty circular passcode indicators are displayed in a horizontal arrangement beneath the authentication instruction. No entered passcode digits or characters are visible.
 [00:01:34.519] The "Notification Center" was swiped down. 
 [00:01:35.212] The "Notification Center" is displaying. 
-
 •	The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, and the footer area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	The network provider's name is displayed as "Verizon," accompanied by the adjacent silent mode icon.
@@ -400,5 +396,4 @@ o	The Footer: Two white icons pinned to the lower side of the screen:
 [00:01:36.631] The "Notifications Center" was swiped up out of view.
 [00:01:36.994] The "Enter Your iPhone Passcode" prompt is displaying.
 [00:01:38.413] The Control Center was swiped down into view. 
-
 [00:01:39.436] The Control Center interface appears without change as compared to the description rendered at timestamp 00:00:00.000.
