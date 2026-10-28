@@ -399,16 +399,6 @@ o	The Footer: Two white icons pinned to the lower side of the screen:
 [00:01:35.905] The text "No Older Notifications" is fading out of view.
 [00:01:36.631] The "Notifications Center" was swiped up out of view.
 [00:01:36.994] The "Enter Your iPhone Passcode" prompt is displaying.
-[00:01:38.413] The Control Center was swiped down into view.
-[00:01:39.849] HIGHLIGHTS: 
+[00:01:38.413] The Control Center was swiped down into view. 
 
-1) At the videos timestamp 00:00:25.348, we saw that the Phone Statistics were "Last Reset Apr 26, 2025 at 6:02PM". It is important I state that I did not execute this reset, and that this reset was likely effectuated when the eSIM was apparently activated by Verizon when I was in their store.
-
-2) Also, I want to point out at the anomaly that the time and silenced bell icon shifted position father from the dynamic island for no apparent reason. I noticed this happened from one frame to another; so, the anomaly is unlikely to be noticed by non analytical eyes. I INCLUDE SHEENSHOTS BELOW (contiguous frames):
-a) "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-00-03_839 - status bar time and bell closer to dynamic island.png"
-b) "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-00-03_872 - status bar time and bell farther from dynamic island"
-
-3) Lastly, I want to mention that in this screen recording, right before the keys are added, I felt the Continue button that is tapped just in the final step, behaved anomalous. Not coincidentally, an "Enter Your iPhone Passcode" prompt slid in to view. The screenshots through which can analyze this more slowly are listed below: 
-a) SCREENRECORDING FRAME: "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-01-25_726 - The tapped Continue button showed the spinning wheel.png"
-b) SCREENRECORDING FRAME: "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-01-26_518 - The blue button Continue reappeared.png"
-c) SCREENRECORDING FRAME: "Capture_2025-04-27_04-23-04_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-23-04_1.MP4_00-01-27_508 - after 1 second button visible as Enter Passcode prompt.png"
+[00:01:39.436] The Control Center interface appears without change as compared to the description rendered at timestamp 00:00:00.000.
