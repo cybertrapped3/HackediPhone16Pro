@@ -1,0 +1,7 @@
+The "Enter Your iPhone Passcode" prompt is displaying.
+•	The interface is visually organized into two principal sections: the upper Cancel control, and the prompt area, comprising a heading, instructions, and the password indicators:
+o	The Cancel control: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
+o	The prompt area: 
+	Heading: The text “Enter Your iPhone Passcode,” displayed in large, bold, black lettering centered horizontally.
+	Authentication instructions: Immediately below the heading, the text "Enter the passcode you use to unlock this iPhone to add security keys." is displayed.
+	Passcode indicators: Six empty circular passcode indicators are displayed in a horizontal arrangement beneath the authentication instruction. No entered passcode digits or characters are visible.
