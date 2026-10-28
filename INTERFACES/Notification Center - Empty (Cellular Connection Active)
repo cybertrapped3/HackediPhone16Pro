@@ -1,0 +1,14 @@
+The "Notification Center" is displaying. 
+
+•	The interface is visually organized into four principal areas: the status area, the Date and Time area, the Notifications area, and the footer area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	The network provider's name is displayed as "Verizon," accompanied by the adjacent silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active white bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 44 centered within the housing.
+o	The Date and Time area: 
+	The Date: immediately below the Status Bar, the date is displayed in medium-sized, translucent-white text as "Monday, April 27". 
+	The Time: Below the Date, in very large-sized, translucent-white, the time is displayed as 4:24
+o	The notifications area: On the lower half of the screen the area appears empty.
+o	The Footer: Two white icons pinned to the lower side of the screen:
+	On the left: Headlamp icon
+	On the right: the Camera icon
