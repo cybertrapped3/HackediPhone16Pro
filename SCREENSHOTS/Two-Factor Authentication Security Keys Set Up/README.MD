@@ -1,5 +1,6 @@
-These screenshots illustrate the behavior of the "Security Keys Set Up" button of the Two-Factor Authentication interface:
-1) pending upload
+## These screenshots illustrate the behavior of the "Security Keys Set Up" button of the Two-Factor Authentication interface:
+
+### Two-Factor Authentication Security Keys Set Up Initial State
 
 2) pending upload
 
