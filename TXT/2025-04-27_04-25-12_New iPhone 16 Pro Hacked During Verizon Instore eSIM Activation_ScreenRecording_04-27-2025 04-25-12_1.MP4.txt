@@ -1,0 +1,89 @@
+[00:00:00.000] I swiped the Control Center in to view. 
+
+The interface shows the Verizon network type as 5GUW. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green.
+[00:00:01.520] After I swiped the Control Center out of view, the prompt "Apple Account. Add Security Keys. Insert and activate your first security key. If you have a compatible NFC key, bring it near the top of this iPhone." appear in the lower part of the screen. 
+
+In the background, the heading of the screen I had interacted with before the "Enter Your iPhone Passcode" prompt motivated me to stop the recording of the screen, reads as "Add the First Security Key"
+
+At the top of the screen, on the left side of the status bar, the time element appears like mumbo jumbo. Remember that the Control Center shows a plus sign where the time element appears in the status bar of the current interface. The SCREENSHOTS that helped an analytic eye better appreciate this anomaly are listed below: 
+
+1) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_418 - adding FIDO security keys anomalous status bar FRAME 42.png"
+2) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_451 - adding FIDO security keys anomalous status bar FRAME 43.png"
+3) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_484 - adding FIDO security keys anomalous status bar FRAME 44.png"
+4) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_517 - adding FIDO security keys anomalous status bar FRAME 45.png"
+5) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_550 - adding FIDO security keys anomalous status bar FRAME 46.png"
+6) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_913 - adding FIDO security keys anomalous status bar FRAME 57.png"
+7) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_946 - adding FIDO security keys anomalous status bar FRAME 58.png"
+[00:00:02.045] From left to right, the status bar showed the time 4:25, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as 5GUW. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 44 inside of it.
+[00:00:02.276] At this time, I have inserted a brand new, purchased days before from a Compute store, YoubiKey into the USB-C port of the phone
+[00:00:44.184] Although nothing is happening over the screen, keep in mind that a YoubiKey is inserted into the USB-C port of the device
+[00:01:40.301] After 98 seconds, over a minute and a half, a Safari notification slid down in to view with the following message: Website NFC Tag Open "my.yubico.com" in Safari
+[00:01:46.657] The Safari notification slid up out of view
+[00:01:48.745] The signal strength decreased from two to one bar. The network still 5GUW type.
+[00:01:50.653] The prompt "Apple Account. Add Security Keys. Insert and activate your first security key. If you have a compatible NFC key, bring it near the top of this iPhone." slid down out of view
+[00:01:51.151] The "Add the First Security Key" screen now brightly visible (as opposed to being in the background with a semi transparent dark overlay), and the rest of the page blank
+[00:01:51.557] Again, the notification "Website NFC Tag Open "my.yubico.com" in Safari" slid down in to view, while a new notification faded into view at the center of the screen.
+[00:01:52.019] The notification at the center of the screen read "Can't Add This Security Key. Try again with a different security key. Learn More. OK"
+[00:01:57.988] The Safari notification slid up out of view
+[00:02:09.532] I swiped the Control Center in to view. 
+
+The interface shows the Verizon network type as 5GUW. To its left, the signal strength icon shows one bar solid white and the other three gray. Inside the communication widget, the bright green colored cell icon shows one bar solid white and the other three light green. 
+
+The screen brightness control shows the level almost to the bottom (almost completely darkened)
+[00:02:12.007] I increased the screen brightness all the way up because although the screen recorder captured this clearly and brightly, as the screen brightness level shows, it was very hardly visible to me (this video shows I did not make the change myself)
+[00:02:13.431] I swiped the Control Center out of view
+[00:02:30.850] I tapped the "Learn More" link that appeared in the notification at the center with the message "Can't Add This Security Key. Try again with a different security key. Learn More. OK" 
+[00:02:30.950] The notification  "Can't Add This Security Key. Try again with a different security key. Learn More. OK" faded out of view
+[00:02:31.379] The screen "Add the First Security Key" screen showed more text under the heading; it read "Make sure you're using a supported security key. See the list of compatible keys.(r (blue colored letters imply this is a link)) "
+
+Blue button with text "Try Again"
+The text "Set Up Later" r (blue colored letters imply this is a link)
+
+WARNING: This is only visible for a second (TIMESTAMP 00:02:31.379 and FRAME 4536)
+[00:02:31.412] Another window begins to swipe up into view
+[00:02:31.907] A completely blank screen swiped up in to view. Only the Done blue lettered control appears on the top right side of it.
+[00:02:32.430] A notification faded in to view in the middle of the screen that read: 
+
+"Lockdown Mode is Turned On
+For "Settings"
+Certain experiences and features may not function as expected. You can turn off Lockdown Mode for this app in Settings. OK"
+[00:02:32.529] A two sided flash drive like image appeared in the background (I think in the page that is behind this notification). By the shape of it, I think one side has the older iPhone lighting connector on the upper side, and the newer UBS-C connector on the lower side
+[00:02:34.849] CONTINUE HERE
+[00:02:35.465] Content became visible behind the notification "Lockdown Mode is Turned On For "Settings""
+
+The heading read: About Security Keys for Apple Account....
+[00:02:35.696] Still behind the notification "Lockdown Mode is Turned On For "Settings"", at the top of the page, the following prompt appeared inside a yellow rectangle:
+
+You are invited to take part in a short survey to help us improve your Apple Support online experience. Please select Yes if you would like to participate" Beneath this text, two buttons, Yes and No.
+[00:02:50.277] I opened the app switcher 
+[00:02:53.994] The app switcher showed the app where the page with the description of security keys appeared as Settings (icon at the left of the dynamic island (SCREENSHOT: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-53_994 - security keys app switcher settings app.png"). The status bar items time, silent mode icon, signal strength, network type, and battery charge level were not visible neither in the top of the screen, nor in any of the app's windows (SCREENSHOT: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-55_215 - security keys app switcher status bar missing.png"
+[00:02:54.856] The app switcher showed the other running apps were Messages, Safari, and Notes
+[00:02:55.117] 
+[00:02:56.088] I brought the settings app back to the foreground
+[00:03:13.708] The signal strength decreased from two to one bar. The network still 5GUW type. 
+[00:03:20.012] With the signal strength at one bar. The 5GUW type about to change to LTE (TIMESTAMP: 00:03:20.012, FRAME 5994)
+[00:03:20.045] With the signal strength at one bar. The 5GUW type changed to LTE (TIMESTAMP: 00:03:20.045, FRAME 5995)
+[00:03:20.740] The signal strength increased from one to two bars. The network LTE type. 
+[00:03:30.766] The signal strength decreased from two to one bar. The network still LTE type. 
+[00:03:40.704] The signal strength increased from one to two bars. The network LTE type. 
+[00:04:05.681] I exited the Settings app, and return to the Home Screen
+[00:04:11.564] The Home Screen came in to view. 
+
+From left to right, the status bar showed the time 4:29, with the silent icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 43 inside of it. 
+
+At the top of the screen, the weather widget showed the text "Weather Unavailable" and the Calendar widget showed the text  "Sunday 27 No events today"
+[00:04:16.200] Within the Control Center, I expanded the communications group, which showed a detail panel that included: 
+
+Airplane Mode
+Wi-Fi
+AirDrop
+Cellular Data
+Bluetooth
+Personal Hotspot
+VPN
+Satellite
+[00:04:16.299] I tapped the "Cellular Data" off
+[00:04:16.464] Its corresponding icon changed colors from green and white to grays
+[00:04:18.773] I tapped Airplane Mode On, and its corresponding icon changed colors from grays to Orange and white
+[00:04:22.483] I dismissed the Communications panel, and return to the Control Center's main interface
+[00:04:24.279] The Control Center interface shows the Airplane mode on. In the communications group, the airplane icon is colored orange and white.
