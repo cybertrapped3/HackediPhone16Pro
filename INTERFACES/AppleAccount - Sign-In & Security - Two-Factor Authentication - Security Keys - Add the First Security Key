@@ -1,0 +1,23 @@
+The post-passcode authentication "Add the First Security Key" interface is displaying.
+
+•	The post-passcode authentication screen titled “Add the First Security Key” is displayed, with a semi-transparent black scrim overlay and an Apple Account bottom sheet presented in the foreground:
+o	The background interface consists of two primary sections:
+	The interface's upper Navigation Area: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
+	Main Content Area:
+•	An Illustration: A blue padlock.
+•	A Heading: The text “Add the First Security Key,” displayed in large, bold, black lettering centered horizontally.
+o	Semi-Transparent Scrim: 
+	A semi-transparent black overlay covers the background interface.
+	The overlay dims the underlying interface by approximately 40%.
+	The scrim visually establishes the bottom sheet as the active foreground element while keeping the background interface partially visible.
+•	The Apple Account foreground Bottom Sheet is organized into two primary sections:
+o	Upper Section (Header)
+	Heading: “Apple Account,” displayed at the top of the bottom sheet.
+	Close Control: A circular close icon positioned adjacent to the heading, providing a means to dismiss the bottom sheet.
+o	Main Content Section
+	Illustrations: Two blue security-key illustrations are positioned near the upper portion of the content area:
+•	First illustration: A physical security key featuring a USB-C connector at its lower end and a flashlight-like component at its upper end.
+•	Second illustration: A physical security key featuring a touch sensor and a USB-C connector at its lower end.
+	Primary Heading: “Add Security Keys,” displayed in large, bold, black lettering and horizontally centered.
+	Explanatory Text: The following instructional text appears beneath the heading:
+•	“Insert and activate your first security key. If you have a compatible NFC key, bring it near the top of this iPhone.”
