@@ -1,29 +1,110 @@
-[00:00:00.000] I swiped the Control Center in to view. 
+[00:00:00.000] The screen recording starts with the Control Center Interface on view.
+The interface occupies substantially the entire display and consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+Status Area
+•	At the top of the display, from left to right, the following elements are visible:
+o	A plus ("+") symbol positioned in the upper-left corner.
+o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	A power symbol positioned in the upper-right corner.
+Immediately below the status area are:
+o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of two active white bars and two inactive gray bars, accompanied by the network carrier and type as Verizon 5GUW.
+o	A battery indicator positioned on the right displaying a battery level of 44%.
+The Connectivity Module
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. The following controls are displayed:
+•	Airplane Mode, displayed as a gray circular button with a white airplane symbol, indicating an inactive state.
+•	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+•	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+•	Four additional controls displaying symbols visually consistent with:
+o	Cellular data displayed as a green circular button displaying a signal strength icon consisting of two white active bars and two gray inactive bars
+o	Bluetooth displayed as a gray circular button indicating an inactive state.
+o	Hot spot displayed as a gray circular button indicating an inactive state.
+o	VPN displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
+The Media Playback Module 
+The upper-right Control Center module contains the media playback controls. 
+•	The module displays:
+o	An empty media artwork placeholder positioned on the left side.
+o	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+o	The text "Not Playing" displayed beneath the artwork placeholder.
+o	A row of media playback controls consisting of:
+	Previous.
+	Play.
+	Next.
+The module displays no media title, artist information, or artwork.
+The Rotation Lock and Silent Mode Controls
+Immediately below the Connectivity Module are two circular system controls.
+•	These controls display symbols visually consistent with:
+o	Rotation Lock: Displayed as a gray circular button containing an open padlock with a curved arrow, indicating the rotation lock feature is inactive.
+o	Silent Mode: Displayed as a white circular button containing a red bell symbol with a diagonal slash through it, indicating the phone is in silent mode.
+The Focus Module
+Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
+The Brightness and Volume Controls
+•	Immediately below the Media Playback Module are two vertical slider controls.
+o	The left slider controls screen brightness and displays a sun symbol near its lower end. The brightness level is approximately 20% up.
+o	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 44% up.
+The Utility Controls
+The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
+•	The controls display symbols visually consistent with:
+o	Flashlight.
+o	Timer.
+o	Calculator.
+o	Camera.
+o	Screen Mirroring.
+o	Code Scanner (QR Scanner).
+o	Screen Recording: displaying a red circular recording indicator within the control.
+o	Notes / Quick Note.
+The Right-Edge Interface Icons
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group)
+[00:00:01.219] The Control Center is swiped up out of view.
+[00:00:01.351] At the top of the screen, the status bar appears garbled as the Control Center is fading out of view. SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Status%20Bar%20Garbled%20Left%20Side/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-00-01_351%20-%20Status%20Bar%20Left%20Side%20Garbled%20Start.png
+[00:00:01.550] The Control Center has completely faded out of view, but the right side elements of the status bar at the top of the page, the system time and the silent phone icon continue to appear garbled. SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Status%20Bar%20Garbled%20Left%20Side/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-00-01_912%20-%20Status%20Bar%20Left%20Side%20Garbled%20Last%20Frame.png
+[00:00:01.912] Last frame in which the status bar continues to appear garbled. The total time lapse of the anomaly is from timestamp 00:00:01.351 to 00:00:01.912; so, .561 of a second, or a little over half a second. SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Status%20Bar%20Garbled%20Left%20Side/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-00-01_945%20-%20Status%20Bar%20Left%20Side%20Ungarbled%20First%20Frame.png
+[00:00:01.945] The first frame that shows the status bar's system time and silence phone icon ungarbled. SCREENSHOT: https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Status%20Bar%20Garbled%20Left%20Side/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-00-01_945%20-%20Status%20Bar%20Left%20Side%20Ungarbled%20First%20Frame.png
+[00:00:01.945] The post-passcode authentication "Add the First Security Key" interface is displaying.
 
-The interface shows the Verizon network type as 5GUW. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green.
-[00:00:01.520] After I swiped the Control Center out of view, the prompt "Apple Account. Add Security Keys. Insert and activate your first security key. If you have a compatible NFC key, bring it near the top of this iPhone." appear in the lower part of the screen. 
+•	The post-passcode authentication screen titled “Add the First Security Key” is displayed, with a semi-transparent black scrim overlay and an Apple Account bottom sheet presented in the foreground:
+o	The background interface consists of two primary sections:
+	The interface's upper Navigation Area: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
+	Main Content Area:
+•	An Illustration: A blue padlock.
+•	A Heading: The text “Add the First Security Key,” displayed in large, bold, black lettering centered horizontally.
+o	Semi-Transparent Scrim: 
+	A semi-transparent black overlay covers the background interface.
+	The overlay dims the underlying interface by approximately 40%.
+	The scrim visually establishes the bottom sheet as the active foreground element while keeping the background interface partially visible.
+•	The Apple Account foreground Bottom Sheet is organized into two primary sections:
+o	Upper Section (Header)
+	Heading: “Apple Account,” displayed at the top of the bottom sheet.
+	Close Control: A circular close icon positioned adjacent to the heading, providing a means to dismiss the bottom sheet.
+o	Main Content Section
+	Illustrations: Two blue security-key illustrations are positioned near the upper portion of the content area:
+•	First illustration: A physical security key featuring a USB-C connector at its lower end and a flashlight-like component at its upper end.
+•	Second illustration: A physical security key featuring a touch sensor and a USB-C connector at its lower end.
+	Primary Heading: “Add Security Keys,” displayed in large, bold, black lettering and horizontally centered.
+	Explanatory Text: The following instructional text appears beneath the heading:
+•	“Insert and activate your first security key. If you have a compatible NFC key, bring it near the top of this iPhone.”
+[00:00:02.045] A physical NFC-enabled USB-C security key is already inserted into the iPhone's USB-C port, located along the bottom edge of the device.
 
-In the background, the heading of the screen I had interacted with before the "Enter Your iPhone Passcode" prompt motivated me to stop the recording of the screen, reads as "Add the First Security Key"
+The security key remains connected while the “Add Security Keys” bottom sheet is displayed.
 
-At the top of the screen, on the left side of the status bar, the time element appears like mumbo jumbo. Remember that the Control Center shows a plus sign where the time element appears in the status bar of the current interface. The SCREENSHOTS that helped an analytic eye better appreciate this anomaly are listed below: 
-
-1) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_418 - adding FIDO security keys anomalous status bar FRAME 42.png"
-2) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_451 - adding FIDO security keys anomalous status bar FRAME 43.png"
-3) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_484 - adding FIDO security keys anomalous status bar FRAME 44.png"
-4) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_517 - adding FIDO security keys anomalous status bar FRAME 45.png"
-5) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_550 - adding FIDO security keys anomalous status bar FRAME 46.png"
-6) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_913 - adding FIDO security keys anomalous status bar FRAME 57.png"
-7) "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_946 - adding FIDO security keys anomalous status bar FRAME 58.png"
-[00:00:02.045] From left to right, the status bar showed the time 4:25, with the silenced phone alerts icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as 5GUW. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 44 inside of it.
-[00:00:02.276] At this time, I have inserted a brand new, purchased days before from a Compute store, YoubiKey into the USB-C port of the phone
-[00:00:44.184] Although nothing is happening over the screen, keep in mind that a YoubiKey is inserted into the USB-C port of the device
-[00:01:40.301] After 98 seconds, over a minute and a half, a Safari notification slid down in to view with the following message: Website NFC Tag Open "my.yubico.com" in Safari
+* IMPORTANT NOTE: The key was a brand new, and had never been previously registered or configured. 
+[00:01:40.301] After remaining in a static state for over 1 minute and 30 seconds, the interface was interrupted by an incoming Safari notification banner. The notification slid downward from the top edge of the screen, displaying the heading ‘Website NFC Tag Open’ and the message ‘my.yubico.com’ in Safari.
 [00:01:46.657] The Safari notification slid up out of view
 [00:01:48.745] The signal strength decreased from two to one bar. The network still 5GUW type.
 [00:01:50.653] The prompt "Apple Account. Add Security Keys. Insert and activate your first security key. If you have a compatible NFC key, bring it near the top of this iPhone." slid down out of view
-[00:01:51.151] The "Add the First Security Key" screen now brightly visible (as opposed to being in the background with a semi transparent dark overlay), and the rest of the page blank
-[00:01:51.557] Again, the notification "Website NFC Tag Open "my.yubico.com" in Safari" slid down in to view, while a new notification faded into view at the center of the screen.
-[00:01:52.019] The notification at the center of the screen read "Can't Add This Security Key. Try again with a different security key. Learn More. OK"
+[00:01:50.653] The Apple Account foreground Bottom Sheet began to slide down out of view.
+[00:01:50.983] After the bottom sheet was no longer visible, and the semi-transparent scrim had completely faded out, the  "Add the First Security Key" interface is displaying brightly. The security key still inserted into the iPhone's USB-C port.
+[00:01:51.557] Again, a system notification banner reading “Website NFC Tag Open ‘my.yubico.com’ in Safari” slid downward from the top edge of the screen. As the banner moved down, a second system alert smoothly faded into view at the center of the screen.
+
+The centered alert displayed the following message:
+
+Can't Add This Security Key
+Try again with a different security key.
+Learn More | OK
+
+The alert appeared as a modal-style system dialog, presenting the error message along with two selectable options: “Learn More” and “OK.”
 [00:01:57.988] The Safari notification slid up out of view
 [00:02:09.532] I swiped the Control Center in to view. 
 
@@ -32,7 +113,7 @@ The interface shows the Verizon network type as 5GUW. To its left, the signal st
 The screen brightness control shows the level almost to the bottom (almost completely darkened)
 [00:02:12.007] I increased the screen brightness all the way up because although the screen recorder captured this clearly and brightly, as the screen brightness level shows, it was very hardly visible to me (this video shows I did not make the change myself)
 [00:02:13.431] I swiped the Control Center out of view
-[00:02:30.850] I tapped the "Learn More" link that appeared in the notification at the center with the message "Can't Add This Security Key. Try again with a different security key. Learn More. OK" 
+[00:02:30.850] I tapped the "Learn More" link that appeared in the notification at the center with the message "Can't Add This Security Key. Try again with a different security key. Learn More. OK"
 [00:02:30.950] The notification  "Can't Add This Security Key. Try again with a different security key. Learn More. OK" faded out of view
 [00:02:31.379] The screen "Add the First Security Key" screen showed more text under the heading; it read "Make sure you're using a supported security key. See the list of compatible keys.(r (blue colored letters imply this is a link)) "
 
@@ -55,17 +136,17 @@ The heading read: About Security Keys for Apple Account....
 [00:02:35.696] Still behind the notification "Lockdown Mode is Turned On For "Settings"", at the top of the page, the following prompt appeared inside a yellow rectangle:
 
 You are invited to take part in a short survey to help us improve your Apple Support online experience. Please select Yes if you would like to participate" Beneath this text, two buttons, Yes and No.
-[00:02:50.277] I opened the app switcher 
+[00:02:50.277] I opened the app switcher
 [00:02:53.994] The app switcher showed the app where the page with the description of security keys appeared as Settings (icon at the left of the dynamic island (SCREENSHOT: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-53_994 - security keys app switcher settings app.png"). The status bar items time, silent mode icon, signal strength, network type, and battery charge level were not visible neither in the top of the screen, nor in any of the app's windows (SCREENSHOT: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-55_215 - security keys app switcher status bar missing.png"
 [00:02:54.856] The app switcher showed the other running apps were Messages, Safari, and Notes
 [00:02:55.117] 
 [00:02:56.088] I brought the settings app back to the foreground
-[00:03:13.708] The signal strength decreased from two to one bar. The network still 5GUW type. 
+[00:03:13.708] The signal strength decreased from two to one bar. The network still 5GUW type.
 [00:03:20.012] With the signal strength at one bar. The 5GUW type about to change to LTE (TIMESTAMP: 00:03:20.012, FRAME 5994)
 [00:03:20.045] With the signal strength at one bar. The 5GUW type changed to LTE (TIMESTAMP: 00:03:20.045, FRAME 5995)
-[00:03:20.740] The signal strength increased from one to two bars. The network LTE type. 
-[00:03:30.766] The signal strength decreased from two to one bar. The network still LTE type. 
-[00:03:40.704] The signal strength increased from one to two bars. The network LTE type. 
+[00:03:20.740] The signal strength increased from one to two bars. The network LTE type.
+[00:03:30.766] The signal strength decreased from two to one bar. The network still LTE type.
+[00:03:40.704] The signal strength increased from one to two bars. The network LTE type.
 [00:04:05.681] I exited the Settings app, and return to the Home Screen
 [00:04:11.564] The Home Screen came in to view. 
 
