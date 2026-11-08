@@ -106,46 +106,46 @@ Learn More | OK
 
 The alert appeared as a modal-style system dialog, presenting the error message along with two selectable options: “Learn More” and “OK.”
 [00:01:57.988] The Safari notification slid up out of view
-[00:02:09.363] The Control Center was swiped down into view. 
+[00:02:09.363] The Control Center was swiped down into view.
 [00:02:09.825] The screen brightness control shows the level almost to the bottom (almost completely darkened). 
 
 Notice that at the beginning of this screen recording (timestamp 00:00:00.000), the screen brightness level appeared approximately 20% up. 
 
-At this very frame, the level still shows a bit of white (i.e., a 1 or 2 percent brightness), but the next frames, show the level continuing to decrease until there is no white whatsoever (i.e., no brightness?) 
+At this very frame, the level still shows a bit of white (i.e., a 1 or 2 percent brightness), but the next frames, show the level continuing to decrease until there is no white whatsoever (i.e., no brightness?)
 [00:02:12.007] The screen brightness level was increased all the way up. (user reported the screen was very dark)
-[00:02:13.240] The Control Center was swiped up out of view. 
-[00:02:13.669] The "Add the First Security Key" with the system-dialog "Can't Add This Security Key" is displaying. 
-[00:02:30.784] The option "Learn More" was tapped. 
+[00:02:13.240] The Control Center was swiped up out of view.
+[00:02:13.669] The "Add the First Security Key" with the system-dialog "Can't Add This Security Key" is displaying.
+[00:02:30.784] The option "Learn More" was tapped.
 [00:02:30.950] The notification  "Can't Add This Security Key. Try again with a different security key. Learn More. OK" faded out of view
-[00:02:31.213] The system-dialog has disappeared. And the "Add the First Security Key" interface has a large blank space. 
-[00:02:31.378] Additional content appeared under the "Add the First Security Key" heading.
+[00:02:31.213] The system-dialog has disappeared. And the "Add the First Security Key" interface has a large blank space.
+[00:02:31.378] •	Additional content became visible beneath the “Add the First Security Key” heading, organized into two distinct sections: introductory information and actionable buttons.
+o	Introductory information: Immediately below the primary heading, the interface displays the following explanatory text:
+	Explanatory text: “Make sure you're using a supported security key.”
+	Additional information link: “See the list of compatible keys.” This text appears in blue, indicating an interactive link.
+o	Actionable buttons: At the bottom of the interface, two action buttons are displayed:
+	Primary button – “Try Again”: A prominent blue button with white lettering, spanning almost the entire width of the interface.
+	Secondary button – “Set Up Later”: A borderless button with blue lettering, positioned beneath the primary button. It is only partially visible in the screenshot.
 
-The additional content organized in tow sections: introductory information and actionable buttons:
-Introductory information: immediately below the interface's primary heading, the explicatory text and additional information link:
-The explicatory text: "Make sure you're using a supported security key."
-Additional information link: The blue lettered text "See the list of compatible keys."
-Actional buttons: at the footer of the interface, two buttons, one with a blue background, and the other borderless:
-Blue button: spanning almost he whole width of the interface, with a blue background, and white letters "Try Again"
-Borderless button: partially visible, in blue letters, Set Up Later
-
-CONTINUE HERE:
-
-Another interface sliding up into view, with the borderless-blue-lettered Done button in the upper left.
-[00:02:31.412] Another window begins to swipe up into view
+**Secondary interface emerging from the bottom**
+At the bottom of the screen, a separate interface is partially visible as it slides upward into view, overlapping the existing interface. Its upper-left corner contains a borderless “Done” button, displayed in blue lettering.
+[00:02:31.412] The secondary interface, which appears blank, is sliding up into view. 
 [00:02:31.907] A completely blank screen swiped up in to view. Only the Done blue lettered control appears on the top right side of it.
-[00:02:32.430] A notification faded in to view in the middle of the screen that read: 
+[00:02:32.103] A system dialog faded into view with the following message: 
 
-"Lockdown Mode is Turned On
+Lockdown Mode is Turned On
 For "Settings"
-Certain experiences and features may not function as expected. You can turn off Lockdown Mode for this app in Settings. OK"
+Certain experiences and features may not function as expected. You can turn off Lockdown Mode for this app in Settings. 
+OK
+[00:02:32.499] The illustration of a physical security key featuring a USB-C connector at its lower end and a flashlight-like component at its upper end is displayed in what was a blank interface.
 [00:02:32.529] A two sided flash drive like image appeared in the background (I think in the page that is behind this notification). By the shape of it, I think one side has the older iPhone lighting connector on the upper side, and the newer UBS-C connector on the lower side
-[00:02:34.849] CONTINUE HERE
-[00:02:35.465] Content became visible behind the notification "Lockdown Mode is Turned On For "Settings""
+[00:02:34.784] Additional text content is displaying in what was the blank interface, and behind the system dialog about the Lockdown Mode. 
+[00:02:34.883] Additional headings are displaying in what was the blank interface, and behind the system dialog about the Lockdown Mode. 
+[00:02:35.477] An in-app survey invitation banner is displaying at the top of what was the blank interface, and behind the system dialog about the Lockdown Mode. 
 
-The heading read: About Security Keys for Apple Account....
-[00:02:35.696] Still behind the notification "Lockdown Mode is Turned On For "Settings"", at the top of the page, the following prompt appeared inside a yellow rectangle:
-
+The survey invitation banner has the following content: 
 You are invited to take part in a short survey to help us improve your Apple Support online experience. Please select Yes if you would like to participate" Beneath this text, two buttons, Yes and No.
+
+CONTINUE HERE
 [00:02:50.277] I opened the app switcher
 [00:02:53.994] The app switcher showed the app where the page with the description of security keys appeared as Settings (icon at the left of the dynamic island (SCREENSHOT: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-53_994 - security keys app switcher settings app.png"). The status bar items time, silent mode icon, signal strength, network type, and battery charge level were not visible neither in the top of the screen, nor in any of the app's windows (SCREENSHOT: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-55_215 - security keys app switcher status bar missing.png"
 [00:02:54.856] The app switcher showed the other running apps were Messages, Safari, and Notes
@@ -177,7 +177,6 @@ Satellite
 [00:04:16.464] Its corresponding icon changed colors from green and white to grays
 [00:04:18.773] I tapped Airplane Mode On, and its corresponding icon changed colors from grays to Orange and white
 [00:04:22.483] I dismissed the Communications panel, and return to the Control Center's main interface
-[00:04:24.279] The Control Center interface shows the Airplane mode on. In the communications group, the airplane icon is colored orange and white.
 [00:04:24.278] HIGHIGHTS: 
 
 1) Garbled status bar's system time and silent phone icon
@@ -190,3 +189,10 @@ B) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore e
 C) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_924 - Control Center Screen Brightness Decreased Unexplained 3 of 4.png
 D) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_891 - Control Center Screen Brightness Decreased Unexplained 2 of 4.png
 E) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_858 - Control Center Screen Brightness Decreased Unexplained 1 of 4.png
+
+3) After the "Learn More" of the system-dialog "Can't Add This Security Key" was tapped, a blank interface slid up into view. Despite the network appearing as 5GUW, it took over four seconds for the content of the interface to populate.
+-The system dialog is closed, and the "Add the First Security Key" interface appears almost empty: timestamp 00:02:30:950
+-After the "Add the First Security Key" interface has been populated with its corresponding content, another interface begins to slid up into view: timestamp 00:02:31.378
+-The sliding interface is finally fully displayed, but it appears blank, except for the borderless “Done” button, displayed in blue lettering: timestamp 00:02:31.907
+-Once the in-pp survey invitation appeared at the top of the interface: timestamp 00:02.31.209
+[00:04:24.279] The Control Center interface shows the Airplane mode on. In the communications group, the airplane icon is colored orange and white.
