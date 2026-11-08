@@ -89,7 +89,7 @@ o	Main Content Section
 
 The security key remains connected while the “Add Security Keys” bottom sheet is displayed.
 
-* IMPORTANT NOTE: The key was a brand new, and had never been previously registered or configured. 
+* IMPORTANT NOTE: The key was a brand new, and had never been previously registered or configured.
 [00:01:40.301] After remaining in a static state for over 1 minute and 30 seconds, the interface was interrupted by an incoming Safari notification banner. The notification slid downward from the top edge of the screen, displaying the heading ‘Website NFC Tag Open’ and the message ‘my.yubico.com’ in Safari.
 [00:01:46.657] The Safari notification slid up out of view
 [00:01:48.745] The signal strength decreased from two to one bar. The network still 5GUW type.
@@ -106,11 +106,12 @@ Learn More | OK
 
 The alert appeared as a modal-style system dialog, presenting the error message along with two selectable options: “Learn More” and “OK.”
 [00:01:57.988] The Safari notification slid up out of view
-[00:02:09.532] I swiped the Control Center in to view. 
+[00:02:09.363] The Control Center was swiped down into view. 
+[00:02:09.825] The screen brightness control shows the level almost to the bottom (almost completely darkened). 
 
-The interface shows the Verizon network type as 5GUW. To its left, the signal strength icon shows one bar solid white and the other three gray. Inside the communication widget, the bright green colored cell icon shows one bar solid white and the other three light green. 
+Notice that at the beginning of this screen recording (timestamp 00:00:00.000), the screen brightness level appeared approximately 20% up. 
 
-The screen brightness control shows the level almost to the bottom (almost completely darkened)
+At this very frame, the level still shows a bit of white (i.e., a 1 or 2 percent brightness), but the next frames, show the level continuing to decrease until there is no white whatsoever (i.e., no brightness?) 
 [00:02:12.007] I increased the screen brightness all the way up because although the screen recorder captured this clearly and brightly, as the screen brightness level shows, it was very hardly visible to me (this video shows I did not make the change myself)
 [00:02:13.431] I swiped the Control Center out of view
 [00:02:30.850] I tapped the "Learn More" link that appeared in the notification at the center with the message "Can't Add This Security Key. Try again with a different security key. Learn More. OK"
@@ -168,3 +169,15 @@ Satellite
 [00:04:18.773] I tapped Airplane Mode On, and its corresponding icon changed colors from grays to Orange and white
 [00:04:22.483] I dismissed the Communications panel, and return to the Control Center's main interface
 [00:04:24.279] The Control Center interface shows the Airplane mode on. In the communications group, the airplane icon is colored orange and white.
+[00:04:24.278] HIGHIGHTS: 
+
+1) Garbled status bar's system time and silent phone icon
+
+2) Screen brightness started at 20%, and without user interaction, or explanation, it decreased to 0: 
+
+SCREENSHOTS: 
+A) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-00_000 - Control Center Screen Brightness Starts 20 Percent.png
+B) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_957 - Control Center Screen Brightness Decreased Unexplained 4 of 4.png
+C) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_924 - Control Center Screen Brightness Decreased Unexplained 3 of 4.png
+D) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_891 - Control Center Screen Brightness Decreased Unexplained 2 of 4.png
+E) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_858 - Control Center Screen Brightness Decreased Unexplained 1 of 4.png
