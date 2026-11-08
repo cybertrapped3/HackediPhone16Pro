@@ -96,7 +96,7 @@ The security key remains connected while the “Add Security Keys” bottom shee
 [00:01:50.653] The prompt "Apple Account. Add Security Keys. Insert and activate your first security key. If you have a compatible NFC key, bring it near the top of this iPhone." slid down out of view
 [00:01:50.653] The Apple Account foreground Bottom Sheet began to slide down out of view.
 [00:01:50.983] After the bottom sheet was no longer visible, and the semi-transparent scrim had completely faded out, the  "Add the First Security Key" interface is displaying brightly. The security key still inserted into the iPhone's USB-C port.
-[00:01:51.557] Again, a system notification banner reading “Website NFC Tag Open ‘my.yubico.com’ in Safari” slid downward from the top edge of the screen. As the banner moved down, a second system alert smoothly faded into view at the center of the screen.
+[00:01:51.557] Again, a notification banner reading “Website NFC Tag Open ‘my.yubico.com’ in Safari” slid downward from the top edge of the screen. As the banner moved down, a second system alert smoothly faded into view at the center of the screen.
 
 The centered alert displayed the following message:
 
@@ -112,16 +112,25 @@ The alert appeared as a modal-style system dialog, presenting the error message 
 Notice that at the beginning of this screen recording (timestamp 00:00:00.000), the screen brightness level appeared approximately 20% up. 
 
 At this very frame, the level still shows a bit of white (i.e., a 1 or 2 percent brightness), but the next frames, show the level continuing to decrease until there is no white whatsoever (i.e., no brightness?) 
-[00:02:12.007] I increased the screen brightness all the way up because although the screen recorder captured this clearly and brightly, as the screen brightness level shows, it was very hardly visible to me (this video shows I did not make the change myself)
-[00:02:13.431] I swiped the Control Center out of view
-[00:02:30.850] I tapped the "Learn More" link that appeared in the notification at the center with the message "Can't Add This Security Key. Try again with a different security key. Learn More. OK"
+[00:02:12.007] The screen brightness level was increased all the way up. (user reported the screen was very dark)
+[00:02:13.240] The Control Center was swiped up out of view. 
+[00:02:13.669] The "Add the First Security Key" with the system-dialog "Can't Add This Security Key" is displaying. 
+[00:02:30.784] The option "Learn More" was tapped. 
 [00:02:30.950] The notification  "Can't Add This Security Key. Try again with a different security key. Learn More. OK" faded out of view
-[00:02:31.379] The screen "Add the First Security Key" screen showed more text under the heading; it read "Make sure you're using a supported security key. See the list of compatible keys.(r (blue colored letters imply this is a link)) "
+[00:02:31.213] The system-dialog has disappeared. And the "Add the First Security Key" interface has a large blank space. 
+[00:02:31.378] Additional content appeared under the "Add the First Security Key" heading.
 
-Blue button with text "Try Again"
-The text "Set Up Later" r (blue colored letters imply this is a link)
+The additional content organized in tow sections: introductory information and actionable buttons:
+Introductory information: immediately below the interface's primary heading, the explicatory text and additional information link:
+The explicatory text: "Make sure you're using a supported security key."
+Additional information link: The blue lettered text "See the list of compatible keys."
+Actional buttons: at the footer of the interface, two buttons, one with a blue background, and the other borderless:
+Blue button: spanning almost he whole width of the interface, with a blue background, and white letters "Try Again"
+Borderless button: partially visible, in blue letters, Set Up Later
 
-WARNING: This is only visible for a second (TIMESTAMP 00:02:31.379 and FRAME 4536)
+CONTINUE HERE:
+
+Another interface sliding up into view, with the borderless-blue-lettered Done button in the upper left.
 [00:02:31.412] Another window begins to swipe up into view
 [00:02:31.907] A completely blank screen swiped up in to view. Only the Done blue lettered control appears on the top right side of it.
 [00:02:32.430] A notification faded in to view in the middle of the screen that read: 
