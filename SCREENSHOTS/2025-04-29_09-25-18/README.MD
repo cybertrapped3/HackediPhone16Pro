@@ -1,1 +1,12 @@
-PENDING UPLOAD
+## This screenshot illustrates the anomaly of the Signal Strength discrepancy that appears at the beginning of the screen recording, when the Control Center is down after the Screen Recording button was tapped.
+
+### Control Center Signal Strength Icons Show a Discrepancy. The Signal Strength to the left of the Verizon network label shows three white active bars and one gray inactive bar. The Signal Strength of the bright green icon inside the connectivity group shows one white active bar and tree gray inactive bars: timestamp 00:00:00.000
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-29_09-25-18/Capture_2025-04-29_09-25-18_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-29-2025%2009-25-18_1.MP4_00-00-00_000%20-%20Control%20Center%20Signal%20Strength%20Icons%20Discrepancy.png" alt="Control Center Signal Strength Icons Show a Discrepancy: timestamp 00:00:00.000" width="300" />
+
+## These screenshots illustrate the anomaly of the too far to the right status bar when the volume up and power button were pressed to trigger the hard power off interface.
+
+### Too Far to the Right Status Bar Shows Signal Strength and Network Label Icon Passed the Right Edge of the Screen: timestamp 00:01:16.663
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-29_09-25-18/Capture_2025-04-29_09-25-18_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-29-2025%2009-25-18_1.MP4_00-01-16_663%20-%20Slide%20To%20Power%20Off%20Status%20Bar%20Too%20Far%20Right%201.png" alt="Too Far to the Right Status Bar Shows Signal Strength and Network Label Icon Passed the Right Edge of the Screen: timestamp 00:01:16.663" width="300" />
+
+### Too Far to the Right Status Bar Shows System Time and Silent Phone Icons Passed the Right End of the Dynamic Island: timestamp 00:01:16.960
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-29_09-25-18/Capture_2025-04-29_09-25-18_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-29-2025%2009-25-18_1.MP4_00-01-16_960%20-%20Slide%20To%20Power%20Off%20Status%20Bar%20Too%20Far%20Right%202.png" alt="Too Far to the Right Status Bar Shows System Time and Silent Phone Icons Passed the Right End of the Dynamic Island: timestamp 00:01:16.960" width="300" />
