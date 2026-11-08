@@ -1,1 +1,16 @@
-PENDING UPLOAD
+## These screenshots illustrate the screen brightness status when the screen recording begins, and the unexplained decreased that became evident when the control center was swiped down, and unexplained decreased that was happening as the Control Center had already been swiped down into view
+
+### Control Center Screen Brightness Starts 20 Percent: timestamp 00:00:00.000
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Control%20Center%20Screen%20Brightness%20Control/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-00-00_000%20-%20Control%20Center%20Screen%20Brightness%20Starts%2020%20Percent.png" alt="Control Center Screen Brightness Starts 20 Percent: timestamp 00:00:00.000" width="300" />
+
+### Control Center Screen Brightness Decreased Unexplained 1 of 4: timestamp 00:02:09.858
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Control%20Center%20Screen%20Brightness%20Control/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-02-09_858%20-%20Control%20Center%20Screen%20Brightness%20Decreased%20Unexplained%201%20of%204.png" alt="Control Center Screen Brightness Decreased Unexplained 1 of 4: timestamp 00:02:09.858" width="300" />
+
+### Control Center Screen Brightness Decreased Unexplained 2 of 4: timestamp 00:02:09.891
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Control%20Center%20Screen%20Brightness%20Control/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-02-09_891%20-%20Control%20Center%20Screen%20Brightness%20Decreased%20Unexplained%202%20of%204.png" alt="Control Center Screen Brightness Decreased Unexplained 2 of 4: timestamp 00:02:09.891" width="300" />
+
+### Control Center Screen Brightness Decreased Unexplained 3 of 4: timestamp 00:02:09.924
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Control%20Center%20Screen%20Brightness%20Control/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-02-09_924%20-%20Control%20Center%20Screen%20Brightness%20Decreased%20Unexplained%203%20of%204.png" alt="Control Center Screen Brightness Decreased Unexplained 3 of 4: timestamp 00:02:09.924" width="300" />
+
+### Control Center Screen Brightness Decreased Unexplained 4 of 4: timestamp 00:02:09.957
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-25-12/Control%20Center%20Screen%20Brightness%20Control/Capture_2025-04-27_04-25-12_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-25-12_1.MP4_00-02-09_957%20-%20Control%20Center%20Screen%20Brightness%20Decreased%20Unexplained%204%20of%204.png" alt="Control Center Screen Brightness Decreased Unexplained 4 of 4: timestamp 00:02:09.957" width="300" />
