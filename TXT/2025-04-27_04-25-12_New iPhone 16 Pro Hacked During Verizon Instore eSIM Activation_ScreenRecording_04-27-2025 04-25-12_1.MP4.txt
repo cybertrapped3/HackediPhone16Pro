@@ -148,17 +148,17 @@ You are invited to take part in a short survey to help us improve your Apple Sup
 
 From the front on backwards, the visible apps are Settings, Messages, Safari, and Notes. 
 
-No status bar is visible at the top of the page, nor in any of the app containers. 
-[00:02:56.061] The Settings app is brought to the foreground, and the app switcher is dismissed. The interface is still showing the system dialog about "Lockdown Mode is Turned On," and the Learn More information is still in the background. 
+No status bar is visible at the top of the page, nor in any of the app containers.
+[00:02:56.061] The Settings app is brought to the foreground, and the app switcher is dismissed. The interface is still showing the system dialog about "Lockdown Mode is Turned On," and the Learn More information is still in the background.
 [00:03:13.708] The signal strength decreased from two to one bar. The network still 5GUW type.
 [00:03:20.012] With the signal strength at one bar. The 5GUW type about to change to LTE.
 [00:03:20.045] With the signal strength at one bar. The 5GUW type changed to LTE.
 [00:03:20.740] The signal strength increased from one to two bars. The network LTE type.
 [00:03:30.766] The signal strength decreased from two to one bar. The network still LTE type.
 [00:03:40.704] The signal strength increased from one to two bars. The network LTE type.
-[00:04:05.611] The Settings app is dismissed. As the app shrinks out of view, the common status bar is not visible at the top of the screen. The app's container is showing its own status bar. 
+[00:04:05.611] The Settings app is dismissed. As the app shrinks out of view, the common status bar is not visible at the top of the screen. The app's container is showing its own status bar.
 [00:04:05.681] I exited the Settings app, and return to the Home Screen
-[00:04:05.776] The common status bar is fading into view. 
+[00:04:05.776] The common status bar is fading into view.
 [00:04:06.370] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
 •	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 4:29. Positioned to its right is the silent mode icon.
@@ -170,7 +170,7 @@ o	On the right, the Calendar widget displays the text "SUNDAY 27 No events today
 o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
 •	Positioned just above the Dock is a persistent Search button. 
 •	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
-[00:04:12.042] The Control Center is swiped down into view. 
+[00:04:12.042] The Control Center is swiped down into view.
 [00:04:12.603] The Control Center shows some changes as compared to the description rendered at the beginning of this screen recording:
 1) The network label changed from 5GUW to LTE.
 2) The battery charge level decreased from 44% to 43%.
@@ -194,20 +194,12 @@ Personal Hotspot: Full-width control labeled “Personal Hotspot” with status 
 VPN: Full-width control labeled “VPN” with status “Off” and an icon composed of a light-gray interconnected globe symbol inside a gray circle. Aside from the service being inactive, it is non-operable, which is indicated by the visually distinct appearance from standard inactive states due to the low-contrast color rendering of the icon.
 
 Satellite: At the bottom of the interface, a full-width control labeled “Satellite” with status "Not Available” and an icon composed of a white Satellite symbol inside a gray circle.
-[00:04:16.200] Within the Control Center, I expanded the communications group, which showed a detail panel that included: 
-
-Airplane Mode
-Wi-Fi
-AirDrop
-Cellular Data
-Bluetooth
-Personal Hotspot
-VPN
-Satellite
-[00:04:16.299] I tapped the "Cellular Data" off
-[00:04:16.464] Its corresponding icon changed colors from green and white to grays
-[00:04:18.773] I tapped Airplane Mode On, and its corresponding icon changed colors from grays to Orange and white
-[00:04:22.483] I dismissed the Communications panel, and return to the Control Center's main interface
+[00:04:16.295] The Cellular Data status changed from "On" to "Off".
+[00:04:16.757] The circle of the Cellular Data icon changed from bright-green to gray, and the "Personal Hotspot" icon changed from inactive, to inactive and non-operable (corresponding icon shape changed color from white to light-gray)
+[00:04:18.407] The status of the "Airplane Mode" changed from "Off" to "On," and the "Cellular Data" shape of the corresponding icon changed from white to light-gray (inactive and non-operable), and the Satellite control disappeared.
+[00:04:18.902] The circle of the "Airplane Mode" icon changed from gray to orange. 
+[00:04:22.499] The Connectivity Panel was dismissed. 
+[00:04:22.961] The Control Center's main view is displaying. 
 [00:04:24.278] HIGHIGHTS: 
 
 1) Garbled status bar's system time and silent phone icon
@@ -221,9 +213,8 @@ C) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore e
 D) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_891 - Control Center Screen Brightness Decreased Unexplained 2 of 4.png
 E) Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_858 - Control Center Screen Brightness Decreased Unexplained 1 of 4.png
 
-3) After the "Learn More" of the system-dialog "Can't Add This Security Key" was tapped, a blank interface slid up into view. Despite the network appearing as 5GUW, it took over four seconds for the content of the interface to populate.
+3) After the "Learn More" of the system-dialog "Can't Add This Security Key" was tapped, a blank interface slid up into view. Despite the network appearing as 5GUW (5G Ultra Wideband), it took over four seconds for the content of the interface to populate.
 -The system dialog is closed, and the "Add the First Security Key" interface appears almost empty: timestamp 00:02:30:950
 -After the "Add the First Security Key" interface has been populated with its corresponding content, another interface begins to slid up into view: timestamp 00:02:31.378
 -The sliding interface is finally fully displayed, but it appears blank, except for the borderless “Done” button, displayed in blue lettering: timestamp 00:02:31.907
 -Once the in-pp survey invitation appeared at the top of the interface: timestamp 00:02.31.209
-[00:04:24.279] The Control Center interface shows the Airplane mode on. In the communications group, the airplane icon is colored orange and white.
