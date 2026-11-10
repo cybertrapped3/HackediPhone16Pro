@@ -8,19 +8,21 @@ Connectivity Panel View: Continuing the downward motion, the wireless transmissi
 
 • Connectivity Panel Layout: The interface displays a vertically arranged series of rounded rectangular control panels set against a blurred background:
 
-Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “On,” featuring an airplane symbol inside an orange circular icon on the left.
+Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “Off,” with an icon composed of a white airplane symbol inside a gray circle.
 
-Wi-Fi: Left-hand control labeled “Wi-Fi” displaying “Off,” with a Wi-Fi symbol inside a gray circular icon.
+Wi-Fi: Left-hand control labeled “Wi-Fi” with status “Off,” with an icon composed of a white Wi-Fi symbol inside a gray circular icon.
 
-AirDrop: Right-hand control labeled “AirDrop” displaying “Receiving Off,” with an AirDrop symbol inside a gray circular icon.
+AirDrop: Right-hand control labeled “AirDrop” with status “Receiving Off,” with an icon composed of a white AirDrop symbol inside a gray circle.
 
-Cellular Data: Left-hand control labeled “Cellular Data” displaying “Off,” with its corresponding icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the cell icon shape and its surrounding containment circle.
+Cellular Data: Left-hand control labeled “Cellular Data” with status “On,” with an icon composed of a white signal strength symbol inside a bright-green circle.
 
-Bluetooth: Right-hand control labeled “Bluetooth” displaying “Off,” with a Bluetooth symbol inside a gray circular icon.
+Bluetooth: Right-hand control labeled “Bluetooth” with status “Off,” with an icon composed of a white Bluetooth symbol inside a gray circle.
 
-Personal Hotspot: Full-width control labeled “Personal Hotspot” displaying “Off,” with its associated icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the hotspot icon shape and its surrounding containment circle.
+Personal Hotspot: Full-width control labeled “Personal Hotspot” with status “Off,” with an icon composed of a white two-linked chain links symbol inside a gray circle.
 
-VPN: Full-width control at the bottom of the visible interface labeled “VPN” displaying “Off,” with a VPN-related icon in a muted gray disabled state, visually distinct from standard inactive states due to low-contrast color rendering of both the VPN icon shape and its surrounding containment circle.
+VPN: Full-width control labeled “VPN” with status “Off,” with an icon composed of a light-gray interconnected globe symbol inside a gray circle. Aside from the service being inactive, it is non-operable, which is indicated by the visually distinct appearance from standard inactive states due to the low-contrast color rendering of the icon.
+
+Satellite: Full-width control labeled “Satellite” at the bottom of the visible interface displaying “Not Available,” with an icon composed of a white Satellite symbol inside a gray circle.
 
 REVERSE TRANSITION
 
