@@ -2,7 +2,7 @@ The Home Screen interface is vertically structured from top to bottom, comprisin
 •	Status Bar: Spanning the uppermost portion of the display from left to right:
 o	Time: Displays the local time as 11:24. Positioned to its right is the silent mode icon.
 o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. A small orange circular indicator is visible just right of center inside the Dynamic Island, denoting that the system microphone is simultaneously active.
-o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital percentage readout "49."
+o	Connectivity & Power: AIRPLANE MODE: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital percentage readout "49."/CELL CONNECTION ACTIVE: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
 •	Below the status bar, a pair of application widgets are displayed: 
 o	On the left, the Weather widget displays the text "Weather Unavailable"
 o	On the right, the Calendar widget displays the text "TUESDAY 29 No events today." 
