@@ -194,4 +194,4 @@ o	Satellite: At the bottom of the interface, a full-width control labeled “Sat
 [00:04:18.407] The status of the "Airplane Mode" changed from "Off" to "On," and the "Cellular Data" shape of the corresponding icon changed from white to light-gray (inactive and non-operable), and the Satellite control disappeared.
 [00:04:18.902] The circle of the "Airplane Mode" icon changed from gray to orange. 
 [00:04:22.499] The Connectivity Panel was dismissed. 
-[00:04:22.961] The Control Center's main view is displaying.
+[00:04:22.961] The Control Center's main view is displaying. 
