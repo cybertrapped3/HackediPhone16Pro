@@ -97,17 +97,14 @@ o	Message: “Open ‘my.yubico.com’ in Safari” in black normal-sized letter
 o	Time: “now” in the upper right of the banner, in small-sized gray letters.
 o	Right side icon: immediately below the time, a small square with rounded corners Safari icon.
 [00:01:46.657] The notification banner slid up out of view.
-[00:01:48.745] The signal strength decreased from two to one bar. The network still 5GUW type.
+[00:01:48.713] The signal strength decreased from two to one bar. The network still 5GUW type.
 [00:01:50.653] The Apple Account Bottom Sheet in foreground began to slide down out of view.
 [00:01:50.983] After the bottom sheet was no longer visible, and the semi-transparent scrim had completely faded out, the "Add the First Security Key" interface is displaying brightly. The security key still inserted into the iPhone's USB-C port.
 [00:01:51.557] Again, a notification banner reading “Website NFC Tag Open ‘my.yubico.com’ in Safari” slid downward from the top edge of the screen. As the banner moved down, a second system alert smoothly faded into view at the center of the screen.
-
 The centered alert displayed the following message:
-
 Can't Add This Security Key
 Try again with a different security key.
 Learn More | OK
-
 The alert appeared as a modal-style system dialog, presenting the error message along with two selectable options: “Learn More” and “OK.”
 [00:01:57.988] The Safari notification slid up out of view
 [00:02:09.363] The Control Center was swiped down into view.
@@ -153,19 +150,19 @@ You are invited to take part in a short survey to help us improve your Apple Sup
 View exhibit 2025-04-27_04-25-12 – U for a still image of this frame.
 [00:02:35.493] The in-app survey finished loading.
 View exhibit 2025-04-27_04-25-12 – V for a still image of this frame.
+[00:02:37.706] The signal strength increased from one to two bars. The network still 5GUW type.
 [00:02:55.117] The app switcher is in a transitional state, with app cards shifting back and forth erratically as the user struggles to settle the gesture.
 From the front on backwards, the visible apps are Settings, Messages, Safari, and Notes. 
 No status bar is visible at the top of the page, nor in any of the app containers.
 [00:02:56.061] The Settings app is brought to the foreground, and the app switcher is dismissed. The interface is still showing the system dialog about "Lockdown Mode is Turned On," and the Learn More information is still in the background.
-[00:03:13.708] The signal strength increased from one to two bars. The network still 5GUW type.
+[00:03:13.708] The signal strength decreased from two to one bar. The network still 5GUW type.
 [00:03:20.012] With the signal strength at one bar, the 5GUW network label is about to change to LTE.
-[00:03:20.045] With the signal strength at one bar. The 5GUW type changed to LTE.
-[00:03:20.740] The signal strength increased from one to two bars. The network LTE type.
-[00:03:30.766] The signal strength decreased from two to one bar. The network still LTE type.
+[00:03:20.045] With the signal strength at one bar. The 5GUW network l label changed to LTE.
+[00:03:20.708] The signal strength increased from one to two bars. The network label still LTE.
+[00:03:30.713] The signal strength decreased from two to one bar. The network still LTE type.
 [00:03:40.704] The signal strength increased from one to two bars. The network LTE type.
 [00:04:05.611] The Settings app is dismissed. As the app shrinks out of view, the common status bar is not visible at the top of the screen. The app's container is showing its own status bar.
-[00:04:05.681] I exited the Settings app, and return to the Home Screen
-[00:04:05.776] The common status bar is fading into view.
+[00:04:05.776] The common status bar is fading into view, and the Home Screen is displaying.
 [00:04:06.370] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
 Status Bar: Spanning the uppermost portion of the display from left to right:
 Time: Displays the local time as 4:29. Positioned to its right is the silent mode icon.
