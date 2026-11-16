@@ -1,15 +1,14 @@
 The post-passcode authentication "Add the First Security Key" interface is displaying.
-
 •	The post-passcode authentication screen titled “Add the First Security Key” is displayed, with a semi-transparent black scrim overlay and an Apple Account bottom sheet presented in the foreground:
 o	The background interface consists of two primary sections:
 	The interface's upper Navigation Area: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
 	Main Content Area:
 •	An Illustration: A blue padlock.
 •	A Heading: The text “Add the First Security Key,” displayed in large, bold, black lettering centered horizontally.
-o	Semi-Transparent Scrim: 
-	A semi-transparent black overlay covers the background interface.
-	The overlay dims the underlying interface by approximately 40%.
-	The scrim visually establishes the bottom sheet as the active foreground element while keeping the background interface partially visible.
+•	Semi-Transparent Scrim: 
+o	A semi-transparent black overlay covers the background interface.
+o	The overlay dims the underlying interface by approximately 40%.
+o	The scrim visually establishes the bottom sheet as the active foreground element while keeping the background interface partially visible.
 •	The Apple Account foreground Bottom Sheet is organized into two primary sections:
 o	Upper Section (Header)
 	Heading: “Apple Account,” displayed at the top of the bottom sheet.
