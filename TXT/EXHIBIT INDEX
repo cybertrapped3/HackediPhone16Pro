@@ -1139,6 +1139,17 @@ Add Security Key – Status Bar Left Side Garbled After Closing Control Center	A
 TIMESTAMP: 00:00:01.351	TIMESTAMP: 00:00:01.550 —p. 0.199 sec	TIMESTAMP: 00:00:01.912 —p. 0.362 sec	TIMESTAMP: 00:00:01.945 —p. 0.033 sec
 * The abbreviation p. after the timestamp means post. The intention of this information, is to emphasize how much time passed after the previous screenshot. The garbled left side of the status bar lasted over half a second (00:00:01.912 – 00:00:01.351). 
  
+EXHIBIT 2025-04-27_04-25-12 – F through K
+EXHIBIT: 2025-04-27_04-25-12 - F	EXHIBIT: 2025-04-27_04-25-12 - G	EXHIBIT: 2025-04-27_04-25-12 - H
+FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-00_000 - Control Center Screen Brightness Starts 20 Percent.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_746.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_779.png"
+ 	 	 	 	 	 
+Control Center – Screen Brightness at Beginning of Screen Recording	Control Center – Unexplained Decreased Screen Brightness	Control Center – Unexplained Decreased Screen Brightness
+TIMESTAMP: 00:00:00.000	TIMESTAMP: 00:02:09.746	TIMESTAMP: 00:02:09.779
+EXHIBIT: 2025-04-27_04-25-12 - I	EXHIBIT: 2025-04-27_04-25-12 - J	EXHIBIT: 2025-04-27_04-25-12 - K
+FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-09_812.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-10_076.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-10_241.png"
+ 	 	 	 	 	 
+Control Center – Unexplained Decreased Screen Brightness	Control Center – Unexplained Decreased Screen Brightness	Control Center – Unexplained Decreased Screen Brightness
+TIMESTAMP: 00:02:09.812	TIMESTAMP: 00:02:10.076	TIMESTAMP: 00:02:10.241
 EXHIBIT 2025-04-27_04-25-12 – L through Q
 EXHIBIT: 2025-04-27_04-25-12 - L	EXHIBIT: 2025-04-27_04-25-12 - M	EXHIBIT: 2025-04-27_04-25-12 - N
 FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-30_780 - Security Key Tapped Learn More.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-31_143 - Security Key Dialog Faded Out.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-02-31_374 - Security Key Content Appears.png"
@@ -3666,4 +3677,5 @@ This is some text
 This is more text
 And some more text
 PAGE BREAK
+
 
