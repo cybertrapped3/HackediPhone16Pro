@@ -1126,10 +1126,227 @@ DATE AND TIME
 FILE SHA256
 8f5a0731d241c8cd5762d584451fb9688ab23ae1882d3fd91dd1d05156ee3aae
 PURPOSE
-TODO
+Screen Recording of iPhone System Anomalies and Failed Security-Key Enrollment
+The purpose of submitting this screen recording is to preserve and document a series of unusual, unexplained, and contemporaneously recorded behaviors exhibited by the iPhone 16 Pro during an attempted security-key enrollment process following the device's eSIM activation at a Verizon store.
+Specifically, the recording documents the following:
+1. Visual corruption of the iPhone's status bar.
+As the Control Center fades out of view, the system time and silent-mode phone icon in the status bar appear visibly garbled. This visual distortion persists after the Control Center has completely disappeared and continues for approximately 0.561 seconds, from timestamp 00:00:01.351 through 00:00:01.912. The first subsequent frame showing these status-bar elements without the apparent distortion occurs at 00:00:01.945.
+2. Unexplained reduction of screen brightness to virtually zero.
+At the beginning of the recording, the screen brightness is approximately 20%. Later, without any corresponding user interaction or apparent explanation, the brightness level decreases progressively to virtually zero. The reduction is captured when the Control Center is subsequently opened at approximately 00:02:09.363. The brightness slider shows the level approaching its lowest possible setting, with the remaining white indicator disappearing in subsequent frames. Because the screen becomes extremely dark, the user increases the brightness to its maximum level at 00:02:12.007.
+3. Delayed and sequential population of the security-key enrollment interface, accompanied by overlapping system interfaces and a Lockdown Mode notification.
+Following the selection of the "Learn More" option in the "Can't Add This Security Key" system dialog, a largely blank "Add the First Security Key" interface appears. Although the status bar initially indicates a 5G Ultra Wideband (5GUW) connection, the interface does not immediately display its expected content.
+The recording documents the subsequent appearance of interface elements in stages, including the introductory information, actionable buttons, a separate overlapping interface, and a system notification stating that Lockdown Mode is turned on for Settings.
+At 00:02:32.496, while the Lockdown Mode notification remains visible, an illustration of a physical USB-C security key begins appearing in the previously blank background interface. Additional explanatory text, headings, and an Apple Support survey invitation subsequently populate the interface. The survey finishes loading at 00:02:35.493.
+These successive visual changes document the delayed rendering of the interface, the appearance of overlapping interface elements, and the simultaneous presentation of a Lockdown Mode notification.
+4. Repeated cellular signal-strength changes and a network-type transition.
+The recording captures six changes in the displayed cellular signal strength during the recording. Additionally, at 00:03:20.045, the displayed network type changes from 5G Ultra Wideband (5GUW) to LTE.
+These observations document changes in the cellular connectivity indicators during the same session in which the security-key enrollment attempt and other unusual device behaviors occurred.
+5. Failure to enroll a brand-new YubiKey as the first security key.
+Most importantly, the recording documents the unsuccessful attempt to add a brand-new YubiKey that had never previously been used or configured. Despite being presented as the first security key to be enrolled, the device does not successfully complete the enrollment process.
+This is particularly relevant because the attempted operation was intended to establish a new security credential on the iPhone, yet the enrollment process failed.
+Evidentiary significance
+Taken together, these recordings preserve a continuous visual account of multiple unusual device behaviors occurring during a single session. They provide contemporaneous evidence of the device's displayed status, screen behavior, interface transitions, cellular connectivity indicators, and unsuccessful security-key enrollment.
+The recording is submitted to enable examination of these events in their original temporal sequence and to support further investigation into whether the observed behaviors, individually or collectively, resulted from device malfunction, software or operating-system behavior, network-related conditions, unauthorized interference, or another cause.
+
+The recording is particularly significant because it documents the failure to enroll a previously unused security key alongside the other observed anomalies, during an operation directly related to the device's security.
 DESCRIPTION
-TODO
- 
+[00:00:00.000] The screen recording starts with the Control Center Interface on view.
+The interface occupies substantially the entire display and consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+Status Area
+•	At the top of the display, from left to right, the following elements are visible:
+o	A plus ("+") symbol positioned in the upper-left corner.
+o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	A power symbol positioned in the upper-right corner.
+•	Immediately below the status area are:
+o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of two active white bars and two inactive gray bars, accompanied by the network carrier and type as Verizon 5GUW.
+o	A battery indicator positioned on the right displaying a battery level of 44%.
+The Connectivity Module
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. 
+•	The following controls are displayed:
+o	Airplane Mode, displayed as a gray circular button with a white airplane symbol, indicating an inactive state.
+o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+o	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+o	Four additional controls displaying symbols visually consistent with:
+	Cellular data displayed as a green circular button displaying a signal strength icon consisting of two active white bars and two inactive gray bars.
+	Bluetooth displayed as a gray circular button indicating an inactive state.
+	Hot spot displayed as a gray circular button indicating an inactive state.
+	VPN displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
+The Media Playback Module
+The upper-right Control Center module contains the media playback controls. 
+•	The module displays:
+o	An empty media artwork placeholder positioned on the left side.
+o	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+o	The text "Not Playing" displayed beneath the artwork placeholder.
+o	A row of media playback controls consisting of:
+	Previous.
+	Play.
+	Next.
+The module displays no media title, artist information, or artwork.
+The Rotation Lock and Silent Mode Controls
+Immediately below the Connectivity Module are two circular system controls.
+•	These controls display symbols visually consistent with:
+o	Rotation Lock: Displayed as a gray circular button containing an open padlock with a curved arrow, indicating the rotation lock feature is inactive.
+o	Silent Mode: Displayed as a white circular button containing a red bell symbol with a diagonal slash through it, indicating the phone is in silent mode.
+The Focus Module
+Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
+The Brightness and Volume Controls
+•	Immediately below the Media Playback Module are two vertical slider controls.
+o	The left slider controls screen brightness and displays a sun symbol near its lower end. The brightness level is approximately 20% up.
+o	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 44% up.
+The Utility Controls
+The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
+•	The controls display symbols visually consistent with:
+o	Flashlight.
+o	Timer.
+o	Calculator.
+o	Camera.
+o	Screen Mirroring.
+o	Code Scanner (QR Scanner).
+o	Screen Recording: displaying a red circular recording indicator within the control.
+o	Notes / Quick Note.
+The Right-Edge Interface Icons
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group).
+[00:00:01.219] The Control Center is swiped up out of view.
+[00:00:01.351] At the top of the screen, the status bar appears garbled as the Control Center is fading out of view. View Exhibit 2025-04-27_04-25-12 – B.
+[00:00:01.550] The Control Center has completely faded out of view, but the right-side elements of the status bar at the top of the page, the system time and the silent phone icon continue to appear garbled. View Exhibit 2025-04-27_04-25-12 – C.
+[00:00:01.912] Last frame in which the status bar continues to appear garbled. View Exhibit 2025-04-27_04-25-12 – D. 
+The total time lapsed during this anomaly is from timestamp 00:00:01.351 to 00:00:01.912 (over half a second—0.561 secs).
+[00:00:01.945] The first frame that shows the status bar's system time and silence phone icon ungarbled. View Exhibit 2025-04-27_04-25-12 – E.
+[00:00:01.945] The post-passcode authentication "Add the First Security Key" interface is displaying.
+•	The post-passcode authentication screen titled “Add the First Security Key” is displayed, with a semi-transparent black scrim overlay and an Apple Account bottom sheet presented in the foreground:
+o	The background interface consists of two primary sections:
+	The interface's upper Navigation Area: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
+	Main Content Area:
+•	An Illustration: A blue padlock.
+•	A Heading: The text “Add the First Security Key,” displayed in large, bold, black lettering centered horizontally.
+•	Semi-Transparent Scrim: 
+o	A semi-transparent black overlay covers the background interface.
+o	The overlay dims the underlying interface by approximately 40%.
+o	The scrim visually establishes the bottom sheet as the active foreground element while keeping the background interface partially visible.
+•	The Apple Account Bottom Sheet in the foreground is organized into two primary sections:
+o	Upper Section (Header)
+	Heading: “Apple Account,” displayed at the top of the bottom sheet.
+	Close Control: A circular close icon positioned adjacent to the heading, providing a means to dismiss the bottom sheet.
+o	Main Content Section
+	Illustrations: Two blue security-key illustrations are positioned near the upper portion of the content area:
+•	First illustration: A physical security key featuring a USB-C connector at its lower end and a flashlight-like component at its upper end.
+•	Second illustration: A physical security key featuring a touch sensor and a USB-C connector at its lower end.
+	Primary Heading: “Add Security Keys,” displayed in large, bold, black lettering and horizontally centered.
+	Explanatory Text: The following instructional text appears beneath the heading:
+•	“Insert and activate your first security key. If you have a compatible NFC key, bring it near the top of this iPhone.”
+[00:00:02.045] A physical NFC-enabled USB-C security key is already inserted into the iPhone's USB-C port, located along the bottom edge of the device.
+The security key remains connected while the “Add Security Keys” bottom sheet is displayed.
+* IMPORTANT NOTE: The key was brand new, and had never been previously registered or configured. TODO—get receipts
+[00:01:40.301] After remaining in a static state for over 1 minute and 30 seconds, the interface was interrupted by a notification banner. 
+•	The notification banner slid downward from the top edge of the screen, and was composed of the following elements:
+o	Left side icon: an NFC icon, white radio waves shape over a black background.
+o	Primary Heading: “Website NFC Tag” in black bold normal-sized letters.
+o	Message: “Open ‘my.yubico.com’ in Safari” in black normal-sized letters.
+o	Time: “now” in the upper right of the banner, in small-sized gray letters.
+o	Right side icon: immediately below the time, a small square with rounded corners Safari icon.
+[00:01:46.657] The notification banner slid up out of view.
+[00:01:48.713] The signal strength decreased from two to one bar. The network still 5GUW type.
+[00:01:50.653] The Apple Account Bottom Sheet in foreground began to slide down out of view.
+[00:01:50.983] After the bottom sheet was no longer visible, and the semi-transparent scrim had completely faded out, the "Add the First Security Key" interface is displaying brightly. The security key still inserted into the iPhone's USB-C port.
+[00:01:51.557] Again, a notification banner reading “Website NFC Tag Open ‘my.yubico.com’ in Safari” slid downward from the top edge of the screen. As the banner moved down, a second system alert smoothly faded into view at the center of the screen.
+The centered alert displayed the following message:
+Can't Add This Security Key
+Try again with a different security key.
+Learn More | OK
+The alert appeared as a modal-style system dialog, presenting the error message along with two selectable options: “Learn More” and “OK.”
+[00:01:57.988] The Safari notification slid up out of view
+[00:02:09.363] The Control Center was swiped down into view.
+[00:02:09.825] The screen brightness control shows the level almost to the bottom (almost completely darkened). 
+Remember that at the beginning of this screen recording (timestamp 00:00:00.000), the screen brightness level appeared approximately 20% up. View Exhibit 2025-04-27_04-25-12 – F.
+At this very frame, the level still shows a bit of white (i.e., a 1 or 2 percent brightness), but the next frames, show the level continuing to decrease until there is no white whatsoever (i.e., no brightness?).
+View Exhibits 2025-04-27_04-25-12 – G through K for detailed screenshots of the decreasing screen brightness.
+[00:02:12.007] The screen brightness level was increased all the way up. (User reported the screen was very dark).
+[00:02:13.240] The Control Center was swiped up out of view.
+[00:02:13.669] The "Add the First Security Key" with the system-dialog "Can't Add This Security Key" is still displaying.
+[00:02:30.784] The option "Learn More" was tapped.
+[00:02:30.950] The system-dialog faded out of view
+[00:02:31.213] The "Add the First Security Key" interface has a large blank space. View exhibit 2025-04-27_04-25-12 – M for a still image of this frame. 
+[00:02:31.374] Suddenly, the heading “Add the First Security Key” was replaced by content organized into two distinct sections: 
+•	Introductory information: 
+o	Immediately below the primary heading, the interface displays the following explanatory text:
+o	Explanatory text: “Make sure you're using a supported security key.”
+o	Additional information link: “See the list of compatible keys.” This text appears in blue, indicating an interactive link.
+•	Actionable buttons: At the bottom of the interface, two action buttons are displayed:
+o	Primary button – “Try Again”: A prominent blue button with white lettering, spanning almost the entire width of the interface.
+o	Secondary button – “Set Up Later”: A borderless button with blue lettering, positioned beneath the primary button. It is only partially visible in the screenshot.
+The interface’s container bottom changed and the corners now appeared rounded. 
+At the bottom edge of the screen, very little of another window is visible. 
+View exhibit 2025-04-27_04-25-12 – N for a still image of this frame. 
+[00:02:31.407] At the bottom of the screen, a separate interface is partially visible as it slides upward into view, overlapping the existing interface. Its upper-left corner contains a borderless “Done” button, displayed in blue lettering.
+ View exhibit 2025-04-27_04-25-12 – O for a still image of this frame.
+[00:02:31.902] A completely blank screen swiped up into view. Only the Done blue lettered control appears on the top right side of it.
+View exhibit 2025-04-27_04-25-12 – P for a still image of this frame.
+[00:02:32.199] A system dialog faded into view with the following message: 
+Lockdown Mode is Turned On
+For "Settings"
+Certain experiences and features may not function as expected. You can turn off Lockdown Mode for this app in Settings. 
+OK
+View exhibit 2025-04-27_04-25-12 – Q for a still image of this frame.
+[00:02:32.496] The interface in the background gradually populates with content. First, the illustration of a physical security key featuring a USB-C connector at its lower end and a flashlight-like component at its upper end is displayed in what was a blank interface.
+View exhibit 2025-04-27_04-25-12 – R for a still image of this frame.
+[00:02:34.773] Additional text content is populated.
+View exhibit 2025-04-27_04-25-12 – S for a still image of this frame.
+[00:02:34.883] Additional headings are populated.
+View exhibit 2025-04-27_04-25-12 – T for a still image of this frame.
+[00:02:35.477] An in-app survey invitation banner began to populate the top of the with the following content: 
+You are invited to take part in a short survey to help us improve your Apple Support online experience. Please select Yes if you would like to participate" Beneath this text, two buttons, Yes and No.
+View exhibit 2025-04-27_04-25-12 – U for a still image of this frame.
+[00:02:35.493] The in-app survey finished loading.
+View exhibit 2025-04-27_04-25-12 – V for a still image of this frame.
+[00:02:37.706] The signal strength increased from one to two bars. The network still 5GUW type.
+[00:02:55.117] The app switcher is in a transitional state, with app cards shifting back and forth erratically as the user struggles to settle the gesture.
+From the front on backwards, the visible apps are Settings, Messages, Safari, and Notes. 
+No status bar is visible at the top of the page, nor in any of the app containers.
+[00:02:56.061] The Settings app is brought to the foreground, and the app switcher is dismissed. The interface is still showing the system dialog about "Lockdown Mode is Turned On," and the Learn More information is still in the background.
+[00:03:13.708] The signal strength decreased from two to one bar. The network still 5GUW type.
+[00:03:20.012] With the signal strength at one bar, the 5GUW network label is about to change to LTE.
+[00:03:20.045] With the signal strength at one bar. The 5GUW network label changed to LTE.
+[00:03:20.708] The signal strength increased from one to two bars. The network label still LTE.
+[00:03:30.713] The signal strength decreased from two to one bar. The network still LTE type.
+[00:03:40.704] The signal strength increased from one to two bars. The network LTE type.
+[00:04:05.611] The Settings app is dismissed. As the app shrinks out of view, the common status bar is not visible at the top of the screen. The app's container is showing its own status bar.
+[00:04:05.776] The common status bar is fading into view, and the Home Screen is displaying.
+[00:04:06.370] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 4:29. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. 
+o	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "43."
+•	Below the status bar, a pair of application widgets are displayed: 
+o	On the left, the Weather widget displays the text "Weather Unavailable"
+o	On the right, the Calendar widget displays the text "SUNDAY 27 No events today." 
+o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Positioned just above the Dock is a persistent Search button. 
+•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+[00:04:12.042] The Control Center is swiped down into view.
+[00:04:12.603] The Control Center shows some changes as compared to the description rendered at the beginning of this screen recording:
+1) The network label changed from 5GUW to LTE.
+2) The battery charge level decreased from 44% to 43%.
+3) The screen brightness level at a 100%; the change of it described earlier at timestamp 00:02:12.007.
+[00:04:15.173] The Connectivity group was tapped, and the Control Panel's connectivity panel faded into view. 
+•	Connectivity Panel Layout: The interface displays a vertically arranged series of rounded rectangular control panels set against a blurred background:
+o	Airplane Mode: Full-width control at the top labeled “Airplane Mode” with status “Off” and an icon composed of a white airplane symbol inside a gray circle.
+o	Wi-Fi: Left-hand control labeled “Wi-Fi” with status “Off” and an icon composed of a white Wi-Fi symbol inside a gray circular icon.
+o	AirDrop: Right-hand control labeled “AirDrop” with status “Receiving Off” and an icon composed of a white AirDrop symbol inside a gray circle.
+o	Cellular Data: Left-hand control labeled “Cellular Data” with status “On” and an icon composed of a white signal strength symbol inside a bright-green circle.
+o	Bluetooth: Right-hand control labeled “Bluetooth” with status “Off” and an icon composed of a white Bluetooth symbol inside a gray circle.
+o	Personal Hotspot: Full-width control labeled “Personal Hotspot” with status “Off” and an icon composed of a white two-linked chain links symbol inside a gray circle.
+o	VPN: Full-width control labeled “VPN” with status “Off” and an icon composed of a light-gray interconnected globe symbol inside a gray circle. Aside from the service being inactive, it is non-operable, which is indicated by the visually distinct appearance from standard inactive states due to the low-contrast color rendering of the icon.
+o	Satellite: At the bottom of the interface, a full-width control labeled “Satellite” with status "Not Available” and an icon composed of a white Satellite symbol inside a gray circle.
+[00:04:16.295] The Cellular Data status changed from "On" to "Off".
+[00:04:16.757] The circle of the Cellular Data icon changed from bright-green to gray, and the "Personal Hotspot" icon changed from inactive, to inactive and non-operable (corresponding icon shape changed color from white to light-gray)
+[00:04:18.407] The status of the "Airplane Mode" changed from "Off" to "On," and the "Cellular Data" shape of the corresponding icon changed from white to light-gray (inactive and non-operable), and the Satellite control disappeared.
+[00:04:18.902] The circle of the "Airplane Mode" icon changed from gray to orange. 
+[00:04:22.499] The Connectivity Panel was dismissed. 
+[00:04:22.961] The Control Center's main view is displaying.  
 EXHIBIT 2025-04-27_04-25-12 – B through E
 EXHIBIT: 2025-04-27_04-25-12 - B	EXHIBIT: 2025-04-27_04-25-12 - C	EXHIBIT: 2025-04-27_04-25-12 - D	EXHIBIT: 2025-04-27_04-25-12 - E
 FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_351 - Status Bar Left Side Garbled Start.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_550 - Status Bar Left Side Garbled Control Center Faded Out.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_912 - Status Bar Left Side Garbled Last Frame.png"	FILENAME: "Capture_2025-04-27_04-25-12_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-25-12_1.MP4_00-00-01_945 - Status Bar Left Side Ungarbled First Frame.png"
@@ -3677,5 +3894,3 @@ This is some text
 This is more text
 And some more text
 PAGE BREAK
-
-
