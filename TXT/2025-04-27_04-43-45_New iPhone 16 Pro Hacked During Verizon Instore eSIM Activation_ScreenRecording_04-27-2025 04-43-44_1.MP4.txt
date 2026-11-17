@@ -1,0 +1,350 @@
+[00:00:00.000] The screen recording starts with the Control Center Interface on view.
+The interface occupies substantially the entire display and consists of a status area at the top of the display, multiple grouped system controls and indicators arranged in a grid, and a vertical column of interface icons positioned along the right edge of the display.
+Status Area
+•	At the top of the display, from left to right, the following elements are visible:
+o	A plus ("+") symbol positioned in the upper-left corner.
+o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	A power symbol positioned in the upper-right corner.
+•	Immediately below the status area are:
+o	An Airplane Mode status indicator positioned on the left.
+o	A battery indicator positioned on the right displaying a battery level of 40%.
+The Connectivity Module
+The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. 
+•	The following controls are displayed:
+o	Airplane Mode, displayed as an orange circular button with a white airplane symbol, visually indicating an active or enabled state.
+o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
+o	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
+o	Four additional controls displaying symbols visually consistent with:
+	Cellular data displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
+	Bluetooth displayed as a gray circular button with its symbol as a white shape, indicating an inactive state.
+	Hot spot displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
+	VPN displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
+The Media Playback Module
+The upper-right Control Center module contains the media playback controls. 
+•	The module displays:
+o	An empty media artwork placeholder positioned on the left side.
+o	An AirPlay output icon positioned in the upper-right corner, indicating an inactive state.
+o	The text "Not Playing" displayed beneath the artwork placeholder.
+o	A row of media playback controls consisting of:
+	Previous.
+	Play.
+	Next.
+The module displays no media title, artist information, or artwork.
+The Rotation Lock and Silent Mode Controls
+Immediately below the Connectivity Module are two circular system controls.
+•	These controls display symbols visually consistent with:
+o	Rotation Lock: Displayed as a gray circular button containing a white open padlock with a curved arrow, indicating the rotation lock feature is inactive.
+o	Silent Mode: Displayed as a white circular button containing a red bell symbol with a diagonal slash through it, indicating the phone is in silent mode.
+The Focus Module
+Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
+The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
+The Brightness and Volume Controls
+•	Immediately below the Media Playback Module are two vertical slider controls.
+o	The left slider controls screen brightness and displays a sun symbol near its lower end. The brightness level is approximately 37% up.
+o	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 44% up.
+The Utility Controls
+The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
+•	The controls display symbols visually consistent with:
+o	Flashlight.
+o	Timer.
+o	Calculator.
+o	Camera.
+o	Screen Mirroring.
+o	Code Scanner (QR Scanner).
+o	Screen Recording: displaying a red circular recording indicator within the control.
+o	Notes / Quick Note.
+The Right-Edge Interface Icons
+•	Along the right edge of the display is a vertical column of three interface icons. From top to bottom, the icons consist of:
+o	A heart symbol (Favorites/Home group, the current one).
+o	A musical note symbol (Media Playback group).
+o	A wireless transmission symbol (Connectivity group).
+[00:00:00.176] The Screen Recording control background is turning white.
+[00:00:04.984] The screen brightness level increased to about 80% level.
+[00:00:08.259] The Control Center was dismissed.
+[00:00:08.593] The Home Screen is displaying.
+[00:00:08.655] The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 4:43. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital percentage readout "40."
+•	Below the status bar, a pair of application widgets are displayed: 
+o	On the left, the Weather widget displays the text "Weather Unavailable"
+o	On the right, the Calendar widget displays the text "SUNDAY 27 No events today." 
+o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Positioned just above the Dock is a persistent Search button. 
+•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+[00:00:08.687] The Notes app was tapped.
+[00:00:08.737] Notice the Notes app is not showing the status bar in its container as it expands (like other apps have shown. Screen recording "2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4" shows the Safari app had its own status bar.
+[00:00:09.106] The Notes app shows an anomalous status bar: two silent icons of different sizes
+[00:00:10.822] I begin to type a note
+[00:02:26.087] I am typing the message: This IPhone 16 pro was purchased yesterday and it was hacked during the Verizon cell activation. The first yubikey I set up was disabled, and as I try to screenrecord what happens when I insert the"
+[00:04:12.897] the message I am typing continues: key, there are notices that appear in the screen, the video is clipped or tampered with. When I enter the phone pin, which supposedly is not recorded by screen recording,
+[00:05:46.897] the message I am typing continues: I will stop recording, and then begin recording when the key is actually inserted but "not recognized by system" and apparently sent to web
+[00:05:47.418] I dismissed the Notes app. This time, the app shows its own status bar as the window becomes smaller.
+[00:05:48.540] I tapped the Settings app
+[00:05:49.596] The Settings app interface.  In this interface, settings and controls appeared as follows: 
+
+Search bar
+
+Veronica Cisneros. Apple Account, iCloud, and more >
+
+Finish Setting Up Your iPhone (1)
+
+Airplane Mode: Toggled On
+Wi-Fi: Off >
+Bluetooth: Off >
+Cellular Off >
+Personal Hotspot: Off > (and disabled, meaning, it can not be control by the user, as opposed to situations in which the setting appears as brightly colored as the other settings) 
+Battery >
+
+General >
+Accessibility >
+Action Button >
+Apple Intelligence & Siri >
+[00:05:53.684] I tapped the Bluetooth setting
+[00:05:54.145] The Bluetooth Interface. 
+
+Below the "Bluetooth" heading, the following text appears: Connect to accessories you can use for activities such as streaming music, making phone calls, and gaming. Learn more...
+
+Further down we see the only control:
+
+Bluetooth: toggled Off
+Text under this setting: AirDrop, AirPlay, Find My, Location Services, and Thread use Bluetooth.
+[00:05:54.952] I navigated back to the Settings app's main interface
+[00:05:55.866] I tapped the Cellular setting
+[00:05:56.460] The Cellular settings interface.
+
+Text under the interface's heading: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...
+
+In this interface, settings and controls appeared as follows: 
+
+Cellular Data: toggled Off
+Cellular Data Options: >
+Personal Hotspot: Off (and disabled, meaning, it can not be controlled by the user, as opposed to situations in which the setting appears brightly colored as the other settings) 
+Text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications. 
+
+Under the VERIZON module, settings and controls appeared as follows: 
+Turn On This Line: toggled On
+My Number +1 (669) 326-4200
+Wi-Fi Calling: Off >
+Carrier Services > 
+SIM PIN >
+Delete eSIM (red colored letters)
+
+Add eSIM (blue colored letters imply this is a link)
+
+Under the "CELLULAR DATA" module, settings and controls appeared as follows: 
+Current Period: 123MB
+Current Period Roaming Zero KB
+System Services: 118 MB
+Settings: toggled on with the text 5.05 MB underneath it
+Weather: toggled off with the text 39.6 KB underneath it
+App Store: toggled off
+Astronomy: toggled off
+Show All >
+
+Wi-Fi Assist: toggled off
+The text under this setting: Automatically use cellular data when Wi-Fi connectivity is poor.
+
+(IMPORTANT NOTE: At this time, the settings iCloud Drive and iCloud Backup were missing from this interface. These settings appeared after I had created an Apple Account)
+
+iCloud Drive: toggled on
+The text under this setting: When not connected to Wi-Fi, use cellular network to transfer documents and data. 
+
+iCloud Backup: toggled on
+The text under this setting: When not connected to Wi-Fi, use your cellular network to automatically back up to iCloud. This may cause you to exceed your cellular data plan. 
+
+Under the "CALL TIME" module, settings and controls appeared as follows: 
+Current Period 0 Minutes
+Lifetime 0 Minutes
+
+Under the module "CELLULAR USAGE STATISTICS", settings and controls appeared as follows: 
+Enable Cellular Usage Statistics: toggled on
+Reset Statistics (the blue colored letters imply this is a link)
+The text under this setting: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
+
+Last Reset: Apr 26, 2025 at 6:02 PM
+[00:05:57.973] ALERT: In this frame (TIMESTAMP 00:05:57.973 and FRAME 10728), the Cellular Data toggle is in its original Off state
+[00:05:58.006] ALERT: In this next frame (TIMESTAMP 00:05:58.006 and FRAME 10729), the Cellular Data toggle moved slightly, from left to right
+[00:05:58.039] ALERT: In this next frame (TIMESTAMP 00:05:58.039 and FRAME 10730), the toggle goes back to its original state
+[00:05:58.072] ALERT: In this next frame (TIMESTAMP 00:05:58.072 and FRAME 10731), the Cellular Data Options settings changed from blank, or "Roaming On"
+[00:06:00.798] I toggled the Cellular Data On
+[00:06:02.776] I tapped the Cellular Data Options
+[00:06:03.469] The Cellular Data Options Interface. In this interface, settings and controls appeared as follows: 
+
+Data Roaming: toggled On
+(the setting Voice & Data did not appeared)
+Data Mode: Allow More Data on 5G >
+
+Limit IP Address Tracking: toggle On
+The text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
+[00:06:05.097] I tapped the Data Mode setting
+[00:06:05.823] The Data Mode Interface. In this interface, settings and controls appeared as follows:
+
+Allow More Data on 5G: blue check mark
+Standard
+Low Data Mode
+
+Under this list, the following descriptions appeared:
+
+Allow More Data on 5G may prefer 5G over Wi-Fi, and use it for software updates, automatic iCloud backups, and higher-quality media. 
+
+Standard allows automatic updates and background tasks on cellular, but limits video and FaceTime quality. 
+
+Low Data Mode helps reduce cellular data usage by pausing automatic update and background tasks.
+[00:06:08.628] I navigated back to Cellular Data Options
+[00:06:15.165] I navigated back to the Cellular settings interface
+[00:06:18.176] I toggled Cellular Data On
+[00:06:20.599] I navigated to the Setting app's main interface
+[00:06:22.216] As I toggled Airplane Mode Off, the "Get Help During an Emergency text" with a number 1 inside a red circle faded into view just above the setting.
+[00:06:26.798] As the Cell connection was being established, I tapped the Cellular setting
+[00:06:27.920] When the Cellular setting interface slid in to view, the Status Bar at the top of the screen had changed. 
+
+At this point, from left to right, the status bar showed the time 4:50, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 39 inside of it.
+[00:06:28.786] I tapped the Cellular Data Options setting
+[00:06:29.413] The Cellular Data Options Interface now showed an additional setting, Voice & Data. 
+
+In this interface, settings and controls appeared as follows: 
+
+Data Roaming: toggled On
+Voice & Data: 5 Auto >
+Data Mode: Allow More Data on 5G >
+
+Limit IP Address Tracking: toggle On
+The text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
+[00:06:32.671] I navigated back to the Cellular settings interface
+[00:06:33.451] I navigated back to the Settings app's main interface
+[00:06:36.899] The Settings app interface now appear as follows: 
+
+Search bar
+
+Veronica Cisneros. Apple Account, iCloud, and more >
+
+Finish Setting Up Your iPhone (1)
+Get Help During an Emergency (1)
+
+Airplane Mode: Toggled Off
+Wi-Fi: Off >
+Bluetooth: Off >
+Cellular >
+Personal Hotspot: Off > (and enabled, meaning, it can be controlled by the user, as opposed to situations in which the setting appears grayed out) 
+Battery >
+
+General >
+Accessibility >
+Action Button >
+[00:06:41.817] I tapped my name to view my account's information
+[00:06:42.369] The Apple Account Interface. In this interface, settings and controls appeared as follows: 
+
+Veronica Cisneros
+cyberonica@icloud.com
+
+Personal Information >
+Sign-In & Security >
+Payment & Shipping >
+Subscriptions >
+
+iCloud >
+Family Set Up >
+Find My >
+Media & Purchases > 
+Sign in with Apple >
+
+The spinning wheel was... spinning inside a module
+[00:06:42.798] Where the wheel had been spinning, the setting "iPhone (This iPhone 16 Pro) >" appeared. 
+
+Also, the iCloud setting changed from blank value to 5GB
+[00:06:44.163] I navigated back to the Settings app's main interface
+[00:06:47.332] I navigated back to the Apple Account's interface
+[00:06:47.925] I tapped the Sign-in & Security setting
+[00:06:49.245] The Sign-In & Security Interface. In this interface, settings and controls appeared as follows: 
+ 
+Under the EMAIL & PHONE NUMBERS module, settings and controls appeared as follows: 
+cyberonica@icloud.com (Primary email) >
++1 (669) 326-4200 (Unavailable for sharing) >
+Add Email or Phone Number (blue colored letters imply this is a link)
+Text under these settings: These email addresses and phone numbers can be used to sign in, verify your identity, and help recover your account. They can also be used to reach you with iMessage, FaceTime, Game Center, and more. 
+
+Under the SECURITY module, settings and controls appeared as follows: 
+Change Password ( (blue colored letters imply this is a link)
+Two-Factor Authentication >
+Text under these settings: Your trusted devices and phone number are used to verify your identity when signing in. 
+
+Under the RECOVERY METHODS module, settings and controls appeared as follows: 
+Recovery Contacts Set Up >
+Recovery Key Set Up >
+Text under these settings: Regain access to your account and data if you forget your password or device passcode.
+
+Legacy Contact Set Up >
+Text under this setting: A legacy contact is someone you trust to have access to the data in your account after your death. 
+
+Automatic Verification On >
+
+*MORE ITEMS BELOW*
+[00:06:51.955] I tapped the Two-Factor Authentication setting
+[00:06:52.503] The Two-Factor Authentication Interface. In this interface, settings and controls appeared as follows: 
+
+Under the VERIFY USING module, settings and controls appeared as follows: 
+iPhone (This iPhone 16 Pro) >
++1 (669) 326-4200 (Trusted phone number) >
+Add a Trusted Phone Number (blue colored letters imply this is a link)
+Text under these settings: For security, when you sign in to your account on a new device or on the web, you'll need both your password and a second factor, such as a 6-digit code sent to your devices or your phone numbers. 
+
+Under the ADVANCED module, settings and controls appeared as follows: 
+Security Keys Set Up >
+Text under this setting: Physical security keys provided a strong form of two factor authentication against phishing and unauthorized access to your account. Learn more... (blue colored letters imply this is a link)
+[00:07:02.562] I tapped the Security Keys Set Up setting (TIMESTAMP 00:07:02.562, FRAME 12664)
+[00:07:02.562] The wheel is spinning
+[00:07:03.189] Last frame which shows the Security Keys Set Up spinning wheel (TIMESTAMP 00:07:03.189, FRAME 12682)
+[00:07:03.222] The Security Keys Set Up spinning wheel disappeared, and the setting looks like before I had tapped the setting (TIMESTAMP 00:07:03.222, FRAME 12683)
+[00:07:03.354] The Add Security Keys screen begins to slid up in to view
+[00:07:04.047] The Security Keys Interface.  
+
+Under the heading, the following text appeared: 
+A FIDO Certified security key is third-party hardware that you can use for two-factor authentication when you sign in. 
+
+Strongest account security
+Physical security keys provide strong protection against phishing and unauthorized access to your account.
+
+Replaces verification code
+A physical security key replaces verification codes sent to your devices when signing or resetting your password. 
+
+FIDO Certified is a trademark (registered in numerous countries) of FIDO Alliance, Inc. 
+
+The blue button: Add Security Keys
+
+Learn More (blue colored letters imply this is a link)
+[00:07:11.552] I tapped the Add Security Keys button
+[00:07:12.535] The screen with the heading "You Need Two Security Keys" slid left in to view.
+
+Under this heading, the following text appeared: To get started, you need two compatible security keys. This makes sure you can always sign in to your account, even if you lose one. 
+
+How to choose the right security keys.  (blue colored letters imply this is a link)
+
+Blue button: Continue
+[00:07:13.194] The You Need Two Security Keys Interface
+
+Under the heading, the following text appeared: 
+TO get started, you need two compatible security keys. This makes sure you can always sign in to your account, even if you lose one. 
+
+How to choose the right security keys (blue colored letters imply this is a link).
+
+Large blue Continue button on the lower part of the interface.
+[00:07:14.733] The signal strength decreased from two to one bar. The network still LTE type.
+[00:07:19.552] I tapped the Continue button
+[00:07:20.414] Last spinning wheel for the Continue button
+[00:07:20.447] The Continue button reappears
+[00:07:21.601] The prompt "Enter Your iPhone Passcode. Enter the passcode you use to unlock this iPhone to add security keys." started to slide from the right in to view
+[00:07:21.766] The signal strength increased from one to two bars. The network still LTE type.
+[00:07:25.331] I swiped the Control Center in to view. 
+
+The interface shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green.
+[00:07:25.958] HIGHLIGHTS: 
+1) After eing tapped open, the Notes app was missing its own status ar. timestbamp 00:00:08.737
+
+2) No exhaustively, this screenrecording showed an anomaly during a capture of the Cellular interface. The anomaly is only noticeable if the viewer is paying close attention, because it is shown only for one or two frames. This manifested as the toggle of the setting "Cellular Data", under the Cellular Setting interface, moving slightly from left to right, and immediately after it, the setting below it, "Cellular Data Options" changing from having no value to "Roaming On". This few frames begin at the time stamp 00:05:57.973, FRAME 10728, and lasts two or three seconds; so, the anomaly is unlikely to be noticed by non analytical eyes. I include this extracted frames to facilitate better observation (these are contiguous frames):
+
+    a) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-57_973 - Cellular Data toggle and Roaming anomaly 1.png"
+    b) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_006 - Cellular Data toggle and Roaming anomaly 2.png"
+    c) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_039 - Cellular Data toggle and Roaming anomaly 3.png"
+    d) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_072 - Cellular Data toggle and Roaming anomaly 4.png"
