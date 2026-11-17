@@ -6,18 +6,18 @@ o	A plus ("+") symbol positioned in the upper-left corner.
 o	The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 o	A power symbol positioned in the upper-right corner.
 •	Immediately below the status area are:
-o	A cellular network status indicator positioned on the left, displaying a signal strength icon consisting of two active white bars and two inactive gray bars, accompanied by the network carrier and type as Verizon 5GUW.
-o	A battery indicator positioned on the right displaying a battery level of 44%.
+o	An Airplane Mode status indicator positioned on the left.
+o	A battery indicator positioned on the right displaying a battery level of 40%.
 The Connectivity Module
 The upper-left Control Center module contains a group of connectivity-related controls arranged within a rounded rectangular panel. 
 •	The following controls are displayed:
-o	Airplane Mode, displayed as a gray circular button with a white airplane symbol, indicating an inactive state.
+o	Airplane Mode, displayed as an orange circular button with a white airplane symbol, visually indicating an active or enabled state.
 o	AirDrop, displayed as a gray circular button with a white AirDrop symbol, indicating an inactive state.
 o	Wi-Fi, displayed as a gray circular button containing a Wi-Fi symbol with a diagonal slash through the symbol, indicating an inactive state.
 o	Four additional controls displaying symbols visually consistent with:
-	Cellular data displayed as a green circular button displaying a signal strength icon consisting of two active white bars and two inactive gray bars.
-	Bluetooth displayed as a gray circular button indicating an inactive state.
-	Hot spot displayed as a gray circular button indicating an inactive state.
+	Cellular data displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
+	Bluetooth displayed as a gray circular button with its symbol as a white shape, indicating an inactive state.
+	Hot spot displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
 	VPN displayed as a gray circular button with its symbol as a muted gray shape, indicating a disabled and non-operable state.
 The Media Playback Module
 The upper-right Control Center module contains the media playback controls. 
@@ -33,14 +33,14 @@ The module displays no media title, artist information, or artwork.
 The Rotation Lock and Silent Mode Controls
 Immediately below the Connectivity Module are two circular system controls.
 •	These controls display symbols visually consistent with:
-o	Rotation Lock: Displayed as a gray circular button containing an open padlock with a curved arrow, indicating the rotation lock feature is inactive.
+o	Rotation Lock: Displayed as a gray circular button containing a white open padlock with a curved arrow, indicating the rotation lock feature is inactive.
 o	Silent Mode: Displayed as a white circular button containing a red bell symbol with a diagonal slash through it, indicating the phone is in silent mode.
 The Focus Module
 Positioned below the Rotation Lock and Silent Mode controls is a rounded rectangular module labeled "Focus."
 The module contains multiple small circular icons representing available Focus modes together with a downward-pointing disclosure indicator.
 The Brightness and Volume Controls
 •	Immediately below the Media Playback Module are two vertical slider controls.
-o	The left slider controls screen brightness and displays a sun symbol near its lower end. The brightness level is approximately 20% up.
+o	The left slider controls screen brightness and displays a sun symbol near its lower end. The brightness level is approximately 37% up.
 o	The right slider controls system volume and displays a speaker symbol near its lower end. The volume level is approximately 44% up.
 The Utility Controls
 The lower portion of the Control Center contains eight circular system controls arranged in two rows of four controls each.
