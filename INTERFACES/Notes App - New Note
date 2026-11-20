@@ -4,7 +4,7 @@ The Notes app interface is displaying its opened note view.
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 4:43. Positioned to its right is the silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-	Connectivity & Power: CELLULAR CONNECTION ACTIVE: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48." / ARIPLANE MODE: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 40 centered within the housing.
+	Connectivity & Power: CELLULAR CONNECTION ACTIVE: The cellular signal strength icon displays two solid black bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48." / AIRPLANE MODE: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 40 centered within the housing.
 o	Navigation Area
 Located immediately below the Status Bar, this area provides navigation controls and note-management options:
 	Back Navigation: In the upper-left corner, a yellow-colored navigation link labeled "Notes," accompanied by a left-pointing directional chevron, provides navigation back to the Notes list.
