@@ -74,7 +74,23 @@ o	Below the widgets, applications are arranged across a flexible grid system, wh
 •	Positioned just above the Dock is a persistent Search button. 
 •	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:00:08.687] The Notes app was tapped.
-[00:00:08.737] Notice the Notes app is not showing the status bar in its container as it expands (like other apps have shown. Screen recording "2025-04-27_03-56-01_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 03-56-01_1.MP4" shows the Safari app had its own status bar.
+[00:00:08.737] Notice the Notes app is not showing the status bar in its container as it expands
+
+- "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-08_704%20-%20Notes%20App%20Opening%20Missing%20Own%20Status%20Bar.png"
+
+- "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-08_851%20-%20FRAME%20530.png"
+
+- "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-08_950%20-%20FRAME%20536.png"
+
+- "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_049%20-%20FRAME%20542.png"
+
+- "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_082%20-%20FRAME%20544.png"
+
+- "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_115%20-%20FRAME%20546.png"
+
+- "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_280%20-%20FRAME%20556.png"
+
+
 [00:00:09.106] The Notes app shows an anomalous status bar: two silent icons of different sizes
 [00:00:10.822] I begin to type a note
 [00:02:26.087] I am typing the message: This IPhone 16 pro was purchased yesterday and it was hacked during the Verizon cell activation. The first yubikey I set up was disabled, and as I try to screenrecord what happens when I insert the"
@@ -340,7 +356,21 @@ Large blue Continue button on the lower part of the interface.
 
 The interface shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green.
 [00:07:25.958] HIGHLIGHTS: 
-1) After eing tapped open, the Notes app was missing its own status ar. timestbamp 00:00:08.737
+1) After is tapped open, the Notes app is missing its own status Bar. timestamp 00:00:08.737
+
+I do not whether the containers of the apps should have their own status bar (to me it seems bad design. I think relying in the common status bar is efficient and elegant), but through the screen recordings, both situations were captured, apps that were tapped open without their own status bar, and apps that were tapped open without their own status bar. Furthermore, a conflict arises when looking at screen recording in which the Notes app shows its own status bar when is tapped open. Why is it missing in at this timestamp in this screen recording? Here is a list of still images that illustrate some examples. These were extracted from screen recordings:
+
+a) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-03-40_136%20-%20Settings%20App%20Opening%20Two%20Status%20Bars.png"
+
+b) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-08_704%20-%20Notes%20App%20Opening%20Missing%20Own%20Status%20Bar.png"
+
+c) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_05-34-42_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2005-34-42_1.MP4_00-00-38_978%20-%20Safari%20App%20Opening%20Two%20Status%20Bars.png"
+
+d) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_05-34-42_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2005-34-42_1.MP4_00-01-12_234%20-%20Settings%20App%20Opening%20Two%20Status%20Bars.png"
+
+e) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_05-34-42_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2005-34-42_1.MP4_00-03-16_537%20-%20Notes%20App%20Opening%20Two%20Status%20Bars.png"
+
+f) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-29_09-47-00_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-29-2025%2009-47-00_1.MP4_00-00-36_779%20-%20Notes%20App%20Opening%20Two%20Status%20Bars.png"
 
 2) No exhaustively, this screenrecording showed an anomaly during a capture of the Cellular interface. The anomaly is only noticeable if the viewer is paying close attention, because it is shown only for one or two frames. This manifested as the toggle of the setting "Cellular Data", under the Cellular Setting interface, moving slightly from left to right, and immediately after it, the setting below it, "Cellular Data Options" changing from having no value to "Roaming On". This few frames begin at the time stamp 00:05:57.973, FRAME 10728, and lasts two or three seconds; so, the anomaly is unlikely to be noticed by non analytical eyes. I include this extracted frames to facilitate better observation (these are contiguous frames):
 
