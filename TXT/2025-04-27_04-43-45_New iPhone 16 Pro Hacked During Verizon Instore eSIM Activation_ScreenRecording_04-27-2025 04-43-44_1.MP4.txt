@@ -127,11 +127,62 @@ Share Control: The share icon in the upper-right navigation area changes from mu
 
 These visual changes reflect the transition from an empty, newly opened note to an actively edited note containing user-entered content.
 [00:03:07.808] An additional sentence is typed: The first yubikey I set up was disabled, and as I try to screenrecord what happens when I insert the key, there are notices that appear in the screen, the video is clipped or tampered with.
-CONTINUE HERE
-[00:04:12.897] the message I am typing continues:  When I enter the phone pin, which supposedly is not recorded by screen recording,
-[00:05:46.897] the message I am typing continues: I will stop recording, and then begin recording when the key is actually inserted but "not recognized by system" and apparently sent to web
+[00:04:10.143] An additional sentence is typed: When I enter the phone pin, which supposedly is not recorded by screen recording, I will stop recording,
+[00:05:07.691] An additional sentence is typed: and then begin recording when the key is actually inserted but "not recognized by system"
+[00:05:44.419] Additional text is typed: and apparently sent to web
+[00:05:45.747] As the virtual keyboard is sliding down out of view, the editing toolbars are no longer visible.
+[00:05:45.945] Editing tool icons are displayed in the bottom of the screen across the width of the interface. These include: 
+	Turn to List: Provides options for creating and formatting lists.
+	Insert Attachment: Provides access to attachment and insertion options.
+	Handwriting / Markup: A circular icon containing the tip of a writing instrument, providing access to handwriting and drawing tools.
+	Edit Note
 [00:05:47.418] I dismissed the Notes app. This time, the app shows its own status bar as the window becomes smaller.
-[00:05:48.540] I tapped the Settings app
+[00:05:47.434] The Notes app is shrinking after it was dismissed. The app's container now shows its own status bar. 
+
+The common status bar at the very top of the screen is fading into view. 
+[00:05:48.003] The Home Screen is displaying. 
+
+The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
+•	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 4:49. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator. 
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital percentage readout "39."
+•	Below the status bar, a pair of application widgets are displayed: 
+o	On the left, the Weather widget displays the text "Weather Unavailable"
+o	On the right, the Calendar widget displays the text "SUNDAY 27 No events today." 
+o	Below the widgets, applications are arranged across a flexible grid system, where each application icon consists of a graphic identifier paired with a text label displaying the application name.
+•	Positioned just above the Dock is a persistent Search button. 
+•	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
+[00:05:48.532] The Settings app was tapped opened.
+[00:05:48.631] The app's container shows its own status bar. At the same time, the common status bar is visible at the very top of the screen. 
+[00:05:49.258] The settings app interface is displaying. 
+
+•	The interface is structured into two principal areas: the Status Bar and the Main Content Area.:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+o	Time: Displays the local time as 4:49. Positioned to its right is the silent mode icon.
+o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+o	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital readout "39."
+•	Primary Heading: Aligned to the left, rendered in large bold black typography: "Settings".
+•	Interface Body:
+o	Viewport Entry: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the iPhone's management interface with the following visible controls and status indicators:
+o	Global Search Bar: immediately beneath the header, a rounded gray inset container with a magnifying glass glyph on the left side, the placeholder text “Search,” and the microphone glyph on the right side
+o	The Apple ID / iCloud Profile Node: a rounded rectangular anchor cell comprised of the following elements: 
+	Visual Signature and interactive menu item: Circular user avatar/initials on the left containing the initials 'VC', primary user display name "Veronica Cisneros" stacked above the descriptive text "Apple Account, iCloud, and more"
+•	The subsequent controls and settings appeared as follows:
+o	First module:
+	Airplane Mode: Toggled On (green).
+	Wi-Fi: Displays the status "Off".
+	Bluetooth: Displays the status "Off".
+	Cellular: Displays the status "Off".
+	Personal Hotspot: Displays the status "Off", and its icon and text color are muted, indicating a disabled and non-operable state.
+	Battery: Displayed as an interactive menu item.
+o	Second module:
+	General: Displayed as an interactive menu item.
+	Accessibility: Displayed as an interactive menu item.
+	Partially visible, the Action Button: Displayed as an interactive menu item.
+Apple Intelligence & Siri: Displayed as an interactive menu item.
+Camera: Displayed as an interactive menu item.
+Control Center: Displayed as an interactive menu item.
 [00:05:49.596] The Settings app interface.  In this interface, settings and controls appeared as follows: 
 
 Search bar
@@ -151,15 +202,24 @@ General >
 Accessibility >
 Action Button >
 Apple Intelligence & Siri >
-[00:05:53.684] I tapped the Bluetooth setting
-[00:05:54.145] The Bluetooth Interface. 
+[00:05:49.607] The configuration action "Finish Setting Up Your iPhone (1) >" just became visible.
+[00:05:53.684] Bluetooth was tapped.
+[00:05:53.737] The Bluetooth configuration screen is sliding into view.
+[00:05:54.145] The Bluetooth configuration Interface. 
 
-Below the "Bluetooth" heading, the following text appears: Connect to accessories you can use for activities such as streaming music, making phone calls, and gaming. Learn more...
-
-Further down we see the only control:
-
-Bluetooth: toggled Off
-Text under this setting: AirDrop, AirPlay, Find My, Location Services, and Thread use Bluetooth.
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:49. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital readout "39."
+o	Navigation: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body: containing only the introductory section positioned on the upper portion of the interface's container, presenting an introductory visual block composed of the following elements:
+	Icon Graphic: A white bluetooth shape with a blue background square with rounded corners.
+	Primary heading: Centrally aligned or positioned directly adjacent, rendered in large-sized bold black letters "Bluetooth"
+	Descriptive Text: Immediately below the heading, in normal-sized black letters, the text "Connect to accessories you can use for activities such as streaming music, making phone calls, and gaming. Learn more..."
+	Control: Bluetooth: toggled Off (gray)
+	Explicative text under this module: AirDrop, AirPlay, Find My, Location Services, and Thread use CONTINUE HERE
 [00:05:54.952] I navigated back to the Settings app's main interface
 [00:05:55.866] I tapped the Cellular setting
 [00:05:56.460] The Cellular settings interface.
@@ -390,9 +450,9 @@ Large blue Continue button on the lower part of the interface.
 
 The interface shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green.
 [00:07:25.958] HIGHLIGHTS: 
-1) After is tapped open, the Notes app is missing its own status Bar. timestamp 00:00:08.737
+1) Status Bar Inconsistencies During App Launch
 
-I do not whether the containers of the apps should have their own status bar (to me it seems bad design. I think relying in the common status bar is efficient and elegant), but through the screen recordings, both situations were captured, apps that were tapped open without their own status bar, and apps that were tapped open without their own status bar. Furthermore, a conflict arises when looking at screen recording in which the Notes app shows its own status bar when is tapped open. Why is it missing in at this timestamp in this screen recording? Here is a list of still images that illustrate some examples. These were extracted from screen recordings:
+At timestamp 00:00:08.737, the Notes app opens without displaying its own status bar. Across the examined screen recordings, however, inconsistent behavior is observed: some applications display two status bars, while others rely exclusively on the system-level status bar. More notably, the Notes app appears with its own status bar in other recordings, raising the question of why it is absent in this particular instance. The screenshots below document these variations and provide examples for comparison.
 
 a) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_03-56-01_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2003-56-01_1.MP4_00-03-40_136%20-%20Settings%20App%20Opening%20Two%20Status%20Bars.png"
 
