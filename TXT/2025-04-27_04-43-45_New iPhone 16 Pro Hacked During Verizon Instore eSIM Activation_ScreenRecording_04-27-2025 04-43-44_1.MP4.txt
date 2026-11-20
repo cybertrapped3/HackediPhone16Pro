@@ -91,10 +91,44 @@ o	Below the widgets, applications are arranged across a flexible grid system, wh
 - "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_280%20-%20FRAME%20556.png"
 
 
-[00:00:09.106] The Notes app shows an anomalous status bar: two silent icons of different sizes
-[00:00:10.822] I begin to type a note
-[00:02:26.087] I am typing the message: This IPhone 16 pro was purchased yesterday and it was hacked during the Verizon cell activation. The first yubikey I set up was disabled, and as I try to screenrecord what happens when I insert the"
-[00:04:12.897] the message I am typing continues: key, there are notices that appear in the screen, the video is clipped or tampered with. When I enter the phone pin, which supposedly is not recorded by screen recording,
+[00:00:09.099] As the Notes app own status bar is fading into view, it seems that the common one is still visible: 
+
+- "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_115%20-%20FRAME%20546.png"
+[00:00:09.303] The Notes app interface is displaying its opened note view. 
+
+•	The iPhone Notes app is displaying its opened note-editing interface, with a new, blank note ready for text entry. The screen is visually organized into five principal areas: the Status Bar, Navigation Area, Content Area, Editing Toolbar, and Virtual Keyboard:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:43. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon is partially filled, displaying the numeric charge level 40 centered within the housing.
+o	Navigation Area
+Located immediately below the Status Bar, this area provides navigation controls and note-management options:
+	Back Navigation: In the upper-left corner, a yellow-colored navigation link labeled "Notes," accompanied by a left-pointing directional chevron, provides navigation back to the Notes list.
+	Share Control: Positioned toward the upper-right side, a muted-gray share icon is visible and appears visually inoperable.
+	More Options: To the right of the share icon, a yellow three-dot menu icon provides access to additional note options.
+	Done Control: Positioned to the right of the three-dot menu, the yellow-colored text "Done" serves as the control for completing the current editing session.
+o	Content Area: The central portion of the display is the primary note-editing workspace:
+	Because this is a newly created note, the content area is completely blank. No text, images, attachments, or other content are present. A thin yellow insertion cursor is visible immediately beneath the navigation area, indicating the active text-entry position and readiness for typing.
+o	Notes Editing Toolbar: Directly above the virtual keyboard is a horizontal editing toolbar containing five black-colored icons, evenly arranged across the available width. From left to right, these are:
+	Change Font: Provides text-formatting options, including font styles and text appearance.
+	Turn to List: Provides options for creating and formatting lists.
+	Insert Table: Allows the user to insert a table into the note.
+	Insert Attachment: Provides access to attachment and insertion options.
+	Handwriting / Markup: A circular icon containing the tip of a writing instrument, providing access to handwriting and drawing tools.
+o	Virtual Keyboard: Occupying the bottom portion of the display, the standard iPhone virtual keyboard is visible and ready for text input. It is positioned directly beneath the Notes editing toolbar, allowing the user to begin entering content into the blank note.
+	The keyboard completes the note-editing interface and indicates that the application is currently in text-entry mode.
+
+[00:00:10.726] Dynamic Interface Changes Upon Text Entry
+
+As soon as the user enters the first character into the previously blank note, the Notes interface dynamically updates, introducing additional note-management controls and changing the visual appearance of an existing navigation control.
+
+Undo and Redo Controls: Two circular arrow icons appear near the center of the screen, providing undo and redo functionality. The Undo icon is displayed in yellow, indicating that the undo action is available. The Redo icon appears in muted gray, indicating that the redo action is currently unavailable because there is no previous action to restore.
+Share Control: The share icon in the upper-right navigation area changes from muted gray to yellow, indicating that the sharing functionality is now available.
+
+These visual changes reflect the transition from an empty, newly opened note to an actively edited note containing user-entered content.
+[00:03:07.808] An additional sentence is typed: The first yubikey I set up was disabled, and as I try to screenrecord what happens when I insert the key, there are notices that appear in the screen, the video is clipped or tampered with.
+CONTINUE HERE
+[00:04:12.897] the message I am typing continues:  When I enter the phone pin, which supposedly is not recorded by screen recording,
 [00:05:46.897] the message I am typing continues: I will stop recording, and then begin recording when the key is actually inserted but "not recognized by system" and apparently sent to web
 [00:05:47.418] I dismissed the Notes app. This time, the app shows its own status bar as the window becomes smaller.
 [00:05:48.540] I tapped the Settings app
