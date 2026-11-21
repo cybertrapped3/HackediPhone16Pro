@@ -9,7 +9,6 @@ o	Navigation & Header Bar: Establishing the user's hierarchical location within 
 	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Data Mode".
 o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
 	Under the only module:
-•	5G Auto: blue colored check mark on the far left (indicating this mode is selected).
 •	Allow More Data on 5G: blue colored check mark on the far left (indicating this mode is selected).
 •	Standard
 •	Low Data Mode
