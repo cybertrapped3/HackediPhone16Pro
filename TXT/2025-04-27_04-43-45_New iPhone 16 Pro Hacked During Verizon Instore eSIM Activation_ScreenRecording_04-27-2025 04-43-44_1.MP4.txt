@@ -89,8 +89,6 @@ o	Below the widgets, applications are arranged across a flexible grid system, wh
 - "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_115%20-%20FRAME%20546.png"
 
 - "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_280%20-%20FRAME%20556.png"
-
-
 [00:00:09.099] As the Notes app own status bar is fading into view, it seems that the common one is still visible: 
 
 - "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Two%20Status%20Bars/Capture_2025-04-27_04-43-45_New%20iPhone%2016%20Pro%20Hacked%20During%20Verizon%20Instore%20eSIM%20Activation_ScreenRecording_04-27-2025%2004-43-44_1.MP4_00-00-09_115%20-%20FRAME%20546.png"
@@ -117,7 +115,6 @@ o	Notes Editing Toolbar: Directly above the virtual keyboard is a horizontal edi
 	Handwriting / Markup: A circular icon containing the tip of a writing instrument, providing access to handwriting and drawing tools.
 o	Virtual Keyboard: Occupying the bottom portion of the display, the standard iPhone virtual keyboard is visible and ready for text input. It is positioned directly beneath the Notes editing toolbar, allowing the user to begin entering content into the blank note.
 	The keyboard completes the note-editing interface and indicates that the application is currently in text-entry mode.
-
 [00:00:10.726] Dynamic Interface Changes Upon Text Entry
 
 As soon as the user enters the first character into the previously blank note, the Notes interface dynamically updates, introducing additional note-management controls and changing the visual appearance of an existing navigation control.
@@ -136,10 +133,9 @@ These visual changes reflect the transition from an empty, newly opened note to 
 	Insert Attachment: Provides access to attachment and insertion options.
 	Handwriting / Markup: A circular icon containing the tip of a writing instrument, providing access to handwriting and drawing tools.
 	Edit Note
-[00:05:47.418] I dismissed the Notes app. This time, the app shows its own status bar as the window becomes smaller.
 [00:05:47.434] The Notes app is shrinking after it was dismissed. The app's container now shows its own status bar. 
 
-The common status bar at the very top of the screen is fading into view. 
+The common status bar at the very top of the screen is fading into view.
 [00:05:48.003] The Home Screen is displaying. 
 
 The Home Screen interface is vertically structured from top to bottom, comprising the status bar, widgets, an application icon grid, a page search utility, and the dock.
@@ -154,8 +150,8 @@ o	Below the widgets, applications are arranged across a flexible grid system, wh
 •	Positioned just above the Dock is a persistent Search button. 
 •	Pinned to the bottom of the Home Screen is the Dock—a fixed, translucent horizontal container housing four application icons.
 [00:05:48.532] The Settings app was tapped opened.
-[00:05:48.631] The app's container shows its own status bar. At the same time, the common status bar is visible at the very top of the screen. 
-[00:05:49.258] The settings app interface is displaying. 
+[00:05:48.631] The app's container shows its own status bar. At the same time, the common status bar is visible at the very top of the screen.
+[00:05:49.258] The Settings app interface is displaying. 
 
 •	The interface is structured into two principal areas: the Status Bar and the Main Content Area.:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
@@ -179,104 +175,62 @@ o	First module:
 o	Second module:
 	General: Displayed as an interactive menu item.
 	Accessibility: Displayed as an interactive menu item.
-	Partially visible, the Action Button: Displayed as an interactive menu item.
-Apple Intelligence & Siri: Displayed as an interactive menu item.
-Camera: Displayed as an interactive menu item.
-Control Center: Displayed as an interactive menu item.
-[00:05:49.596] The Settings app interface.  In this interface, settings and controls appeared as follows: 
-
-Search bar
-
-Veronica Cisneros. Apple Account, iCloud, and more >
-
-Finish Setting Up Your iPhone (1)
-
-Airplane Mode: Toggled On
-Wi-Fi: Off >
-Bluetooth: Off >
-Cellular Off >
-Personal Hotspot: Off > (and disabled, meaning, it can not be control by the user, as opposed to situations in which the setting appears as brightly colored as the other settings) 
-Battery >
-
-General >
-Accessibility >
-Action Button >
-Apple Intelligence & Siri >
+	Action Button: Displayed as an interactive menu item.
+	Apple Intelligence & Siri: Displayed as an interactive menu item.
+	Camera: Displayed as an interactive menu item.
+	Control Center: Displayed as an interactive menu item.
 [00:05:49.607] The configuration action "Finish Setting Up Your iPhone (1) >" just became visible.
 [00:05:53.684] Bluetooth was tapped.
 [00:05:53.737] The Bluetooth configuration screen is sliding into view.
 [00:05:54.145] The Bluetooth configuration Interface. 
 
-•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+•	The interface is visually organized into three principal areas: the status bar, the navigation area, and the main content area:
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 4:49. Positioned to its right is the silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
 	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital readout "39."
 o	Navigation: Establishing the user's hierarchical location within the iOS environment:
 	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
-o	Interface Body: containing only the introductory section positioned on the upper portion of the interface's container, presenting an introductory visual block composed of the following elements:
-	Icon Graphic: A white bluetooth shape with a blue background square with rounded corners.
-	Primary heading: Centrally aligned or positioned directly adjacent, rendered in large-sized bold black letters "Bluetooth"
-	Descriptive Text: Immediately below the heading, in normal-sized black letters, the text "Connect to accessories you can use for activities such as streaming music, making phone calls, and gaming. Learn more..."
-	Control: Bluetooth: toggled Off (gray)
-	Explicative text under this module: AirDrop, AirPlay, Find My, Location Services, and Thread use CONTINUE HERE
+o	Main Content Area: The main content area presents the introductory information and primary control associated with the Bluetooth configuration screen. The content is arranged vertically, beginning with an introductory visual and informational section, and then a single configuration setting:
+	Icon Graphic: A white Bluetooth symbol is displayed against a blue, rounded-square background, visually representing the Bluetooth feature.
+	Primary Heading: The title "Bluetooth" appears in large, bold, black lettering, serving as the primary heading of the interface.
+	Descriptive Text: Directly beneath the heading, a descriptive paragraph appears in regular-weight black text. It reads: "Connect to accessories you can use for activities such as streaming music, making phone calls, and gaming. Learn more..." The text briefly explains the functionality and typical applications of Bluetooth connectivity.
+	Bluetooth Control: toggled  "Off" (gray).
+	Explicative text under the module: AirDrop, AirPlay, Find My, Location Services, and Thread use Bluetooth.
+[00:05:54.736] The go back link (i.e., Settings >) was tapped.
 [00:05:54.952] I navigated back to the Settings app's main interface
+[00:05:55.495] The Settings app's main interface is displaying.
 [00:05:55.866] I tapped the Cellular setting
-[00:05:56.460] The Cellular settings interface.
-
-Text under the interface's heading: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...
-
-In this interface, settings and controls appeared as follows: 
-
-Cellular Data: toggled Off
-Cellular Data Options: >
-Personal Hotspot: Off (and disabled, meaning, it can not be controlled by the user, as opposed to situations in which the setting appears brightly colored as the other settings) 
-Text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications. 
-
-Under the VERIZON module, settings and controls appeared as follows: 
-Turn On This Line: toggled On
-My Number +1 (669) 326-4200
-Wi-Fi Calling: Off >
-Carrier Services > 
-SIM PIN >
-Delete eSIM (red colored letters)
-
-Add eSIM (blue colored letters imply this is a link)
-
-Under the "CELLULAR DATA" module, settings and controls appeared as follows: 
-Current Period: 123MB
-Current Period Roaming Zero KB
-System Services: 118 MB
-Settings: toggled on with the text 5.05 MB underneath it
-Weather: toggled off with the text 39.6 KB underneath it
-App Store: toggled off
-Astronomy: toggled off
-Show All >
-
-Wi-Fi Assist: toggled off
-The text under this setting: Automatically use cellular data when Wi-Fi connectivity is poor.
-
-(IMPORTANT NOTE: At this time, the settings iCloud Drive and iCloud Backup were missing from this interface. These settings appeared after I had created an Apple Account)
-
-iCloud Drive: toggled on
-The text under this setting: When not connected to Wi-Fi, use cellular network to transfer documents and data. 
-
-iCloud Backup: toggled on
-The text under this setting: When not connected to Wi-Fi, use your cellular network to automatically back up to iCloud. This may cause you to exceed your cellular data plan. 
-
-Under the "CALL TIME" module, settings and controls appeared as follows: 
-Current Period 0 Minutes
-Lifetime 0 Minutes
-
-Under the module "CELLULAR USAGE STATISTICS", settings and controls appeared as follows: 
-Enable Cellular Usage Statistics: toggled on
-Reset Statistics (the blue colored letters imply this is a link)
-The text under this setting: Disabling cellular usage statistics will disable all cellular usage tracking, as well as reset any currently tracked usage to zero. 
-
-Last Reset: Apr 26, 2025 at 6:02 PM
-[00:05:57.973] ALERT: In this frame (TIMESTAMP 00:05:57.973 and FRAME 10728), the Cellular Data toggle is in its original Off state
-[00:05:58.006] ALERT: In this next frame (TIMESTAMP 00:05:58.006 and FRAME 10729), the Cellular Data toggle moved slightly, from left to right
-[00:05:58.039] ALERT: In this next frame (TIMESTAMP 00:05:58.039 and FRAME 10730), the toggle goes back to its original state
+[00:05:55.891] Cellular was tapped.
+[00:05:55.957] The Cellular settings configuration interfaces is sliding left into view.
+[00:05:56.460] The Cellular settings Interface
+•	The interface is visually organized into three principal areas: the status area, the navigation area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:49. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital percentage readout "39."
+o	Navigation Area: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Interface Body:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid green rounded square containing a wireless transmission symbol.
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold typography: "Cellular".
+•	Descriptive Text: Find out how much data you're using, set data restrictions, and manage carrier settings such as eSIM and Wi-Fi calling. Learn more...".
+	Visible Controls & Status Indicators (Initial View): Positioned immediately below the Introductory Module:
+•	The First module: 
+o	Cellular Data:  Toggled Off (gray).
+o	Cellular Data Options: Displayed as an interactive menu item.
+o	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
+o	Explicative text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
+•	The VERIZON module:
+o	Turn On This Line:  Toggled On (green).
+o	My Number: +1 (669) 326-4200
+o	Wi-Fi Calling: Displays the status “Off.”
+o	Carrier Services: Displayed as an interactive menu item.
+o	SIM PIN: Displayed as an interactive menu item.
+o	Delete eSIM: red colored letters.
+[00:05:58.010] The "Cellular Data" toggle switch exhibits an anomalous, transient movement toward the right, visually resembling an attempt to transition from the Off position to the On position. However, the switch does not complete or retain this state transition. Instead, it subsequently returns to its original left-hand position, indicating that Cellular Data remains visually configured as Off.
+[00:05:58.043] The "Cellular Data Options" menu item undergoes a separate, observable change in its displayed status. Previously blank, the status field updates to display "Roaming On."
 [00:05:58.072] ALERT: In this next frame (TIMESTAMP 00:05:58.072 and FRAME 10731), the Cellular Data Options settings changed from blank, or "Roaming On"
 [00:06:00.798] I toggled the Cellular Data On
 [00:06:02.776] I tapped the Cellular Data Options
@@ -472,3 +426,17 @@ f) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/202
     b) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_006 - Cellular Data toggle and Roaming anomaly 2.png"
     c) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_039 - Cellular Data toggle and Roaming anomaly 3.png"
     d) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_072 - Cellular Data toggle and Roaming anomaly 4.png"
+
+Combined Anomalous Behavior
+
+Considered together, these two events constitute an anomalous sequence of interface behavior:
+
+[00:05:58.010] The "Cellular Data" toggle exhibits a brief, rightward movement suggestive of an attempted activation, but subsequently returns to its original Off position without retaining the On state.
+[00:05:58.043] Almost simultaneously, the "Cellular Data Options" status changes from blank to "Roaming On."
+The juxtaposition of these events is noteworthy because the Cellular Data control visually returns to its original Off state, while the associated options menu independently displays a newly established "Roaming On" status.
+
+SCREENSHOTS: 
+
+"Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_010 - Cellular Settings Cellular Data Anomalous Quasi Toggle.png"
+
+"Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_043 - Cellular Settings Cellular Data Options change to Roaming On.png"
