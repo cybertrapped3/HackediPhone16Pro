@@ -3,7 +3,7 @@ The Cellular Data Options Interface.
 o	Status Bar: Spanning the uppermost portion of the display from left to right:
 	Time: Displays the local time as 4:00. Positioned to its right is the silent mode icon.
 	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). The adjacent battery icon appears partially filled alongside the digital readout "48."
+	Connectivity & Power: The cellular signal strength icon displays two solid white bars and two gray bars, followed by the network type indicator ("LTE"). )(AIRPLANE MODE: The Airplane Mode icon denotes that wireless network transmissions are currently disabled.) The adjacent battery icon appears partially filled alongside the digital readout "48."
 o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
 	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Cellular" accompanied by a directional chevron.
 	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Cellular Data Options".
