@@ -15,7 +15,7 @@ o	Interface Body:
 •	The First module: 
 o	Cellular Data:  Toggled On (green).
 o	Cellular Data Options: Displays the status "Roaming Off."
-o	Personal Hotspot: Displays the status "Off".
+o	Personal Hotspot: Displays the status "Off", and appears grayed out, which indicates it is disabled, meaning, it cannot be controlled by the user.
 o	Explicative text under these settings: Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.
 •	The VERIZON module:
 o	Turn On This Line:  Toggled On (green).
