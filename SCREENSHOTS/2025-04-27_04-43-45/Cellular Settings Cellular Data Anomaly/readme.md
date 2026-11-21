@@ -13,13 +13,13 @@ This creates an apparent inconsistency between the displayed state of the primar
 
 ### [00:05:58.010] Cellular Data – Transient Toggle Movement Without a Persistent State Change
 
-<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Cellular%20Settings%20Cellular%20Data%20Anomaly/Capture_2025-04-27_04-43-45%20-%20Cellular%20Settings%20Cellular%20Data%20Anomalous%20Quasi%20Toggle.png" alt="Cellular Data – Transient Toggle Movement Without a Persistent State Change: timestamp 00:05:58.010" width="150">
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Cellular%20Settings%20Cellular%20Data%20Anomaly/Capture_2025-04-27_04-43-45%20-%20Cellular%20Settings%20Cellular%20Data%20Anomalous%20Quasi%20Toggle.png" alt="Cellular Data – Transient Toggle Movement Without a Persistent State Change: timestamp 00:05:58.010" width="300">
 
 The "Cellular Data" toggle switch exhibits an anomalous, transient movement toward the right, visually resembling an attempt to transition from the Off position to the On position. However, the switch does not complete or retain this state transition. Instead, it subsequently returns to its original left-hand position, indicating that Cellular Data remains visually configured as Off.
 
 ### [00:05:58.043] Cellular Data Options – Unexpected Status Change
 
-<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Cellular%20Settings%20Cellular%20Data%20Anomaly/Capture_2025-04-27_04-43-45%20-%20Cellular%20Settings%20Cellular%20Data%20Options%20change%20to%20Roaming%20On.png" alt="Cellular Data Options – Unexpected Status Change: timestamp 00:05:58.043" width="150">
+<img src="https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/2025-04-27_04-43-45/Cellular%20Settings%20Cellular%20Data%20Anomaly/Capture_2025-04-27_04-43-45%20-%20Cellular%20Settings%20Cellular%20Data%20Options%20change%20to%20Roaming%20On.png" alt="Cellular Data Options – Unexpected Status Change: timestamp 00:05:58.043" width="300">
 
 At timestamp 00:05:58.043, the "Cellular Data Options" menu item undergoes a separate, observable change in its displayed status. Previously blank, the status field updates to display "Roaming On."
 
