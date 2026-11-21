@@ -1,0 +1,15 @@
+The Bluetooth configuration Interface. 
+
+•	The interface is visually organized into three principal areas: the status bar, the navigation area, and the main content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:49. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital readout "39."
+o	Navigation: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+o	Main Content Area: The main content area presents the introductory information and primary control associated with the Bluetooth configuration screen. The content is arranged vertically, beginning with an introductory visual and informational section, and then a single configuration setting:
+	Icon Graphic: A white Bluetooth symbol is displayed against a blue, rounded-square background, visually representing the Bluetooth feature.
+	Primary Heading: The title "Bluetooth" appears in large, bold, black lettering, serving as the primary heading of the interface.
+	Descriptive Text: Directly beneath the heading, a descriptive paragraph appears in regular-weight black text. It reads: "Connect to accessories you can use for activities such as streaming music, making phone calls, and gaming. Learn more..." The text briefly explains the functionality and typical applications of Bluetooth connectivity.
+	Bluetooth Control: toggled  "Off" (gray).
+	Explicative text under the module: AirDrop, AirPlay, Find My, Location Services, and Thread use Bluetooth.
