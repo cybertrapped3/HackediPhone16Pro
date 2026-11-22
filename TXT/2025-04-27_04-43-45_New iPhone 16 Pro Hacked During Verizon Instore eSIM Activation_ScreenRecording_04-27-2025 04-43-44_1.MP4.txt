@@ -230,42 +230,88 @@ o	Carrier Services: Displayed as an interactive menu item.
 o	SIM PIN: Displayed as an interactive menu item.
 o	Delete eSIM: red colored letters.
 [00:05:58.010] The "Cellular Data" toggle switch exhibits an anomalous, transient movement toward the right, visually resembling an attempt to transition from the Off position to the On position. However, the switch does not complete or retain this state transition. Instead, it subsequently returns to its original left-hand position, indicating that Cellular Data remains visually configured as Off.
+[00:05:58.010] The "Cellular Data" toggle exhibits a brief, rightward movement suggestive of an attempted activation, but subsequently returns to its original Off position without retaining the On state.
 [00:05:58.043] The "Cellular Data Options" menu item undergoes a separate, observable change in its displayed status. Previously blank, the status field updates to display "Roaming On."
-[00:05:58.072] ALERT: In this next frame (TIMESTAMP 00:05:58.072 and FRAME 10731), the Cellular Data Options settings changed from blank, or "Roaming On"
-[00:06:00.798] I toggled the Cellular Data On
-[00:06:02.776] I tapped the Cellular Data Options
-[00:06:03.469] The Cellular Data Options Interface. In this interface, settings and controls appeared as follows: 
+[00:05:58.043] Almost simultaneously, the "Cellular Data Options" status changes from blank to "Roaming On."
+The juxtaposition of these events is noteworthy because the Cellular Data control visually returns to its original Off state, while the associated options menu independently displays a newly established "Roaming On" status.
+[00:06:00.811] "Cellular Data" was toggled "On."
+[00:06:02.776] "Cellular Data Options" was tapped.
+[00:06:02.890] The "Cellular Data Options" configuration interface is sliding left into view.
+[00:06:03.469] The "Cellular Data Options" configuration interface is displaying.
+ 
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:49. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital readout "39."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Cellular" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Cellular Data Options".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+	Under the First module:
+•	Data Roaming: toggled "On" (green).
+•	Data Mode: Displaying the status "Allow More Data on 5G"
+	Under the Second module:
+•	Limit IP Address Tracking: toggled "On" (green).
+•	Explicatory text under this module: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari.
+[00:06:05.071] "Data Mode" was tapped.
+[00:06:05.170] The "Data Mode" configuration interface is sliding left into view.
+[00:06:05.823] The "Data Mode" configuration  interface is displaying.
 
-Data Roaming: toggled On
-(the setting Voice & Data did not appeared)
-Data Mode: Allow More Data on 5G >
-
-Limit IP Address Tracking: toggle On
-The text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
-[00:06:05.097] I tapped the Data Mode setting
-[00:06:05.823] The Data Mode Interface. In this interface, settings and controls appeared as follows:
-
-Allow More Data on 5G: blue check mark
-Standard
-Low Data Mode
-
-Under this list, the following descriptions appeared:
-
-Allow More Data on 5G may prefer 5G over Wi-Fi, and use it for software updates, automatic iCloud backups, and higher-quality media. 
-
-Standard allows automatic updates and background tasks on cellular, but limits video and FaceTime quality. 
-
-Low Data Mode helps reduce cellular data usage by pausing automatic update and background tasks.
-[00:06:08.628] I navigated back to Cellular Data Options
-[00:06:15.165] I navigated back to the Cellular settings interface
-[00:06:18.176] I toggled Cellular Data On
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:49. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Airplane Mode icon denotes that wireless network transmissions are currently disabled. The adjacent battery icon appears partially filled alongside the digital readout "39."
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Data Mode".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
+	Under the only module:
+•	Allow More Data on 5G: blue colored check mark on the far left (indicating this mode is selected).
+•	Standard
+•	Low Data Mode
+•	Explicatory text under this module composed of three paragraphs: 
+o	Allow More Data on 5G may prefer 5G over Wi-Fi, and use it for software updates, automatic iCloud backups, and higher-quality media. 
+o	Standard allows automatic updates and background tasks on cellular, but limits video and FaceTime quality.
+o	Low Data Mode helps reduce cellular data usage by pausing automatic update and background tasks.
+[00:06:08.489] The go back link (i.e., Back >) was tapped.
+[00:06:09.017] The "Cellular Data Options" configuration interface is displaying.
+[00:06:14.992] The go back link (i.e., Cellular >) was tapped.
+[00:06:16.015] The Cellular settings interface is displaying.
+[00:06:18.181] "Cellular Data" was toggled On.
+[00:06:20.405] The go back link (i.e., Settings >) was tapped.
 [00:06:20.599] I navigated to the Setting app's main interface
-[00:06:22.216] As I toggled Airplane Mode Off, the "Get Help During an Emergency text" with a number 1 inside a red circle faded into view just above the setting.
-[00:06:26.798] As the Cell connection was being established, I tapped the Cellular setting
+[00:06:21.263] The Settings app main interface is displaying.
+
+As compared to description rendered at timestamp 00:05:49.258, the interface shows changes in the following settings:
+- Wi-Fi: from blank to displaying the status "Off."
+- Bluetooth: from blank to displaying the status "Off."
+- Cellular: From displaying the status "Off," to displaying the status "Airplane Mode."
+[00:06:22.195] The "Airplane Mode" was toggled "Off"
+[00:06:22.216] The configuration action "Get Help During an Emergency text (1) >" just became visible.
+
+At the top of the screen, in the status bar area, the battery icon is not visible, and the airplane mode icon is sliding out of view to the left.
+
+In the settings of the first module, the text of "Personal Hotspot" changed color from muted-gray to black, which indicates the setting is operable. 
+[00:06:23.152] At the top of the screen, in the status bar area, the battery icon has reappeared, and to its left, four tiny gray squares appear to be what will be the Signal Strength icon.
+[00:06:26.650] The network type label "LTE" appeared to the right of the Signal Strength.
+[00:06:26.782] Cellular was tapped.
+[00:06:26.848] The Cellular settings configuration interface is sliding left into view.
+[00:06:27.343] The signal strength finally settles at one black active bar and three gray inactive bars. The network label still LTE.
+[00:06:27.574] The Cellular settings configuration interface is displaying.
+
+As compared to description rendered at timestamp 00:05:56.460, the interface shows no changes.
 [00:06:27.920] When the Cellular setting interface slid in to view, the Status Bar at the top of the screen had changed. 
 
 At this point, from left to right, the status bar showed the time 4:50, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 39 inside of it.
+[00:06:28.784] "Cellular Data Options" is tapped.
 [00:06:28.786] I tapped the Cellular Data Options setting
+[00:06:28.916] The "Cellular Data Options" configuration interface is sliding left into view.
+[00:06:29.345] The "Cellular Data Options" configuration interface is displaying.
+
+As compared to the description renders at timestamp 00:06:03.469, the interface now shows the additional setting "Voice & Data," which displays the status "5G Auto."
+CONTINUE HERE
 [00:06:29.413] The Cellular Data Options Interface now showed an additional setting, Voice & Data. 
 
 In this interface, settings and controls appeared as follows: 
@@ -430,13 +476,3 @@ f) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/202
 Combined Anomalous Behavior
 
 Considered together, these two events constitute an anomalous sequence of interface behavior:
-
-[00:05:58.010] The "Cellular Data" toggle exhibits a brief, rightward movement suggestive of an attempted activation, but subsequently returns to its original Off position without retaining the On state.
-[00:05:58.043] Almost simultaneously, the "Cellular Data Options" status changes from blank to "Roaming On."
-The juxtaposition of these events is noteworthy because the Cellular Data control visually returns to its original Off state, while the associated options menu independently displays a newly established "Roaming On" status.
-
-SCREENSHOTS: 
-
-"Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_010 - Cellular Settings Cellular Data Anomalous Quasi Toggle.png"
-
-"Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_043 - Cellular Settings Cellular Data Options change to Roaming On.png"
