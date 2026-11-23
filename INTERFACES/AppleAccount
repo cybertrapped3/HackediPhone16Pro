@@ -1,31 +1,29 @@
-The “Apple Account” Interface.
-The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
-•	Status Bar: Spanning the uppermost portion of the display from left to right:
-o	Time: Displays the local time as 8:03. Positioned to its right is the silent mode icon.
-o	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
-o	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label 5GUW. On the far right, the battery icon is partially filled, displaying the numeric charge level 16 centered within the housing.
-•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
-o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
-o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
-•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface organized into the introductory module and the settings:
-•	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
-	Icon Graphic: A solid gray circle with the initials of the user (VC).
-	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold, medium-sized black letters the name and last name of the user: Veronica Cisneros.
-	Apple Account ID: Centrally aligned or positioned directly adjacent, rendered in normal-sized gray letters the username: cyberonica@icloud.com.
-•	Settings: Grouped into modules, Apple Account configuration settings
-•	Under the first module:
-	Personal Information: Displayed as an active interactive menu item.
-	Sign-In & Security: Displayed as an active interactive menu item.
-	Payment & Shipping: : Displayed as an active interactive menu item.
-	Subscriptions: : Displayed as an active interactive menu item.
-•	Under the second module:
-	iCloud: Displayed as an active interactive menu item.
-	Family: Displays the status "Set Up".
-	Find My: Displayed as an interactive menu item.
-	Media & Purchases: Displayed as an interactive menu item.
-	Sign in with Apple: Displayed as an interactive menu item.
-•	Under the third module OR Device Module:
-	A spinning wheel (content is loading)/ALTERNATIVE: 	Device Module: The specific module where "iPhone (This iPhone 16 Pro) >" is typically displayed currently exhibits a spinning loading wheel.
-•	Under the fourth module:
-	Contact Key Verification: Displays the status "Off".
-	Sign Out: The primary sign-out action button appears grayed out, indicating it is disabled.
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:24.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 44 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface organized into the introductory module and the settings:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid gray circle with the initials of the user (VC).
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold, medium-sized black letters the name and last name of the user: Veronica Cisneros.
+•	Apple Account ID: Centrally aligned or positioned directly adjacent, rendered in normal-sized gray letters the username: cyberonica@icloud.com.
+	Settings: Grouped into modules, Apple Account configuration settings
+•	The first module:
+o	Personal Information: Displayed as an active interactive menu item.
+o	Sign-In & Security: Displayed as an active interactive menu item.
+o	Payment & Shipping: Displayed as an active interactive menu item.
+o	Subscriptions: Displayed as an active interactive menu item.
+•	The second module:
+o	iCloud: Displayed as an active interactive menu item.
+o	Find My: Displayed as an interactive menu item.
+o	Media & Purchases: Displayed as an interactive menu item.
+o	Sign in with Apple: Displayed as an interactive menu item.
+•	The third module:
+o	A spinning wheel
+o	Under the fourth module:
+o	Contact Key Verification: Displays the status "Off".
+o	Sign Out: The primary sign-out action button appears grayed out, indicating it is disabled.
