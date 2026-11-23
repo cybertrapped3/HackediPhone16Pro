@@ -10,7 +10,7 @@ o	Navigation & Header Bar: Establishing the user's hierarchical location within 
 o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the communication preferences management settings:
 	Under the First module:
 •	Data Roaming: toggled Off (gray).
-•	Voice & Data: Displayed the status "5G Auto".
+•	(INTERNET CONNECTION ACTIVE ONLY Voice & Data: Displayed the status "5G Auto".)
 •	Data Mode: Displayed the status "Allow More Data on 5G"
 	Under the Second module:
 •	Limit IP Address Tracking: toggled On (green).
