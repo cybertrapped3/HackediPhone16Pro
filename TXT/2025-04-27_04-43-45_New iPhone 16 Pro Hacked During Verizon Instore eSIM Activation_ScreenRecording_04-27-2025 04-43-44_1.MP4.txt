@@ -301,7 +301,6 @@ At the top of the screen, in the status bar area, the battery icon is not visibl
 
 As compared to description rendered at timestamp 00:05:56.460, the interface shows no changes.
 [00:06:28.784] "Cellular Data Options" is tapped.
-[00:06:28.786] I tapped the Cellular Data Options setting
 [00:06:28.916] The "Cellular Data Options" configuration interface is sliding left into view.
 [00:06:29.345] The "Cellular Data Options" configuration interface is displaying.
 
