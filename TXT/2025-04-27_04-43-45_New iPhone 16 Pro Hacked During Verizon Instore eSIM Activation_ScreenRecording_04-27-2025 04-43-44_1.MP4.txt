@@ -287,8 +287,9 @@ As compared to description rendered at timestamp 00:05:49.258, the interface sho
 - Bluetooth: from blank to displaying the status "Off."
 - Cellular: From displaying the status "Off," to displaying the status "Airplane Mode."
 [00:06:22.128] The "Airplane Mode" was toggled "Off"
-[00:06:22.161] In the settings of the first module, 
-the status of "Cellular" changed from "Airplane Mode" to blank, now only displayed as an interactive menu item. And "Personal Hotspot" changed muted colors to bright green icon and bright black text, which indicates the setting is now operable.
+[00:06:22.161] As compared to description rendered at timestamp 00:06:21.263, the interface shows changes in the following settings:
+- Cellular: From displaying the status "Airplane Mode," to a blank status. No the item displays only as an interactive menu item.
+- Personal Hotspot: the muted colors changed to bright green icon and bright black text, which indicates the menu item is now interactive.
 [00:06:22.359] The configuration action "Get Help During an Emergency text (1) >" just became visible.
 
 At the top of the screen, in the status bar area, the battery icon is not visible, and the airplane mode icon is sliding out of view to the left.
@@ -311,11 +312,9 @@ As compared to the description renders at timestamp 00:06:03.469, the interface 
 
 As compared to description rendered at timestamp 00:05:56.460, the interface shows no changes.
 [00:06:33.271] The go back link (i.e., Settings >) was tapped.
-[00:06:33.451] I navigated back to the Settings app's main interface
 [00:06:33.964] The Settings app interface is displaying.
 
-The interface still shows the last changes described earlier at timestamp 00:06:22.359; there are no other changes.
-COTNINUE HERE
+The interface still shows the changes that occurred when the "Airplane Mode" was toggled "Off," timestamp 00:06:22.128. No other changes since.
 [00:06:41.799] The "Apple ID / iCloud Profile" node was tapped.
 [00:06:41.865] The "Apple Account" configuration interface is sliding left into view. 
 [00:06:42.756] The "Apple Account" configuration interface is displaying.
@@ -350,9 +349,44 @@ o	iPhone (subheading "This iPhone 16 Pro"): Displayed as an interactive menu ite
 [00:06:43.959] The go back link (i.e., Settings >) was tapped.
 [00:06:44.652] The Settings app interface is displaying.
 
-The interface still shows the last change described earlier at timestamp 00:06:22.216; there are no other changes.
-[00:06:47.332] I navigated back to the Apple Account's interface
-[00:06:47.925] I tapped the Sign-in & Security setting
+The interface still shows the changes that occurred when the "Airplane Mode" was toggled "Off," timestamp 00:06:22.128. No other changes since.
+[00:06:45.312] The "Apple ID / iCloud Profile" node was tapped.
+[00:06:46.302] The "Apple Account" configuration interface is displaying.
+
+As compared to the description renders at timestamp 00:06:42.756, there are no changes.
+[00:06:47.886] "Sign-In & Security" was tapped, and the background of the menu item changed color from white to gray, and the chevron was replaced by a spinning wheel.
+[00:06:47.985] The background of the "Sign-In & Security" item changed color from gray to white; the spinning wheel is still visible.
+[00:06:48.513] The chevron of the "Sign-In & Security" item replaced the spinning wheel.
+[00:06:48.612] The "Sign-In & Security" interface began to slid left into view.
+[00:06:49.140] The "Sign-In & Security" configuration interface is displaying.
+
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:50. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 39 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Sign-In & Security".
+•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the Sign-In & Security management settings:
+o	The EMAIL & PHONE NUMBERS module:
+	cyberonica@icloud.com (subtext "Primary email"): Displayed as an interactive menu item.
+	+1 (669) 326-4200 (subtext "Unavailable for sharing"): Displayed as an interactive menu item.
+	Add Email or Phone Number (blue colored letters imply this is a link)
+	Explicatory text under this module: These email addresses and phone numbers can be used to sign in, verify your identity, and help recover your account. They can also be used to reach you with iMessage, FaceTime, Game Center, and more.
+o	The SECURITY module:
+	Change Password (blue colored letters imply this is a link)
+	Two-Factor Authentication: Displayed as an interactive menu item.
+	Explicatory text under this module: Your trusted devices and phone numbers are used to verify your identity when signing in.
+o	The RECOVERY METHODS module:
+	Recovery Contacts (displays status "Set Up"): Displayed as an interactive menu item.
+	Recovery Key (displays status "Set Up"): Displayed as an interactive menu item.
+	Explicatory text under this module: Regain access to your account and data if you forget your password or device passcode.
+o	The fourth module:
+	Legacy Contact (displays status "Set Up"): Displayed as an interactive menu item.
+Explicatory text under this module: A legacy contact is someone you trust to have access to the data in your account after your death. 
+o	The fifth module:
+	Automatic Verification (displays status "On"): Displayed as an interactive menu item.
 [00:06:49.245] The Sign-In & Security Interface. In this interface, settings and controls appeared as follows: 
  
 Under the EMAIL & PHONE NUMBERS module, settings and controls appeared as follows: 
@@ -377,64 +411,105 @@ Text under this setting: A legacy contact is someone you trust to have access to
 Automatic Verification On >
 
 *MORE ITEMS BELOW*
-[00:06:51.955] I tapped the Two-Factor Authentication setting
-[00:06:52.503] The Two-Factor Authentication Interface. In this interface, settings and controls appeared as follows: 
+[00:06:51.832] "Two-Factor Authentication" was tapped, and the background of the menu item changed color from white to gray, and the chevron was replaced by a spinning wheel.
+[00:06:51.997] The the chevron of the "Sign-In & Security" item replaced the spinning wheel. The item's background still gray.
+[00:06:52.030] The "Two-Factor Authentication" configuration interface began to slid left into view.
+[00:06:52.503] The "Two-Factor Authentication" configuration interface is displaying.
 
-Under the VERIFY USING module, settings and controls appeared as follows: 
-iPhone (This iPhone 16 Pro) >
-+1 (669) 326-4200 (Trusted phone number) >
-Add a Trusted Phone Number (blue colored letters imply this is a link)
-Text under these settings: For security, when you sign in to your account on a new device or on the web, you'll need both your password and a second factor, such as a 6-digit code sent to your devices or your phone numbers. 
-
-Under the ADVANCED module, settings and controls appeared as follows: 
-Security Keys Set Up >
-Text under this setting: Physical security keys provided a strong form of two factor authentication against phishing and unauthorized access to your account. Learn more... (blue colored letters imply this is a link)
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:50. Positioned to its right is the silent mode icon.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 39 centered within the housing.
+•	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+o	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Back" accompanied by a directional chevron.
+o	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography:  "Two-Factor Authentication."
+•	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the  Two-Factor authentication management settings:
+o	The VERIFY USING module:
+	iPhone (subheading "This iPhone 16 Pro"): displayed as an interactive menu item.
+	+ 1 (669) 326-4200 (subheading "Trusted phone number"): displayed as an interactive menu item.
+	Add a Trusted Phone Number (in blue colored letters)
+	Explicative text under this module: For security, when you sign in to your account on a new device or on the web, you'll need both your password and a second factor, such as a 6-digit code sent to your devices or your phone numbers.
+o	The ADVANCED module:
+	Security Keys (displays status "Set Up"): displayed as an interactive menu item.
+	Explicative text under this module: Physical security keys provide a strong form of two-factor authentication against phishing and unauthorized access to your account. Learn more...
+[00:07:02.557] "Security Keys" was tapped, and the background of the menu item changed color from white to gray, and the chevron was replaced by a spinning wheel.
 [00:07:02.562] I tapped the Security Keys Set Up setting (TIMESTAMP 00:07:02.562, FRAME 12664)
-[00:07:02.562] The wheel is spinning
+[00:07:02.920] The background of the "Sign-In & Security" item changed color from gray to white; the spinning wheel is still visible.
 [00:07:03.189] Last frame which shows the Security Keys Set Up spinning wheel (TIMESTAMP 00:07:03.189, FRAME 12682)
 [00:07:03.222] The Security Keys Set Up spinning wheel disappeared, and the setting looks like before I had tapped the setting (TIMESTAMP 00:07:03.222, FRAME 12683)
-[00:07:03.354] The Add Security Keys screen begins to slid up in to view
-[00:07:04.047] The Security Keys Interface.  
+[00:07:03.250] The chevron of the "Sign-In & Security" item replaced the spinning wheel.
+[00:07:03.316] The "Security Keys" interface began to slid up into view.
+[00:07:03.811] The Add Security Keys interface is displaying.
 
-Under the heading, the following text appeared: 
-A FIDO Certified security key is third-party hardware that you can use for two-factor authentication when you sign in. 
-
-Strongest account security
-Physical security keys provide strong protection against phishing and unauthorized access to your account.
-
-Replaces verification code
-A physical security key replaces verification codes sent to your devices when signing or resetting your password. 
-
-FIDO Certified is a trademark (registered in numerous countries) of FIDO Alliance, Inc. 
-
-The blue button: Add Security Keys
-
-Learn More (blue colored letters imply this is a link)
+•	The interface is visually organized into three principal sections: the upper navigation area; the main introductory area, comprising illustrations, a heading, and explanatory text; and the footer area, containing a trademark notice, a primary action button, and an informational link:
+o	Upper Navigation Area: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
+o	Main Introductory Area:
+	Illustrations: Two blue illustrations of physical security keys, positioned near the top of the interface:
+•	The first depicts a security key with a USB-C connector at its lower end and a flashlight-like one at its upper end.
+•	The second depicts a security key with a touch sensor and a USB-C connector at its lower end.
+	Heading: The text “Security Keys,” displayed in large, bold, black lettering centered horizontally.
+	Explicatory text: Each item leading with a blue icon, a bold subheading, and the explicatory text in normal-sized letters:
+•	First item:
+o	Icon: padlock
+o	Subheading: Strongest account security. 
+o	Explicatory text: Physical security keys provide strong protection against phishing and unauthorized access to your account.
+•	Second item: 
+o	Icon: human silhouette with a checkmark
+o	Subheading: Replaces verification codes.
+o	Explicatory text: A physical security key replaces verification codes sent to your devices when signing in or resetting your password.
+o	Footer Area
+	Trademark notice: The following trademark statement appears in the footer:
+“FIDO Certified is a trademark (registered in numerous countries) of FIDO Alliance, Inc.”
+	Primary action button: A blue button with white lettering, labeled “Add Security Keys,” extending across nearly the full width of the interface.
+	Informational link: A link labeled “Learn More,” positioned below the primary action button.
+[00:07:11.515] The "Add Security Keys" button was tapped, and the background color became muted.
 [00:07:11.552] I tapped the Add Security Keys button
-[00:07:12.535] The screen with the heading "You Need Two Security Keys" slid left in to view.
+[00:07:11.647] The blue "Add Security Keys" button changed to light-gray background with a spinning wheel. 
+[00:07:12.439] The gray "Add Security Keys" button with a spinning wheel changed to its original state: blue with white letters.
 
-Under this heading, the following text appeared: To get started, you need two compatible security keys. This makes sure you can always sign in to your account, even if you lose one. 
+The "You Need Two Security Keys " interface is sliding left into view.
+[00:07:13.033] The "You Need Two Security Keys" interface is displaying. 
 
-How to choose the right security keys.  (blue colored letters imply this is a link)
-
-Blue button: Continue
-[00:07:13.194] The You Need Two Security Keys Interface
-
-Under the heading, the following text appeared: 
-TO get started, you need two compatible security keys. This makes sure you can always sign in to your account, even if you lose one. 
-
-How to choose the right security keys (blue colored letters imply this is a link).
-
-Large blue Continue button on the lower part of the interface.
+•	The interface is visually organized into three principal sections: the upper navigation area; the main introductory area, comprising illustrations, a heading, and explanatory text, and an information link; and the footer area, containing the primary action button:
+o	Upper Navigation Area: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
+o	Main Introductory Area:
+	Illustrations: Two blue illustrations of physical security keys, positioned near the top of the interface:
+•	The first depicts a security key with a USB-C connector at its lower end and a flashlight-like one at its upper end.
+•	The second depicts a security key with a touch sensor and a USB-C connector at its lower end.
+	Heading: The text “You Need Two Security Keys,” displayed in large, bold, black lettering centered horizontally.
+	Explicatory text: To get started, you need two compatible security keys. This makes sure you can always sign in to your account, even if you lose one. 
+	Informational link: A link labeled “How to choose the right security keys.” positioned below the explicatory paragraph.
+	Primary action button: A blue button with white lettering, labeled “Continue,” extending across nearly the full width of the interface.
 [00:07:14.733] The signal strength decreased from two to one bar. The network still LTE type.
-[00:07:19.552] I tapped the Continue button
-[00:07:20.414] Last spinning wheel for the Continue button
-[00:07:20.447] The Continue button reappears
+[00:07:19.552] I tapped the Continue button, and the background color became muted.
+[00:07:19.666] The blue "Continue" button changed to light-gray background with a spinning wheel. 
+[00:07:20.458] The gray "Continue " button with a spinning wheel changed to its original state: blue with white letters.
+[00:07:21.580] The prompt "Enter Your iPhone Passcode." began to slid left into view.
 [00:07:21.601] The prompt "Enter Your iPhone Passcode. Enter the passcode you use to unlock this iPhone to add security keys." started to slide from the right in to view
-[00:07:21.766] The signal strength increased from one to two bars. The network still LTE type.
+[00:07:21.712] The signal strength increased from one to two bars. The network still LTE type.
+[00:07:22.174] The "Enter Your iPhone Passcode" prompt is displaying.
+•	The interface is visually organized into two principal sections: the upper Cancel control, and the prompt area, comprising a heading, instructions, and the password indicators:
+o	The Cancel control: A blue, text-only button without a visible border, positioned in the upper-left corner of the interface and labeled “Cancel.”
+o	The prompt area: 
+	Heading: The text “Enter Your iPhone Passcode,” displayed in large, bold, black lettering centered horizontally.
+	Authentication instructions: Immediately below the heading, the text "Enter the passcode you use to unlock this iPhone to add security keys." is displayed.
+	Passcode indicators: Six empty circular passcode indicators are displayed in a horizontal arrangement beneath the authentication instruction. No entered passcode digits or characters are visible.
+[00:07:24.880] The Control Center was swiped down into view.
 [00:07:25.331] I swiped the Control Center in to view. 
 
 The interface shows the Verizon network type as LTE. To its left, the signal strength icon shows two bars solid white and the other two gray. Inside the communication widget, the bright green colored cell icon shows two bars solid white and the other two light green.
+[00:07:25.408] The Control Center interface is displayed.
+
+Compared with the interface description provided at the beginning of the screen recording (timestamp 00:00:00.000), the following changes are now visible:
+
+Status bar – Network indicator: The Airplane Mode icon has been replaced by the cellular signal strength indicator, showing two active white bars and two inactive gray bars. The network label “Verizon LTE” appears immediately to its right.
+Battery level: The battery charge level has decreased from 40% to 39%.
+Connectivity group: The following changes are visible within the connectivity group container:
+Airplane Mode: Now appears as a gray circular button with a white airplane symbol, indicating that it is inactive.
+Cellular Data: Now appears as a bright-green circular button. Its cellular signal indicator displays two active white bars and two inactive gray bars, indicating that cellular connectivity is enabled.
+Screen brightness: As previously noted at timestamp 00:00:04.984, the screen brightness has increased from approximately 37% to 80%.
+Screen Recording control: As previously noted at timestamp 00:00:00.176, the Screen Recording control retains its white icon background.
 [00:07:25.958] HIGHLIGHTS: 
 1) Status Bar Inconsistencies During App Launch
 
@@ -460,4 +535,9 @@ f) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/202
     d) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_072 - Cellular Data toggle and Roaming anomaly 4.png"
 
 Combined Anomalous Behavior
-Considered together, these two events constitute an anomalous sequence of interface behavior:
+
+Considered together, these two events constitute an anomalous sequence of interface behavior.
+
+3) The inconsistent behavior of the buttons on interfaces related to "Add Security Keys."
+
+4) The signal strength changes during the loading of interfaces related to "Add Security Keys."
