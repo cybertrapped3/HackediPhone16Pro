@@ -198,9 +198,7 @@ o	Main Content Area: The main content area presents the introductory information
 	Bluetooth Control: toggled  "Off" (gray).
 	Explicative text under the module: AirDrop, AirPlay, Find My, Location Services, and Thread use Bluetooth.
 [00:05:54.736] The go back link (i.e., Settings >) was tapped.
-[00:05:54.952] I navigated back to the Settings app's main interface
 [00:05:55.495] The Settings app's main interface is displaying.
-[00:05:55.866] I tapped the Cellular setting
 [00:05:55.891] Cellular was tapped.
 [00:05:55.957] The Cellular settings configuration interfaces is sliding left into view.
 [00:05:56.460] The Cellular settings Interface
@@ -288,12 +286,12 @@ As compared to description rendered at timestamp 00:05:49.258, the interface sho
 - Wi-Fi: from blank to displaying the status "Off."
 - Bluetooth: from blank to displaying the status "Off."
 - Cellular: From displaying the status "Off," to displaying the status "Airplane Mode."
-[00:06:22.195] The "Airplane Mode" was toggled "Off"
-[00:06:22.216] The configuration action "Get Help During an Emergency text (1) >" just became visible.
+[00:06:22.128] The "Airplane Mode" was toggled "Off"
+[00:06:22.161] In the settings of the first module, 
+the status of "Cellular" changed from "Airplane Mode" to blank, now only displayed as an interactive menu item. And "Personal Hotspot" changed muted colors to bright green icon and bright black text, which indicates the setting is now operable.
+[00:06:22.359] The configuration action "Get Help During an Emergency text (1) >" just became visible.
 
 At the top of the screen, in the status bar area, the battery icon is not visible, and the airplane mode icon is sliding out of view to the left.
-
-In the settings of the first module, the text of "Personal Hotspot" changed color from muted-gray to black, which indicates the setting is operable. 
 [00:06:23.152] At the top of the screen, in the status bar area, the battery icon has reappeared, and to its left, four tiny gray squares appear to be what will be the Signal Strength icon.
 [00:06:26.650] The network type label "LTE" appeared to the right of the Signal Strength.
 [00:06:26.782] Cellular was tapped.
@@ -302,69 +300,57 @@ In the settings of the first module, the text of "Personal Hotspot" changed colo
 [00:06:27.574] The Cellular settings configuration interface is displaying.
 
 As compared to description rendered at timestamp 00:05:56.460, the interface shows no changes.
-[00:06:27.920] When the Cellular setting interface slid in to view, the Status Bar at the top of the screen had changed. 
-
-At this point, from left to right, the status bar showed the time 4:50, with the silence icon to the right. A red circle inside the dynamic island (which indicates the screen recorder is in use). Further to the right, the signal strength icon showed two black bars and the other two gray. Next to it, the network type as LTE. Farthest  to the right, the last icon, the battery charge level, partially filled with the number 39 inside of it.
 [00:06:28.784] "Cellular Data Options" is tapped.
 [00:06:28.786] I tapped the Cellular Data Options setting
 [00:06:28.916] The "Cellular Data Options" configuration interface is sliding left into view.
 [00:06:29.345] The "Cellular Data Options" configuration interface is displaying.
 
 As compared to the description renders at timestamp 00:06:03.469, the interface now shows the additional setting "Voice & Data," which displays the status "5G Auto."
-CONTINUE HERE
-[00:06:29.413] The Cellular Data Options Interface now showed an additional setting, Voice & Data. 
+[00:06:32.512] The go back link (i.e., Cellular >) was tapped.
+[00:06:33.007] The Cellular settings configuration interface is displaying.
 
-In this interface, settings and controls appeared as follows: 
-
-Data Roaming: toggled On
-Voice & Data: 5 Auto >
-Data Mode: Allow More Data on 5G >
-
-Limit IP Address Tracking: toggle On
-The text under this setting: Limit IP address tracking by hiding your IP address from known trackers in Mail and Safari
-[00:06:32.671] I navigated back to the Cellular settings interface
+As compared to description rendered at timestamp 00:05:56.460, the interface shows no changes.
+[00:06:33.271] The go back link (i.e., Settings >) was tapped.
 [00:06:33.451] I navigated back to the Settings app's main interface
-[00:06:36.899] The Settings app interface now appear as follows: 
+[00:06:33.964] The Settings app interface is displaying.
 
-Search bar
+The interface still shows the last changes described earlier at timestamp 00:06:22.359; there are no other changes.
+COTNINUE HERE
+[00:06:41.799] The "Apple ID / iCloud Profile" node was tapped.
+[00:06:41.865] The "Apple Account" configuration interface is sliding left into view. 
+[00:06:42.756] The "Apple Account" configuration interface is displaying.
 
-Veronica Cisneros. Apple Account, iCloud, and more >
+•	The interface is visually organized into three principal areas: the status area, the navigation/header area, and the content area:
+o	Status Bar: Spanning the uppermost portion of the display from left to right:
+	Time: Displays the local time as 4:50.
+	Dynamic Island: The Dynamic Island is centered at the top of the display. A solid red circular indicator is visible toward its left side, consistent with the iOS screen-recording status indicator.
+	Connectivity & Power: The Signal Strength icon displays two active black bars and two inactive gray bars, accompanied by the adjacent network label LTE. On the far right, the battery icon is partially filled, displaying the numeric charge level 39 centered within the housing.
+o	Navigation & Header Bar: Establishing the user's hierarchical location within the iOS environment:
+	Back-Navigation: The upper-left margin displays a back-navigation link labeled "Settings" accompanied by a directional chevron.
+	Primary Heading: Centrally aligned with the menu context, rendered in bold black typography: "Apple Account".
+o	Interface Body: Positioned immediately below the navigation bar, the primary body content begins near the upper portion of the screen, presenting the user profile management interface organized into the introductory module and the settings:
+	Introductory Module: Positioned at the upper portion of the viewport immediately below the navigation bar, presenting an introductory visual block composed of the following elements:
+•	Icon Graphic: A solid gray circle with the initials of the user (VC).
+•	Primary Heading: Centrally aligned or positioned directly adjacent, rendered in bold, medium-sized black letters the name and last name of the user: Veronica Cisneros.
+•	Apple Account ID: Centrally aligned or positioned directly adjacent, rendered in normal-sized gray letters the username: cyberonica@icloud.com.
+	Settings: Grouped into modules, Apple Account configuration settings
+•	The first module:
+o	Personal Information: Displayed as an active interactive menu item.
+o	Sign-In & Security: Displayed as an active interactive menu item.
+o	Payment & Shipping: Displayed as an active interactive menu item.
+o	Subscriptions: Displayed as an active interactive menu item.
+•	The second module:
+o	iCloud: Displaying the status "5 GB".
+o	Family: Displaying the status "Set Up".
+o	Find My: Displayed as an interactive menu item.
+o	Media & Purchases: Displayed as an interactive menu item.
+o	Sign in with Apple: Displayed as an interactive menu item.
+•	The third module:
+o	iPhone (subheading "This iPhone 16 Pro"): Displayed as an interactive menu item.
+[00:06:43.959] The go back link (i.e., Settings >) was tapped.
+[00:06:44.652] The Settings app interface is displaying.
 
-Finish Setting Up Your iPhone (1)
-Get Help During an Emergency (1)
-
-Airplane Mode: Toggled Off
-Wi-Fi: Off >
-Bluetooth: Off >
-Cellular >
-Personal Hotspot: Off > (and enabled, meaning, it can be controlled by the user, as opposed to situations in which the setting appears grayed out) 
-Battery >
-
-General >
-Accessibility >
-Action Button >
-[00:06:41.817] I tapped my name to view my account's information
-[00:06:42.369] The Apple Account Interface. In this interface, settings and controls appeared as follows: 
-
-Veronica Cisneros
-cyberonica@icloud.com
-
-Personal Information >
-Sign-In & Security >
-Payment & Shipping >
-Subscriptions >
-
-iCloud >
-Family Set Up >
-Find My >
-Media & Purchases > 
-Sign in with Apple >
-
-The spinning wheel was... spinning inside a module
-[00:06:42.798] Where the wheel had been spinning, the setting "iPhone (This iPhone 16 Pro) >" appeared. 
-
-Also, the iCloud setting changed from blank value to 5GB
-[00:06:44.163] I navigated back to the Settings app's main interface
+The interface still shows the last change described earlier at timestamp 00:06:22.216; there are no other changes.
 [00:06:47.332] I navigated back to the Apple Account's interface
 [00:06:47.925] I tapped the Sign-in & Security setting
 [00:06:49.245] The Sign-In & Security Interface. In this interface, settings and controls appeared as follows: 
@@ -474,5 +460,4 @@ f) "https://github.com/cybertrapped3/HackediPhone16Pro/blob/main/SCREENSHOTS/202
     d) "Capture_2025-04-27_04-43-45_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_ScreenRecording_04-27-2025 04-43-44_1.MP4_00-05-58_072 - Cellular Data toggle and Roaming anomaly 4.png"
 
 Combined Anomalous Behavior
-
 Considered together, these two events constitute an anomalous sequence of interface behavior:
