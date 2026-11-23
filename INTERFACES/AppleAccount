@@ -18,12 +18,13 @@ o	Sign-In & Security: Displayed as an active interactive menu item.
 o	Payment & Shipping: Displayed as an active interactive menu item.
 o	Subscriptions: Displayed as an active interactive menu item.
 •	The second module:
-o	iCloud: Displayed as an active interactive menu item.
+o	iCloud: (AIRPLANE MODE: Displayed as an active interactive menu item.)(ACTIVE INTERNET CONNECTION: Displaying the status "5 GB")
+(ACTIVE INTERNET CONNECTION: Family: Displaying the status "Set Up")
 o	Find My: Displayed as an interactive menu item.
 o	Media & Purchases: Displayed as an interactive menu item.
 o	Sign in with Apple: Displayed as an interactive menu item.
 •	The third module:
-o	A spinning wheel
+o	(AIRPLANE MODE: A spinning wheel)(ACTIVE INTERNET CONNECTION: iPhone (subheading "This iPhone 16 Pro"): Displayed as an interactive menu item.)
 o	Under the fourth module:
 o	Contact Key Verification: Displays the status "Off".
 o	Sign Out: The primary sign-out action button appears grayed out, indicating it is disabled.
